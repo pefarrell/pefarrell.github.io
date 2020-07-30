@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+---
+title: Patrick E. Farrell
+---
 
-You can use the [editor on GitHub](https://github.com/pefarrell/pefarrell.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+&nbsp;
+&nbsp;
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am an [Associate Professor of Numerical Analysis and Scientific
+Computing](https://www.maths.ox.ac.uk/people/patrick.farrell) in the
+[Numerical Analysis
+group](https://www.maths.ox.ac.uk/groups/numerical-analysis) of the
+University of Oxford, and a Tutorial Fellow at [Oriel
+College](http://www.oriel.ox.ac.uk/people/dr-patrick-farrell),
+Oxford.
 
-### Markdown
+I work on the numerical
+solution of partial differential equations, with a particular focus on
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ - finite element methods,
+ - bifurcation analysis of nonlinear PDE,
+ - adjoint techniques, their application and automation,
+ - preconditioners and fast solvers.
 
-```markdown
-Syntax highlighted code block
+I have applied the numerical techniques I develop to various
+applications, in the areas of renewable energy,
+cardiac electrophysiology, glaciology, magnetohydrodynamics,
+quantum mechanics, and liquid crystals.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pefarrell/pefarrell.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I lead the development of
+[dolfin-adjoint](https://www.dolfin-adjoint.org) and
+[defcon](https://bitbucket.org/pefarrell/defcon), and regularly
+commit to [PETSc](https://gitlab.com/petsc/petsc),
+[petsc4py](https://bitbucket.org/petsc/petsc4py), and
+[firedrake](https://www.firedrakeproject.org/).
