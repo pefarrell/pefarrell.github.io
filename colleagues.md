@@ -94,3 +94,15 @@ title: Early career colleagues
 
 ## Alumni
 
+<figure>
+  <img src="{{site.url}}/images/wechsung.jpg" alt="Florian Wechsung"/>
+  <figcaption>Florian Wechsung. <br/>Topic: <a href="{{site.url}}/files/wechsung.pdf">shape optimisation and robust solvers for incompressible flow</a>. DPhil: 2019-09-23. <br/> Next step: a postdoc with <a href="https://math.nyu.edu/~stadler/">Georg Stadler</a> at NYU.</figcaption>
+</figure>
+
+&nbsp;
+&nbsp;
+
+<figure>
+  <img src="{{site.url}}/images/croci.jpg" alt="Matteo Croci"/>
+  <figcaption>Matteo Croci. <br/>Topic: <a href="{{site.url}}/files/croci.pdf">multilevel Monte Carlo uncertainty quantification in brain simulations</a>. DPhil: 2020-01-20. <br/> Co-supervised with <a href="https://people.maths.ox.ac.uk/gilesm/">Mike Giles</a> and <a href="https://marierognes.org">Marie Rognes</a>.<br/> Next step: a postdoc with Mike Giles in Oxford.</figcaption>
+</figure>
