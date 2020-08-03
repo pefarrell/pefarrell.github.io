@@ -104,7 +104,7 @@ title: Early career colleagues
 
 <figure>
   <img src="{{site.url}}/images/roy.jpg" alt="Thomas Roy"/>
-  <figcaption>Thomas Roy. <br/>Postdoctoral topic: nonlinear solvers in reservoir models. <br/> Next step: a postdoctoral position with <a href="https://people.llnl.gov/beck33">Victor Beck</a> at Lawrence Livermore National Laboratory.</figcaption>
+  <figcaption>Thomas Roy. <br/>Postdoctoral topic: nonlinear solvers in reservoir models. <br/> Next step: a postdoc with <a href="https://people.llnl.gov/beck33">Victor Beck</a> at Lawrence Livermore National Laboratory.</figcaption>
 </figure>
 
 &nbsp;
@@ -112,7 +112,7 @@ title: Early career colleagues
 
 <figure>
   <img src="{{site.url}}/images/paganini.jpg" alt="Alberto Paganini"/>
-  <figcaption>Alberto Paganini. <br/>Postdoctoral opic: shape optimisation. <br/> Next steps: a departmental lectureship in Oxford, then a <a href="https://www2.le.ac.uk/departments/mathematics/extranet/staff-material/staff-profiles/alberto-paganini">permanent lectureship at the University of Leicester</a>.</figcaption>
+  <figcaption>Alberto Paganini. <br/>Postdoctoral topic: shape optimisation. <br/> Next steps: a departmental lectureship in Oxford, then a <a href="https://www2.le.ac.uk/departments/mathematics/extranet/staff-material/staff-profiles/alberto-paganini">permanent lectureship at the University of Leicester</a>.</figcaption>
 </figure>
 
 &nbsp;
