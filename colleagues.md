@@ -104,7 +104,7 @@ title: Early career colleagues
 
 <figure>
   <img src="{{site.url}}/images/paganini.jpg" alt="Alberto Paganini"/>
-  <figcaption>Albert Paganini. <br/>Topic: shape optimisation. <br/> Next steps: a departmental lectureship in Oxford, then a <a href="https://www2.le.ac.uk/departments/mathematics/extranet/staff-material/staff-profiles/alberto-paganini">permanent lectureship at the University of Leicester</a>.</figcaption>
+  <figcaption>Alberto Paganini. <br/>Topic: shape optimisation. <br/> Next steps: a departmental lectureship in Oxford, then a <a href="https://www2.le.ac.uk/departments/mathematics/extranet/staff-material/staff-profiles/alberto-paganini">permanent lectureship at the University of Leicester</a>.</figcaption>
 </figure>
 
 &nbsp;

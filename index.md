@@ -111,7 +111,7 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 <p>2018-11-01: I am hosting <a href="https://www.maths.ed.ac.uk/~jmaddis2/">James Maddison</a> of the University of Edinburgh for a seminar in the <a href="https://www.maths.ox.ac.uk/events/list/635">Computational Mathematics and Applications series</a>.</p>
 <p>2018-10-15: I am visiting <a href="https://sites.google.com/site/saullogpcastro">Saullo Castro</a> at TU Delft.</p>
 <p>2018-10-01: I am hosting a research visit from <a href="https://www.math.mun.ca/~smaclachlan/">Scott MacLachlan</a> of Memorial University of Newfoundland.</p>
-<p>2017-10-01: Welcome to Jingmin Xia and Ioannis Papadopoulos, who begin their DPhil studies today! Ioannis is co-supervised by <a href="http://people.maths.ox.ac.uk/suli/">Endre Süli</a>.</p>
+<p>2018-10-01: Welcome to Jingmin Xia and Ioannis Papadopoulos, who begin their DPhil studies today! Ioannis is co-supervised by <a href="http://people.maths.ox.ac.uk/suli/">Endre Süli</a>.</p>
 <p>2018-09-17: I am hosting a research visit from <a href="https://www.mathematik.uni-marburg.de/~surowiec/">Thomas Surowiec</a> of Philipps-Universität Marburg.</p>
 <p>2018-08-30: I am giving another lecture course to the group of <a href="https://www.rcgi.poli.usp.br/about-rcgi/team/emilio-carlos-nelli-silva/">Emilio Silva</a>, this time on adjoints.</p>
 <p>2018-08-09: A new paper is up on arXiv about <a href="https://arxiv.org/abs/1810.03315">Reynolds-robust preconditioners for the incompressible Navier-Stokes</a>, with <a href="https://www.dur.ac.uk/computer.science/staff/profile/?id=17243">Lawrence Mitchell</a> and <a href="https://florianwechsung.github.io">Florian Wechsung</a>. Update: now <a href="https://doi.org/10.1137/18M1219370">published in SISC</a>.</p>
