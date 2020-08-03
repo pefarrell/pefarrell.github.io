@@ -72,14 +72,6 @@ title: Early career colleagues
 &nbsp;
 
 <figure>
-  <img src="{{site.url}}/images/gonzalez.png" alt="Gonzalo Gonzalez de Diego"/>
-  <figcaption>Gonzalo Gonzalez de Diego. <br/>Topic: contact problems in glaciology. <br/>Co-supervised with <a href="http://people.maths.ox.ac.uk/hewitt/">Ian Hewitt</a>.</figcaption>
-</figure>
-
-&nbsp;
-&nbsp;
-
-<figure>
   <img src="{{site.url}}/images/aznaran.jpg" alt="Francis Aznaran"/>
   <figcaption>Francis Aznaran. <br/>Topic: finite element discretisations and preconditioners in solid mechanics. <br/>Co-supervised with <a href="https://people.maths.ox.ac.uk/suli/">Endre Süli</a>.</figcaption>
 </figure>
