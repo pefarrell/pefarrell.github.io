@@ -106,3 +106,19 @@ title: Early career colleagues
   <img src="{{site.url}}/images/croci.jpg" alt="Matteo Croci"/>
   <figcaption>Matteo Croci. <br/>Topic: <a href="{{site.url}}/files/croci.pdf">multilevel Monte Carlo uncertainty quantification in brain simulations</a>. DPhil: 2020-01-20. <br/> Co-supervised with <a href="https://people.maths.ox.ac.uk/gilesm/">Mike Giles</a> and <a href="https://marierognes.org">Marie Rognes</a>.<br/> Next step: a postdoc with Mike Giles in Oxford.</figcaption>
 </figure>
+
+&nbsp;
+&nbsp;
+
+<figure>
+  <img src="{{site.url}}/images/paganini.jpg" alt="Alberto Paganini"/>
+  <figcaption>Albert Paganini. <br/>Topic: shape optimisation. <br/> Next steps: a departmental lectureship in Oxford, then a <a href="https://www2.le.ac.uk/departments/mathematics/extranet/staff-material/staff-profiles/alberto-paganini">permanent lectureship at the University of Leicester</a>.</figcaption>
+</figure>
+
+&nbsp;
+&nbsp;
+
+<figure>
+  <img src="{{site.url}}/images/kyrkesmith.jpg" alt="Teresa Kyrke-Smith"/>
+  <figcaption>Teresa Kyrke-Smith. <br/>Topic: inverse problems in glaciology, co-advised with <a href="https://www.northumbria.ac.uk/about-us/our-staff/g/g-hilmar-gudmundsson/">Hilmar Gudmundsson</a> at the British Antarctic Survey. <br/> Next step: HM Civil Service.</figcaption>
+</figure>
