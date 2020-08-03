@@ -103,8 +103,16 @@ title: Early career colleagues
 &nbsp;
 
 <figure>
+  <img src="{{site.url}}/images/roy.jpg" alt="Thomas Roy"/>
+  <figcaption>Thomas Roy. <br/>Postdoctoral topic: nonlinear solvers in reservoir models. <br/> Next step: a postdoctoral position with <a href="https://people.llnl.gov/beck33">Victor Beck</a> at Lawrence Livermore National Laboratory.</figcaption>
+</figure>
+
+&nbsp;
+&nbsp;
+
+<figure>
   <img src="{{site.url}}/images/paganini.jpg" alt="Alberto Paganini"/>
-  <figcaption>Alberto Paganini. <br/>Topic: shape optimisation. <br/> Next steps: a departmental lectureship in Oxford, then a <a href="https://www2.le.ac.uk/departments/mathematics/extranet/staff-material/staff-profiles/alberto-paganini">permanent lectureship at the University of Leicester</a>.</figcaption>
+  <figcaption>Alberto Paganini. <br/>Postdoctoral opic: shape optimisation. <br/> Next steps: a departmental lectureship in Oxford, then a <a href="https://www2.le.ac.uk/departments/mathematics/extranet/staff-material/staff-profiles/alberto-paganini">permanent lectureship at the University of Leicester</a>.</figcaption>
 </figure>
 
 &nbsp;
@@ -112,5 +120,5 @@ title: Early career colleagues
 
 <figure>
   <img src="{{site.url}}/images/kyrkesmith.jpg" alt="Teresa Kyrke-Smith"/>
-  <figcaption>Teresa Kyrke-Smith. <br/>Topic: inverse problems in glaciology, co-advised with <a href="https://www.northumbria.ac.uk/about-us/our-staff/g/g-hilmar-gudmundsson/">Hilmar Gudmundsson</a> at the British Antarctic Survey. <br/> Next step: HM Civil Service.</figcaption>
+  <figcaption>Teresa Kyrke-Smith. <br/>Postdoctoral topic: inverse problems in glaciology, co-advised with <a href="https://www.northumbria.ac.uk/about-us/our-staff/g/g-hilmar-gudmundsson/">Hilmar Gudmundsson</a> at the British Antarctic Survey. <br/> Next step: HM Civil Service.</figcaption>
 </figure>
