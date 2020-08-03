@@ -96,7 +96,7 @@ title: Early career colleagues
 
 <figure>
   <img src="{{site.url}}/images/croci.jpg" alt="Matteo Croci"/>
-  <figcaption>Matteo Croci. <br/>Topic: <a href="{{site.url}}/files/croci.pdf">multilevel Monte Carlo uncertainty quantification in brain simulations</a>. DPhil: 2020-01-20. <br/> Co-supervised with <a href="https://people.maths.ox.ac.uk/gilesm/">Mike Giles</a> and <a href="https://marierognes.org">Marie Rognes</a>.<br/> Next step: a postdoc with Mike Giles in Oxford.</figcaption>
+  <figcaption>Matteo Croci. <br/>Topic: <a href="{{site.url}}/files/croci.pdf">multilevel Monte Carlo methods for uncertainty quantification in brain simulations</a>. DPhil: 2020-01-20. <br/> Co-supervised with <a href="https://people.maths.ox.ac.uk/gilesm/">Mike Giles</a> and <a href="https://marierognes.org">Marie Rognes</a>.<br/> Next step: a postdoc with Mike Giles in Oxford.</figcaption>
 </figure>
 
 &nbsp;
