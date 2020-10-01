@@ -39,9 +39,10 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 <p>2021-05-07: I am organising a BIRS workshop (21w5164) on <a href="https://www.birs.ca/events/2021/5-day-workshops/21w5164">Efficient Simulation Algorithms for Viscoelastic and Viscous non-Newtonian Fluids</a> in Banff, Canada.</p>
 <p>2020-11-15: The <a href="https://www.cityu.edu.hk/node/93911">HKIAS International Conference on Mathematical Analysis and its Applications</a> has been rescheduled. Update: deferred (again) due to the coronavirus pandemic.</p>
 
-
-
-
+<p>2020-09-30: I have been invited to give a talk in the <a href="https://prism.ac.uk/2020/09/2nd-prism-workshop-on-applications-beyond-cfd/">2nd PRISM workshop on applications beyond CFD</a>.
+<p>2020-09-25: Congratulations to Hamza Alawiye for passing his DPhil viva! Thanks to <a href="https://www.keele.ac.uk/scm/staff/yibinfu/">Yibin Fu</a> and <a href="http://people.maths.ox.ac.uk/moulton/">Derek Moulton</a> for serving as examiners.</p>
+<p>2020-09-22: I have been invited to give a talk in the <a href="https://www2.karlin.mff.cuni.cz/~mbul8060/workshop-2020/programme.html">partial differential equations describing far-from-equilibrium open systems</a> conference organised by <a href="https://www2.karlin.mff.cuni.cz/~mbul8060/">Miroslav Bulíček</a>.</p>
+<p>2020-09-21: I served as PhD opponent for the thesis of <a href="https://www2.karlin.mff.cuni.cz/~gergelits/">Tomáš Gergelits</a> on operator preconditiong at Charles University Prague. Congratulations, Tomáš!</p>
 <p>2020-07-15: I am hosting a research visit from <a href="https://www.rcgi.poli.usp.br/about-rcgi/team/emilio-carlos-nelli-silva/">Emilio Silva</a> of the University of São Paulo. Update: deferred due to the coronavirus pandemic.</p>
 <p>2020-07-01: I have been invited to give a seminar at the <a href="https://typo.iwr.uni-heidelberg.de/home/">IWR in Heidelberg</a> by <a href="https://ganymed.math.uni-heidelberg.de/~rscheichl/">Rob Scheichl</a>. Update: deferred due to the coronavirus pandemic.</p>
 <p>2020-07-01: A paper has been accepted about <a href="https://ora.ox.ac.uk/objects/uuid:2614dcb4-0cb2-413d-aed3-fe2ac377fb97">the bifurcation analysis of model problems relating to kidney stone removal</a> with <a href="https://scholar.google.com/citations?user=ZOJ4IToAAAAJ&hl=en">Jess Williams</a>, <a href="https://people.maths.ox.ac.uk/waters/Waters/Dr_Sarah_Waters.html">Sarah Waters</a>, <a href="https://www.math.colostate.edu/~tavener/">Simon Tavener</a>, <a href="http://people.maths.ox.ac.uk/moulton/">Derek Moulton</a>, <a href="https://www.nds.ox.ac.uk/team/ben-turney">Ben Turney</a>, and <a href="http://www2.eng.ox.ac.uk/fluidlab/">Alfonso Castrejón-Pita</a> in the Journal of Fluid Mechanics.</p>
