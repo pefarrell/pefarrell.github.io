@@ -7,13 +7,6 @@ title: Early career colleagues
 
 ## DPhil students
 
-<figure>
-  <img src="{{site.url}}/images/gazca.jpg" alt="Pablo Alexei Gazca Orozco"/>
-  <figcaption>Pablo Alexei Gazca Orozco. <br/>Topic: finite element discretisations and preconditioners for implicity constituted non-Newtonian incompressible fluids. <br/>Co-supervised with <a href="http://people.maths.ox.ac.uk/suli/">Endre Süli</a>.</figcaption>
-</figure>
-
-&nbsp;
-&nbsp;
 
 <figure>
   <img src="{{site.url}}/images/xia.jpg" alt="Jingmin Xia"/>
@@ -102,6 +95,13 @@ title: Early career colleagues
 &nbsp;
 &nbsp;
 
+<figure>
+  <img src="{{site.url}}/images/gazca.jpg" alt="Pablo Alexei Gazca Orozco"/>
+  <figcaption>Pablo Alexei Gazca Orozco. <br/>Topic: Numerical analysis of implicitly constituted incompressible fluids: mixed formulations. DPhil viva: 2020-10-19. <br/>Co-supervised with <a href="http://people.maths.ox.ac.uk/suli/">Endre Süli</a>.<br/> Next step: a postdoc with <a href="https://www.caa-avh.nat.fau.eu/enrique-zuazua/">Enrique Zuazua</a> in Erlangen-Nuremberg.</figcaption>
+</figure>
+
+&nbsp;
+&nbsp;
 
 <figure>
   <img src="{{site.url}}/images/roy.jpg" alt="Thomas Roy"/>
