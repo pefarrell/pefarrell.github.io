@@ -5,6 +5,14 @@ title: Early career colleagues
 &nbsp;
 &nbsp;
 
+## Postdoctoral research associates
+
+<figure>
+  <img src="{{site.url}}/images/betteridge.jpg" alt="Jack Betteridge"/>
+  <figcaption>Jack Betteridge. <br/>Funded on EPSRC grant <a href="https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V001493/1">Gen X: ExCALIBUR working group on Exascale continuum mechanics through code generation</a>.</figcaption>
+</figure>
+
+
 ## DPhil students
 
 
