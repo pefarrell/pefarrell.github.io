@@ -39,6 +39,7 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 <p>2021-05-07: I am organising a BIRS workshop (21w5164) on <a href="https://www.birs.ca/events/2021/5-day-workshops/21w5164">Efficient Simulation Algorithms for Viscoelastic and Viscous non-Newtonian Fluids</a> in Banff, Canada.</p>
 <p>2020-11-15: The <a href="https://www.cityu.edu.hk/node/93911">HKIAS International Conference on Mathematical Analysis and its Applications</a> has been rescheduled. Update: deferred (again) due to the coronavirus pandemic.</p>
 
+<p>2020-11-06: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2011.03024">discretisations and solvers for anisothermal implicitly-constituted non-Newtonian flows</a>, with Alexei Gazca and <a href="http://people.maths.ox.ac.uk/suli/">Endre Süli</a>. </p>
 <p>2020-10-19: Congratulations to Alexei Gazca for passing his DPhil viva! Thanks to <a href="https://www.math.uh.edu/~molshan/">Maxim Olshanskii</a> and <a href="http://people.maths.ox.ac.uk/carrillo/">José Carrillo</a> for serving as examiners.</p>
 <p>2020-09-30: I have been invited to give a talk in the <a href="https://prism.ac.uk/2020/09/2nd-prism-workshop-on-applications-beyond-cfd/">2nd PRISM workshop on applications beyond CFD</a>.
 <p>2020-09-25: Congratulations to Hamza Alawiye for passing his DPhil viva! Thanks to <a href="https://www.keele.ac.uk/scm/staff/yibinfu/">Yibin Fu</a> and <a href="http://people.maths.ox.ac.uk/moulton/">Derek Moulton</a> for serving as examiners.</p>
