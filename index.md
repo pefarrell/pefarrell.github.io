@@ -36,11 +36,12 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 
 ## News
 
+<p>2022-06-26: I will attend the 30 years of Acta Numerica conference at the <a href="https://www.impan.pl/en/activities/bedlewo-conference-center/about-center">Banach Centre in Będlewo, Poland</a>.</p>
 <p>2021-06-21: I will give a talk at a minisymposium organised by <a href="https://www.mcs.anl.gov/~jrudi/">Johann Rudi</a>, <a href="http://users.oden.utexas.edu/~omar/">Omar Ghattas</a>, <a href="https://www.numerik.mathematik.uni-mainz.de/lukas-holbach/">Lukas Holbach</a>, and <a href="https://math.nyu.edu/~stadler/">Georg Stadler</a> at the <a href="https://www.siam.org/conferences/cm/conference/gs21">SIAM Conference on Mathematical & Computational Issues in the Geosciences</a>, Milan, Italy.</p>
-<p>2021-06-14: I will attend the 30 years of Acta Numerica conference at the <a href="https://www.impan.pl/en/activities/bedlewo-conference-center/about-center">Banach Centre in Będlewo, Poland</a>.</p>
 <p>2021-05-17: I will give a talk at a minisymposium at the (virtual) <a href="https://www.siam.org/conferences/cm/conference/ms21">SIAM Conference on Mathematical Aspects of Materials Science</a>.</p>
 <p>2021-05-07: I am organising a BIRS workshop (21w5164) on <a href="https://www.birs.ca/events/2021/5-day-workshops/21w5164">Efficient Simulation Algorithms for Viscoelastic and Viscous non-Newtonian Fluids</a> in Banff, Canada.</p>
-<p>2021-01-21: I will talk in the new <a href="https://staff.ul.ie/natalia/inaf">Irish Numerical Analysis Forum</a>.</p>
+<p>2021-03-12: I will give an online talk in the <a href="https://cs.nyu.edu/dynamic/news/seminars/1/">Numerical Analysis and Scientific Computing seminar series</a> at Courant.</p>
+<p>2021-01-21: I gave a talk in the new <a href="https://staff.ul.ie/natalia/inaf">Irish Numerical Analysis Forum</a>.</p>
 <p>2020-11-24: I am organising a workshop on <a href="https://excalibur-genx.github.io/community-workshop/00_schedule.html">Planning for exasale continuum mechanics software</a>, with Jack Betteridge and <a href="https://www.imperial.ac.uk/people/david.ham">David Ham</a>. This is part of our <a href="https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V001493/1">ExCALIBUR working group</a>.</p>
 <p>2020-11-15: The <a href="https://www.cityu.edu.hk/node/93911">HKIAS International Conference on Mathematical Analysis and its Applications</a> has been rescheduled. Update: deferred (again) due to the coronavirus pandemic.</p>
 <p>2020-11-06: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2011.03024">discretisations and solvers for anisothermal implicitly-constituted non-Newtonian flows</a>, with Alexei Gazca and <a href="http://people.maths.ox.ac.uk/suli/">Endre Süli</a>. </p>
