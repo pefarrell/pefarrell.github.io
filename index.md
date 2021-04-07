@@ -42,6 +42,9 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 
 ## News
 
+<p>2021-04-07: I was awarded the 2020 <b><a href="https://think.taylorandfrancis.com/journal-prize-est-charles-broyden-prize/">Charles Broyden Prize</a></b> for the <a href="https://doi.org/10.1080/10556788.2019.1613655">best paper published in Optimization Methods and Software in 2020</a>, with <a href="https://croci.github.io/">Matteo Croci</a> and <a href="https://www.mathematik.uni-marburg.de/~surowiec/">Thomas Surowiec</a>.</p>
+<p>2021-03-29: Pablo Brubeck, Pablo Alexei Gazca Orozco, Abdalaziz Hamdan, and Razan Abu-Labdeh gave talks at the <a href="https://easychair.org/smart-program/CM2021/">20th Copper Mountain Conference on Multigrid Methods</a>.</p>
+<p>2021-03-26: Pablo Brubeck, Ioannis Papadopoulos, Francis Aznaran, Rob Kirby, and Pablo Alexei Gazca Orozco gave talks at the <a href="https://fenics2021.com/talks/list.html">FEniCS 2021 conference</a>.</p>
 <p>2021-03-12: I gave a seminar in the <a href="https://cs.nyu.edu/dynamic/news/seminars/1/">Numerical Analysis and Scientific Computing seminar series</a> at the Courant Institute.</p>
 <p>2021-02-21: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2102.10576">multiple solutions in Rayleigh-Bénard convection</a>, with Nicolas Boullé and <a href="http://people.maths.ox.ac.uk/dallas/Home.html">Vassilios Dallas</a>.</p>
 <p>2021-02-15: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2102.06347">analysis of ferronematic liquid crystals in one dimension</a>, with <a href="https://www.strath.ac.uk/staff/majumdarapalaprofessor/">Apala Majumdar</a>, <a href="https://pureportal.strath.ac.uk/en/persons/james-dalby">James Dalby</a>, and Jingmin Xia.</p>
