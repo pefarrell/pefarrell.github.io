@@ -42,6 +42,7 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 
 ## News
 
+<p>2021-04-19: Congratulations to <a href="https://people.maths.ox.ac.uk/boulle/">Nicolas Boullé</a> on winning a £5000 <a href="https://www.gresearch.co.uk/article/g-research-phd-prize-in-maths-and-data-science/">G-Research DPhil prize</a>!</p>
 <p>2021-04-07: I was awarded the 2020 <b><a href="https://think.taylorandfrancis.com/journal-prize-est-charles-broyden-prize/">Charles Broyden Prize</a></b> for the <a href="https://doi.org/10.1080/10556788.2019.1613655">best paper published in Optimization Methods and Software in 2020</a>, with <a href="https://croci.github.io/">Matteo Croci</a> and <a href="https://www.mathematik.uni-marburg.de/~surowiec/">Thomas Surowiec</a>.</p>
 <p>2021-03-29: Pablo Brubeck, Pablo Alexei Gazca Orozco, Abdalaziz Hamdan, and Razan Abu-Labdeh gave talks at the <a href="https://easychair.org/smart-program/CM2021/">20th Copper Mountain Conference on Multigrid Methods</a>.</p>
 <p>2021-03-26: Pablo Brubeck, Ioannis Papadopoulos, Francis Aznaran, Rob Kirby, and Pablo Alexei Gazca Orozco gave talks at the <a href="https://fenics2021.com/talks/list.html">FEniCS 2021 conference</a>.</p>
