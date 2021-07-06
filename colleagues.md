@@ -89,7 +89,7 @@ title: Early career colleagues
 
 <figure>
   <img src="{{site.url}}/images/alawiye.jpg" alt="Hamza Alawiye"/>
-  <figcaption>Hamza Alawiye. <br/>Topic: Wrinkling instabilities: modelling, analysis and computation. DPhil viva: 2020-09-25. <br/>Co-supervised with <a href="http://www.goriely.com/">Alain Goriely</a>.<br/> Next step: a Heilbronn fellowship at the University of Bristol.</figcaption>
+  <figcaption>Hamza Alawiye. <br/>Topic: <a href="{{site.url}}/files/alawiye.pdf">Wrinkling instabilities: modelling, analysis and computation</a>. DPhil viva: 2020-09-25. <br/>Co-supervised with <a href="http://www.goriely.com/">Alain Goriely</a>.<br/> Next step: a Heilbronn fellowship at the University of Bristol.</figcaption>
 </figure>
 
 &nbsp;
@@ -97,7 +97,7 @@ title: Early career colleagues
 
 <figure>
   <img src="{{site.url}}/images/gazca.jpg" alt="Pablo Alexei Gazca Orozco"/>
-  <figcaption>Pablo Alexei Gazca Orozco. <br/>Topic: Numerical analysis of implicitly constituted incompressible fluids: mixed formulations. DPhil viva: 2020-10-19. <br/>Co-supervised with <a href="http://people.maths.ox.ac.uk/suli/">Endre Süli</a>.<br/> Next step: a postdoc with <a href="https://www.caa-avh.nat.fau.eu/enrique-zuazua/">Enrique Zuazua</a> in Erlangen-Nuremberg.</figcaption>
+  <figcaption>Pablo Alexei Gazca Orozco. <br/>Topic: <a href="{{site.url}}/files/gazca.pdf">Numerical analysis of implicitly constituted incompressible fluids: mixed formulations</a>. DPhil viva: 2020-10-19. <br/>Co-supervised with <a href="http://people.maths.ox.ac.uk/suli/">Endre Süli</a>.<br/> Next step: a postdoc with <a href="https://www.caa-avh.nat.fau.eu/enrique-zuazua/">Enrique Zuazua</a> in Erlangen-Nuremberg.</figcaption>
 </figure>
 
 &nbsp;
