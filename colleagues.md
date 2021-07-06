@@ -17,14 +17,6 @@ title: Early career colleagues
 
 
 <figure>
-  <img src="{{site.url}}/images/xia.jpg" alt="Jingmin Xia"/>
-  <figcaption>Jingmin Xia. <br/>Topic: modelling and numerics of smectic liquid crystals.</figcaption>
-</figure>
-
-&nbsp;
-&nbsp;
-
-<figure>
   <img src="{{site.url}}/images/papadopoulos.jpg" alt="Ioannis Papadopoulos"/>
   <figcaption>Ioannis Papadopoulos. <br/>Topic: computing multiple solutions of topology optimisation problems. <br/>Co-supervised with <a href="http://people.maths.ox.ac.uk/suli/">Endre Süli</a>.</figcaption>
 </figure>
@@ -110,6 +102,15 @@ title: Early career colleagues
 
 &nbsp;
 &nbsp;
+
+<figure>
+  <img src="{{site.url}}/images/xia.jpg" alt="Jingmin Xia"/>
+  <figcaption>Jingmin Xia. <br/>Topic: <a href="{{site.url}}/files/xia.pdf">Computational and analytical aspects of energy minimisation problems in cholesteric, ferronematic and smectic liquid crystals</a>. DPhil viva: 2021-06-01. <br/> Next step: a permanent lectureship at the <a href="https://english.nudt.edu.cn/">National University of Defense Technology</a> in Changsha, China.</figcaption>
+</figure>
+
+&nbsp;
+&nbsp;
+
 
 <figure>
   <img src="{{site.url}}/images/roy.jpg" alt="Thomas Roy"/>
