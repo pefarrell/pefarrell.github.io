@@ -76,6 +76,14 @@ title: Early career colleagues
   <figcaption>Geoffrey Gachemi. <br/>Topic: goal-oriented error estimation in bifurcation analysis. <br/> Funded by a <a href="https://www.maths.ox.ac.uk/node/39469">Mfano Africa virtual mentorship</a>.</figcaption>
 </figure>
 
+&nbsp;
+&nbsp;
+
+<figure>
+  <img src="{{site.url}}/images/newell.jpg" alt="Isaac Newell"/>
+  <figcaption>Isaac Newell. <br/>Topic: bifurcation analysis of two coupled 3D Bose-Einstein condensates. <br/> Funded by an <a href="https://www.lms.ac.uk/grants/URBList">LMS Undergraduate Research Bursary</a>.</figcaption>
+</figure>
+
 ## Alumni
 
 <figure>
