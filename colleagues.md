@@ -69,6 +69,13 @@ title: Early career colleagues
   <figcaption>Alexander Van-Brunt. <br/>Topic: finite element methods for the Onsager-Stefan-Maxwell mass transport equations. <br/>Co-supervised with <a href="http://monroegroup.spc.ox.ac.uk/">Charles Monroe</a>.</figcaption>
 </figure>
 
+## MSc and undergraduate students
+
+<figure>
+  <img src="{{site.url}}/images/gachemi.jpg" alt="Geoffrey Gachemi"/>
+  <figcaption>Geoffrey Gachemi. <br/>Topic: goal-oriented error estimation in bifurcation analysis. <br/> Funded by a <a href="https://www.maths.ox.ac.uk/node/39469">Mfano Africa virtual mentorship</a>.</figcaption>
+</figure>
+
 ## Alumni
 
 <figure>
