@@ -35,7 +35,10 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 
 ## Forthcoming
 
+<p>2022-07-25: I will attend the <a href="https://scicade2021.hi.is/">SciCADE International Conference on Scientific Computation and Differential Equations</a> in Reykjavik, Iceland.</p>
 <p>2022-06-26: I will attend the 30 years of Acta Numerica conference at the <a href="https://www.impan.pl/en/activities/bedlewo-conference-center/about-center">Banach Centre in Będlewo, Poland</a>.</p>
+<p>2022-05-30: I will give a mini lecture course at the <a href="https://essam-masc.cuni.cz/index.php?file=essam&mitem=2&hitem=_emasc">EMS summer school on mathematical modelling, numerical analysis and scientific computing</a> in Kácov, Czechia, that was deferred from 2020.</p>
+<p>2021-07-19: I will attend the (in-person!) <a href="https://acoustics.ac.uk/mathematical-analysis-in-acoustics/numerical-analysis-and-acoustics/">Conference on Numerical Analysis and Acoustics</a> in Devon, England.<p>
 ## News
 
 <p>2021-07-06: Congratulations to Jingmin Xia on winning a permanent position at the <a href="https://english.nudt.edu.cn/">National University of Defense Technology</a> in Changsha!</p>
