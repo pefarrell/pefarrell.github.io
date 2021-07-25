@@ -39,9 +39,9 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 <p>2022-07-11: I will give an invited presentation at the <a href="https://conference.math.muni.cz/equadiff15/">Equadiff 15 conference</a> in Brno, Czechia.</p>
 <p>2022-06-26: I will attend the 30 years of Acta Numerica conference at the <a href="https://www.impan.pl/en/activities/bedlewo-conference-center/about-center">Banach Centre in Będlewo, Poland</a>.</p>
 <p>2022-05-30: I will give a mini lecture course at the <a href="https://essam-masc.cuni.cz/index.php?file=essam&mitem=2&hitem=_emasc">EMS summer school on mathematical modelling, numerical analysis and scientific computing</a> in Kácov, Czechia, that was deferred from 2020.</p>
-<p>2021-07-19: I will attend the (in-person!) <a href="https://acoustics.ac.uk/mathematical-analysis-in-acoustics/numerical-analysis-and-acoustics/">Conference on Numerical Analysis and Acoustics</a> in Devon, England.<p>
 ## News
 
+<p>2021-07-19: I attended the <a href="https://acoustics.ac.uk/mathematical-analysis-in-acoustics/numerical-analysis-and-acoustics/">Conference on Numerical Analysis and Acoustics</a> in Devon, England. It was incredible to see research talks and socialise in person again! Thanks to <a href="http://wwwf.imperial.ac.uk/~solver/">Sheehan Olver</a> and <a href="https://anastasiakisil.weebly.com/">Anastasia Kisil</a> for organising it.<p>
 <p>2021-07-06: Congratulations to Jingmin Xia on winning a permanent position at the <a href="https://english.nudt.edu.cn/">National University of Defense Technology</a> in Changsha!</p>
 <p>2021-07-05: I gave a talk in the Berlin <a href="https://www.wias-berlin.de/research/rgs/fg8/Seminar_Opt_Con_Inv_Prob/">Oberseminar on Optimization, Control and Inverse Problems</a>, organised by <a href="https://www.wias-berlin.de/people/hintermueller/?lang=1">Michael Hintermüller</a>.</p>
 <p>2021-07-02: I was awarded a <a href="https://www.lms.ac.uk/node/1711">Whitehead Prize</a> by the London Mathematical Society.</p>
