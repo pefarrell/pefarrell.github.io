@@ -69,20 +69,12 @@ title: Early career colleagues
   <figcaption>Alexander Van-Brunt. <br/>Topic: finite element methods for the Onsager-Stefan-Maxwell mass transport equations. <br/>Co-supervised with <a href="http://monroegroup.spc.ox.ac.uk/">Charles Monroe</a>.</figcaption>
 </figure>
 
-## MSc and undergraduate students
+// ## MSc and undergraduate students
 
-<figure>
-  <img src="{{site.url}}/images/gachemi.jpg" alt="Geoffrey Gachemi"/>
-  <figcaption>Geoffrey Gachemi. <br/>Topic: goal-oriented error estimation in bifurcation analysis. <br/> Funded by a <a href="https://www.maths.ox.ac.uk/node/39469">Mfano Africa virtual mentorship</a>.</figcaption>
-</figure>
-
-&nbsp;
-&nbsp;
-
-<figure>
-  <img src="{{site.url}}/images/newell.jpg" alt="Isaac Newell"/>
-  <figcaption>Isaac Newell. <br/>Topic: bifurcation analysis of two coupled 3D Bose-Einstein condensates. <br/> Funded by an <a href="https://www.lms.ac.uk/grants/URBList">LMS Undergraduate Research Bursary</a>.</figcaption>
-</figure>
+//<figure>
+//  <img src="{{site.url}}/images/newell.jpg" alt="Isaac Newell"/>
+//  <figcaption>Isaac Newell. <br/>Topic: bifurcation analysis of two coupled 3D Bose-Einstein condensates. <br/> Funded by an <a href="https://www.lms.ac.uk/grants/URBList">LMS Undergraduate Research Bursary</a>.</figcaption>
+//</figure>
 
 ## Alumni
 
@@ -96,7 +88,7 @@ title: Early career colleagues
 
 <figure>
   <img src="{{site.url}}/images/croci.jpg" alt="Matteo Croci"/>
-  <figcaption>Matteo Croci. <br/>Topic: <a href="{{site.url}}/files/croci.pdf">multilevel Monte Carlo methods for uncertainty quantification in brain simulations</a>. DPhil viva: 2020-01-20. <br/> Co-supervised with <a href="https://people.maths.ox.ac.uk/gilesm/">Mike Giles</a> and <a href="https://marierognes.org">Marie Rognes</a>.<br/> Next step: a postdoc with Mike Giles in Oxford.</figcaption>
+  <figcaption>Matteo Croci. <br/>Topic: <a href="{{site.url}}/files/croci.pdf">multilevel Monte Carlo methods for uncertainty quantification in brain simulations</a>. DPhil viva: 2020-01-20. <br/> Co-supervised with <a href="https://people.maths.ox.ac.uk/gilesm/">Mike Giles</a> and <a href="https://marierognes.org">Marie Rognes</a>.<br/> Next step: a postdoc with Mike Giles in Oxford, then with <a href="https://kiwi.oden.utexas.edu/">Karen Willcox</a> at UT Austin.</figcaption>
 </figure>
 
 &nbsp;
@@ -146,4 +138,12 @@ title: Early career colleagues
 <figure>
   <img src="{{site.url}}/images/kyrkesmith.jpg" alt="Teresa Kyrke-Smith"/>
   <figcaption>Teresa Kyrke-Smith. <br/>Postdoctoral topic: inverse problems in glaciology, co-advised with <a href="https://www.northumbria.ac.uk/about-us/our-staff/g/g-hilmar-gudmundsson/">Hilmar Gudmundsson</a> at the British Antarctic Survey. <br/> Next step: HM Civil Service.</figcaption>
+</figure>
+
+&nbsp;
+&nbsp;
+
+<figure>
+  <img src="{{site.url}}/images/gachemi.jpg" alt="Geoffrey Gachemi"/>
+  <figcaption>Geoffrey Gachemi. <br/>Topic: goal-oriented error estimation in bifurcation analysis. <br/> Summer project funded by a <a href="https://www.maths.ox.ac.uk/node/39469">Mfano Africa virtual mentorship</a>. Next step: continuing as a lecturer at the <a href="https://staff.tukenya.ac.ke/?r=portal/profile/public&id=2058">Technical University of Kenya</a>.</figcaption>
 </figure>
