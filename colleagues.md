@@ -69,12 +69,14 @@ title: Early career colleagues
   <figcaption>Alexander Van-Brunt. <br/>Topic: finite element methods for the Onsager-Stefan-Maxwell mass transport equations. <br/>Co-supervised with <a href="http://monroegroup.spc.ox.ac.uk/">Charles Monroe</a>.</figcaption>
 </figure>
 
-// ## MSc and undergraduate students
+<!---
+## MSc and undergraduate students
 
-//<figure>
-//  <img src="{{site.url}}/images/newell.jpg" alt="Isaac Newell"/>
-//  <figcaption>Isaac Newell. <br/>Topic: bifurcation analysis of two coupled 3D Bose-Einstein condensates. <br/> Funded by an <a href="https://www.lms.ac.uk/grants/URBList">LMS Undergraduate Research Bursary</a>.</figcaption>
-//</figure>
+<figure>
+  <img src="{{site.url}}/images/newell.jpg" alt="Isaac Newell"/>
+  <figcaption>Isaac Newell. <br/>Topic: bifurcation analysis of two coupled 3D Bose-Einstein condensates. <br/> Funded by an <a href="https://www.lms.ac.uk/grants/URBList">LMS Undergraduate Research Bursary</a>.</figcaption>
+</figure>
+--->
 
 ## Alumni
 
