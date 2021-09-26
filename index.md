@@ -42,6 +42,7 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 <p>2021-09-28: I will give a talk in the <a href="https://topwebinar.weblog.tudelft.nl/">Topology Optimization Webinar</a>.</p>
 ## News
 
+<p>2021-09-24: Congratulations to Ioannis Papadopoulos on passing his DPhil viva! Thanks to <a href="https://vbn.aau.dk/en/persons/148844">Anton Evgrafov</a> and <a href="https://www.maths.ox.ac.uk/people/kathryn.gillow/">Kathryn Gillow</a> for serving as examiners.</p>
 <p>Congratulations to Fabian Laakmann on winning a best presentation prize at <a href="https://www.firedrakeproject.org/firedrake_21.html">Firedrake '21!</a></p>
 <p>2021-09-15: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2109.05082">accounting for thermodiffusion in the Onsager-Stefan-Maxwell equations</a>, with Alexander Van-Brunt and <a href="http://monroegroup.spc.ox.ac.uk/">Charles Monroe</a>.</p>
 <p>2021-08-03: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2108.00046">the analysis of semicoercive Stokes variational inequalities arising in glaciology</a>, with <a href="http://www.maths.ox.ac.uk/people/gonzalo.gonzalezdediego">Gonzalo Gonzalez de Diego</a> and <a href="https://people.maths.ox.ac.uk/hewitt/">Ian Hewitt</a>.</p>
