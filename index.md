@@ -39,6 +39,7 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 <p>2022-07-11: I will give an invited presentation at the <a href="https://conference.math.muni.cz/equadiff15/">Equadiff 15 conference</a> in Brno, Czechia.</p>
 <p>2022-06-26: I will attend the 30 years of Acta Numerica conference at the <a href="https://www.impan.pl/en/activities/bedlewo-conference-center/about-center">Banach Centre in Będlewo, Poland</a>.</p>
 <p>2022-05-30: I will give a mini lecture course at the <a href="https://essam-masc.cuni.cz/index.php?file=essam&mitem=2&hitem=_emasc">EMS summer school on mathematical modelling, numerical analysis and scientific computing</a> in Kácov, Czechia, that was deferred from 2020.</p>
+<p>2022-04-24: I will be acting head of the Oxford <a href="http://www.maths.ox.ac.uk/groups/numerical-analysis">Numerical Analysis group</a> during <a href="https://people.maths.ox.ac.uk/trefethen/">Nick Trefethen's</a> sabbatical.</p>
 <p>2021-09-28: I will give a talk in the <a href="https://topwebinar.weblog.tudelft.nl/">Topology Optimization Webinar</a>.</p>
 ## News
 
