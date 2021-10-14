@@ -1,5 +1,5 @@
 ---
-title: Early career colleagues
+title: People
 ---
 
 &nbsp;
