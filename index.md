@@ -44,6 +44,7 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 
 ## News
 
+<p>2021-10-11: Welcome to Boris Andrews, who began his DPhil studies today! He is co-supervised by <a href="https://scholar.google.co.uk/citations?user=XRAFAoEAAAAJ&hl=en">Wayne Arter</a> of the <a href="https://ccfe.ukaea.uk/">Culham Centre for Fusion Energy</a>.</p>
 <p>2021-09-28: I gave a talk in the <a href="https://topwebinar.weblog.tudelft.nl/">Topology Optimization Webinar</a>.</p>
 <p>2021-09-24: Congratulations to <a href="https://www.imperial.ac.uk/people/ioannis.papadopoulos13">Ioannis Papadopoulos</a> on passing his DPhil viva! Thanks to <a href="https://vbn.aau.dk/en/persons/148844">Anton Evgrafov</a> and <a href="https://www.maths.ox.ac.uk/people/kathryn.gillow/">Kathryn Gillow</a> for serving as examiners.</p>
 <p>Congratulations to Fabian Laakmann on winning a best presentation prize at <a href="https://www.firedrakeproject.org/firedrake_21.html">Firedrake '21!</a></p>

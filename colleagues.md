@@ -61,6 +61,14 @@ title: Early career colleagues
   <figcaption>Alexander Van-Brunt. <br/>Topic: finite element methods for the Onsager-Stefan-Maxwell mass transport equations. <br/>Co-supervised with <a href="http://monroegroup.spc.ox.ac.uk/">Charles Monroe</a>.</figcaption>
 </figure>
 
+&nbsp;
+&nbsp;
+
+<figure>
+  <img src="{{site.url}}/images/andrews.png" alt="Boris Andrews"/>
+  <figcaption>Boris Andrews. <br/>Topic: numerical bifurcation analysis of natural convection. <br/>Co-supervised with <a href="https://scholar.google.co.uk/citations?user=XRAFAoEAAAAJ&hl=en">Wayne Arter</a>.</figcaption>
+</figure>
+
 <!---
 ## MSc and undergraduate students
 
