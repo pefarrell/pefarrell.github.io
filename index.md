@@ -41,9 +41,10 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 <p>2022-05-30: I will give a mini lecture course at the <a href="https://essam-masc.cuni.cz/index.php?file=essam&mitem=2&hitem=_emasc">EMS summer school on mathematical modelling, numerical analysis and scientific computing</a> in Kácov, Czechia, that was deferred from 2020.</p>
 <p>2022-04-11: I will give a talk at the workshop on <a href="https://www.icms.org.uk/events/workshops/RANLA">Recent Advances in Numerical Linear Algebra for PDEs, Optimization, and Data Assimilation</a> at the ICMS in Edinburgh, organised by <a href="https://sites.google.com/site/johnpearsonmaths/home">John Pearson</a> and <a href="https://jemimat.github.io/">Jemima Tabeart</a>.</p>
 <p>2022-04-24: I will be acting head of the Oxford <a href="http://www.maths.ox.ac.uk/groups/numerical-analysis">Numerical Analysis group</a> during <a href="https://people.maths.ox.ac.uk/trefethen/">Nick Trefethen's</a> sabbatical.</p>
-<p>2021-09-28: I will give a talk in the <a href="https://topwebinar.weblog.tudelft.nl/">Topology Optimization Webinar</a>.</p>
+
 ## News
 
+<p>2021-09-28: I gave a talk in the <a href="https://topwebinar.weblog.tudelft.nl/">Topology Optimization Webinar</a>.</p>
 <p>2021-09-24: Congratulations to <a href="https://www.imperial.ac.uk/people/ioannis.papadopoulos13">Ioannis Papadopoulos</a> on passing his DPhil viva! Thanks to <a href="https://vbn.aau.dk/en/persons/148844">Anton Evgrafov</a> and <a href="https://www.maths.ox.ac.uk/people/kathryn.gillow/">Kathryn Gillow</a> for serving as examiners.</p>
 <p>Congratulations to Fabian Laakmann on winning a best presentation prize at <a href="https://www.firedrakeproject.org/firedrake_21.html">Firedrake '21!</a></p>
 <p>2021-09-15: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2109.05082">accounting for thermodiffusion in the Onsager-Stefan-Maxwell equations</a>, with Alexander Van-Brunt and <a href="http://monroegroup.spc.ox.ac.uk/">Charles Monroe</a>.</p>
