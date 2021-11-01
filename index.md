@@ -42,7 +42,8 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 <p>2022-05-30: I will give a mini lecture course at the <a href="https://essam-masc.cuni.cz/index.php?file=essam&mitem=2&hitem=_emasc">EMS summer school on mathematical modelling, numerical analysis and scientific computing</a> in Kácov, Czechia, that was deferred from 2020.</p>
 <p>2022-04-11: I will give a talk at the workshop on <a href="https://www.icms.org.uk/events/workshops/RANLA">Recent Advances in Numerical Linear Algebra for PDEs, Optimization, and Data Assimilation</a> at the ICMS in Edinburgh, organised by <a href="https://sites.google.com/site/johnpearsonmaths/home">John Pearson</a> and <a href="https://jemimat.github.io/">Jemima Tabeart</a>.</p>
 <p>2022-04-24: I will be acting head of the Oxford <a href="http://www.maths.ox.ac.uk/groups/numerical-analysis">Numerical Analysis group</a> during <a href="https://people.maths.ox.ac.uk/trefethen/">Nick Trefethen's</a> sabbatical.</p>
-<p>2022-01-01: I will join the <a href="https://www.siam.org/journals/sisc/board.php">SISC Editorial Board </a> as an Associate Editor.</p>
+<p>2022-01-01: I will join the <a href="https://www.siam.org/journals/sisc/board.php">SISC Editorial Board</a> as an Associate Editor.</p>
+<p>2022-01-01: I will join the <a href="https://euromathsoc.org/committee-applications-interdisciplinary-relations">Committee on Applications and Interdisciplinary Relations</a> of the <a href="https://euromathsoc.org">European Mathematical Society</a>.</p>
 
 ## News
 
