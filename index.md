@@ -47,6 +47,7 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 
 ## News
 
+<p>2021-11-11: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2111.05593">the numerical solution of viscous contact problems applied to glacial sliding</a>, with <a href="http://www.maths.ox.ac.uk/people/gonzalo.gonzalezdediego">Gonzalo Gonzalez de Diego</a> and <a href="https://people.maths.ox.ac.uk/hewitt/">Ian Hewitt</a>.</p>
 <p>2021-10-27: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2110.13224">transformations for Mardal-Tai-Winther and Arnold-Winther elements</a>, with Francis Aznaran and <a href="https://sites.baylor.edu/robert_kirby/">Rob Kirby</a>.</p>
 <p>2021-10-13: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2110.06479">variational and numerical analysis of a Q-tensor model for smectic-A liquid crystals</a>, with Jingmin Xia.</p>
 <p>2021-10-11: Welcome to Boris Andrews, who began his DPhil studies today! He is co-supervised by <a href="https://scholar.google.co.uk/citations?user=XRAFAoEAAAAJ&hl=en">Wayne Arter</a> of the <a href="https://ccfe.ukaea.uk/">Culham Centre for Fusion Energy</a>.</p>
