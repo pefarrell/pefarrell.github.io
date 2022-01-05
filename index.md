@@ -43,11 +43,11 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 <p>2022-05-30: I will give a mini lecture course at the <a href="https://essam-masc.cuni.cz/index.php?file=essam&mitem=2&hitem=_emasc">EMS summer school on mathematical modelling, numerical analysis and scientific computing</a> in Kácov, Czechia, that was deferred from 2020.</p>
 <p>2022-04-11: I will give a talk at the workshop on <a href="https://www.icms.org.uk/events/workshops/RANLA">Recent Advances in Numerical Linear Algebra for PDEs, Optimization, and Data Assimilation</a> at the ICMS in Edinburgh, organised by <a href="https://sites.google.com/site/johnpearsonmaths/home">John Pearson</a> and <a href="https://jemimat.github.io/">Jemima Tabeart</a>.</p>
 <p>2022-04-24: I will be acting head of the Oxford <a href="http://www.maths.ox.ac.uk/groups/numerical-analysis">Numerical Analysis group</a> during <a href="https://people.maths.ox.ac.uk/trefethen/">Nick Trefethen's</a> sabbatical.</p>
-<p>2022-01-01: I will join the <a href="https://www.siam.org/journals/sisc/board.php">SISC Editorial Board</a> as an Associate Editor.</p>
-<p>2022-01-01: I will join the <a href="https://euromathsoc.org/committee-applications-interdisciplinary-relations">Committee on Applications and Interdisciplinary Relations</a> of the <a href="https://euromathsoc.org">European Mathematical Society</a>.</p>
 
 ## News
 
+<p>2022-01-01: I have joined the <a href="https://www.siam.org/journals/sisc/board.php">SISC Editorial Board</a> as an Associate Editor.</p>
+<p>2022-01-01: I have joined the <a href="https://euromathsoc.org/committee-applications-interdisciplinary-relations">Committee on Applications and Interdisciplinary Relations</a> of the <a href="https://euromathsoc.org">European Mathematical Society</a>.</p>
 <p>2021-11-11: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2111.05593">the numerical solution of viscous contact problems applied to glacial sliding</a>, with <a href="http://www.maths.ox.ac.uk/people/gonzalo.gonzalezdediego">Gonzalo Gonzalez de Diego</a> and <a href="https://people.maths.ox.ac.uk/hewitt/">Ian Hewitt</a>.</p>
 <p>2021-10-27: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2110.13224">transformations for Mardal-Tai-Winther and Arnold-Winther elements</a>, with Francis Aznaran and <a href="https://sites.baylor.edu/robert_kirby/">Rob Kirby</a>.</p>
 <p>2021-10-13: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2110.06479">variational and numerical analysis of a Q-tensor model for smectic-A liquid crystals</a>, with Jingmin Xia.</p>
