@@ -46,6 +46,7 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 
 ## News
 
+<p>2022-01-27: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2201.11684">the optimal control of Hopf bifurcations</a>, with <a href="https://people.maths.ox.ac.uk/boulle/">Nicolas Boullé</a> and <a href="https://marierognes.org/">Marie Rognes</a>.</p>
 <p>2022-01-01: I have joined the <a href="https://www.siam.org/journals/sisc/board.php">SISC Editorial Board</a> as an Associate Editor.</p>
 <p>2022-01-01: I have joined the <a href="https://euromathsoc.org/committee-applications-interdisciplinary-relations">Committee on Applications and Interdisciplinary Relations</a> of the <a href="https://euromathsoc.org">European Mathematical Society</a>.</p>
 <p>2021-11-11: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2111.05593">the numerical solution of viscous contact problems applied to glacial sliding</a>, with <a href="http://www.maths.ox.ac.uk/people/gonzalo.gonzalezdediego">Gonzalo Gonzalez de Diego</a> and <a href="https://people.maths.ox.ac.uk/hewitt/">Ian Hewitt</a>.</p>
