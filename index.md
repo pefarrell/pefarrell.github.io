@@ -46,6 +46,8 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 
 ## News
 
+<p>2022-02-16: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2202.08248">preconditioners for computing multiple solutions of topology optimisation problems</a>, with <a href="https://www.imperial.ac.uk/people/ioannis.papadopoulos13">Ioannis Papadopoulos</a>.</p>
+<p>2022-02-15: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2202.07381">monolithic multigrid for implicit Runge-Kutta discretizations of incompressible fluid flow and MHD problems</a>, with Razan Abu-Labdeh and <a href="https://www.math.mun.ca/~smaclachlan/">Scott MacLachlan</a>.</p>
 <p>2022-01-27: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2201.11684">the optimal control of Hopf bifurcations</a>, with <a href="https://people.maths.ox.ac.uk/boulle/">Nicolas Boullé</a> and <a href="https://marierognes.org/">Marie Rognes</a>.</p>
 <p>2022-01-01: I have joined the <a href="https://www.siam.org/journals/sisc/board.php">SISC Editorial Board</a> as an Associate Editor.</p>
 <p>2022-01-01: I have joined the <a href="https://euromathsoc.org/committee-applications-interdisciplinary-relations">Committee on Applications and Interdisciplinary Relations</a> of the <a href="https://euromathsoc.org">European Mathematical Society</a>.</p>
