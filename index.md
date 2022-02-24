@@ -46,6 +46,7 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 
 ## News
 
+<p>2022-02-24: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2202.11586">structure-preserving and helicity-conserving finite element approximations and preconditioning for the Hall MHD equations </a>, with Fabian Laakmann and <a href="https://www.maths.ox.ac.uk/people/kaibo.hu">Kaibo Hu</a>.</p>
 <p>2022-02-18: Congratulations to Pablo Brubeck on winning the <a href="https://grandmaster.colorado.edu/copper/2022/student.html">Student Paper Competition of the 2022 Copper Mountain Conference on Iterative Methods</a>! Congratulations to the other winners also.</p>
 <p>2022-02-16: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2202.08248">preconditioners for computing multiple solutions of topology optimisation problems</a>, with <a href="https://www.imperial.ac.uk/people/ioannis.papadopoulos13">Ioannis Papadopoulos</a>.</p>
 <p>2022-02-15: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2202.07381">monolithic multigrid for implicit Runge-Kutta discretizations of incompressible fluid flow and MHD problems</a>, with Razan Abu-Labdeh and <a href="https://www.math.mun.ca/~smaclachlan/">Scott MacLachlan</a>.</p>
