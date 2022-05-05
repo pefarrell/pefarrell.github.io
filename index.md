@@ -45,6 +45,7 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 
 ## News
 
+<p>2022-05-05: Congratulations to Nicolas Boullé on winning an <a href="https://www.newton.ac.uk/about/fellowships/simons-postdoctoral-fellowships/">INI-Simons Postdoctoral Fellowship in Mathematics</a>!</p>
 <p>2022-04-11: I gave a talk at the workshop on <a href="https://www.icms.org.uk/events/workshops/RANLA">Recent Advances in Numerical Linear Algebra for PDEs, Optimization, and Data Assimilation</a> at the ICMS in Edinburgh, organised by <a href="https://sites.google.com/site/johnpearsonmaths/home">John Pearson</a> and <a href="https://jemimat.github.io/">Jemima Tabeart</a>.</p>
 <p>2022-02-24: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2202.11586">structure-preserving and helicity-conserving finite element approximations and preconditioning for the Hall MHD equations </a>, with Fabian Laakmann and <a href="https://www.maths.ox.ac.uk/people/kaibo.hu">Kaibo Hu</a>.</p>
 <p>2022-02-18: Congratulations to Pablo Brubeck on winning the <a href="https://grandmaster.colorado.edu/copper/2022/student.html">Student Paper Competition of the 2022 Copper Mountain Conference on Iterative Methods</a>! Congratulations to the other winners also.</p>
