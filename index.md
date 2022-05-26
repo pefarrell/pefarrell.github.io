@@ -36,9 +36,9 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 ## Forthcoming
 
 <p>2022-07-25: I will talk at the <a href="https://scicade2021.hi.is/">SciCADE International Conference on Scientific Computation and Differential Equations</a> in Reykjavik, Iceland.</p>
-<p>2022-07-11: I will give an invited presentation at the <a href="https://conference.math.muni.cz/equadiff15/">Equadiff 15 conference</a> in Brno, Czechia.</p>
+<p>2022-07-11: I will give an invited presentation (Numerical Analysis and Applications section) at the <a href="https://conference.math.muni.cz/equadiff15/">Equadiff 15 conference</a> in Brno, Czechia.</p>
 <p>2022-06-26: I will attend the 30 years of Acta Numerica conference at the <a href="https://www.impan.pl/en/activities/bedlewo-conference-center/about-center">Banach Centre in Będlewo, Poland</a>.</p>
-<p>2022-06-20: I will give a talk at a minisymposium organised by <a href="https://www.nuigalway.ie/our-research/people/mathematics-statistics-and-applied-mathematics/niallmadden/index.html">Niall Madden</a> at the <a href="http://ilas2020.ie/">24th Conference of the International Linear Algebra Society</a> in Galway, Ireland.</p>
+<p>2022-06-20: I will give a plenary talk at the <a href="http://ilas2020.ie/">24th Conference of the International Linear Algebra Society</a> in Galway, Ireland.</p>
 <p>2022-06-06: I will give a keynote talk at a minisymposium organised by <a href="https://cfwebprod.sandia.gov/cfdocs/CompResearch/templates/insert/profile.cfm?pohm">Peter Ohm</a>, <a href="https://cfwebprod.sandia.gov/cfdocs/CompResearch/templates/insert/profile.cfm?jnshadi">John Shadid</a> and <a href="https://www.unibw.de/imcs-en/team/mayr">Matthias Mayr</a> at the <a href="http://www.eccomas2022.org/frontal/default.asp">ECCOMAS Congress in Oslo, Norway</a>.</p>
 <p>2022-05-30: I will give a mini lecture course at the <a href="https://essam-masc.cuni.cz/index.php?file=essam&mitem=2&hitem=_emasc">EMS summer school on mathematical modelling, numerical analysis and scientific computing</a> in Kácov, Czechia, that was deferred from 2020. Update: deferred to 2023 due to the pandemic.</p>
 <p>2022-04-24: I will be acting head of the Oxford <a href="http://www.maths.ox.ac.uk/groups/numerical-analysis">Numerical Analysis group</a> during <a href="https://people.maths.ox.ac.uk/trefethen/">Nick Trefethen's</a> sabbatical.</p>
