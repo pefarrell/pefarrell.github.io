@@ -35,17 +35,18 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 
 ## Forthcoming
 
+<p>2023-05-29: I will give a mini lecture course at the <a href="https://essam-masc.cuni.cz/index.php?file=essam&mitem=2&hitem=_emasc">EMS summer school on mathematical modelling, numerical analysis and scientific computing</a> in Kácov, Czechia, that was deferred from 2020.</p>
 <p>2022-07-25: I will talk at the <a href="https://scicade2021.hi.is/">SciCADE International Conference on Scientific Computation and Differential Equations</a> in Reykjavik, Iceland.</p>
 <p>2022-07-11: I will give an invited presentation (Numerical Analysis and Applications section) at the <a href="https://conference.math.muni.cz/equadiff15/">Equadiff 15 conference</a> in Brno, Czechia.</p>
 <p>2022-06-26: I will attend the 30 years of Acta Numerica conference at the <a href="https://www.impan.pl/en/activities/bedlewo-conference-center/about-center">Banach Centre in Będlewo, Poland</a>.</p>
 <p>2022-06-20: I will give a plenary talk at the <a href="http://ilas2020.ie/">24th Conference of the International Linear Algebra Society</a> in Galway, Ireland.</p>
-<p>2022-06-06: I will give a keynote talk at a minisymposium organised by <a href="https://cfwebprod.sandia.gov/cfdocs/CompResearch/templates/insert/profile.cfm?pohm">Peter Ohm</a>, <a href="https://cfwebprod.sandia.gov/cfdocs/CompResearch/templates/insert/profile.cfm?jnshadi">John Shadid</a> and <a href="https://www.unibw.de/imcs-en/team/mayr">Matthias Mayr</a> at the <a href="http://www.eccomas2022.org/frontal/default.asp">ECCOMAS Congress in Oslo, Norway</a>.</p>
-<p>2022-05-30: I will give a mini lecture course at the <a href="https://essam-masc.cuni.cz/index.php?file=essam&mitem=2&hitem=_emasc">EMS summer school on mathematical modelling, numerical analysis and scientific computing</a> in Kácov, Czechia, that was deferred from 2020. Update: deferred to 2023 due to the pandemic.</p>
-<p>2022-04-24: I will be acting head of the Oxford <a href="http://www.maths.ox.ac.uk/groups/numerical-analysis">Numerical Analysis group</a> during <a href="https://people.maths.ox.ac.uk/trefethen/">Nick Trefethen's</a> sabbatical.</p>
+<p>2022-06-15: I will give a departmental seminar in the Aeronautics Department of Imperial College London. It <a href="https://cassyni.com/events/FHV6jJsxSES5igUSa2KxQD?663b4d">will be streamed online</a>.</p>
 
 ## News
 
+<p>2022-06-06: I gave a keynote talk at the minisymposium organised by <a href="https://cfwebprod.sandia.gov/cfdocs/CompResearch/templates/insert/profile.cfm?pohm">Peter Ohm</a>, <a href="https://cfwebprod.sandia.gov/cfdocs/CompResearch/templates/insert/profile.cfm?jnshadi">John Shadid</a> and <a href="https://www.unibw.de/imcs-en/team/mayr">Matthias Mayr</a> at the <a href="http://www.eccomas2022.org/frontal/default.asp">ECCOMAS Congress in Oslo, Norway</a>.</p>
 <p>2022-05-05: Congratulations to Nicolas Boullé on winning an <a href="https://www.newton.ac.uk/about/fellowships/simons-postdoctoral-fellowships/">INI-Simons Postdoctoral Fellowship in Mathematics</a>!</p>
+<p>2022-04-24: I am the acting head of the Oxford <a href="http://www.maths.ox.ac.uk/groups/numerical-analysis">Numerical Analysis group</a> during <a href="https://people.maths.ox.ac.uk/trefethen/">Nick Trefethen's</a> sabbatical, until 2022-06-17.</p>
 <p>2022-04-11: I gave a talk at the workshop on <a href="https://www.icms.org.uk/events/workshops/RANLA">Recent Advances in Numerical Linear Algebra for PDEs, Optimization, and Data Assimilation</a> at the ICMS in Edinburgh, organised by <a href="https://sites.google.com/site/johnpearsonmaths/home">John Pearson</a> and <a href="https://jemimat.github.io/">Jemima Tabeart</a>.</p>
 <p>2022-02-24: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2202.11586">structure-preserving and helicity-conserving finite element approximations and preconditioning for the Hall MHD equations </a>, with Fabian Laakmann and <a href="https://www.maths.ox.ac.uk/people/kaibo.hu">Kaibo Hu</a>.</p>
 <p>2022-02-18: Congratulations to Pablo Brubeck on winning the <a href="https://grandmaster.colorado.edu/copper/2022/student.html">Student Paper Competition of the 2022 Copper Mountain Conference on Iterative Methods</a>! Congratulations to the other winners also.</p>
