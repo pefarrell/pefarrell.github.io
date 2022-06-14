@@ -44,6 +44,7 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 
 ## News
 
+<p>2022-06-10: Congratulations to Gonzalo Gonzalez de Diego on winning best student presentation in the <a href="https://iss.bc3research.org">International Glaciological Society meeting in Bilbao</a>!</p>
 <p>2022-06-06: I gave a keynote talk at the minisymposium organised by <a href="https://cfwebprod.sandia.gov/cfdocs/CompResearch/templates/insert/profile.cfm?pohm">Peter Ohm</a>, <a href="https://cfwebprod.sandia.gov/cfdocs/CompResearch/templates/insert/profile.cfm?jnshadi">John Shadid</a> and <a href="https://www.unibw.de/imcs-en/team/mayr">Matthias Mayr</a> at the <a href="http://www.eccomas2022.org/frontal/default.asp">ECCOMAS Congress in Oslo, Norway</a>.</p>
 <p>2022-05-05: Congratulations to Nicolas Boullé on winning an <a href="https://www.newton.ac.uk/about/fellowships/simons-postdoctoral-fellowships/">INI-Simons Postdoctoral Fellowship in Mathematics</a>!</p>
 <p>2022-04-24: I am the acting head of the Oxford <a href="http://www.maths.ox.ac.uk/groups/numerical-analysis">Numerical Analysis group</a> during <a href="https://people.maths.ox.ac.uk/trefethen/">Nick Trefethen's</a> sabbatical, until 2022-06-17.</p>
