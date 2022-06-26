@@ -36,14 +36,15 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 ## Forthcoming
 
 <p>2023-05-29: I will give a mini lecture course at the <a href="https://essam-masc.cuni.cz/index.php?file=essam&mitem=2&hitem=_emasc">EMS summer school on mathematical modelling, numerical analysis and scientific computing</a> in Kácov, Czechia, that was deferred from 2020.</p>
+<p>2022-08-16: I will give a contributed talk at the <a href="https://www.bifd2022.org/">9th International Symposium on Bifurcations and Instabilities in Fluid Dynamics</a> in Groningen, the Netherlands.</p>
 <p>2022-07-25: I will talk at the <a href="https://scicade2021.hi.is/">SciCADE International Conference on Scientific Computation and Differential Equations</a> in Reykjavik, Iceland.</p>
 <p>2022-07-11: I will give an invited presentation (Numerical Analysis and Applications section) at the <a href="https://conference.math.muni.cz/equadiff15/">Equadiff 15 conference</a> in Brno, Czechia.</p>
-<p>2022-06-26: I will attend the 30 years of Acta Numerica conference at the <a href="https://www.impan.pl/en/activities/bedlewo-conference-center/about-center">Banach Centre in Będlewo, Poland</a>.</p>
-<p>2022-06-20: I will give a plenary talk at the <a href="http://ilas2020.ie/">24th Conference of the International Linear Algebra Society</a> in Galway, Ireland.</p>
-<p>2022-06-15: I will give a departmental seminar in the Aeronautics Department of Imperial College London. It <a href="https://cassyni.com/events/FHV6jJsxSES5igUSa2KxQD?663b4d">will be streamed online</a>.</p>
+<p>2022-06-26: I will attend the <a href="https://mat.ug.edu.pl/~kmalina/Acta_Numerica.html">30 years of Acta Numerica conference</a> at the <a href="https://www.impan.pl/en/activities/bedlewo-conference-center/about-center">Banach Centre in Będlewo, Poland</a>.</p>
 
 ## News
 
+<p>2022-06-20: I gave a plenary talk at the <a href="http://ilas2020.ie/">24th Conference of the International Linear Algebra Society</a> in Galway, Ireland.</p>
+<p>2022-06-15: I gave a departmental seminar in the Aeronautics Department of Imperial College London. <a href="https://cassyni.com/events/FHV6jJsxSES5igUSa2KxQD?663b4d">A recording is available online</a>.</p>
 <p>2022-06-10: Congratulations to Gonzalo Gonzalez de Diego on winning best student presentation in the <a href="https://iss.bc3research.org">International Glaciological Society meeting in Bilbao</a>!</p>
 <p>2022-06-06: I gave a keynote talk at the minisymposium organised by <a href="https://cfwebprod.sandia.gov/cfdocs/CompResearch/templates/insert/profile.cfm?pohm">Peter Ohm</a>, <a href="https://cfwebprod.sandia.gov/cfdocs/CompResearch/templates/insert/profile.cfm?jnshadi">John Shadid</a> and <a href="https://www.unibw.de/imcs-en/team/mayr">Matthias Mayr</a> at the <a href="http://www.eccomas2022.org/frontal/default.asp">ECCOMAS Congress in Oslo, Norway</a>.</p>
 <p>2022-05-05: Congratulations to Nicolas Boullé on winning an <a href="https://www.newton.ac.uk/about/fellowships/simons-postdoctoral-fellowships/">INI-Simons Postdoctoral Fellowship in Mathematics</a>!</p>
