@@ -39,11 +39,11 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 <p>2022-10-02: I am organising a workshop on <a href="www.birs.ca/event/22w5159">Defects and Distortions of Layered Complex Fluids (22w5159)</a> at the Banff International Research Station, Canada, alongside <a href="https://www.math.mun.ca/~smaclachlan/">Scott MacLachlan</a> and <a href="https://sites.tufts.edu/softmattertheory/author/tather01/">Tim Atherton</a>.</p>
 <p>2022-08-16: I will give a contributed talk at the <a href="https://www.bifd2022.org/">9th International Symposium on Bifurcations and Instabilities in Fluid Dynamics</a> in Groningen, the Netherlands.</p>
 <p>2022-07-25: I will talk at the <a href="https://scicade2021.hi.is/">SciCADE International Conference on Scientific Computation and Differential Equations</a> in Reykjavik, Iceland.</p>
-<p>2022-07-11: I will give an invited presentation (Numerical Analysis and Applications section) at the <a href="https://conference.math.muni.cz/equadiff15/">Equadiff 15 conference</a> in Brno, Czechia.</p>
-<p>2022-06-26: I will attend the <a href="https://mat.ug.edu.pl/~kmalina/Acta_Numerica.html">30 years of Acta Numerica conference</a> at the <a href="https://www.impan.pl/en/activities/bedlewo-conference-center/about-center">Banach Centre in Będlewo, Poland</a>.</p>
 
 ## News
 
+<p>2022-07-11: I gave an invited presentation (Numerical Analysis and Applications section) at the <a href="https://conference.math.muni.cz/equadiff15/">Equadiff 15 conference</a> in Brno, Czechia.</p>
+<p>2022-06-26: I gave a talk at the <a href="https://mat.ug.edu.pl/~kmalina/Acta_Numerica.html">30 years of Acta Numerica conference</a> at the <a href="https://www.impan.pl/en/activities/bedlewo-conference-center/about-center">Banach Centre in Będlewo, Poland</a>.</p>
 <p>2022-06-20: I gave a plenary talk at the <a href="http://ilas2020.ie/">24th Conference of the International Linear Algebra Society</a> in Galway, Ireland.</p>
 <p>2022-06-15: I gave a departmental seminar in the Aeronautics Department of Imperial College London. <a href="https://cassyni.com/events/FHV6jJsxSES5igUSa2KxQD?663b4d">A recording is available online</a>.</p>
 <p>2022-06-10: Congratulations to Gonzalo Gonzalez de Diego on winning best student presentation in the <a href="https://iss.bc3research.org">International Glaciological Society meeting in Bilbao</a>!</p>
