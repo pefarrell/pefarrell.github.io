@@ -36,7 +36,7 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 ## Forthcoming
 
 <p>2023-05-29: I will give a mini lecture course at the <a href="https://essam-masc.cuni.cz/index.php?file=essam&mitem=2&hitem=_emasc">EMS summer school on mathematical modelling, numerical analysis and scientific computing</a> in Kácov, Czechia, that was deferred from 2020.</p>
-<p>2022-10-02: I am organising a workshop on <a href="www.birs.ca/event/22w5159">Defects and Distortions of Layered Complex Fluids (22w5159)</a> at the Banff International Research Station, Canada, alongside <a href="https://www.math.mun.ca/~smaclachlan/">Scott MacLachlan</a> and <a href="https://sites.tufts.edu/softmattertheory/author/tather01/">Tim Atherton</a>.</p>
+<p>2022-10-02: I am organising a workshop on <a href="https://www.birs.ca/event/22w5159">Defects and Distortions of Layered Complex Fluids (22w5159)</a> at the Banff International Research Station, Canada, alongside <a href="https://www.math.mun.ca/~smaclachlan/">Scott MacLachlan</a> and <a href="https://sites.tufts.edu/softmattertheory/author/tather01/">Tim Atherton</a>.</p>
 <p>2022-08-16: I will give a contributed talk at the <a href="https://www.bifd2022.org/">9th International Symposium on Bifurcations and Instabilities in Fluid Dynamics</a> in Groningen, the Netherlands.</p>
 <p>2022-07-28: I will talk at the <a href="https://scicade2021.hi.is/">SciCADE International Conference on Scientific Computation and Differential Equations</a> in Reykjavik, Iceland.</p>
 
