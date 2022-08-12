@@ -44,6 +44,7 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 
 ## News
 
+<p>2022-08-12: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2208.05703">complex, stable solutions of the 3D two-component Gross-Pitaevskii equations</a>, with Nicolas Boullé, Isaac Newell and <a href="https://people.math.umass.edu/~kevrekid/">Panos Kevrekidis</a>.</p>
 <p>2022-07-28: I gave a talk at the <a href="https://scicade2021.hi.is/">SciCADE International Conference on Scientific Computation and Differential Equations</a> in Reykjavik, Iceland, in the minisymposium <a href="https://www.conftool.pro/scicade2021/index.php?page=browseSessions&form_session=277&presentations=hide">MS32 Structure-preserving numerical methods for plasma models</a> organised by <a href="https://www.tue.nl/en/research/researchers/cecilia-pagliantini/">Cecilia Pagliantini</a> and <a href="https://www.maths.ox.ac.uk/people/kaibo.hu">Kaibo Hu</a>.</p>
 <p>2022-07-27: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2207.12916">finite element discretisations of the smectic density equation</a>, with Abdalaziz Hamdan and <a href="https://www.math.mun.ca/~smaclachlan/">Scott MacLachlan</a>.</p>
 <p>2022-07-11: I gave an invited presentation (Numerical Analysis and Applications section) at the <a href="https://conference.math.muni.cz/equadiff15/">Equadiff 15 conference</a> in Brno, Czechia.</p>
