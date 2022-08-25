@@ -35,6 +35,7 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 
 ## Forthcoming
 
+<p>2023-08-14: I am organising a conference on <a href="https://21stcenturyna.github.io/">Numerical Analysis in the 21st Century</a>, in honour of the retirement from Oxford of <a href="https://people.maths.ox.ac.uk/trefethen/">Nick Trefethen</a>.
 <p>2023-05-29: I will give a mini lecture course at the <a href="https://essam-masc.cuni.cz/index.php?file=essam&mitem=2&hitem=_emasc">EMS summer school on mathematical modelling, numerical analysis and scientific computing</a> in Kácov, Czechia, that was deferred from 2020.</p>
 <p>2023-02-13: I will give an invited talk at the <a href="https://www2.thphy.uni-duesseldorf.de/SPP2265ws0223/index.php">Mathematics and microscopic theory for random soft matter systems</a> workshop organised by <a href="https://www2.thphy.uni-duesseldorf.de/~wittmann/">René Wittmann</a>, <a href="https://www2.thphy.uni-duesseldorf.de/~hlowen/">Hartmut Löwen</a> and <a href="https://www.dlr.de/mp/en/desktopdefault.aspx/tabid-2658/3994_read-20239/sortby-lastname/">Matthias Sperl</a>.</p>
 <p>2022-12-05: I will give a talk in the <a href="https://cemse.kaust.edu.sa/cs/events/graduate-seminar">KAUST Computer Science Graduate Seminar</a>, hosted by <a href="https://www.kaust.edu.sa/en/study/faculty/david-keyes">David Keyes</a> and <a href="https://cemse.kaust.edu.sa/sna/people/person/jinchao-xu">Jinchao Xu</a>.</p>
