@@ -33,14 +33,6 @@ title: People
 &nbsp;
 
 <figure>
-  <img src="{{site.url}}/images/boulle.jpg" alt="Nicolas Boullé"/>
-  <figcaption>Nicolas Boullé. <br/>Topic: optimal control of bifurcation structure. <br/>Co-supervised with <a href="https://marierognes.org">Marie Rognes</a>.</figcaption>
-</figure>
-
-&nbsp;
-&nbsp;
-
-<figure>
   <img src="{{site.url}}/images/laakmann.jpg" alt="Fabian Laakmann"/>
   <figcaption>Fabian Laakmann. <br/>Topic: robust preconditioners for magnetohydrodynamics.</figcaption>
 </figure>
@@ -123,6 +115,14 @@ title: People
 <figure>
   <img src="{{site.url}}/images/papadopoulos.jpg" alt="Ioannis Papadopoulos"/>
   <figcaption>Ioannis Papadopoulos. <br/>Topic: <a href="{{site.url}}/files/papadopoulos.pdf">Computing multiple solutions of topology optimization problems</a>. DPhil viva: 2021-09-24. <br/>Co-supervised with <a href="http://people.maths.ox.ac.uk/suli/">Endre Süli</a>. Next step: a postdoc with <a href="http://wwwf.imperial.ac.uk/~solver/">Sheehan Olver</a> at Imperial College London.</figcaption>
+</figure>
+
+&nbsp;
+&nbsp;
+
+<figure>
+  <img src="{{site.url}}/images/boulle.jpg" alt="Nicolas Boullé"/>
+  <figcaption>Nicolas Boullé. <br/>Topic: Data-driven discovery of Green's functions. DPhil viva: 2022-08-30. <br/>Co-supervised with <a href="https://marierognes.org">Marie Rognes</a>. Next step: an INI-Simons Postdoctoral Fellowship at the University of Cambridge.</figcaption>
 </figure>
 
 &nbsp;
