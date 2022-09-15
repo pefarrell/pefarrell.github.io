@@ -44,6 +44,7 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 
 ## News
 
+<p>2022-09-05: I attended a workshop about the development of the <a href="https://excalibur.ac.uk/projects/excalibur-fusion-use-case-project-neptune-neutrals-plasma-turbulence-numerics-for-the-exascale/">UKAEA NEPTUNE edge plasma simulator</a>, part of the <a href="https://excalibur.ac.uk">ExCALIBUR programme</a>.</p>
 <p>2022-08-30: Congratulations to <a href=""https://people.maths.ox.ac.uk/boulle/>Nicolas Boullé</a> on passing his DPhil viva! Thanks to <a href="http://stuart.caltech.edu/">Andrew Stuart</a> and <a href="https://people.maths.ox.ac.uk/tanner/">Jared Tanner</a> for serving as examiners.</p>
 <p>2022-08-17: Good news! I have been promoted to full professor.</p>
 <p>2022-08-16: I gave a contributed talk at the <a href="https://www.bifd2022.org/">9th International Symposium on Bifurcations and Instabilities in Fluid Dynamics</a> in Groningen, the Netherlands.</p>
