@@ -45,6 +45,7 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 
 ## News
 
+<p>2022-09-28: Congratulations to <a href="https://aznaran.com">Francis Aznaran</a> on passing his DPhil viva! Thanks to <a href="https://www.imperial.ac.uk/people/colin.cotter">Colin Cotter</a> and <a href="https://www.maths.ox.ac.uk/people/kathryn.gillow">Kathryn Gillow</a> for serving as examiners.</p>
 <p>2022-09-20: Congratulations to <a href="https://www.maths.ox.ac.uk/people/fabian.laakmann">Fabian Laakmann</a> on passing his DPhil viva! Thanks to <a href="https://www.sandia.gov/ccr/staff/john-n-shadid/">John Shadid</a> and <a href="https://www.maths.ox.ac.uk/people/andy.wathen">Andy Wathen</a> for serving as examiners.</p>
 <p>2022-09-15: Welcome to <a href="https://sites.google.com/view/alexferrer">Àlex Ferrer</a>, who is visiting me in Oxford for a year, funded by Universitat Politècnica de Catalunya and the Catalan government.</a>
 <p>2022-09-05: I attended a workshop about the development of the <a href="https://excalibur.ac.uk/projects/excalibur-fusion-use-case-project-neptune-neutrals-plasma-turbulence-numerics-for-the-exascale/">UKAEA NEPTUNE edge plasma simulator</a>, part of the <a href="https://excalibur.ac.uk">ExCALIBUR programme</a>.</p>

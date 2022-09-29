@@ -16,7 +16,7 @@ title: People
 
 <figure>
   <img src="{{site.url}}/images/betteridge.jpg" alt="Jack Betteridge"/>
-  <figcaption>Jack Betteridge. <br/>Funded on EPSRC grant <a href="https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V001493/1">Gen X: ExCALIBUR working group on Exascale continuum mechanics through code generation</a>.</figcaption>
+  <figcaption>Jack Betteridge. <br/>Funded on EPSRC grant <a href="https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W026163/1">SysGenX: Composable software generation for system-level simulation at Exascale</a>.</figcaption>
 </figure>
 
 
@@ -138,7 +138,7 @@ title: People
 
 <figure>
   <img src="{{site.url}}/images/roy.jpg" alt="Thomas Roy"/>
-  <figcaption>Thomas Roy. <br/>Postdoctoral topic: nonlinear solvers in reservoir models. <br/> Next step: a postdoc with <a href="https://people.llnl.gov/beck33">Victor Beck</a> at Lawrence Livermore National Laboratory.</figcaption>
+  <figcaption><a href="https://people.llnl.gov/roy27">Thomas Roy</a>. <br/>Postdoctoral topic: nonlinear solvers in reservoir models. <br/> Next step: a postdoc with <a href="https://people.llnl.gov/beck33">Victor Beck</a>, then an appointment as Staff Scientist at Lawrence Livermore National Laboratory.</figcaption>
 </figure>
 
 &nbsp;
