@@ -33,7 +33,7 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 [petsc4py](https://bitbucket.org/petsc/petsc4py), and
 [firedrake](https://www.firedrakeproject.org/).
 
-## Forthcoming
+<h2 id="forthcoming">Forthcoming</h2>
 
 <p>2023-08-14: I am organising a conference on <a href="https://21stcenturyna.github.io/">Numerical Analysis in the 21st Century</a>, in honour of the retirement from Oxford of <a href="https://people.maths.ox.ac.uk/trefethen/">Nick Trefethen</a>.
 <p>2023-05-29: I will give a mini lecture course at the <a href="https://essam-masc.cuni.cz/index.php?file=essam&mitem=2&hitem=_emasc">EMS summer school on mathematical modelling, numerical analysis and scientific computing</a> in Kácov, Czechia, that was deferred from 2020.</p>
@@ -44,7 +44,7 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 <p>2022-11-07: I will give a talk in the <a href="https://sites.tufts.edu/appliedmathseminar/">Tufts Applied Mathematics seminar</a>, hosted by <a href="https://mkilme01.pages.tufts.edu/">Misha Kilmer</a> and <a href="https://jadler.math.tufts.edu/">James Adler</a>.</p>
 <p>2022-11-04: I will give a talk in the Courant <a href="https://cs.nyu.edu/dynamic/news/seminar_event/1279/">Numerical Analysis and Scientific Computing seminar</a>, hosted by <a href="https://math.nyu.edu/~stadler/">Georg Stadler</a> and <a href="https://cims.nyu.edu/~pehersto/">Benjamin Peherstorfer</a>.</p>
 
-## News
+<h2 id="news">News</h2>
 
 <p>2022-10-07: Congratulations to Alexander Van-Brunt on passing his DPhil viva! Thanks to <a href="http://www.cchem.berkeley.edu/jsngrp/">John Newman</a> and <a href="http://people.maths.ox.ac.uk/suli/">Endre Süli</a> for serving as examiners.</p>
 <p>2022-10-02: I organised a workshop on <a href="https://www.birs.ca/event/22w5159">Defects and Distortions of Layered Complex Fluids (22w5159)</a> at the Banff International Research Station, Canada, alongside <a href="https://www.math.mun.ca/~smaclachlan/">Scott MacLachlan</a>, <a href="https://sites.tufts.edu/softmattertheory/author/tather01/">Tim Atherton</a>, <a href="http://www.insp.upmc.fr/-Lacaze-Emmanuelle-.html?lang=en">Emmanuelle Lacaze</a> and <a href="https://www.sdu.dk/en/forskning/fysik/forskere/bsmp/francescaserra">Francesca Serra</a>.</p>
