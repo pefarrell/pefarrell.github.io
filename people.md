@@ -24,6 +24,22 @@ title: People
 
 
 <figure>
+  <img src="{{site.url}}/images/marsden.jpg" alt="India Marsden"/>
+  <figcaption>India Marsden. <br/>Topic: compiler techniques for exotic finite element discretisations.</figcaption>
+</figure>
+
+&nbsp;
+&nbsp;
+
+<figure>
+  <img src="{{site.url}}/images/zerbinati.jpg" alt="Umberto Zerbinati"/>
+  <figcaption>Umberto Zerbinati. <br/>Topic: modelling and discretisation of smectic liquid crystals.</figcaption>
+</figure>
+
+&nbsp;
+&nbsp;
+
+<figure>
   <img src="{{site.url}}/images/gonzalez.png" alt="Gonzalo Gonzalez de Diego"/>
   <figcaption>Gonzalo Gonzalez de Diego. <br/>Topic: contact problems in glaciology. <br/>Co-supervised with <a href="http://people.maths.ox.ac.uk/hewitt/">Ian Hewitt</a>.</figcaption>
 </figure>
