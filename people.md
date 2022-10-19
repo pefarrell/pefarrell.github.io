@@ -22,6 +22,14 @@ title: People
 
 ## DPhil students
 
+<figure>
+  <img src="{{site.url}}/images/baier-reinio.png" alt="Aaron Baier-Reinio"/>
+  <figcaption>Aaron Baier-Reinio. <br/>Topic: discretisations for multicomponent flow.</figcaption>
+</figure>
+
+&nbsp;
+&nbsp;
+
 
 <figure>
   <img src="{{site.url}}/images/marsden.jpg" alt="India Marsden"/>
