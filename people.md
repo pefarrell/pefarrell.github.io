@@ -204,5 +204,5 @@ title: People
 
 <figure>
   <img src="{{site.url}}/images/newell.jpg" alt="Isaac Newell"/>
-  <figcaption>Isaac Newell. <br/>Topic: bifurcation analysis of two coupled 3D Bose-Einstein condensates. <br/> 2021 Summer project funded by an <a href="https://www.lms.ac.uk/grants/URBList">LMS Undergraduate Research Bursary</a>. Next step: a DPhil scholarship at the Mathematical Institute in the OxPDE group.</figcaption>
+  <figcaption>Isaac Newell. <br/>Topic: bifurcation analysis of two coupled 3D Bose-Einstein condensates. <br/> 2021 Summer project funded by an <a href="https://www.lms.ac.uk/grants/URBList">LMS Undergraduate Research Bursary</a>. Next step: a DPhil scholarship at the Mathematical Institute with <a href="https://www.maths.ox.ac.uk/people/luc.nguyen">Luc Nguyen</a> and <a href="http://people.maths.ox.ac.uk/chengq/">Gui-Qiang Chen</a>.</figcaption>
 </figure>
