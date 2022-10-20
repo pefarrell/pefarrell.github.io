@@ -8,7 +8,7 @@ title: People
 ## Visiting faculty
 <figure>
   <img src="{{site.url}}/images/ferrer.png" alt="Àlex Ferrer"/>
-  <figcaption>Àlex Ferrer. <br/>Visiting Oct 2022 to Oct 2023, funded by a grant from the Universitat Politècnica de Catalunya and the Catalan government.</figcaption>
+  <figcaption><a href="https://sites.google.com/view/alexferrer">Àlex Ferrer</a>. <br/>Visiting Oct 2022 to Oct 2023, funded by a grant from the Universitat Politècnica de Catalunya and the Catalan government.</figcaption>
 </figure>
 
 
