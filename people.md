@@ -185,7 +185,7 @@ title: People
 ## Other alumni and visitors
 
 <figure>
-  <img src="{{site.url}}/images/kevrekidis.jpg" alt="Panos Kevrekidis"/>
+  <img src="{{site.url}}/images/kevrekidis.jpg" width="600px" alt="Panos Kevrekidis"/>
   <figcaption><a href="https://people.math.umass.edu/~kevrekid/">Panos Kevrekidis</a>. <br/>Topic: bifurcation analysis of Bose-Einstein condensates. <br/> <a href="https://www.leverhulme.ac.uk/visiting-professorships-2019">2019 Leverhulme Visiting Professorship</a>. </figcaption>
 </figure>
 
