@@ -64,30 +64,6 @@ title: People
 &nbsp;
 
 <figure>
-  <img src="{{site.url}}/images/laakmann.jpg" alt="Fabian Laakmann"/>
-  <figcaption>Fabian Laakmann. <br/>Topic: robust preconditioners for magnetohydrodynamics.</figcaption>
-</figure>
-
-&nbsp;
-&nbsp;
-
-<figure>
-  <img src="{{site.url}}/images/aznaran.jpg" alt="Francis Aznaran"/>
-  <figcaption>Francis Aznaran. <br/>Topic: finite element discretisations and preconditioners in solid mechanics. <br/>Co-supervised with <a href="https://people.maths.ox.ac.uk/suli/">Endre Süli</a>.</figcaption>
-</figure>
-
-&nbsp;
-&nbsp;
-
-<figure>
-  <img src="{{site.url}}/images/vanbrunt.jpg" alt="Alexander Van-Brunt"/>
-  <figcaption>Alexander Van-Brunt. <br/>Topic: finite element methods for the Onsager-Stefan-Maxwell mass transport equations. <br/>Co-supervised with <a href="http://monroegroup.spc.ox.ac.uk/">Charles Monroe</a>.</figcaption>
-</figure>
-
-&nbsp;
-&nbsp;
-
-<figure>
   <img src="{{site.url}}/images/andrews.png" alt="Boris Andrews"/>
   <figcaption>Boris Andrews. <br/>Topic: numerical bifurcation analysis of natural convection. <br/>Co-supervised with <a href="https://scholar.google.co.uk/citations?user=XRAFAoEAAAAJ&hl=en">Wayne Arter</a>.</figcaption>
 </figure>
@@ -101,7 +77,7 @@ title: People
 </figure>
 --->
 
-## Alumni
+## DPhil graduates
 
 <figure>
   <img src="{{site.url}}/images/wechsung.jpg" alt="Florian Wechsung"/>
@@ -153,12 +129,37 @@ title: People
 
 <figure>
   <img src="{{site.url}}/images/boulle.jpg" alt="Nicolas Boullé"/>
-  <figcaption>Nicolas Boullé. <br/>Topic: Data-driven discovery of Green's functions. DPhil viva: 2022-08-30. <br/>Co-supervised with <a href="https://marierognes.org">Marie Rognes</a>. Next step: an INI-Simons Postdoctoral Fellowship at the University of Cambridge.</figcaption>
+  <figcaption>Nicolas Boullé. <br/>Topic: <a href="{{site.url}}/files/boulle.pdf">Data-driven discovery of Green's functions</a>. DPhil viva: 2022-08-30. <br/>Co-supervised with <a href="https://marierognes.org">Marie Rognes</a> and <a href="https://pi.math.cornell.edu/~ajt/">Alex Townsend</a>. Next step: an INI-Simons Postdoctoral Fellowship at the University of Cambridge.</figcaption>
 </figure>
 
 &nbsp;
 &nbsp;
 
+<figure>
+  <img src="{{site.url}}/images/laakmann.jpg" alt="Fabian Laakmann"/>
+  <figcaption>Fabian Laakmann. <br/>Topic: <a href="{{site.url}}/files/laakmann.pdf">Discretisations and preconditioners for magnetohydrodynamics models</a>. DPhil viva: 2022-09-20. <br/> Next step: backpacking in southeast Asia.</figcaption>
+</figure>
+
+&nbsp;
+&nbsp;
+
+<figure>
+  <img src="{{site.url}}/images/aznaran.jpg" alt="Francis Aznaran"/>
+  <figcaption>Francis Aznaran. <br/>Topic: Discretisation of Hodge Laplacians in the elasticity complex. DPhil viva: 2022-09-28. <br/>Co-supervised with <a href="https://people.maths.ox.ac.uk/suli/">Endre Süli</a>. Next step: an independent EPSRC postdoctoral position in the Mathematical Institute.</figcaption>
+</figure>
+
+&nbsp;
+&nbsp;
+
+<figure>
+  <img src="{{site.url}}/images/vanbrunt.jpg" alt="Alexander Van-Brunt"/>
+  <figcaption>Alexander Van-Brunt. <br/>Topic: Finite element methods for the Onsager-Stefan-Maxwell equations. DPhil viva: 2022-10-07. <br/>Co-supervised with <a href="http://monroegroup.spc.ox.ac.uk/">Charles Monroe</a>. Next step: Research engineer at Bosch, Sunnyvale, California.</figcaption>
+</figure>
+
+&nbsp;
+&nbsp;
+
+## Postdoctoral alumni
 
 <figure>
   <img src="{{site.url}}/images/roy.jpg" alt="Thomas Roy"/>
@@ -183,6 +184,8 @@ title: People
 
 &nbsp;
 &nbsp;
+
+## Other alumni
 
 <figure>
   <img src="{{site.url}}/images/gachemi.jpg" alt="Geoffrey Gachemi"/>
