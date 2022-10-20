@@ -23,6 +23,28 @@ title: People
 ## DPhil students
 
 <figure>
+  <img src="{{site.url}}/images/gonzalez.png" alt="Gonzalo Gonzalez de Diego"/>
+  <figcaption>Gonzalo Gonzalez de Diego. <br/>Topic: contact problems in glaciology. <br/>Co-supervised with <a href="http://people.maths.ox.ac.uk/hewitt/">Ian Hewitt</a>.</figcaption>
+</figure>
+
+&nbsp;
+&nbsp;
+
+<figure>
+  <img src="{{site.url}}/images/brubeck.jpg" alt="Pablo Brubeck"/>
+  <figcaption>Pablo Brubeck. <br/>Topic: preconditioners for spectral/hp discretisations.</figcaption>
+</figure>
+
+&nbsp;
+&nbsp;
+
+<figure>
+  <img src="{{site.url}}/images/andrews.png" alt="Boris Andrews"/>
+  <figcaption>Boris Andrews. <br/>Topic: numerical bifurcation analysis of natural convection. <br/>Co-supervised with <a href="https://scholar.google.co.uk/citations?user=XRAFAoEAAAAJ&hl=en">Wayne Arter</a>.</figcaption>
+</figure>
+
+
+<figure>
   <img src="{{site.url}}/images/baier-reinio.png" alt="Aaron Baier-Reinio"/>
   <figcaption>Aaron Baier-Reinio. <br/>Topic: discretisations for multicomponent flow.</figcaption>
 </figure>
@@ -47,34 +69,9 @@ title: People
 &nbsp;
 &nbsp;
 
-<figure>
-  <img src="{{site.url}}/images/gonzalez.png" alt="Gonzalo Gonzalez de Diego"/>
-  <figcaption>Gonzalo Gonzalez de Diego. <br/>Topic: contact problems in glaciology. <br/>Co-supervised with <a href="http://people.maths.ox.ac.uk/hewitt/">Ian Hewitt</a>.</figcaption>
-</figure>
-
-&nbsp;
-&nbsp;
-
-<figure>
-  <img src="{{site.url}}/images/brubeck.jpg" alt="Pablo Brubeck"/>
-  <figcaption>Pablo Brubeck. <br/>Topic: preconditioners for spectral/hp discretisations.</figcaption>
-</figure>
-
-&nbsp;
-&nbsp;
-
-<figure>
-  <img src="{{site.url}}/images/andrews.png" alt="Boris Andrews"/>
-  <figcaption>Boris Andrews. <br/>Topic: numerical bifurcation analysis of natural convection. <br/>Co-supervised with <a href="https://scholar.google.co.uk/citations?user=XRAFAoEAAAAJ&hl=en">Wayne Arter</a>.</figcaption>
-</figure>
-
 <!---
 ## MSc and undergraduate students
 
-<figure>
-  <img src="{{site.url}}/images/newell.jpg" alt="Isaac Newell"/>
-  <figcaption>Isaac Newell. <br/>Topic: bifurcation analysis of two coupled 3D Bose-Einstein condensates. <br/> Funded by an <a href="https://www.lms.ac.uk/grants/URBList">LMS Undergraduate Research Bursary</a>.</figcaption>
-</figure>
 --->
 
 ## DPhil graduates
@@ -190,4 +187,13 @@ title: People
 <figure>
   <img src="{{site.url}}/images/gachemi.jpg" alt="Geoffrey Gachemi"/>
   <figcaption>Geoffrey Gachemi. <br/>Topic: goal-oriented error estimation in bifurcation analysis. <br/> Summer project funded by a <a href="https://www.maths.ox.ac.uk/node/39469">Mfano Africa virtual mentorship</a>. Next step: continuing as a lecturer at the <a href="https://staff.tukenya.ac.ke/?r=portal/profile/public&id=2058">Technical University of Kenya</a>.</figcaption>
+</figure>
+
+&nbsp;
+&nbsp;
+
+
+<figure>
+  <img src="{{site.url}}/images/newell.jpg" alt="Isaac Newell"/>
+  <figcaption>Isaac Newell. <br/>Topic: bifurcation analysis of two coupled 3D Bose-Einstein condensates. <br/> Summer project funded by an <a href="https://www.lms.ac.uk/grants/URBList">LMS Undergraduate Research Bursary</a>. Next step: a DPhil scholarship at the Mathematical Institute in the OxPDE group.</figcaption>
 </figure>
