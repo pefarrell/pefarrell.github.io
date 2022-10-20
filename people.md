@@ -182,11 +182,20 @@ title: People
 &nbsp;
 &nbsp;
 
-## Other alumni
+## Other alumni and visitors
+
+<figure>
+  <img src="{{site.url}}/images/kevrekidis.jpg" alt="Panos Kevrekidis"/>
+  <figcaption><a href="https://people.math.umass.edu/~kevrekid/">Panos Kevrekidis</a>. <br/>Topic: bifurcation analysis of Bose-Einstein condensates. <br/> <a href="https://www.leverhulme.ac.uk/visiting-professorships-2019">2019 Leverhulme Visiting Professorship</a>. </figcaption>
+</figure>
+
+&nbsp;
+&nbsp;
+
 
 <figure>
   <img src="{{site.url}}/images/gachemi.jpg" alt="Geoffrey Gachemi"/>
-  <figcaption>Geoffrey Gachemi. <br/>Topic: goal-oriented error estimation in bifurcation analysis. <br/> Summer project funded by a <a href="https://www.maths.ox.ac.uk/node/39469">Mfano Africa virtual mentorship</a>. Next step: continuing as a lecturer at the <a href="https://staff.tukenya.ac.ke/?r=portal/profile/public&id=2058">Technical University of Kenya</a>.</figcaption>
+  <figcaption>Geoffrey Gachemi. <br/>Topic: goal-oriented error estimation in bifurcation analysis. <br/> 2021 Summer project funded by a <a href="https://www.maths.ox.ac.uk/node/39469">Mfano Africa virtual mentorship</a>. Next step: continuing as a lecturer at the <a href="https://staff.tukenya.ac.ke/?r=portal/profile/public&id=2058">Technical University of Kenya</a>.</figcaption>
 </figure>
 
 &nbsp;
@@ -195,5 +204,5 @@ title: People
 
 <figure>
   <img src="{{site.url}}/images/newell.jpg" alt="Isaac Newell"/>
-  <figcaption>Isaac Newell. <br/>Topic: bifurcation analysis of two coupled 3D Bose-Einstein condensates. <br/> Summer project funded by an <a href="https://www.lms.ac.uk/grants/URBList">LMS Undergraduate Research Bursary</a>. Next step: a DPhil scholarship at the Mathematical Institute in the OxPDE group.</figcaption>
+  <figcaption>Isaac Newell. <br/>Topic: bifurcation analysis of two coupled 3D Bose-Einstein condensates. <br/> 2021 Summer project funded by an <a href="https://www.lms.ac.uk/grants/URBList">LMS Undergraduate Research Bursary</a>. Next step: a DPhil scholarship at the Mathematical Institute in the OxPDE group.</figcaption>
 </figure>
