@@ -47,7 +47,8 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 
 <h2 id="news">News</h2>
 
-<p>2022-10-19: Pablo Brubeck spoke in the Imperial–UCL Numerics Seminar.</p>
+<p>2022-10-27: Congratulations to Nicolas Boullé on his commendation by the Divisional Board of Examiners for his excellent thesis.</p>
+<p>2022-10-19: Pablo Brubeck spoke in the Imperial-UCL Numerics Seminar.</p>
 <p>2022-10-07: Congratulations to Alexander Van-Brunt on passing his DPhil viva! Thanks to <a href="http://www.cchem.berkeley.edu/jsngrp/">John Newman</a> and <a href="http://people.maths.ox.ac.uk/suli/">Endre Süli</a> for serving as examiners.</p>
 <p>2022-10-03: Welcome to Aaron Baier-Reinio, India Marsden, and Umberto Zerbinati, who each start their DPhil studies today!</p>
 <p>2022-10-02: I organised a workshop on <a href="https://www.birs.ca/event/22w5159">Defects and Distortions of Layered Complex Fluids (22w5159)</a> at the Banff International Research Station, Canada, alongside <a href="https://www.math.mun.ca/~smaclachlan/">Scott MacLachlan</a>, <a href="https://sites.tufts.edu/softmattertheory/author/tather01/">Tim Atherton</a>, <a href="http://www.insp.upmc.fr/-Lacaze-Emmanuelle-.html?lang=en">Emmanuelle Lacaze</a> and <a href="https://www.sdu.dk/en/forskning/fysik/forskere/bsmp/francescaserra">Francesca Serra</a>.</p>
