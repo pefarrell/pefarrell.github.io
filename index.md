@@ -43,11 +43,11 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 <p>2022-12-05: I will give a talk in the <a href="https://cemse.kaust.edu.sa/cs/events/graduate-seminar">KAUST Computer Science Graduate Seminar</a>, hosted by <a href="https://www.kaust.edu.sa/en/study/faculty/david-keyes">David Keyes</a>.</p>
 <p>2022-11-07: I will give a talk in the <a href="https://sites.tufts.edu/appliedmathseminar/">Tufts Applied Mathematics seminar</a>, hosted by <a href="https://mkilme01.pages.tufts.edu/">Misha Kilmer</a> and <a href="https://jadler.math.tufts.edu/">James Adler</a>.</p>
 <p>2022-11-04: I will give a talk in the Courant <a href="https://cs.nyu.edu/dynamic/news/seminar_event/1279/">Numerical Analysis and Scientific Computing seminar</a>, hosted by <a href="https://math.nyu.edu/~stadler/">Georg Stadler</a> and <a href="https://cims.nyu.edu/~pehersto/">Benjamin Peherstorfer</a>.</p>
-<p>2022-10-21: Francis Aznaran will give a talk in the <a href="https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/applmath/">Applied Mathematics seminar in Warwick</a>.</p>
 
 <h2 id="news">News</h2>
 
 <p>2022-10-27: Congratulations to Nicolas Boullé on his commendation by the Divisional Board of Examiners for his excellent thesis.</p>
+<p>2022-10-21: Francis Aznaran gave a talk in the <a href="https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/applmath/">Applied Mathematics seminar in Warwick</a>.</p>
 <p>2022-10-19: Pablo Brubeck spoke in the Imperial-UCL Numerics Seminar.</p>
 <p>2022-10-07: Congratulations to Alexander Van-Brunt on passing his DPhil viva! Thanks to <a href="http://www.cchem.berkeley.edu/jsngrp/">John Newman</a> and <a href="http://people.maths.ox.ac.uk/suli/">Endre Süli</a> for serving as examiners.</p>
 <p>2022-10-03: Welcome to Aaron Baier-Reinio, India Marsden, and Umberto Zerbinati, who each start their DPhil studies today!</p>
