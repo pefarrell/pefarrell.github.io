@@ -5,8 +5,7 @@ title: Patrick E. Farrell
 &nbsp;
 &nbsp;
 
-I am an [Associate Professor of Numerical Analysis and Scientific
-Computing](https://www.maths.ox.ac.uk/people/patrick.farrell) in the
+I am a [Professor](https://www.maths.ox.ac.uk/people/patrick.farrell) in the
 [Numerical Analysis
 group](https://www.maths.ox.ac.uk/groups/numerical-analysis) of the
 University of Oxford, and a Tutorial Fellow at [Oriel
