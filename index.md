@@ -46,6 +46,7 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 <h2 id="news">News</h2>
 
 <p>2022-11-10: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2211.05494">two conjectures on the Stokes complex in three dimensions on Freudenthal meshes</a>, with <a href="http://people.cs.uchicago.edu/~ridg/">Ridgway Scott</a> and <a href="https://www.imperial.ac.uk/people/lawrence.mitchell">Lawrence Mitchell</a>.</p>
+<p>2022-11-07: Gonzalo Gonzalez de Diego gave a talk in the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfnhT5wmr1UNK2YK6dUiAVjqQZRX452BG4Vg9re0tyGN4HV-A/viewform">Mathematics on Ice</a> seminar series, on "A numerical exploration of glacier sliding with cavitation".</p>
 <p>2022-11-07: I gave a talk in the <a href="https://sites.tufts.edu/appliedmathseminar/">Tufts Applied Mathematics seminar</a>, hosted by <a href="https://mkilme01.pages.tufts.edu/">Misha Kilmer</a> and <a href="https://jadler.math.tufts.edu/">James Adler</a>.</p>
 <p>2022-11-04: I gave a talk in the Courant <a href="https://cs.nyu.edu/dynamic/news/seminar_event/1279/">Computational Mathematics and Scientific Computing seminar</a>, hosted by <a href="https://math.nyu.edu/~stadler/">Georg Stadler</a> and <a href="https://cims.nyu.edu/~pehersto/">Benjamin Peherstorfer</a>.</p>
 <p>2022-10-27: Congratulations to Nicolas Boullé on his commendation by the Divisional Board of Examiners for his excellent thesis.</p>
