@@ -45,6 +45,8 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 
 <h2 id="news">News</h2>
 
+<p>2021-11-25: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2211.14284">solvers for the Riesz maps of the de Rham complex with optimal complexity in polynomial degree</a>, with <a href="https://www.linkedin.com/in/pablo-brubeck-625713a5/?originalSubdomain=uk">Pablo Brubeck</a>. These allow us to solve certain canonical problems with very high polynomial degree (up to <i>p=31</i>) on unstructured meshes in 3D.</p>
+<p>2022-11-24: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2211.13505">how to enforce electroneutrality in Onsager-Stefan-Maxwell models with charged species</a>, with <a href="https://www.linkedin.com/in/alexander-van-brunt-595a7a146">Alexander Van-Brunt</a> and <a href="https://eng.ox.ac.uk/monroe-research-group/">Charles Monroe</a>.</p>
 <p>2022-11-10: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2211.05494">two conjectures on the Stokes complex in three dimensions on Freudenthal meshes</a>, with <a href="http://people.cs.uchicago.edu/~ridg/">Ridgway Scott</a> and <a href="https://www.imperial.ac.uk/people/lawrence.mitchell">Lawrence Mitchell</a>.</p>
 <p>2022-11-07: Gonzalo Gonzalez de Diego gave a talk in the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfnhT5wmr1UNK2YK6dUiAVjqQZRX452BG4Vg9re0tyGN4HV-A/viewform">Mathematics on Ice</a> seminar series, on "A numerical exploration of glacier sliding with cavitation".</p>
 <p>2022-11-07: I gave a talk in the <a href="https://sites.tufts.edu/appliedmathseminar/">Tufts Applied Mathematics seminar</a>, hosted by <a href="https://mkilme01.pages.tufts.edu/">Misha Kilmer</a> and <a href="https://jadler.math.tufts.edu/">James Adler</a>.</p>
