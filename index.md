@@ -43,11 +43,12 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 <p>2023-02-16: I will host <a href="https://omula.gitlab.io/">Olga Mula</a> for a talk in the <a href="https://www.maths.ox.ac.uk/node/61490">Computational Mathematics and Applications seminar</a>.</p>
 <p>2023-02-13: I will give an invited talk at the <a href="https://www2.thphy.uni-duesseldorf.de/SPP2265ws0223/index.php">Mathematics and microscopic theory for random soft matter systems</a> workshop organised by <a href="https://www2.thphy.uni-duesseldorf.de/~wittmann/">René Wittmann</a>, <a href="https://www2.thphy.uni-duesseldorf.de/~hlowen/">Hartmut Löwen</a> and <a href="https://www.dlr.de/mp/en/desktopdefault.aspx/tabid-2658/3994_read-20239/sortby-lastname/">Matthias Sperl</a>.</p>
 <p>2023-02-09: I will host <a href="https://bueler.github.io/">Ed Bueler</a> for a talk in the <a href="https://www.maths.ox.ac.uk/node/61476">Computational Mathematics and Applications seminar</a>.</p>
+<p>2023-01-26: Umberto Zerbinati will give a talk on nematoacoustics at the <a href="https://www.asc.tuwien.ac.at/gamm2023/">22nd GAMM Seminar on Microstructures</a> in Vienna, Austria.
 <p>2023-01-18: I will host <a href="https://mkilme01.pages.tufts.edu/">Misha Kilmer</a> for a talk in the <a href="https://www.maths.ox.ac.uk/node/60817">Computational Mathematics and Applications seminar</a>.</p>
-<p>2023-01-04: I will give a talk in the <a href="https://www.firedrakeproject.org/firedrake_22.html">Firedrake meeting</a>.</p>
 
 <h2 id="news">News</h2>
 
+<p>2023-01-04: I gave a talk in the <a href="https://www.firedrakeproject.org/firedrake_22.html">Firedrake meeting</a>, as did Umberto Zerbinati, India Marsden, and Francis Aznaran.</p>
 <p>2022-12-13: I served on the PhD jury of <a href="https://michaloutrata.com/">Michal Outrata</a>, a student of <a href="http://www.unige.ch/~gander/">Martin Gander</a>, at the University of Geneva.
 <p>2022-12-06: I gave a talk in the <a href="https://cemse.kaust.edu.sa/amcs/events/mathematics-and-applications-colloquium">KAUST Mathematics and Applications Colloquium</a>, hosted by <a href="https://cemse.kaust.edu.sa/sna/people/person/jinchao-xu">Jinchao Xu</a>.</p>
 <p>2022-12-05: I gave a talk in the <a href="https://cemse.kaust.edu.sa/cs/events/graduate-seminar">KAUST Computer Science Graduate Seminar</a>, hosted by <a href="https://www.kaust.edu.sa/en/study/faculty/david-keyes">David Keyes</a>.</p>
