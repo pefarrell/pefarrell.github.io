@@ -34,6 +34,7 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 
 <h2 id="forthcoming">Forthcoming</h2>
 
+<p>2023-08-20: I will give a talk in the <a href="https://iciam2023.org/accepted_ms#01054_Scalable_Solvers_for_Multiphysics_Problems">Scalable Solvers for Multiphysics Problems minisymposium</a> at ICIAM, organised by <a href="https://searhein.github.io/">Alexander Heinlein</a> and <a href="https://www.unibw.de/imcs-en/team/mayr">Matthias Mayr</a>.</p>
 <p>2023-08-14: I am organising a conference on <a href="https://21stcenturyna.github.io/">Numerical Analysis in the 21st Century</a>, in honour of the retirement from Oxford of <a href="https://people.maths.ox.ac.uk/trefethen/">Nick Trefethen</a>.
 <p>2023-05-29: I will give a mini lecture course at the <a href="https://ems-masc.cuni.cz/">EMS summer school on mathematical modelling, numerical analysis and scientific computing</a> in Kácov, Czechia.</p>
 <p>2023-03-28: I will give two talks at the Memorial University of Newfoundland, hosted by <a href="https://www.math.mun.ca/~smaclachlan/">Scott MacLachlan</a>, and generously supported by an <a href="https://aarms.math.ca/programs/distinguished-lecturers/">Atlantic Association for Research in the Mathematical Sciences Distinguished Lectureship</a>.</p>
