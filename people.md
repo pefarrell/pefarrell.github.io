@@ -15,6 +15,11 @@ title: People
 ## Postdoctoral research associates
 
 <figure>
+  <img src="{{site.url}}/images/sap.jpg" alt="Duygu Sap"/>
+  <figcaption><a href="https://duygusap.com/">Duygu Sap</a>. <br/>Funded on EPSRC grant <a href="https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/R029423/1">PRISM: Platform for Research in Simulation Methods</a>.</figcaption>
+</figure>
+
+<figure>
   <img src="{{site.url}}/images/betteridge.jpg" alt="Jack Betteridge"/>
   <figcaption>Jack Betteridge. <br/>Funded on EPSRC grant <a href="https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W026163/1">SysGenX: Composable software generation for system-level simulation at Exascale</a>.</figcaption>
 </figure>
