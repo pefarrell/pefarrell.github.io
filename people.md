@@ -147,7 +147,7 @@ title: People
 
 <figure>
   <img src="{{site.url}}/images/aznaran.jpg" alt="Francis Aznaran"/>
-  <figcaption>Francis Aznaran. <br/>Topic: Discretisation of Hodge Laplacians in the elasticity complex. DPhil viva: 2022-09-28. <br/>Co-supervised with <a href="https://people.maths.ox.ac.uk/suli/">Endre Süli</a>. Next step: an independent EPSRC postdoctoral position in the Mathematical Institute.</figcaption>
+  <figcaption>Francis Aznaran. <br/>Topic: <a href="{{site.url}}/files/aznaran.pdf">Discretisation of Hodge Laplacians in the elasticity complex</a>. DPhil viva: 2022-09-28. <br/>Co-supervised with <a href="https://people.maths.ox.ac.uk/suli/">Endre Süli</a>. Next step: an independent EPSRC postdoctoral position in the Mathematical Institute.</figcaption>
 </figure>
 
 &nbsp;
