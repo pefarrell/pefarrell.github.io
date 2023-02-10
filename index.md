@@ -43,11 +43,12 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 <p>2023-02-28: I will give a talk in the <a href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=75551">Advances in Large-Scale Solvers in Computational Science and Engineering minisymposium</a> at SIAM CSE23, organised by <a href="https://personal.math.vt.edu/sturler/">Eric de Sturler</a> and <a href="https://www.cs.ubc.ca/~greif/">Chen Greif</a>.</p>
 <p>2023-02-16: I will host <a href="https://omula.gitlab.io/">Olga Mula</a> for a talk in the <a href="https://www.maths.ox.ac.uk/node/61490">Computational Mathematics and Applications seminar</a>.</p>
 <p>2023-02-13: I will give an invited talk at the <a href="https://www2.thphy.uni-duesseldorf.de/SPP2265ws0223/index.php">Mathematics and microscopic theory for random soft matter systems</a> workshop organised by <a href="https://www2.thphy.uni-duesseldorf.de/~wittmann/">René Wittmann</a>, <a href="https://www2.thphy.uni-duesseldorf.de/~hlowen/">Hartmut Löwen</a> and <a href="https://www.dlr.de/mp/en/desktopdefault.aspx/tabid-2658/3994_read-20239/sortby-lastname/">Matthias Sperl</a>.</p>
-<p>2023-02-09: I will host <a href="https://bueler.github.io/">Ed Bueler</a> for a talk in the <a href="https://www.maths.ox.ac.uk/node/61476">Computational Mathematics and Applications seminar</a>.</p>
-<p>2023-01-26: Umberto Zerbinati will give a talk on nematoacoustics at the <a href="https://www.asc.tuwien.ac.at/gamm2023/">22nd GAMM Seminar on Microstructures</a> in Vienna, Austria.
 
 <h2 id="news">News</h2>
 
+<p>2023-02-09: I hosted <a href="https://bueler.github.io/">Ed Bueler</a> for a talk in the <a href="https://www.maths.ox.ac.uk/node/61476">Computational Mathematics and Applications seminar</a>.</p>
+<p>2023-02-05: Duygu Sap has submitted a manuscript on <a href"https://arxiv.org/abs/2302.02434">discrete tensor product Bernstein-Gelfand-Gelfand sequences</a>, with <a href="https://www.uni-augsburg.de/en/fakultaet/mntf/math/prof/numa/alumni/francesca-bonizzoni/">Francesca Bonizzoni</a>, <a href="https://www.maths.ox.ac.uk/people/kaibo.hu">Kaibo Hu</a>, and <a href="https://simweb.iwr.uni-heidelberg.de/~gkanscha/en/">Guido Kanschat</a>.</p>
+<p>2023-01-26: Umberto Zerbinati gave a talk on nematoacoustics at the <a href="https://www.asc.tuwien.ac.at/gamm2023/">22nd GAMM Seminar on Microstructures</a> in Vienna, Austria.
 <p>2023-01-23: Welcome to <a href="https://duygusap.com/">Duygu Sap</a>, who starts as a postdoc with me, funded on <a href="https://prism.ac.uk/">the PRISM project</a>.</p>
 <p>2023-01-18: I hosted <a href="https://mkilme01.pages.tufts.edu/">Misha Kilmer</a> for a talk in the <a href="https://www.maths.ox.ac.uk/node/60817">Computational Mathematics and Applications seminar</a>.</p>
 <p>2023-01-04: I gave a talk in the <a href="https://www.firedrakeproject.org/firedrake_22.html">Firedrake meeting</a>, as did Umberto Zerbinati, India Marsden, and Francis Aznaran.</p>
