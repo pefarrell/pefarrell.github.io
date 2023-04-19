@@ -42,6 +42,7 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 
 <h2 id="news">News</h2>
 
+<p>2023-04-17: Welcome to <a href="https://scholar.google.co.uk/citations?user=mz7BJFAAAAAJ&hl=en&oi=ao">Maryam Parvizi</a>, who is a long-term visitor from Leibniz University Hannover on a <a href="https://www.phoenixd.uni-hannover.de/en/about/news/news-details/news/mathematician-dr-maryam-parvizi-receives-humboldt-research-fellowship/">Humboldt Fellowship</a>.</p>
 <p>2023-03-28: I gave two talks at the Memorial University of Newfoundland, hosted by <a href="https://www.math.mun.ca/~smaclachlan/">Scott MacLachlan</a>, and generously supported by an <a href="https://aarms.math.ca/programs/distinguished-lecturers/">Atlantic Association for Research in the Mathematical Sciences Distinguished Lectureship</a>.</p>
 <p>2023-03-04: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2303.01425">smectic structures in button-like confinements</a>.</p>
 <p>2023-03-01: Pablo Brubeck gave a talk in the <a href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=75449">Exterior Calculus in Numerical Computing, Modeling, and Simulation</a> minisymposium at SIAM CSE23, organised by <a href="https://www.math.wustl.edu/~astern/">Ari Stern</a>, <a href="http://jpfairbanks.com/">James Fairbanks</a>, <a href="https://www.simula.no/people/ingeborg">Ingeborg Gjerde</a>, and <a href="https://www.maths.ox.ac.uk/people/kaibo.hu">Kaibo Hu</a>.</p>

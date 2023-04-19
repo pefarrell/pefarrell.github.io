@@ -11,6 +11,12 @@ title: People
   <figcaption><a href="https://sites.google.com/view/alexferrer">Àlex Ferrer</a>. <br/>Visiting Oct 2022 to Oct 2023, funded by a grant from the Universitat Politècnica de Catalunya and the Catalan government.</figcaption>
 </figure>
 
+## Visiting research fellows
+<figure>
+  <img src="{{site.url}}/images/parvizi.jpg" alt="Maryam Parvizi"/>
+  <figcaption><a href="https://scholar.google.co.uk/citations?user=mz7BJFAAAAAJ&hl=en&oi=ao">Maryam Parvizi</a>. <br/>Visiting Apr 2023 to Apr 2024, funded by a Humboldt Fellowship and Leibniz University Hannover.</figcaption>
+</figure>
+
 
 ## Postdoctoral research associates
 
