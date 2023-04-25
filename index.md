@@ -36,10 +36,11 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 
 <p>2024-02-07: I will teach a graduate school on using Firedrake to solve PDEs at ICERM, as part of the <a href="https://icerm.brown.edu/programs/sp-s24/">Numerical PDEs: Analysis, Algorithms, and Data Challenges</a> semester program.</p>
 <p>2023-08-20: I will give a talk in the <a href="https://iciam2023.org/accepted_ms#01054_Scalable_Solvers_for_Multiphysics_Problems">Scalable Solvers for Multiphysics Problems minisymposium</a> at ICIAM, organised by <a href="https://searhein.github.io/">Alexander Heinlein</a> and <a href="https://www.unibw.de/imcs-en/team/mayr">Matthias Mayr</a>.</p>
-<p>2023-08-20: Umberto Zerbinati will talk at ICIAM.</p>
+<p>2023-08-20: Umberto Zerbinati and Pablo Brubeck will talk at <a href="https://iciam2023.org/">ICIAM</a> in Tokyo, Japan.</p>
+<p>2023-08-14: Pablo Brubeck will talk at <a href="https://icosahom2023.org/">ICOSAHOM</a> in Seoul, South Korea.</p>
 <p>2023-08-14: I am organising a conference on <a href="https://21stcenturyna.github.io/">Numerical Analysis in the 21st Century</a>, in honour of the retirement from Oxford of <a href="https://people.maths.ox.ac.uk/trefethen/">Nick Trefethen</a>.
 <p>2023-07-09: Umberto Zerbinati will talk at the <a href="https://ngsolve.org/news/4th-ngsolve-user-meeting">NGSolve User Meeting</a> in Portland, Oregon.</p>
-<p>2023-06-27: Umberto Zerbinati will talk at the <a href="https://numericalanalysisconference.org.uk/">Strathclyde Numerical Analysis conference</a> in Glasgow, Scotland.</p>
+<p>2023-06-27: Umberto Zerbinati and Pablo Brubeck will talk at the <a href="https://numericalanalysisconference.org.uk/">Strathclyde Numerical Analysis conference</a> in Glasgow, Scotland.</p>
 <p>2023-06-14: Umberto Zerbinati, India Marsden, and Aaron Baier-Reinio will talk at the <a href="https://fenicsproject.org/fenics-2023/">FEniCS 2023 conference</a> in Cagliari, Italy.</p>
 <p>2023-05-29: I will teach at the <a href="https://ems-masc.cuni.cz/">EMS summer school on mathematical modelling, numerical analysis and scientific computing</a> in Kácov, Czechia.</p>
 <p>2023-05-12: Umberto Zerbinati will talk at the <a href="https://www.utwente.nl/en/eemcs/sacs/efef2023/">European Finite Element Fair</a>.</p>
