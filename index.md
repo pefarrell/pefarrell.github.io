@@ -41,7 +41,7 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 <p>2023-08-14: I am organising a conference on <a href="https://21stcenturyna.github.io/">Numerical Analysis in the 21st Century</a>, in honour of the retirement from Oxford of <a href="https://people.maths.ox.ac.uk/trefethen/">Nick Trefethen</a>.
 <p>2023-07-09: Umberto Zerbinati will talk at the <a href="https://ngsolve.org/news/4th-ngsolve-user-meeting">NGSolve User Meeting</a> in Portland, Oregon.</p>
 <p>2023-06-27: Umberto Zerbinati and Pablo Brubeck will talk at the <a href="https://numericalanalysisconference.org.uk/">Strathclyde Numerical Analysis conference</a> in Glasgow, Scotland.</p>
-<p>2023-06-14: Umberto Zerbinati, India Marsden, and Aaron Baier-Reinio will talk at the <a href="https://fenicsproject.org/fenics-2023/">FEniCS 2023 conference</a> in Cagliari, Italy.</p>
+<!-- <p>2023-06-14: Umberto Zerbinati, India Marsden, and Aaron Baier-Reinio will talk at the <a href="https://fenicsproject.org/fenics-2023/">FEniCS 2023 conference</a> in Cagliari, Italy.</p> -->
 <p>2023-05-29: I will teach at the <a href="https://ems-masc.cuni.cz/">EMS summer school on mathematical modelling, numerical analysis and scientific computing</a> in Kácov, Czechia.</p>
 <p>2023-05-12: Umberto Zerbinati will talk at the <a href="https://www.utwente.nl/en/eemcs/sacs/efef2023/">European Finite Element Fair</a>.</p>
 
