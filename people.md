@@ -145,7 +145,7 @@ title: People
 
 <figure>
   <img src="{{site.url}}/images/laakmann.jpg" alt="Fabian Laakmann"/>
-  <figcaption>Fabian Laakmann. <br/>Topic: <a href="{{site.url}}/files/laakmann.pdf">Discretisations and preconditioners for magnetohydrodynamics models</a>. DPhil viva: 2022-09-20. <br/> Next step: backpacking in southeast Asia.</figcaption>
+  <figcaption>Fabian Laakmann. <br/>Topic: <a href="{{site.url}}/files/laakmann.pdf">Discretisations and preconditioners for magnetohydrodynamics models</a>. DPhil viva: 2022-09-20. <br/> Next step: Machine Learning Mathematics Engineer with ASML.</figcaption>
 </figure>
 
 &nbsp;
