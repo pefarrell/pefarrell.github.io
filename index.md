@@ -48,6 +48,7 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 
 <h2 id="news">News</h2>
 
+<p>2023-05-19: Congratulations to Matteo Croci and Ioannis Papadopoulos on being <a href="https://www.eventsforce.net/turingevents/frontend/reg/tOtherPage.csp?pageID=106284&eventID=271&traceRedir=2">shortlisted for the 2023 IMA Leslie Fox Prize</a>!</p>
 <p>2023-04-21: I attended the <a href="https://www.maths.tcd.ie/~ksoodha/siamukie2023/">SIAM UKIE section annual meeting</a> in Trinity College Dublin. Aaron Baier-Reinio, India Marsden, and Umberto Zerbinati gave talks.</p>
 <p>2023-04-18: I attended a <a href="https://prism.ac.uk">PRISM</a> Hackathon at Missenden Abbey.</p>
 <p>2023-04-17: Welcome to <a href="https://scholar.google.co.uk/citations?user=mz7BJFAAAAAJ&hl=en&oi=ao">Maryam Parvizi</a>, who is a long-term visitor from Leibniz University Hannover on a <a href="https://www.phoenixd.uni-hannover.de/en/about/news/news-details/news/mathematician-dr-maryam-parvizi-receives-humboldt-research-fellowship/">Humboldt Fellowship</a>.</p>
