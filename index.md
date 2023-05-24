@@ -45,10 +45,10 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 <!-- <p>2023-06-14: Umberto Zerbinati, India Marsden, and Aaron Baier-Reinio will talk at the <a href="https://fenicsproject.org/fenics-2023/">FEniCS 2023 conference</a> in Cagliari, Italy.</p> -->
 <p>2023-06-01: Aaron Baier-Reinio will talk at the <a href="https://conference2023.oxfordsiam.com/en">SIAM UKIE National Student Chapter Conference</a>.</p>
 <p>2023-05-29: I will teach at the <a href="https://ems-masc.cuni.cz/">EMS summer school on mathematical modelling, numerical analysis and scientific computing</a> in Kácov, Czechia.</p>
-<p>2023-05-12: Umberto Zerbinati will talk at the <a href="https://www.utwente.nl/en/eemcs/sacs/efef2023/">European Finite Element Fair</a>.</p>
 
 <h2 id="news">News</h2>
 
+<p>2023-05-12: Umberto Zerbinati gave a talk at the <a href="https://www.utwente.nl/en/eemcs/sacs/efef2023/">European Finite Element Fair</a>.</p>
 <p>2023-05-19: Congratulations to Matteo Croci and Ioannis Papadopoulos on being <a href="https://www.eventsforce.net/turingevents/frontend/reg/tOtherPage.csp?pageID=106284&eventID=271&traceRedir=2">shortlisted for the 2023 IMA Leslie Fox Prize</a>!</p>
 <p>2023-04-21: I attended the <a href="https://www.maths.tcd.ie/~ksoodha/siamukie2023/">SIAM UKIE section annual meeting</a> in Trinity College Dublin. Aaron Baier-Reinio, India Marsden, and Umberto Zerbinati gave talks.</p>
 <p>2023-04-18: I attended a <a href="https://prism.ac.uk">PRISM</a> Hackathon at Missenden Abbey.</p>
