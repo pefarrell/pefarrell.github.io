@@ -21,9 +21,20 @@ title: People
 ## Postdoctoral research associates
 
 <figure>
+  <img src="{{site.url}}/images/brubeck.jpg" alt="Pablo Brubeck"/>
+  <figcaption>Pablo Brubeck. <br/>Funded on EPSRC grant <a href="https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W026163/1">SysGenX: Composable software generation for system-level simulation at Exascale</a>.</figcaption>
+</figure>
+
+&nbsp;
+&nbsp;
+
+<figure>
   <img src="{{site.url}}/images/sap.jpg" alt="Duygu Sap"/>
   <figcaption><a href="https://duygusap.com/">Duygu Sap</a>. <br/>Funded on EPSRC grant <a href="https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/R029423/1">PRISM: Platform for Research in Simulation Methods</a>.</figcaption>
 </figure>
+
+&nbsp;
+&nbsp;
 
 <figure>
   <img src="{{site.url}}/images/betteridge.jpg" alt="Jack Betteridge"/>
@@ -36,14 +47,6 @@ title: People
 <figure>
   <img src="{{site.url}}/images/gonzalez.png" alt="Gonzalo Gonzalez de Diego"/>
   <figcaption>Gonzalo Gonzalez de Diego. <br/>Topic: contact problems in glaciology. <br/>Co-supervised with <a href="http://people.maths.ox.ac.uk/hewitt/">Ian Hewitt</a>.</figcaption>
-</figure>
-
-&nbsp;
-&nbsp;
-
-<figure>
-  <img src="{{site.url}}/images/brubeck.jpg" alt="Pablo Brubeck"/>
-  <figcaption>Pablo Brubeck. <br/>Topic: preconditioners for spectral/hp discretisations.</figcaption>
 </figure>
 
 &nbsp;
@@ -166,6 +169,11 @@ title: People
 
 &nbsp;
 &nbsp;
+
+<figure>
+  <img src="{{site.url}}/images/brubeck.jpg" alt="Pablo Brubeck"/>
+  <figcaption>Pablo Brubeck. <br/>Topic: Optimal complexity and robust multigrid methods for high-order FEM. DPhil viva: 2023-02-15. Next step: a postdoctoral research associate position with me.</figcaption>
+</figure>
 
 ## Postdoctoral alumni
 
