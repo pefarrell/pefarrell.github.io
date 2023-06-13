@@ -47,6 +47,7 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 
 <h2 id="news">News</h2>
 
+<p>2023-06-13: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2305.17571">discrete breathers in Klein-Gordon lattices</a>.</p>
 <p>2023-05-29: I gave a short course on numerical bifurcation analysis at the <a href="https://ems-masc.cuni.cz/">EMS summer school on mathematical modelling, numerical analysis and scientific computing</a> in Kácov, Czechia. <a href="{{site.url}}/files/kacov2023.pdf">The slides are available here</a>.</p>
 <p>2023-05-12: Umberto Zerbinati gave a talk at the <a href="https://www.utwente.nl/en/eemcs/sacs/efef2023/">European Finite Element Fair</a>.</p>
 <p>2023-05-19: Congratulations to Matteo Croci and Ioannis Papadopoulos on being <a href="https://www.eventsforce.net/turingevents/frontend/reg/tOtherPage.csp?pageID=106284&eventID=271&traceRedir=2">shortlisted for the 2023 IMA Leslie Fox Prize</a>!</p>
