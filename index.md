@@ -42,11 +42,10 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 <p>2023-08-14: I am organising a conference on <a href="https://21stcenturyna.github.io/">Numerical Analysis in the 21st Century</a>, in honour of the retirement from Oxford of <a href="https://people.maths.ox.ac.uk/trefethen/">Nick Trefethen</a>.
 <p>2023-07-09: Umberto Zerbinati will talk at the <a href="https://ngsolve.org/news/4th-ngsolve-user-meeting">NGSolve User Meeting</a> in Portland, Oregon.</p>
 <p>2023-06-27: Aaron Baier-Reinio, Pablo Brubeck, and Umberto Zerbinati will talk at the <a href="https://numericalanalysisconference.org.uk/">Strathclyde Numerical Analysis conference</a> in Glasgow, Scotland.</p>
-<!-- <p>2023-06-14: Umberto Zerbinati, India Marsden, and Aaron Baier-Reinio will talk at the <a href="https://fenicsproject.org/fenics-2023/">FEniCS 2023 conference</a> in Cagliari, Italy.</p> -->
-<!-- <p>2023-06-01: Aaron Baier-Reinio will talk at the <a href="https://conference2023.oxfordsiam.com/en">SIAM UKIE National Student Chapter Conference</a>.</p> -->
 
 <h2 id="news">News</h2>
 
+<p>2023-06-14: Umberto Zerbinati, India Marsden, and Aaron Baier-Reinio spoke at the <a href="https://fenicsproject.org/fenics-2023/">FEniCS 2023 conference</a> in Cagliari, Italy.</p>
 <p>2023-06-13: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2305.17571">discrete breathers in Klein-Gordon lattices</a>.</p>
 <p>2023-05-29: I gave a short course on numerical bifurcation analysis at the <a href="https://ems-masc.cuni.cz/">EMS summer school on mathematical modelling, numerical analysis and scientific computing</a> in Kácov, Czechia. <a href="{{site.url}}/files/kacov2023.pdf">The slides are available here</a>.</p>
 <p>2023-05-12: Umberto Zerbinati gave a talk at the <a href="https://www.utwente.nl/en/eemcs/sacs/efef2023/">European Finite Element Fair</a>.</p>
