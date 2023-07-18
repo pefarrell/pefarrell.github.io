@@ -5,11 +5,7 @@ title: People
 &nbsp;
 &nbsp;
 
-## Visiting faculty
-<figure>
-  <img src="{{site.url}}/images/ferrer.png" alt="Àlex Ferrer"/>
-  <figcaption><a href="https://sites.google.com/view/alexferrer">Àlex Ferrer</a>. <br/>Visiting Oct 2022 to Oct 2023, funded by a grant from the Universitat Politècnica de Catalunya and the Catalan government.</figcaption>
-</figure>
+<!-- ## Visiting faculty -->
 
 ## Visiting research fellows
 <figure>
@@ -211,6 +207,13 @@ title: People
 &nbsp;
 &nbsp;
 
+<figure>
+  <img src="{{site.url}}/images/ferrer.png" alt="Àlex Ferrer"/>
+  <figcaption><a href="https://sites.google.com/view/alexferrer">Àlex Ferrer</a>. <br/>Visited Jul 2022 to Jul 2023, funded by a grant from the Universitat Politècnica de Catalunya and the Catalan government.</figcaption>
+</figure>
+
+&nbsp;
+&nbsp;
 
 <figure>
   <img src="{{site.url}}/images/gachemi.jpg" alt="Geoffrey Gachemi"/>
