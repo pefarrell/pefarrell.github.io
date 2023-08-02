@@ -40,10 +40,11 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 <p>2023-08-20: Boris Andrews, Aaron Baier-Reinio, Pablo Brubeck, and Umberto Zerbinati will talk at <a href="https://iciam2023.org/">ICIAM</a> in Tokyo, Japan.</p>
 <p>2023-08-14: Pablo Brubeck will talk at <a href="https://icosahom2023.org/">ICOSAHOM</a> in Seoul, South Korea.</p>
 <p>2023-08-14: I am organising a conference on <a href="https://21stcenturyna.github.io/">Numerical Analysis in the 21st Century</a>, in honour of the retirement from Oxford of <a href="https://people.maths.ox.ac.uk/trefethen/">Nick Trefethen</a>.
-<p>2023-07-09: Umberto Zerbinati will talk at the <a href="https://ngsolve.org/news/4th-ngsolve-user-meeting">NGSolve User Meeting</a> in Portland, Oregon.</p>
 
 <h2 id="news">News</h2>
 
+<p>2023-08-01: I have joined the editorial board of the <a href="https://global.oup.com/academic/content/series/n/numerical-mathematics-and-scientific-computation-nmsc">Numerical Mathematics and Scientific Computation book series</a>, published by Oxford University Press.</p>
+<p>2023-07-09: Umberto Zerbinati spoke at the <a href="https://ngsolve.org/news/4th-ngsolve-user-meeting">NGSolve User Meeting</a> in Portland, Oregon.</p>
 <p>2023-07-04: Duygu Sap spoke at a workshop on <a href="https://suprenumpde2023.epfl.ch/">Structure-preserving numerical methods for partial differential equations</a> in Lausanne, Switzerland.</p>
 <p>2023-06-27: Aaron Baier-Reinio, Pablo Brubeck, and Umberto Zerbinati spoke at the <a href="https://numericalanalysisconference.org.uk/">Strathclyde Numerical Analysis conference</a> in Glasgow, Scotland.</p>
 <p>2023-06-14: Umberto Zerbinati, India Marsden, and Aaron Baier-Reinio spoke at the <a href="https://fenicsproject.org/fenics-2023/">FEniCS 2023 conference</a> in Cagliari, Italy.</p>
