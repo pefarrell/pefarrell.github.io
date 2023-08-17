@@ -38,11 +38,12 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 <p>2023-08-31: I will give a plenary talk at the Annual Meeting of the <a href="https://irishmathsoc.org/">Irish Mathematical Society</a>.</p>
 <p>2023-08-20: I will give a talk in the <a href="https://iciam2023.org/registered_data?id=01054">Scalable Solvers for Multiphysics Problems minisymposium</a> at ICIAM, organised by <a href="https://searhein.github.io/">Alexander Heinlein</a> and <a href="https://www.unibw.de/imcs-en/team/mayr">Matthias Mayr</a>.</p>
 <p>2023-08-20: Boris Andrews, Aaron Baier-Reinio, Pablo Brubeck, and Umberto Zerbinati will talk at <a href="https://iciam2023.org/">ICIAM</a> in Tokyo, Japan.</p>
-<p>2023-08-14: Pablo Brubeck will talk at <a href="https://icosahom2023.org/">ICOSAHOM</a> in Seoul, South Korea.</p>
-<p>2023-08-14: I am organising a conference on <a href="https://21stcenturyna.github.io/">Numerical Analysis in the 21st Century</a>, in honour of the retirement from Oxford of <a href="https://people.maths.ox.ac.uk/trefethen/">Nick Trefethen</a>.
 
 <h2 id="news">News</h2>
 
+<p>2023-08-14: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2308.06888">a full approximation scheme multilevel method for variational inequalities</a>.</p>
+<p>2023-08-14: Pablo Brubeck spoke at the <a href="https://icosahom2023.org/">ICOSAHOM conference</a> in Seoul, South Korea.</p>
+<p>2023-08-14: I organised a conference on <a href="https://21stcenturyna.github.io/">Numerical Analysis in the 21st Century</a>, in honour of the retirement from Oxford of <a href="https://people.maths.ox.ac.uk/trefethen/">Nick Trefethen</a>.
 <p>2023-08-01: I have joined the editorial board of the <a href="https://global.oup.com/academic/content/series/n/numerical-mathematics-and-scientific-computation-nmsc">Numerical Mathematics and Scientific Computation book series</a>, published by Oxford University Press.</p>
 <p>2023-07-09: Umberto Zerbinati spoke at the <a href="https://ngsolve.org/news/4th-ngsolve-user-meeting">NGSolve User Meeting</a> in Portland, Oregon.</p>
 <p>2023-07-04: Duygu Sap spoke at a workshop on <a href="https://suprenumpde2023.epfl.ch/">Structure-preserving numerical methods for partial differential equations</a> in Lausanne, Switzerland.</p>
