@@ -39,6 +39,7 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 
 <h2 id="news">News</h2>
 
+<p>2023-09-05: Congratulations to Gonzalo Gonzalez de Diego on passing his DPhil viva! Thanks to <a href="https://dngoldberg.github.io/">Dan Goldberg</a> and <a href="https://www.maths.ox.ac.uk/people/peter.howell">Peter Howell</a> for serving as examiners.</p>
 <p>2023-08-20: I spoke in the <a href="https://iciam2023.org/registered_data?id=01054">Scalable Solvers for Multiphysics Problems minisymposium</a> at ICIAM, organised by <a href="https://searhein.github.io/">Alexander Heinlein</a> and <a href="https://www.unibw.de/imcs-en/team/mayr">Matthias Mayr</a>.</p>
 <p>2023-08-20: Boris Andrews, Aaron Baier-Reinio, Pablo Brubeck, Duygu Sap, and Umberto Zerbinati spoke at <a href="https://iciam2023.org/">ICIAM</a> in Tokyo, Japan.</p>
 <p>2023-08-14: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2308.06888">a full approximation scheme multilevel method for variational inequalities</a>.</p>

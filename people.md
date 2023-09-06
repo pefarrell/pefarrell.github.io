@@ -41,14 +41,6 @@ title: People
 ## DPhil students
 
 <figure>
-  <img src="{{site.url}}/images/gonzalez.png" alt="Gonzalo Gonzalez de Diego"/>
-  <figcaption>Gonzalo Gonzalez de Diego. <br/>Topic: contact problems in glaciology. <br/>Co-supervised with <a href="http://people.maths.ox.ac.uk/hewitt/">Ian Hewitt</a>.</figcaption>
-</figure>
-
-&nbsp;
-&nbsp;
-
-<figure>
   <img src="{{site.url}}/images/andrews.png" alt="Boris Andrews"/>
   <figcaption>Boris Andrews. <br/>Topic: numerical bifurcation analysis of natural convection. <br/>Co-supervised with <a href="https://scholar.google.co.uk/citations?user=XRAFAoEAAAAJ&hl=en">Wayne Arter</a>.</figcaption>
 </figure>
@@ -170,6 +162,15 @@ title: People
   <img src="{{site.url}}/images/brubeck.jpg" alt="Pablo Brubeck"/>
   <figcaption>Pablo Brubeck. <br/>Topic: Optimal complexity and robust multigrid methods for high-order FEM. DPhil viva: 2023-02-15. Next step: a postdoctoral research associate position with me.</figcaption>
 </figure>
+
+&nbsp;
+&nbsp;
+
+<figure>
+  <img src="{{site.url}}/images/gonzalez.png" alt="Gonzalo Gonzalez de Diego"/>
+  <figcaption>Gonzalo Gonzalez de Diego. <br/>Topic: Viscous contact problems in glaciology. DPhil viva: 2023-09-05. <br/>Co-supervised with <a href="http://people.maths.ox.ac.uk/hewitt/">Ian Hewitt</a>. Next step: a postdoctoral position with <a href="https://math.nyu.edu/~stadler/">Georg Stadler</a> at NYU.</figcaption>
+</figure>
+
 
 ## Postdoctoral alumni
 
