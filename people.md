@@ -152,7 +152,7 @@ title: People
 
 <figure>
   <img src="{{site.url}}/images/vanbrunt.jpg" alt="Alexander Van-Brunt"/>
-  <figcaption>Alexander Van-Brunt. <br/>Topic: Finite element methods for the Onsager-Stefan-Maxwell equations. DPhil viva: 2022-10-07. <br/>Co-supervised with <a href="http://monroegroup.spc.ox.ac.uk/">Charles Monroe</a>. Next step: Research engineer at Bosch, Sunnyvale, California.</figcaption>
+  <figcaption>Alexander Van-Brunt. <br/>Topic: <a href="{{site.url}}/files/vanbrunt.pdf">Finite element methods for the Onsager-Stefan-Maxwell equations</a>. DPhil viva: 2022-10-07. <br/>Co-supervised with <a href="http://monroegroup.spc.ox.ac.uk/">Charles Monroe</a>. Next step: Research engineer at Bosch, Sunnyvale, California.</figcaption>
 </figure>
 
 &nbsp;
@@ -160,7 +160,7 @@ title: People
 
 <figure>
   <img src="{{site.url}}/images/brubeck.jpg" alt="Pablo Brubeck"/>
-  <figcaption>Pablo Brubeck. <br/>Topic: Optimal complexity and robust multigrid methods for high-order FEM. DPhil viva: 2023-02-15. Next step: a postdoctoral research associate position with me.</figcaption>
+  <figcaption>Pablo Brubeck. <br/>Topic: <a href="{{site.url}}/files/brubeck.pdf">Optimal complexity and robust multigrid methods for high-order FEM</a>. DPhil viva: 2023-02-15. Next step: a postdoctoral research associate position with me.</figcaption>
 </figure>
 
 &nbsp;
