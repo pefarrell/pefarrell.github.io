@@ -34,12 +34,13 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 
 <h2 id="forthcoming">Forthcoming</h2>
 
+<p>2024-09-23: I will give a plenary talk at a conference on <a href="https://www2.karlin.mff.cuni.cz/~prusv/ncmm/conference/mpde/info.html">Modelling, partial differential equations analysis and computational mathematics in material sciences</a> in Prague.</p>
 <p>2024-02-07: I will teach a graduate school on using Firedrake to solve PDEs at ICERM, as part of the <a href="https://icerm.brown.edu/programs/sp-s24/">Numerical PDEs: Analysis, Algorithms, and Data Challenges</a> semester program.</p>
-<p>2023-08-31: I will give a plenary talk at the Annual Meeting of the <a href="https://irishmathsoc.org/">Irish Mathematical Society</a>.</p>
 
 <h2 id="news">News</h2>
 
 <p>2023-09-05: Congratulations to Gonzalo Gonzalez de Diego on passing his DPhil viva! Thanks to <a href="https://dngoldberg.github.io/">Dan Goldberg</a> and <a href="https://www.maths.ox.ac.uk/people/peter.howell">Peter Howell</a> for serving as examiners.</p>
+<p>2023-08-31: I gave a plenary talk at the <a href="https://www.ul.ie/scieng/schools-and-departments/department-mathematics-and-statistics/36th-annual-meeting-of-the">annual meeting</a> of the <a href="https://irishmathsoc.org/">Irish Mathematical Society</a>.</p>
 <p>2023-08-20: I spoke in the <a href="https://iciam2023.org/registered_data?id=01054">Scalable Solvers for Multiphysics Problems minisymposium</a> at ICIAM, organised by <a href="https://searhein.github.io/">Alexander Heinlein</a> and <a href="https://www.unibw.de/imcs-en/team/mayr">Matthias Mayr</a>.</p>
 <p>2023-08-20: Boris Andrews, Aaron Baier-Reinio, Pablo Brubeck, Duygu Sap, and Umberto Zerbinati spoke at <a href="https://iciam2023.org/">ICIAM</a> in Tokyo, Japan.</p>
 <p>2023-08-14: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2308.06888">a full approximation scheme multilevel method for variational inequalities</a>.</p>
