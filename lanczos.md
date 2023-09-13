@@ -10,6 +10,8 @@ Background
 
 One of the main ways mathematical advances have impact in science, engineering, society, and industry is via their implementation in software. In order to reward and recognise exceptional research in the development of mathematical software, the European Mathematical Society (EMS) and the European Consortium for Mathematics in Industry (ECMI) have decided to establish the Lanczos Prize for Mathematical Software. Cornelius Lanczos (1893-1974) was a pioneer of the development and implementation of numerical algorithms on digital computers.
 
+The EMS page about the prize is available at [https://euromathsoc.org/ems-prizes/](https://euromathsoc.org/ems-prizes/). The ECMI page about the prize is available at [https://ecmiindmath.org/ecmi-prizes/](https://ecmiindmath.org/ecmi-prizes/).
+
 Principal Guidelines
 ====================
 
