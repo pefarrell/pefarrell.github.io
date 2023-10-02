@@ -37,10 +37,12 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 <p>2024-09-23: I will give a plenary talk at a conference on <a href="https://www2.karlin.mff.cuni.cz/~prusv/ncmm/conference/mpde/info.html">Modelling, partial differential equations analysis and computational mathematics in material sciences</a> in Prague.</p>
 <p>2024-03-06: I will attend the annual <a href="https://excalibur.ac.uk/projects/excalibur-fusion-use-case-project-neptune-neutrals-plasma-turbulence-numerics-for-the-exascale/">UKAEA NEPTUNE</a> workshop.</p>
 <p>2024-02-07: I will teach a graduate school on using Firedrake to solve PDEs at ICERM, as part of the <a href="https://icerm.brown.edu/programs/sp-s24/">Numerical PDEs: Analysis, Algorithms, and Data Challenges</a> semester program.</p>
+<p>2024-01-15: Pablo Brubeck will talk in a minisymposium at <a href="https://www.ci2ma.udec.cl/wonapde2024/">WONAPDE 2024</a> in Concepción, Chile.<p>
 
 <h2 id="news">News</h2>
 
 <p>2023-10-12: Congratulations to <a href="https://aznaran.com/">Francis Aznaran</a> on winning a Society of Science Fellowship at the University of Notre Dame!</p>
+<p>2022-10-02: Welcome to Kars Knook and Mingdong He, who both start their DPhil studies today!</p>
 <p>2023-09-05: Congratulations to Gonzalo Gonzalez de Diego on passing his DPhil viva! Thanks to <a href="https://dngoldberg.github.io/">Dan Goldberg</a> and <a href="https://www.maths.ox.ac.uk/people/peter.howell">Peter Howell</a> for serving as examiners.</p>
 <p>2023-08-31: I gave a plenary talk at the <a href="https://www.ul.ie/scieng/schools-and-departments/department-mathematics-and-statistics/36th-annual-meeting-of-the">annual meeting</a> of the <a href="https://irishmathsoc.org/">Irish Mathematical Society</a>.</p>
 <p>2023-08-20: I spoke in the <a href="https://iciam2023.org/registered_data?id=01054">Scalable Solvers for Multiphysics Problems minisymposium</a> at ICIAM, organised by <a href="https://searhein.github.io/">Alexander Heinlein</a> and <a href="https://www.unibw.de/imcs-en/team/mayr">Matthias Mayr</a>.</p>

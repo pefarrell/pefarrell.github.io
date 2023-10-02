@@ -42,9 +42,20 @@ title: People
 
 <figure>
   <img src="{{site.url}}/images/andrews.png" alt="Boris Andrews"/>
-  <figcaption>Boris Andrews. <br/>Topic: numerical bifurcation analysis of natural convection. <br/>Co-supervised with <a href="https://scholar.google.co.uk/citations?user=XRAFAoEAAAAJ&hl=en">Wayne Arter</a>.</figcaption>
+  <figcaption>Boris Andrews. <br/>Topic: structure-preserving discretisations in time. <br/>Co-supervised with <a href="https://scholar.google.co.uk/citations?user=XRAFAoEAAAAJ&hl=en">Wayne Arter</a>.</figcaption>
 </figure>
 
+
+&nbsp;
+&nbsp;
+
+<figure>
+  <img src="{{site.url}}/images/he.jpg" alt="Mingdong He"/>
+  <figcaption>Mingdong He. <br/>Topic: numerical solvers and preconditioners in solid mechanics.</figcaption>
+</figure>
+
+&nbsp;
+&nbsp;
 
 <figure>
   <img src="{{site.url}}/images/baier-reinio.png" alt="Aaron Baier-Reinio"/>
@@ -53,7 +64,6 @@ title: People
 
 &nbsp;
 &nbsp;
-
 
 <figure>
   <img src="{{site.url}}/images/marsden.jpg" alt="India Marsden"/>
