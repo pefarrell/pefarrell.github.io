@@ -50,6 +50,14 @@ title: People
 &nbsp;
 
 <figure>
+  <img src="{{site.url}}/images/baier-reinio.png" alt="Aaron Baier-Reinio"/>
+  <figcaption>Aaron Baier-Reinio. <br/>Topic: discretisations for multicomponent flow.</figcaption>
+</figure>
+
+&nbsp;
+&nbsp;
+
+<figure>
   <img src="{{site.url}}/images/he.jpg" alt="Mingdong He"/>
   <figcaption>Mingdong He. <br/>Topic: numerical solvers and preconditioners in solid mechanics.</figcaption>
 </figure>
@@ -58,8 +66,8 @@ title: People
 &nbsp;
 
 <figure>
-  <img src="{{site.url}}/images/baier-reinio.png" alt="Aaron Baier-Reinio"/>
-  <figcaption>Aaron Baier-Reinio. <br/>Topic: discretisations for multicomponent flow.</figcaption>
+  <img src="{{site.url}}/images/knook.jpg" alt="Kars Knook"/>
+  <figcaption>Kars Knook. <br/>Topic: preconditioners in multicomponent flows.</figcaption>
 </figure>
 
 &nbsp;
