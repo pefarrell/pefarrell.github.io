@@ -59,7 +59,7 @@ title: People
 
 <figure>
   <img src="{{site.url}}/images/he.jpg" alt="Mingdong He"/>
-  <figcaption>Mingdong He. <br/>Topic: numerical solvers and preconditioners in solid mechanics.</figcaption>
+  <figcaption>Mingdong He. <br/>Topic: preconditioners in fluid mechanics.</figcaption>
 </figure>
 
 &nbsp;
