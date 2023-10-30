@@ -59,8 +59,8 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 <p>2023-07-04: Duygu Sap spoke at a workshop on <a href="https://suprenumpde2023.epfl.ch/">Structure-preserving numerical methods for partial differential equations</a> in Lausanne, Switzerland.</p>
 <p>2023-06-27: Aaron Baier-Reinio, Pablo Brubeck, and Umberto Zerbinati spoke at the <a href="https://numericalanalysisconference.org.uk/">Strathclyde Numerical Analysis conference</a> in Glasgow, Scotland.</p>
 <p>2023-06-14: Umberto Zerbinati, India Marsden, and Aaron Baier-Reinio spoke at the <a href="https://fenicsproject.org/fenics-2023/">FEniCS 2023 conference</a> in Cagliari, Italy.</p>
-<p>2023-06-13: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2305.17571">discrete breathers in Klein-Gordon lattices</a>. Update: accepted in Chaos.</p>
 <p>2023-05-29: I gave a short course on numerical bifurcation analysis at the <a href="https://ems-masc.cuni.cz/">EMS summer school on mathematical modelling, numerical analysis and scientific computing</a> in Kácov, Czechia. <a href="{{site.url}}/files/kacov2023.pdf">The slides are available here</a>.</p>
+<p>2023-05-27: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2305.17571">discrete breathers in Klein-Gordon lattices</a>. Update: accepted in Chaos.</p>
 <p>2023-05-12: Umberto Zerbinati gave a talk at the <a href="https://www.utwente.nl/en/eemcs/sacs/efef2023/">European Finite Element Fair</a>.</p>
 <p>2023-05-19: Congratulations to Matteo Croci and Ioannis Papadopoulos on being <a href="https://www.eventsforce.net/turingevents/frontend/reg/tOtherPage.csp?pageID=106284&eventID=271&traceRedir=2">shortlisted for the 2023 IMA Leslie Fox Prize</a>!</p>
 <p>2023-04-21: I attended the <a href="https://www.maths.tcd.ie/~ksoodha/siamukie2023/">SIAM UKIE section annual meeting</a> in Trinity College Dublin. Aaron Baier-Reinio, India Marsden, and Umberto Zerbinati gave talks.</p>
