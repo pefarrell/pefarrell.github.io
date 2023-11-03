@@ -247,3 +247,12 @@ title: People
   <img src="{{site.url}}/images/newell.jpg" alt="Isaac Newell"/>
   <figcaption>Isaac Newell. <br/>Topic: bifurcation analysis of two coupled 3D Bose-Einstein condensates. <br/> 2021 Summer project funded by an <a href="https://www.lms.ac.uk/grants/URBList">LMS Undergraduate Research Bursary</a>. Next step: a DPhil scholarship at the Mathematical Institute with <a href="https://www.maths.ox.ac.uk/people/luc.nguyen">Luc Nguyen</a> and <a href="http://people.maths.ox.ac.uk/chengq/">Gui-Qiang Chen</a>.</figcaption>
 </figure>
+
+&nbsp;
+&nbsp;
+
+
+<figure>
+  <img src="{{site.url}}/images/wilson.webp" alt="Andrew Wilson"/>
+  <figcaption><a href="https://en.wikipedia.org/wiki/Andrew_Wilson_(swimmer)">Andrew Wilson</a>. <br/>Topic: multigrid preconditioners for the Onsager-Stefan-Maxwell equations. <br/> 2022 MMSC project. Next step: a research assistantship with <a href="https://www.earth.ox.ac.uk/people/samar-khatiwala/">Samar Khatiwala</a> and <a href="https://people.maths.ox.ac.uk/cartis/">Coralia Cartis</a>.</figcaption>
+</figure>
