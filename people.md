@@ -253,6 +253,6 @@ title: People
 
 
 <figure>
-  <img src="{{site.url}}/images/wilson.webp" alt="Andrew Wilson"/>
+  <img src="{{site.url}}/images/wilson.jpg" alt="Andrew Wilson"/>
   <figcaption><a href="https://en.wikipedia.org/wiki/Andrew_Wilson_(swimmer)">Andrew Wilson</a>. <br/>Topic: multigrid preconditioners for the Onsager-Stefan-Maxwell equations. <br/> 2022 MMSC project. Next step: a research assistantship with <a href="https://www.earth.ox.ac.uk/people/samar-khatiwala/">Samar Khatiwala</a> and <a href="https://people.maths.ox.ac.uk/cartis/">Coralia Cartis</a>.</figcaption>
 </figure>
