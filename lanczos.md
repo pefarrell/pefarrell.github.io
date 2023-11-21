@@ -54,6 +54,8 @@ The secondary criteria are:
 - the novelty of the mathematical ideas underpinning the software;
 - the size and growth rate of its user base.
 
+The Lanczos Prize pertains to work conducted worldwide. It is in no sense restricted to researchers based in Europe.
+
 Description of the Award
 ========================
 
