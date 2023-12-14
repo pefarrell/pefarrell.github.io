@@ -35,16 +35,18 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 <h2 id="forthcoming">Forthcoming</h2>
 
 <p>2024-09-23: I will give a plenary talk at a conference on <a href="https://www2.karlin.mff.cuni.cz/~prusv/ncmm/conference/mpde/info.html">Modelling, partial differential equations analysis and computational mathematics in material sciences</a> in Prague.</p>
-<p>2024-06-10: I will give a plenary talk at the New Trends in Numerical Analysis of PDEs conference organised by Clément Cancès in Lille, France.</p>
+<p>2024-06-10: I will give a plenary talk at the <a href="https://indico.math.cnrs.fr/event/napde">New Trends in Numerical Analysis of PDEs</a> conference organised by Clément Cancès, Claire Chainais, Maxime Herda, Simon Lemaire, and Antoine Zurek in Lille, France.</p>
 <p>2024-05-20: I will give a plenary talk at the <a href="https://hpcse.it4i.cz/HPCSE24/">HPCSE 2024 High Performance Computing in Science and Engineering conference</a> in Soláň, Czechia.</p>
 <p>2024-04-03: I will give a plenary talk at the Exploiting Algebraic and Geometric Structure in Time-Integration Methods workshop organised by Santolo Leveque and Michele Benzi in Pisa, Italy.</p>
 <p>2024-03-11: I will attend the <a href="https://icerm.brown.edu/programs/sp-s24/w2/">PDEs and Geometry: Numerical Aspects</a> workshop at ICERM, as part of the <a href="https://icerm.brown.edu/programs/sp-s24/">Numerical PDEs: Analysis, Algorithms, and Data Challenges</a> semester program.</p>
 <p>2024-03-06: I will attend the annual <a href="https://excalibur.ac.uk/projects/excalibur-fusion-use-case-project-neptune-neutrals-plasma-turbulence-numerics-for-the-exascale/">UKAEA NEPTUNE</a> workshop.</p>
 <p>2024-02-07: I will teach a graduate school on using Firedrake to solve PDEs at ICERM, as part of the <a href="https://icerm.brown.edu/programs/sp-s24/">Numerical PDEs: Analysis, Algorithms, and Data Challenges</a> semester program.</p>
+<p>2024-01-22: I will give a <a href="http://talks.bham.ac.uk/talk/index/5557">seminar jointly in the Optimisation and Numerical Analysis / Applied Mathematics series</a> at the University of Birmingham.</p>
 <p>2024-01-15: Pablo Brubeck will talk in a minisymposium at <a href="https://www.ci2ma.udec.cl/wonapde2024/">WONAPDE 2024</a> in Concepción, Chile.<p>
 
 <h2 id="news">News</h2>
 
+<p>2023-12-06: I gave a seminar in the Mathematical Modelling series at Charles University Prague.</p>
 <p>2023-11-20: I hosted a research visit from <a href="https://brendankeith.github.io/">Brendan Keith</a>.</p>
 <p>2023-10-12: Congratulations to <a href="https://aznaran.com/">Francis Aznaran</a> on winning a Society of Science Fellowship at the University of Notre Dame!</p>
 <p>2022-10-02: Welcome to Kars Knook and Mingdong He, who both start their DPhil studies today!</p>
