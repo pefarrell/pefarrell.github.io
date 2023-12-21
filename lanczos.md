@@ -26,7 +26,7 @@ Nominations for the Award
 
 The Prize Committee is responsible for solicitation and the evaluation of nominations. Submissions are to be made by self-nomination. A nomination will consist of
 
-- a three-page summary addressing the evaluation criteria;
+- a three-page summary addressing the evaluation criteria (the three-page limit does not include the bibliography);
 - a letter of support from a user of the software that is not nominated;
 - one or more scientific papers or technical reports describing the software and its uses;
 - CVs of those being nominated, at most 2 pages per author;
