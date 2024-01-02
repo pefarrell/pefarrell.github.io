@@ -130,7 +130,7 @@ title: People
 
 <figure>
   <img src="{{site.url}}/images/papadopoulos.jpg" alt="Ioannis Papadopoulos"/>
-  <figcaption>Ioannis Papadopoulos. <br/>Topic: <a href="{{site.url}}/files/papadopoulos.pdf">Computing multiple solutions of topology optimization problems</a>. DPhil viva: 2021-09-24. <br/>Co-supervised with <a href="http://people.maths.ox.ac.uk/suli/">Endre Süli</a>. Next step: a postdoc with <a href="http://wwwf.imperial.ac.uk/~solver/">Sheehan Olver</a> at Imperial College London.</figcaption>
+  <figcaption>Ioannis Papadopoulos. <br/>Topic: <a href="{{site.url}}/files/papadopoulos.pdf">Computing multiple solutions of topology optimization problems</a>. DPhil viva: 2021-09-24. <br/>Co-supervised with <a href="http://people.maths.ox.ac.uk/suli/">Endre Süli</a>. Next step: a postdoc with <a href="http://wwwf.imperial.ac.uk/~solver/">Sheehan Olver</a> at Imperial College London, then a Dirichlet fellowship at the Weierstrass Institute for Applied Analysis and Stochastics in Berlin.</figcaption>
 </figure>
 
 &nbsp;
