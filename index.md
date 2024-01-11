@@ -47,7 +47,7 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 <h2 id="news">News</h2>
 
 <p>2024-01-03: A new paper on multiple solutions of the Grad-Shafranov equations has been accepted in Nuclear Fusion Letters.</p>
-<p>2023-12-23: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2312.15210">the kinetic derivation of a compressible Leslie-Ericksen equation for rarified calamitic gases</a>.</p>
+<p>2023-12-23: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2312.15210">the kinetic derivation of a compressible Leslie-Ericksen equation for rarified calamitic gases</a>, with Umberto Zerbinati and <a href="https://www.dmi.unict.it/~russo/">Giovanni Russo</a>.</p>
 <p>2023-12-06: I gave a seminar in the Mathematical Modelling series at Charles University Prague.</p>
 <p>2023-11-20: I hosted a research visit from <a href="https://brendankeith.github.io/">Brendan Keith</a>.</p>
 <p>2023-10-12: Congratulations to <a href="https://aznaran.com/">Francis Aznaran</a> on winning a Society of Science Fellowship at the University of Notre Dame!</p>
