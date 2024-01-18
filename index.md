@@ -40,7 +40,7 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 <p>2024-04-03: I will give a plenary talk at the <a href="https://events.dm.unipi.it/event/225/">Exploiting Algebraic and Geometric Structure in Time-Integration Methods</a> workshop organised by Santolo Leveque, Stefano Massei, Cecilia Pagliantini, Luca Saluzzi, and Milo Viviani in Pisa, Italy.</p>
 <p>2024-03-11: I will attend the <a href="https://icerm.brown.edu/programs/sp-s24/w2/">PDEs and Geometry: Numerical Aspects</a> workshop at ICERM, as part of the <a href="https://icerm.brown.edu/programs/sp-s24/">Numerical PDEs: Analysis, Algorithms, and Data Challenges</a> semester program.</p>
 <p>2024-03-06: I will attend the annual <a href="https://excalibur.ac.uk/projects/excalibur-fusion-use-case-project-neptune-neutrals-plasma-turbulence-numerics-for-the-exascale/">UKAEA NEPTUNE</a> workshop.</p>
-<p>2024-02-07: I will teach a graduate school on using Firedrake to solve PDEs at ICERM, as part of the <a href="https://icerm.brown.edu/programs/sp-s24/">Numerical PDEs: Analysis, Algorithms, and Data Challenges</a> semester program.</p>
+<p>2024-02-05: I will teach a graduate school on using Firedrake to solve PDEs at ICERM, as part of the <a href="https://icerm.brown.edu/programs/sp-s24/">Numerical PDEs: Analysis, Algorithms, and Data Challenges</a> semester program.</p>
 <p>2024-01-22: I will give a <a href="http://talks.bham.ac.uk/talk/index/5557">seminar jointly in the Optimisation and Numerical Analysis / Applied Mathematics series</a> at the University of Birmingham.</p>
 <p>2024-01-15: Pablo Brubeck will talk in a minisymposium at <a href="https://www.ci2ma.udec.cl/wonapde2024/">WONAPDE 2024</a> in Concepción, Chile.<p>
 
