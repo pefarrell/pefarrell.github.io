@@ -35,6 +35,7 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 <h2 id="forthcoming">Forthcoming</h2>
 
 <p>2024-09-23: I will give a plenary talk at a conference on <a href="https://www2.karlin.mff.cuni.cz/~prusv/ncmm/conference/mpde/info.html">Modelling, partial differential equations analysis and computational mathematics in material sciences</a> in Prague.</p>
+<p>2024-06-21: I will attend the <a href="https://efef2024.github.io/">European Finite Element Fair</a> organised by <a href="https://profiles.ucl.ac.uk/36640-erik-burman">Erik Burman</a> and others in London, UK.</p>
 <p>2024-06-10: I will give a plenary talk at the <a href="https://indico.math.cnrs.fr/event/napde">New Trends in Numerical Analysis of PDEs</a> conference organised by Clément Cancès, Claire Chainais, Maxime Herda, Simon Lemaire, and Antoine Zurek in Lille, France.</p>
 <p>2024-05-20: I will give a plenary talk at the <a href="https://hpcse.it4i.cz/HPCSE24/">HPCSE 2024 High Performance Computing in Science and Engineering conference</a> in Soláň, Czechia.</p>
 <p>2024-04-03: I will give a plenary talk at the <a href="https://events.dm.unipi.it/event/225/">Exploiting Algebraic and Geometric Structure in Time-Integration Methods</a> workshop organised by Santolo Leveque, Stefano Massei, Cecilia Pagliantini, Luca Saluzzi, and Milo Viviani in Pisa, Italy.</p>
