@@ -45,6 +45,7 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 
 <h2 id="news">News</h2>
 
+<p>2024-01-25: I hosted <a href="http://matheblume.com/">Fleurianne Bertrand</a> for a talk in the <a href="https://www.maths.ox.ac.uk/node/61490">Computational Mathematics and Applications seminar</a>.</p>
 <p>2024-01-22: I gave a <a href="http://talks.bham.ac.uk/talk/index/5557">seminar jointly in the Optimisation and Numerical Analysis / Applied Mathematics series</a> at the University of Birmingham.</p>
 <p>2024-01-15: Pablo Brubeck spoke in a minisymposium at <a href="https://www.ci2ma.udec.cl/wonapde2024/">WONAPDE 2024</a> in Concepción, Chile.<p>
 <p>2024-01-03: A new paper on multiple solutions of the Grad-Shafranov equations has been accepted in Nuclear Fusion Letters.</p>
