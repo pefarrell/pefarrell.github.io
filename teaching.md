@@ -20,4 +20,4 @@ Here are <a href="{{site.url}}/files/kacov2023.pdf">some lecture slides on numer
 
 <h3>Solving Partial Differential Equations with Firedrake</h3>
 
-Here are <a href="{{site.url}}/files/icerm2024.pdf">some lecture slides on solving PDEs with Firedrake</a> I gave at ICERM in 2024.
+Here are <a href="{{site.url}}/files/icerm2024.pdf">some lecture slides on solving PDEs with Firedrake</a> I gave at ICERM in 2024. Some of the codes <a href="https://github.com/pefarrell/icerm2024">are available in this github repository</a>.
