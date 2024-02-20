@@ -36,6 +36,8 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 
 <p>2025-02-24: I will give a invited talk at the <a href="https://sfb65.univie.ac.at/">3rd SFB International Workshop on Taming Complexity in Partial Differential Systems</a> in Vienna, Austria, organised by Anton Arnold, Norbert Mauser, Ilaria Perugia, Dirk Praetorius, and Joachim Schöberl.</p>
 <p>2024-09-23: I will give a plenary talk at a conference on <a href="https://www2.karlin.mff.cuni.cz/~prusv/ncmm/conference/mpde/info.html">Modelling, partial differential equations analysis and computational mathematics in material sciences</a> in Prague.</p>
+<p>2024-09-16: I am organising the <a href="https://www.firedrakeproject.org/firedrake_24.html">Firedrake 2024 user meeting</a> in Oxford.</p>
+<p>2024-07-01: I will attend the <a href="https://pdesoft.org/">PDESoft 2024 conference</a> in Cambridge.</p>
 <p>2024-06-21: I will attend the <a href="https://efef2024.github.io/">European Finite Element Fair</a> organised by <a href="https://profiles.ucl.ac.uk/36640-erik-burman">Erik Burman</a> and others in London, UK.</p>
 <p>2024-06-10: I will give a plenary talk at the <a href="https://indico.math.cnrs.fr/event/napde">New Trends in Numerical Analysis of PDEs</a> conference organised by Clément Cancès, Claire Chainais, Maxime Herda, Simon Lemaire, and Antoine Zurek in Lille, France.</p>
 <p>2024-05-20: I will give a plenary talk at the <a href="https://hpcse.it4i.cz/HPCSE24/">HPCSE 2024 High Performance Computing in Science and Engineering conference</a> in Soláň, Czechia.</p>
