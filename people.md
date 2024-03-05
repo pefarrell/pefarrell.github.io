@@ -13,6 +13,10 @@ title: People
   <figcaption><a href="https://scholar.google.co.uk/citations?user=mz7BJFAAAAAJ&hl=en&oi=ao">Maryam Parvizi</a>. <br/>Visiting Apr 2023 to Apr 2024, funded by a Humboldt Fellowship and Leibniz University Hannover.</figcaption>
 </figure>
 
+<figure>
+  <img src="{{site.url}}/images/alonso.jpg" alt="Diego Hayashi Alonso"/>
+  <figcaption><a href="https://scholar.google.com/citations?user=SCoRD7cAAAAJ&hl=en">Diego Hayashi Alonso</a>. <br/>Visiting Jan 2024 to Dec 2024, funded by FAPESP.</figcaption>
+</figure>
 
 ## Postdoctoral research associates
 
