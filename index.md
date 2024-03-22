@@ -44,9 +44,9 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 <p>2024-05-20: I will give a plenary talk at the <a href="https://hpcse.it4i.cz/HPCSE24/">HPCSE 2024 High Performance Computing in Science and Engineering conference</a> in Soláň, Czechia.</p>
 <p>2024-05-03: I will give a talk in the <a href="https://warwick.ac.uk/fac/sci/maths/research/events/colloquium/">Warwick Mathematics Colloquium</a>.</p>
 <p>2024-04-03: I will give a plenary talk at the <a href="https://events.dm.unipi.it/event/225/">Exploiting Algebraic and Geometric Structure in Time-Integration Methods</a> workshop organised by Santolo Leveque, Stefano Massei, Cecilia Pagliantini, Luca Saluzzi, and Milo Viviani in Pisa, Italy.</p>
-<p>2024-03-11: I will attend the <a href="https://icerm.brown.edu/programs/sp-s24/w2/">PDEs and Geometry: Numerical Aspects</a> workshop at ICERM, as part of the <a href="https://icerm.brown.edu/programs/sp-s24/">Numerical PDEs: Analysis, Algorithms, and Data Challenges</a> semester program.</p>
 
 <h2 id="news">News</h2>
+<p>2024-03-11: I attended the <a href="https://icerm.brown.edu/programs/sp-s24/w2/">PDEs and Geometry: Numerical Aspects</a> workshop at ICERM, as part of the <a href="https://icerm.brown.edu/programs/sp-s24/">Numerical PDEs: Analysis, Algorithms, and Data Challenges</a> semester program.</p>
 <p>2024-03-06: I spoke at the annual <a href="https://ukaeaevents.com/neptune-workshop-2024/">UKAEA NEPTUNE</a> workshop.</p>
 <p>2024-02-29: I hosted <a href="https://cemse.kaust.edu.sa/ecrc/people/person/stefano-zampini">Stefano Zampini</a> for a talk in the <a href="https://www.maths.ox.ac.uk/node/66126">Computational Mathematics and Applications seminar</a>.</p>
 <p>2024-02-05: I taught a graduate school on using Firedrake to solve PDEs at ICERM, as part of the <a href="https://icerm.brown.edu/programs/sp-s24/">Numerical PDEs: Analysis, Algorithms, and Data Challenges</a> semester program. Update: <a href="https://github.com/pefarrell/icerm2024">the slides and code for the course are available</a>.</p>
