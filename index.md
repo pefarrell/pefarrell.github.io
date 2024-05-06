@@ -44,9 +44,9 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 <p>2024-06-10: I will give a plenary talk at the <a href="https://indico.math.cnrs.fr/event/napde">New Trends in Numerical Analysis of PDEs</a> conference organised by Clément Cancès, Claire Chainais, Maxime Herda, Simon Lemaire, and Antoine Zurek in Lille, France.</p>
 <p>2024-06-10: Kars Knook will organise a minisymposium on <a href="https://www.math.emory.edu/~yxi26/Precond24/accepted.html">Preconditioners for High Frequency Helmholtz Problems</a> at the Preconditioning 2024 meeting in Atlanta, USA.</p>
 <p>2024-05-20: I will give a plenary talk at the <a href="https://hpcse.it4i.cz/HPCSE24/">HPCSE 2024 High Performance Computing in Science and Engineering conference</a> in Soláň, Czechia.</p>
-<p>2024-05-03: I will give a talk in the <a href="https://warwick.ac.uk/fac/sci/maths/research/events/colloquium/">Warwick Mathematics Colloquium</a>.</p>
 
 <h2 id="news">News</h2>
+<p>2024-05-03: I gave a talk in the <a href="https://warwick.ac.uk/fac/sci/maths/research/events/colloquium/">Warwick Mathematics Colloquium</a>.</p>
 <p>2024-04-03: I gave a plenary talk at the <a href="https://events.dm.unipi.it/event/225/">Exploiting Algebraic and Geometric Structure in Time-Integration Methods</a> workshop organised by Santolo Leveque, Stefano Massei, Cecilia Pagliantini, Luca Saluzzi, and Milo Viviani in Pisa, Italy. Boris Andrews also gave a presentation.</p>
 <p>2024-03-11: I attended the <a href="https://icerm.brown.edu/programs/sp-s24/w2/">PDEs and Geometry: Numerical Aspects</a> workshop at ICERM, as part of the <a href="https://icerm.brown.edu/programs/sp-s24/">Numerical PDEs: Analysis, Algorithms, and Data Challenges</a> semester program.</p>
 <p>2024-03-06: I spoke at the annual <a href="https://ukaeaevents.com/neptune-workshop-2024/">UKAEA NEPTUNE</a> workshop.</p>
