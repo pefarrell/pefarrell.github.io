@@ -41,9 +41,9 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 <p>2024-09-23: I will give a plenary talk at a conference on <a href="https://www2.karlin.mff.cuni.cz/~prusv/ncmm/conference/mpde/info.html">Modelling, partial differential equations analysis and computational mathematics in material sciences</a> in Prague, Czechia.</p>
 <p>2024-09-16: I am organising the <a href="https://www.firedrakeproject.org/firedrake_24.html">Firedrake 2024 user meeting</a> in Oxford, UK.</p>
 <p>2024-07-01: I will attend the <a href="https://pdesoft.org/">PDESoft 2024 conference</a> in Cambridge, UK.</p>
-<p>2024-06-21: I will attend the <a href="https://efef2024.github.io/">European Finite Element Fair</a> organised by <a href="https://profiles.ucl.ac.uk/36640-erik-burman">Erik Burman</a> and others in London, UK.</p>
 
 <h2 id="news">News</h2>
+<p>2024-06-21: I attended the <a href="https://efef2024.github.io/">European Finite Element Fair</a> organised by <a href="https://profiles.ucl.ac.uk/36640-erik-burman">Erik Burman</a> and others in London, UK. Umberto Zerbinati, Mingdong He, Boris Andrews, Aaron Baier-Reinio, Pablo Brubeck, and India Marsden gave talks.</p>
 <p>2024-06-13: I gave an invited talk at the <a href="https://indico.math.cnrs.fr/event/napde">New Trends in Numerical Analysis of PDEs</a> conference organised by Clément Cancès, Claire Chainais, Maxime Herda, Simon Lemaire, and Antoine Zurek in Lille, France.</p>
 <p>2024-06-10: Mingdong He gave a contributed talk at the <a href="https://www.math.emory.edu/~yxi26/Precond24/accepted.html">Preconditioning 2024</a> meeting in Atlanta, USA.</p>
 <p>2024-06-10: Kars Knook organised a minisymposium on <a href="https://www.math.emory.edu/~yxi26/Precond24/accepted.html">Preconditioners for High Frequency Helmholtz Problems</a> at the Preconditioning 2024 meeting in Atlanta, USA.</p>
