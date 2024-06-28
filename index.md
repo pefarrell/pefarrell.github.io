@@ -40,6 +40,7 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 <p>2024-11-13: I will give a talk in the <a href="https://www.maths.ed.ac.uk/school-of-mathematics/events/acm">Edinburgh Applied and Compuational Mathematics seminar series</a>, hosted by <a href="https://kaibohu.github.io/">Kaibo Hu</a>.</p>
 <p>2024-09-23: I will give a plenary talk at a conference on <a href="https://www2.karlin.mff.cuni.cz/~prusv/ncmm/conference/mpde/info.html">Modelling, partial differential equations analysis and computational mathematics in material sciences</a> in Prague, Czechia.</p>
 <p>2024-09-16: I am organising the <a href="https://www.firedrakeproject.org/firedrake_24.html">Firedrake 2024 user meeting</a> in Oxford, UK.</p>
+<p>2024-07-30: I will give a talk in the <a href="https://mfem.org/seminar/">FEM@LNLL seminar series</a>, hosted by <a href="https://people.llnl.gov/kolev1">Tzanio Kolev</a>.</p>
 <p>2024-07-01: I will attend the <a href="https://pdesoft.org/">PDESoft 2024 conference</a> in Cambridge, UK.</p>
 
 <h2 id="news">News</h2>
