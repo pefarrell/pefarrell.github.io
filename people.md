@@ -9,11 +9,6 @@ title: People
 
 ## Visiting research fellows
 <figure>
-  <img src="{{site.url}}/images/parvizi.jpg" alt="Maryam Parvizi"/>
-  <figcaption><a href="https://scholar.google.co.uk/citations?user=mz7BJFAAAAAJ&hl=en&oi=ao">Maryam Parvizi</a>. <br/>Visiting Apr 2023 to Apr 2024, funded by a Humboldt Fellowship and Leibniz University Hannover.</figcaption>
-</figure>
-
-<figure>
   <img src="{{site.url}}/images/alonso.jpg" alt="Diego Hayashi Alonso"/>
   <figcaption><a href="https://scholar.google.com/citations?user=SCoRD7cAAAAJ&hl=en">Diego Hayashi Alonso</a>. <br/>Visiting Jan 2024 to Dec 2024, funded by FAPESP.</figcaption>
 </figure>
@@ -234,6 +229,14 @@ title: People
 <figure>
   <img src="{{site.url}}/images/ferrer.png" alt="Àlex Ferrer"/>
   <figcaption><a href="https://sites.google.com/view/alexferrer">Àlex Ferrer</a>. <br/>Visited Jul 2022 to Jul 2023, funded by a grant from the Universitat Politècnica de Catalunya and the Catalan government.</figcaption>
+</figure>
+
+&nbsp;
+&nbsp;
+
+<figure>
+  <img src="{{site.url}}/images/parvizi.jpg" alt="Maryam Parvizi"/>
+  <figcaption><a href="https://scholar.google.co.uk/citations?user=mz7BJFAAAAAJ&hl=en&oi=ao">Maryam Parvizi</a>. <br/>Visited Apr 2023 to Apr 2024, funded by a Humboldt Fellowship and Leibniz University Hannover.</figcaption>
 </figure>
 
 &nbsp;
