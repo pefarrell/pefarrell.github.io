@@ -71,7 +71,7 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 <p>2024-01-22: I gave a <a href="http://talks.bham.ac.uk/talk/index/5557">seminar jointly in the Optimisation and Numerical Analysis / Applied Mathematics series</a> at the University of Birmingham.</p>
 <p>2024-01-15: Pablo Brubeck spoke in a minisymposium at <a href="https://www.ci2ma.udec.cl/wonapde2024/">WONAPDE 2024</a> in Concepción, Chile.<p>
 <p>2024-01-03: A new paper on multiple solutions of the Grad-Shafranov equations has been accepted in Nuclear Fusion Letters.</p>
-<p>2023-12-23: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2312.15210">the kinetic derivation of a compressible Leslie-Ericksen equation for rarified calamitic gases</a>, with Umberto Zerbinati and <a href="https://www.dmi.unict.it/~russo/">Giovanni Russo</a>.</p>
+<p>2023-12-23: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2312.15210">the kinetic derivation of a compressible Leslie-Ericksen equation for rarified calamitic gases</a>, with Umberto Zerbinati and <a href="https://www.dmi.unict.it/~russo/">Giovanni Russo</a>. Update: accepted in Multiscale Modeling and Simulation.</p>
 <p>2023-12-06: I gave a seminar in the Mathematical Modelling series at Charles University Prague.</p>
 <p>2023-11-20: I hosted a research visit from <a href="https://brendankeith.github.io/">Brendan Keith</a>.</p>
 <p>2023-10-12: Congratulations to <a href="https://aznaran.com/">Francis Aznaran</a> on winning a Society of Science Fellowship at the University of Notre Dame!</p>
