@@ -33,7 +33,7 @@ title: People
 
 <figure>
   <img src="{{site.url}}/images/andrews.png" alt="Boris Andrews"/>
-  <figcaption>Boris Andrews. <br/>Topic: structure-preserving discretisations in time. <br/>Co-supervised with <a href="https://scholar.google.co.uk/citations?user=XRAFAoEAAAAJ&hl=en">Wayne Arter</a>.</figcaption>
+  <figcaption><a href="https://borisandrews.github.io/">Boris Andrews</a>. <br/>Topic: structure-preserving discretisations in time. <br/>Co-supervised with <a href="https://scholar.google.co.uk/citations?user=XRAFAoEAAAAJ&hl=en">Wayne Arter</a>.</figcaption>
 </figure>
 
 
@@ -74,7 +74,7 @@ title: People
 
 <figure>
   <img src="{{site.url}}/images/zerbinati.jpg" alt="Umberto Zerbinati"/>
-  <figcaption>Umberto Zerbinati. <br/>Topic: modelling and discretisation of smectic liquid crystals.</figcaption>
+  <figcaption><a href="https://www.uzerbinati.eu/">Umberto Zerbinati</a>. <br/>Topic: modelling and discretisation of smectic liquid crystals.</figcaption>
 </figure>
 
 &nbsp;
@@ -89,7 +89,7 @@ title: People
 
 <figure>
   <img src="{{site.url}}/images/wechsung.jpg" alt="Florian Wechsung"/>
-  <figcaption>Florian Wechsung. <br/>Topic: <a href="{{site.url}}/files/wechsung.pdf">shape optimisation and robust solvers for incompressible flow</a>. DPhil viva: 2019-09-23. <br/> Next step: a postdoc with <a href="https://math.nyu.edu/~stadler/">Georg Stadler</a> at NYU.</figcaption>
+  <figcaption><a href="https://florianwechsung.github.io/">Florian Wechsung</a>. <br/>Topic: <a href="{{site.url}}/files/wechsung.pdf">shape optimisation and robust solvers for incompressible flow</a>. DPhil viva: 2019-09-23. <br/> Next step: a postdoc with <a href="https://math.nyu.edu/~stadler/">Georg Stadler</a> at NYU, now a quantitative researcher at Citadel GQS.</figcaption>
 </figure>
 
 &nbsp;
@@ -97,7 +97,7 @@ title: People
 
 <figure>
   <img src="{{site.url}}/images/croci.jpg" alt="Matteo Croci"/>
-  <figcaption>Matteo Croci. <br/>Topic: <a href="{{site.url}}/files/croci.pdf">multilevel Monte Carlo methods for uncertainty quantification in brain simulations</a>. DPhil viva: 2020-01-20. <br/> Co-supervised with <a href="https://people.maths.ox.ac.uk/gilesm/">Mike Giles</a> and <a href="https://marierognes.org">Marie Rognes</a>.<br/> Next step: a postdoc with Mike Giles in Oxford, then with <a href="https://kiwi.oden.utexas.edu/">Karen Willcox</a> at UT Austin.</figcaption>
+  <figcaption><a href="https://croci.github.io/">Matteo Croci</a>. <br/>Topic: <a href="{{site.url}}/files/croci.pdf">multilevel Monte Carlo methods for uncertainty quantification in brain simulations</a>. DPhil viva: 2020-01-20. <br/> Co-supervised with <a href="https://people.maths.ox.ac.uk/gilesm/">Mike Giles</a> and <a href="https://marierognes.org">Marie Rognes</a>.<br/> Next step: a postdoc with Mike Giles in Oxford, then a postdoc with <a href="https://kiwi.oden.utexas.edu/">Karen Willcox</a> at UT Austin, and then a permanent position at BCAM.</figcaption>
 </figure>
 
 &nbsp;
@@ -105,7 +105,7 @@ title: People
 
 <figure>
   <img src="{{site.url}}/images/alawiye.jpg" alt="Hamza Alawiye"/>
-  <figcaption>Hamza Alawiye. <br/>Topic: <a href="{{site.url}}/files/alawiye.pdf">Wrinkling instabilities: modelling, analysis and computation</a>. DPhil viva: 2020-09-25. <br/>Co-supervised with <a href="http://www.goriely.com/">Alain Goriely</a>.<br/> Next step: a Heilbronn fellowship at the University of Bristol.</figcaption>
+  <figcaption>Hamza Alawiye. <br/>Topic: <a href="{{site.url}}/files/alawiye.pdf">Wrinkling instabilities: modelling, analysis and computation</a>. DPhil viva: 2020-09-25. <br/>Co-supervised with <a href="http://www.goriely.com/">Alain Goriely</a>.<br/> Next step: a Heilbronn fellowship at the University of Bristol, now a Senior Machine Learning Research Scientist at Deep Render.</figcaption>
 </figure>
 
 &nbsp;
@@ -113,7 +113,7 @@ title: People
 
 <figure>
   <img src="{{site.url}}/images/gazca.jpg" alt="Pablo Alexei Gazca Orozco"/>
-  <figcaption>Pablo Alexei Gazca Orozco. <br/>Topic: <a href="{{site.url}}/files/gazca.pdf">Numerical analysis of implicitly constituted incompressible fluids: mixed formulations</a>. DPhil viva: 2020-10-19. <br/>Co-supervised with <a href="http://people.maths.ox.ac.uk/suli/">Endre Süli</a>.<br/> Next step: a postdoc with <a href="https://www.caa-avh.nat.fau.eu/enrique-zuazua/">Enrique Zuazua</a> in Erlangen-Nuremberg.</figcaption>
+  <figcaption><a href="https://gazcaorozco.github.io/home/">Pablo Alexei Gazca Orozco</a>. <br/>Topic: <a href="{{site.url}}/files/gazca.pdf">Numerical analysis of implicitly constituted incompressible fluids: mixed formulations</a>. DPhil viva: 2020-10-19. <br/>Co-supervised with <a href="http://people.maths.ox.ac.uk/suli/">Endre Süli</a>.<br/> Next step: a postdoc with <a href="https://www.caa-avh.nat.fau.eu/enrique-zuazua/">Enrique Zuazua</a> in Erlangen-Nuremberg, then a postdoc with <a href="https://aam.uni-freiburg.de/agru/index.html">Michael Růžička</a> in Freiburg.</figcaption>
 </figure>
 
 &nbsp;
@@ -129,7 +129,7 @@ title: People
 
 <figure>
   <img src="{{site.url}}/images/papadopoulos.jpg" alt="Ioannis Papadopoulos"/>
-  <figcaption>Ioannis Papadopoulos. <br/>Topic: <a href="{{site.url}}/files/papadopoulos.pdf">Computing multiple solutions of topology optimization problems</a>. DPhil viva: 2021-09-24. <br/>Co-supervised with <a href="http://people.maths.ox.ac.uk/suli/">Endre Süli</a>. Next step: a postdoc with <a href="http://wwwf.imperial.ac.uk/~solver/">Sheehan Olver</a> at Imperial College London, then a Dirichlet fellowship at the Weierstrass Institute for Applied Analysis and Stochastics in Berlin.</figcaption>
+  <figcaption><a href="https://ioannispapapadopoulos.github.io/">Ioannis Papadopoulos</a>. <br/>Topic: <a href="{{site.url}}/files/papadopoulos.pdf">Computing multiple solutions of topology optimization problems</a>. DPhil viva: 2021-09-24. <br/>Co-supervised with <a href="http://people.maths.ox.ac.uk/suli/">Endre Süli</a>. Next step: a postdoc with <a href="http://wwwf.imperial.ac.uk/~solver/">Sheehan Olver</a> at Imperial College London, then a Dirichlet fellowship at the Weierstrass Institute for Applied Analysis and Stochastics in Berlin.</figcaption>
 </figure>
 
 &nbsp;
@@ -137,7 +137,7 @@ title: People
 
 <figure>
   <img src="{{site.url}}/images/boulle.jpg" alt="Nicolas Boullé"/>
-  <figcaption>Nicolas Boullé. <br/>Topic: <a href="{{site.url}}/files/boulle.pdf">Data-driven discovery of Green's functions</a>. DPhil viva: 2022-08-30. <br/>Co-supervised with <a href="https://marierognes.org">Marie Rognes</a> and <a href="https://pi.math.cornell.edu/~ajt/">Alex Townsend</a>. Next step: an INI-Simons Postdoctoral Fellowship at the University of Cambridge.</figcaption>
+  <figcaption><a href="https://nboulle.github.io/">Nicolas Boullé</a>. <br/>Topic: <a href="{{site.url}}/files/boulle.pdf">Data-driven discovery of Green's functions</a>. DPhil viva: 2022-08-30. <br/>Co-supervised with <a href="https://marierognes.org">Marie Rognes</a> and <a href="https://pi.math.cornell.edu/~ajt/">Alex Townsend</a>. Next step: an INI-Simons Postdoctoral Fellowship at the University of Cambridge, then a permanent lectureship at Imperial College London.</figcaption>
 </figure>
 
 &nbsp;
@@ -153,7 +153,7 @@ title: People
 
 <figure>
   <img src="{{site.url}}/images/aznaran.jpg" alt="Francis Aznaran"/>
-  <figcaption>Francis Aznaran. <br/>Topic: <a href="{{site.url}}/files/aznaran.pdf">Discretisation of Hodge Laplacians in the elasticity complex</a>. DPhil viva: 2022-09-28. <br/>Co-supervised with <a href="https://people.maths.ox.ac.uk/suli/">Endre Süli</a>. Next step: an independent EPSRC postdoctoral position in the Mathematical Institute.</figcaption>
+  <figcaption><a href="https://aznaran.com/">Francis Aznaran</a>. <br/>Topic: <a href="{{site.url}}/files/aznaran.pdf">Discretisation of Hodge Laplacians in the elasticity complex</a>. DPhil viva: 2022-09-28. <br/>Co-supervised with <a href="https://people.maths.ox.ac.uk/suli/">Endre Süli</a>. Next step: a research fellowship at Notre Dame.</figcaption>
 </figure>
 
 &nbsp;
@@ -202,7 +202,7 @@ title: People
 
 <figure>
   <img src="{{site.url}}/images/paganini.jpg" alt="Alberto Paganini"/>
-  <figcaption>Alberto Paganini. <br/>Postdoctoral topic: shape optimisation. <br/> Next steps: a departmental lectureship in Oxford, then a <a href="https://www2.le.ac.uk/departments/mathematics/extranet/staff-material/staff-profiles/alberto-paganini">permanent lectureship at the University of Leicester</a>.</figcaption>
+  <figcaption><a href="https://le.ac.uk/people/alberto-paganini">Alberto Paganini</a>. <br/>Postdoctoral topic: shape optimisation. <br/> Next steps: a departmental lectureship in Oxford, then a permanent lectureship at the University of Leicester.</figcaption>
 </figure>
 
 &nbsp;
