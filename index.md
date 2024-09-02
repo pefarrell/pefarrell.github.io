@@ -49,6 +49,12 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <p>2024-09-16: I am organising the <a href="https://www.firedrakeproject.org/firedrake_24.html">Firedrake 2024 user meeting</a> in Oxford, UK.</p>
 
 <h2 id="news">News</h2>
+<p>2024-08-13: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2408.17390">high-order discretizations for the Stokes-Onsager-Stefan-Maxwell equations describing multicomponent flow</a>, with Aaron Baier-Reinio.
+  <figure>
+  <img src="{{site.url}}/images/sosm-2024-09.png" alt=""/>
+  <figcaption>A simulation of a device for the microfluidic mixing of benzene and cyclohexane. The volume is coloured by the mole fraction of benzene, and its isosurfaces are shown. Streamlines of the benzene velocity field are also displayed.</figcaption>
+  </figure>
+  </p>
 <p>2024-08-13: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2408.05095">augmented Lagrangian preconditioners for Navier-Stokes control problems</a>, with <a href="https://sites.google.com/view/santololeveque/home">Santolo Leveque</a> and <a href="https://www.sns.it/en/persona/michele-benzi">Michele Benzi</a>.</p>
 <p>2024-07-30: I gave a talk in the <a href="https://mfem.org/seminar/">FEM@LNLL seminar series</a>, hosted by <a href="https://people.llnl.gov/kolev1">Tzanio Kolev</a>.</p>
 <p>2024-07-17: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2407.11904">time discretisations that preserve conservation laws and dissipation inequalities</a>, with Boris Andrews.</p>
