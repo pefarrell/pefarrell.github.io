@@ -32,6 +32,8 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 [petsc4py](https://bitbucket.org/petsc/petsc4py), and
 [firedrake](https://www.firedrakeproject.org/).
 
+I am always looking for talented PhD students and postdocs. Members of my group have a very strong track record of winning doctoral scholarships, research prizes, independent fellowships, and tenure-track positions. If you are interested, please contact me!
+
 <h2 id="forthcoming">Forthcoming</h2>
 
 <p>2025-11-03: I will give an invited talk at the Computational Materials Science and Mathematics at the Particle and Atomistic Scales workshop at the ICMS, organised by Maciej Buze, Danny Perez, and Helen Li in Edinburgh, UK.</p>
