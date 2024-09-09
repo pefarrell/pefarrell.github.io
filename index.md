@@ -38,6 +38,11 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <p>2025-11-03: I will give an invited talk at the Computational Materials Science and Mathematics at the Particle and Atomistic Scales workshop at the ICMS, organised by Maciej Buze, Danny Perez, and Helen Li in Edinburgh, UK.</p>
 <p>2025-07-06: I will give an invited talk at the <a href="https://www.grc.org/liquid-crystals-conference/2025/">Gordon Research Conference on Liquid Crystals</a> in Manchester, USA.</p>
+<p>2025-06-15: I am organising the <a href="https://ems-masc.cuni.cz/">EMS School on Mathematical Modelling, Numerical Analysis, and Scientific Computing</a> in Kácov, Czechia. The speakers this year are 
+  <a href="https://www.tue.nl/en/research/researchers/olga-mula-hernandez">Olga Mula</a>,
+  <a href="https://www.simula.no/people/thomasms">Thomas Surowiec</a>,
+  <a href="https://appliedmath.brown.edu/people/johnny-guzman">Johnny Guzmán</a>, and
+  <a href="https://people.epfl.ch/daniel.kressner">Daniel Kressner</a>.</p>
 <p>2025-02-24: I will give a invited talk at the <a href="https://sfb65.univie.ac.at/">3rd SFB International Workshop on Taming Complexity in Partial Differential Systems</a> organised by Anton Arnold, Norbert Mauser, Ilaria Perugia, Dirk Praetorius, and Joachim Schöberl in Vienna, Austria.</p>
 <p>2025-02-05: I am organising the <a href="https://www2.karlin.mff.cuni.cz/~prusv/ncmm/conference/mixtures/">Mixtures: modeling, analysis, and computing</a> conference in Prague, the inaugural meeting of the European Mathematical Society topical activity group on mixtures.</p>
 <p>2025-01-01: I will take up the Donatio Universitatis Carolinæ Chair (a two-year visiting chair) at the <a href="https://www.mff.cuni.cz/en">Faculty of Mathematics and Physics</a> at Charles University Prague.</p>
