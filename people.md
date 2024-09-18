@@ -121,7 +121,7 @@ title: People
 
 <figure>
   <img src="{{site.url}}/images/xia.jpg" alt="Jingmin Xia"/>
-  <figcaption>Jingmin Xia. <br/>Topic: <a href="{{site.url}}/files/xia.pdf">Computational and analytical aspects of energy minimisation problems in cholesteric, ferronematic and smectic liquid crystals</a>. DPhil viva: 2021-06-01. <br/> Next step: a permanent lectureship at the <a href="https://english.nudt.edu.cn/">National University of Defense Technology</a> in Changsha, China.</figcaption>
+  <figcaption><a href="https://jingminxia.github.io/">Jingmin Xia</a>. <br/>Topic: <a href="{{site.url}}/files/xia.pdf">Computational and analytical aspects of energy minimisation problems in cholesteric, ferronematic and smectic liquid crystals</a>. DPhil viva: 2021-06-01. <br/> Next step: a permanent lectureship at the <a href="https://english.nudt.edu.cn/">National University of Defense Technology</a> in Changsha, China.</figcaption>
 </figure>
 
 &nbsp;
