@@ -51,9 +51,13 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <p>2024-11-13: I will give a talk in the <a href="https://www.maths.ed.ac.uk/school-of-mathematics/events/acm">Edinburgh Applied and Compuational Mathematics seminar series</a>, hosted by <a href="https://kaibohu.github.io/">Kaibo Hu</a>.</p>
 <p>2024-10-07: I will give a talk in the <a href="https://sites.google.com/site/pjamesongraber/applied-math-seminar">Baylor Applied Math Seminar</a>, hosted by <a href="https://sites.baylor.edu/robert_kirby/">Robert Kirby</a>.</p>
 <p>2024-09-23: I will give a plenary talk at a conference on <a href="https://www2.karlin.mff.cuni.cz/~prusv/ncmm/conference/mpde/info.html">Modelling, partial differential equations analysis and computational mathematics in material sciences</a> in Prague, Czechia.</p>
-<p>2024-09-16: I am organising the <a href="https://www.firedrakeproject.org/firedrake_24.html">Firedrake 2024 user meeting</a> in Oxford, UK.</p>
 
 <h2 id="news">News</h2>
+<p>2024-09-16: I hosted the <a href="https://www.firedrakeproject.org/firedrake_24.html">Firedrake 2024 user meeting</a> in Oxford, UK. Here is a picture of my current and former students and postdocs who attended.
+  <figure>
+  <img src="{{site.url}}/images/firedrake24_students.jpg" alt="Picture of Patrick Farrell, surrounded by current and former students and postdocs."/>
+  </figure>
+</p>
 <p>2024-08-13: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2408.17390">high-order discretizations for the Stokes-Onsager-Stefan-Maxwell equations describing multicomponent flow</a>, with Aaron Baier-Reinio.
   <figure>
   <img src="{{site.url}}/images/sosm-2024-09.png" alt=""/>
