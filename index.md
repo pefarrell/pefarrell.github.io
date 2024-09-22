@@ -54,6 +54,7 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <p>2024-09-23: I will give a plenary talk at a conference on <a href="https://www2.karlin.mff.cuni.cz/~prusv/ncmm/conference/mpde/info.html">Modelling, partial differential equations analysis and computational mathematics in material sciences</a> in Prague, Czechia.</p>
 
 <h2 id="news">News</h2>
+<p>2024-09-20: I hosted <a href="https://cemse.kaust.edu.sa/people/person/daniele-boffi">Daniele Boffi</a> for an out-of-term seminar on eigenvalue problems.</p>
 <p>2024-09-16: I hosted the <a href="https://www.firedrakeproject.org/firedrake_24.html">Firedrake 2024 user meeting</a> in Oxford, UK. Here is a picture of my current and former students and postdocs who attended.
   <figure>
   <img src="{{site.url}}/images/firedrake24_students.jpg" alt="Picture of Patrick Farrell, surrounded by current and former students and postdocs."/>
