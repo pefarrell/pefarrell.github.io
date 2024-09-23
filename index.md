@@ -50,6 +50,7 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <p>2024-11-28: I will give a talk in the Cambridge <a href="http://talks.cam.ac.uk/show/index/9811">Applied and Computational Mathematics seminar series</a>, hosted by <a href="http://www.damtp.cam.ac.uk/user/mjc249/home.html">Matt Colbrook</a>.</p>
 <p>2024-11-21: I will host <a href="http://www.lorenzopareschi.it/">Lorenzo Pareschi</a> for a <a href="https://www.maths.ox.ac.uk/node/68815">talk in the Computational Mathematics and Applications Seminar series</a>.</p>
 <p>2024-11-13: I will give a talk in the <a href="https://www.maths.ed.ac.uk/school-of-mathematics/events/acm">Edinburgh Applied and Compuational Mathematics seminar series</a>, hosted by <a href="https://kaibohu.github.io/">Kaibo Hu</a>.</p>
+<p>2024-10-28: I will give a <a href="https://bicmr.pku.edu.cn/content/show/18-3434.html">colloquium</a> at the <a href="https://bicmr.pku.edu.cn/">Beijing International Center for Mathematical Research</a>.</p>
 <p>2024-10-07: I will give a talk in the <a href="https://sites.google.com/site/pjamesongraber/applied-math-seminar">Baylor Applied Math Seminar</a>, hosted by <a href="https://sites.baylor.edu/robert_kirby/">Robert Kirby</a>.</p>
 <p>2024-09-23: I will give a plenary talk at a conference on <a href="https://www2.karlin.mff.cuni.cz/~prusv/ncmm/conference/mpde/info.html">Modelling, partial differential equations analysis and computational mathematics in material sciences</a> in Prague, Czechia.</p>
 
