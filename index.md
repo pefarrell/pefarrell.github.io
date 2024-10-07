@@ -53,7 +53,9 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <p>2024-10-28: I will give a <a href="https://bicmr.pku.edu.cn/content/show/18-3434.html">colloquium</a> at the <a href="https://bicmr.pku.edu.cn/">Beijing International Center for Mathematical Research</a>.</p>
 <p>2024-10-07: I will give a talk in the <a href="https://sites.google.com/site/pjamesongraber/applied-math-seminar">Baylor Applied Math Seminar</a>, hosted by <a href="https://sites.baylor.edu/robert_kirby/">Robert Kirby</a>.</p>
 
-<h2 id="news">News</h2>
+<h2 id="news">2024</h2>
+<p>2024-10-09: Welcome to Matěj Vais! Matěj is an MSc student from Charles University Prague who is visiting for a term.</p>
+<p>2024-10-01: Welcome to Arselane Hadj-Slimane! Arselane is an MSc student from ENS Saclay who is visiting for five months.</p>
 <p>2024-09-23: I gave a plenary talk at a conference on <a href="https://www2.karlin.mff.cuni.cz/~prusv/ncmm/conference/mpde/info.html">Modelling, partial differential equations analysis and computational mathematics in material sciences</a> in Prague, Czechia.</p>
 <p>2024-09-20: I hosted <a href="https://cemse.kaust.edu.sa/people/person/daniele-boffi">Daniele Boffi</a> for an out-of-term seminar on eigenvalue problems.</p>
 <p>2024-09-16: I hosted the <a href="https://www.firedrakeproject.org/firedrake_24.html">Firedrake 2024 user meeting</a> in Oxford, UK. Here is a picture of my current and former students and postdocs who attended.
