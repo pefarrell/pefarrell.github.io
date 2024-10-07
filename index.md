@@ -52,9 +52,9 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <p>2024-11-13: I will give a talk in the <a href="https://www.maths.ed.ac.uk/school-of-mathematics/events/acm">Edinburgh Applied and Compuational Mathematics seminar series</a>, hosted by <a href="https://kaibohu.github.io/">Kaibo Hu</a>.</p>
 <p>2024-10-28: I will give a <a href="https://bicmr.pku.edu.cn/content/show/18-3434.html">colloquium</a> at the <a href="https://bicmr.pku.edu.cn/">Beijing International Center for Mathematical Research</a>.</p>
 <p>2024-10-07: I will give a talk in the <a href="https://sites.google.com/site/pjamesongraber/applied-math-seminar">Baylor Applied Math Seminar</a>, hosted by <a href="https://sites.baylor.edu/robert_kirby/">Robert Kirby</a>.</p>
-<p>2024-09-23: I will give a plenary talk at a conference on <a href="https://www2.karlin.mff.cuni.cz/~prusv/ncmm/conference/mpde/info.html">Modelling, partial differential equations analysis and computational mathematics in material sciences</a> in Prague, Czechia.</p>
 
 <h2 id="news">News</h2>
+<p>2024-09-23: I gave a plenary talk at a conference on <a href="https://www2.karlin.mff.cuni.cz/~prusv/ncmm/conference/mpde/info.html">Modelling, partial differential equations analysis and computational mathematics in material sciences</a> in Prague, Czechia.</p>
 <p>2024-09-20: I hosted <a href="https://cemse.kaust.edu.sa/people/person/daniele-boffi">Daniele Boffi</a> for an out-of-term seminar on eigenvalue problems.</p>
 <p>2024-09-16: I hosted the <a href="https://www.firedrakeproject.org/firedrake_24.html">Firedrake 2024 user meeting</a> in Oxford, UK. Here is a picture of my current and former students and postdocs who attended.
   <figure>
@@ -96,11 +96,14 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <p>2024-01-22: I gave a <a href="http://talks.bham.ac.uk/talk/index/5557">seminar jointly in the Optimisation and Numerical Analysis / Applied Mathematics series</a> at the University of Birmingham.</p>
 <p>2024-01-15: Pablo Brubeck spoke in a minisymposium at <a href="https://www.ci2ma.udec.cl/wonapde2024/">WONAPDE 2024</a> in Concepción, Chile.<p>
 <p>2024-01-03: A new paper on multiple solutions of the Grad-Shafranov equations has been accepted in Nuclear Fusion Letters.</p>
+
+
+<h2 id="news">2023</h2>
 <p>2023-12-23: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2312.15210">the kinetic derivation of a compressible Leslie-Ericksen equation for rarified calamitic gases</a>, with Umberto Zerbinati and <a href="https://www.dmi.unict.it/~russo/">Giovanni Russo</a>. Update: accepted in Multiscale Modeling and Simulation.</p>
 <p>2023-12-06: I gave a seminar in the Mathematical Modelling series at Charles University Prague.</p>
 <p>2023-11-20: I hosted a research visit from <a href="https://brendankeith.github.io/">Brendan Keith</a>.</p>
 <p>2023-10-12: Congratulations to <a href="https://aznaran.com/">Francis Aznaran</a> on winning a Society of Science Fellowship at the University of Notre Dame!</p>
-<p>2022-10-02: Welcome to Kars Knook and Mingdong He, who both start their DPhil studies today!</p>
+<p>2023-10-02: Welcome to Kars Knook and Mingdong He, who both start their DPhil studies today!</p>
 <p>2023-09-05: Congratulations to Gonzalo Gonzalez de Diego on passing his DPhil viva! Thanks to <a href="https://dngoldberg.github.io/">Dan Goldberg</a> and <a href="https://www.maths.ox.ac.uk/people/peter.howell">Peter Howell</a> for serving as examiners.</p>
 <p>2023-08-31: I gave a plenary talk at the <a href="https://www.ul.ie/scieng/schools-and-departments/department-mathematics-and-statistics/36th-annual-meeting-of-the">annual meeting</a> of the <a href="https://irishmathsoc.org/">Irish Mathematical Society</a>.</p>
 <p>2023-08-20: I spoke in the <a href="https://iciam2023.org/registered_data?id=01054">Scalable Solvers for Multiphysics Problems minisymposium</a> at ICIAM, organised by <a href="https://searhein.github.io/">Alexander Heinlein</a> and <a href="https://www.unibw.de/imcs-en/team/mayr">Matthias Mayr</a>.</p>
@@ -135,6 +138,8 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <p>2023-01-23: Welcome to <a href="https://duygusap.com/">Duygu Sap</a>, who starts as a postdoc with me, funded on <a href="https://prism.ac.uk/">the PRISM project</a>.</p>
 <p>2023-01-18: I hosted <a href="https://mkilme01.pages.tufts.edu/">Misha Kilmer</a> for a talk in the <a href="https://www.maths.ox.ac.uk/node/60817">Computational Mathematics and Applications seminar</a>.</p>
 <p>2023-01-04: I gave a talk in the <a href="https://www.firedrakeproject.org/firedrake_22.html">Firedrake meeting</a>, as did Umberto Zerbinati, India Marsden, and Francis Aznaran.</p>
+
+<h2 id="news">2022</h2>
 <p>2022-12-13: I served on the PhD jury of <a href="https://michaloutrata.com/">Michal Outrata</a>, a student of <a href="http://www.unige.ch/~gander/">Martin Gander</a>, at the University of Geneva.
 <p>2022-12-06: I gave a talk in the <a href="https://cemse.kaust.edu.sa/amcs/events/mathematics-and-applications-colloquium">KAUST Mathematics and Applications Colloquium</a>, hosted by <a href="https://cemse.kaust.edu.sa/sna/people/person/jinchao-xu">Jinchao Xu</a>.</p>
 <p>2022-12-05: I gave a talk in the <a href="https://cemse.kaust.edu.sa/cs/events/graduate-seminar">KAUST Computer Science Graduate Seminar</a>, hosted by <a href="https://www.kaust.edu.sa/en/study/faculty/david-keyes">David Keyes</a>.</p>
@@ -178,6 +183,8 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <p>2022-01-27: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2201.11684">the optimal control of Hopf bifurcations</a>, with <a href="https://people.maths.ox.ac.uk/boulle/">Nicolas Boullé</a> and <a href="https://marierognes.org/">Marie Rognes</a>. Update: accepted in SISC.</p>
 <p>2022-01-01: I have joined the <a href="https://www.siam.org/journals/sisc/board.php">SISC Editorial Board</a> as an Associate Editor.</p>
 <p>2022-01-01: I have joined the <a href="https://euromathsoc.org/committee-applications-interdisciplinary-relations">Committee on Applications and Interdisciplinary Relations</a> of the <a href="https://euromathsoc.org">European Mathematical Society</a>.</p>
+
+<h2 id="news">2021</h2>
 <p>2021-11-11: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2111.05593">the numerical solution of viscous contact problems applied to glacial sliding</a>, with <a href="http://www.maths.ox.ac.uk/people/gonzalo.gonzalezdediego">Gonzalo Gonzalez de Diego</a> and <a href="https://people.maths.ox.ac.uk/hewitt/">Ian Hewitt</a>. Update: accepted in JFM.</p>
 <p>2021-10-27: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2110.13224">transformations for Mardal-Tai-Winther and Arnold-Winther elements</a>, with Francis Aznaran and <a href="https://sites.baylor.edu/robert_kirby/">Rob Kirby</a>. Update: accepted in SMAI JCM.</p>
 <p>2021-10-13: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2110.06479">variational and numerical analysis of a Q-tensor model for smectic-A liquid crystals</a>, with Jingmin Xia. Update: accepted in M2AN.</p>
@@ -219,6 +226,8 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/DUwuqhkNFxc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 <p>2021-01-21: I gave a talk in the new <a href="https://staff.ul.ie/natalia/inaf">Irish Numerical Analysis Forum</a>.</p>
 <p>2021-01-14: I am attending the online <a href="https://ccfe.ukaea.uk/excalibur-computing-project-will-sharpen-understanding-of-plasma-behaviour/">UKAEA ExCALIBUR-NEPTUNE</a> kickoff meeting to design a new code to simulate the turbulent edge of a plasma in a tokamak reactor.</p>
+
+<h2 id="news">2020</h2>
 <p>2020-11-24: I am organising a workshop on <a href="https://excalibur-genx.github.io/community-workshop/00_schedule.html">Planning for exasale continuum mechanics software</a>, with Jack Betteridge and <a href="https://www.imperial.ac.uk/people/david.ham">David Ham</a>. This is part of our <a href="https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V001493/1">ExCALIBUR working group</a>.</p>
 <p>2020-11-17: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2011.08802">multigrid methods for phase field modelling of multivariant martensitic formation</a>, with <a href="http://www.karlin.mff.cuni.cz/~tumak3am/">Karel Tůma</a>, <a href="https://scholar.google.co.uk/citations?user=9xxR6moAAAAJ&hl=en">Mohsen Rezaee-Hajidehi</a>, <a href="https://www2.karlin.mff.cuni.cz/~hron/">Jaroslav Hron</a>, and <a href="http://bluebox.ippt.pan.pl/~sstupkie/">Stanislaw Stupkiewicz</a>. Update: accepted in CMAME. Here's a video of the microstructure evolution in a pseudoelastic CuAlNi single crystal during nano-indentation.</p>
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/MqtsP-f4KSI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
@@ -251,7 +260,7 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <p>2020-04-20: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2004.09398">Reynolds-robust solvers for the incompressible Navier-Stokes with the Scott-Vogelius discretisation on macroelements</a>, with <a href="http://people.cs.uchicago.edu/~ridg/">Ridgway Scott</a>, <a href="https://www.dur.ac.uk/directory/profile/?id=17243">Lawrence Mitchell</a> and <a href="https://florianwechsung.github.io">Florian Wechsung</a>. Update: accepted in SMAI Journal of Computational Mathematics.</p>
 <p>2020-04-15: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2004.07329">augmented Lagrangian preconditioners for the Oseen-Frank model in liquid crystals</a>, with <a href="https://florianwechsung.github.io">Florian Wechsung</a> and Jingmin Xia. Update: accepted in BIT Numerical Mathematics.</p>
 <p>2020-04-01: Welcome to Jack Betteridge, who is starting a postdoc at Imperial College London, supervised by <a href="https://www.imperial.ac.uk/people/david.ham">David Ham</a> and myself. Jack is funded on <a href="https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V001493/1">EPSRC grant EP/V001493/1</a>.
-<p>2019-03-12: I am hosting <a href="https://prof-girolami.uk/">Mark Girolami</a> of the University of Cambridge for a seminar in the <a href="https://www.maths.ox.ac.uk/events/list/635">Computational Mathematics and Applications series</a>.</p>
+<p>2020-03-12: I am hosting <a href="https://prof-girolami.uk/">Mark Girolami</a> of the University of Cambridge for a seminar in the <a href="https://www.maths.ox.ac.uk/events/list/635">Computational Mathematics and Applications series</a>.</p>
 <p>2020-02-20: I am hosting <a href="https://marierognes.org/">Marie Rognes</a> of Simula Research Laboratory for a seminar in the <a href="https://www.maths.ox.ac.uk/events/list/646">Industrial and Applied Mathematics series</a>.</p>
 <p>2020-02-06: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2002.02051">robust solvers for linear elasticity with the Scott-Vogelius discretisation on macroelements</a>, with <a href="http://people.cs.uchicago.edu/~ridg/">Ridgway Scott</a>, <a href="https://www.dur.ac.uk/directory/profile/?id=17243">Lawrence Mitchell</a> and <a href="https://florianwechsung.github.io">Florian Wechsung</a>. Update: accepted in IMAJNA.</p>
 <p>2020-02-05: I am attending the <a href="https://ccfe.ukaea.uk/excalibur-computing-project-will-sharpen-understanding-of-plasma-behaviour/">UKAEA Fusion Modelling System workshop in Birmingham</a>.</p>
@@ -260,6 +269,8 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <p>2020-01-16: I am hosting a research visit from <a href="https://www.mathematik.uni-marburg.de/~surowiec/">Thomas Surowiec</a> of Philipps-Universität Marburg.</p>
 <p>2020-01-09: I am hosting a research visit from <a href="https://sites.tufts.edu/softmattertheory/">Tim Atherton</a> of Tufts University.</p>
 <p>2020-01-08: I am hosting a research visit from <a href="https://scholar.google.co.uk/citations?user=wN6wcHYAAAAJ&hl=en">Mariano Beguerisse</a> of Spotify.</p>
+
+<h2 id="news">2019</h2>
 <p>2019-12-18: A new paper is up on arXiv about <a href="https://arxiv.org/abs/1912.08516">PCPATCH, a preconditioner in PETSc for the topological construction of relaxation methods</a>, with <a href="https://cse.buffalo.edu/~knepley/">Matt Knepley</a>, <a href="https://www.dur.ac.uk/directory/profile/?id=17243">Lawrence Mitchell</a> and <a href="https://florianwechsung.github.io">Florian Wechsung</a>. Update: accepted in ACM TOMS.</p>
 <p>2019-12-09: I have been invited to give a lecture at the <a href="https://icerm.brown.edu/topical_workshops/tw19-7-elcs/">ICERM workshop on Numerical Methods and New Perspectives for Extended Liquid Crystalline Systems</a> organised by <a href="https://www.strath.ac.uk/staff/majumdarapalaprofessor/">Apala Majumdar</a>, <a href="https://www.math.lsu.edu/~walker/">Shawn Walker</a> and <a href="http://www.lcsoftmatter.com/">Jan Lagerwall</a>.</p>
 <p>2019-11-29: A new paper is up on arXiv about <a href="https://arxiv.org/abs/1912.00023">the bifurcation analysis of two-component Bose-Einstein condensates</a>, with <a href="https://people.math.umass.edu/~kevrekid/">Panos Kevrekidis</a>, <a href="https://www.egcharalampidis.com/">Stathis Charalampidis</a> and Nicolas Boullé. Update: now <a href="https://doi.org/10.1016/j.cnsns.2020.105255">published in CNSNS</a>.</p>
@@ -294,6 +305,8 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <p>2019-03-24: I am giving a talk at the <a href="https://grandmaster.colorado.edu/copper/2019/">19th Copper Mountain Conference on Multigrid Methods</a> in Colorado.</p>
 <p>2019-03-07: I am hosting <a href="https://www.imperial.ac.uk/people/lawrence.mitchell">Lawrence Mitchell</a> of Durham University for a seminar in the <a href="https://www.maths.ox.ac.uk/events/list/635">Computational Mathematics and Applications series</a>.</p>
 <p>2019-01-11: I am attending the <a href="https://siamukie.wordpress.com/2018/07/05/siam-ukie-annual-meeting-2019-in-oxford/">SIAM UKIE meeting in Oxford</a>.</p>
+
+<h2 id="news">2018</h2>
 <p>2018-12-05: I am hosting <a href="https://www.math.uh.edu/~molshan/">Maxim Olshanskii</a> of the University of Houston for the viva of <a href="https://www.scd.stfc.ac.uk/Pages/Niall-Bootland.aspx">Niall Bootland</a>. Update: Niall passed. Congratulations!</p>
 <p>2018-11-13: I am hosting a research visit from <a href="https://www.dur.ac.uk/directory/profile/?id=17243">Lawrence Mitchell</a> of Durham University.</p>
 <p>2018-11-02: I am hosting <a href="https://en.wikipedia.org/wiki/Jonathan_Keating">Jon Keating</a> for a colloquium at the Mathematical Institute.</p>
@@ -312,6 +325,8 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <p>2018-04-10: I am teaching  a summer (spring?) school on sensitivity and optimisation in Tuscany, with <a href="http://www2.eng.cam.ac.uk/~mpj1001/">Matthew Juniper</a> and <a href="https://www.imperial.ac.uk/people/peter.schmid/">Peter Schmid</a>.</p>
 <p>2018-03-21: I am hosting the <a href="https://fenicsproject.org/fenics18/">2018 FEniCS conference</a> in Oxford.</p>
 <p>2018-01-22: Congratulations to <a href="https://florianwechsung.github.io">Florian Wechsung</a> on winning first place in the <a href="https://www.gresearch.co.uk/article/g-research-phd-prize-in-maths-and-data-science/">G-Research DPhil prize</a>!</p>
+
+<h2 id="news">2017</h2>
 <p>2017-11-26: A new paper has been accepted on <a href="http://dx.doi.org/10.1002/2017JF004373">glaciological inverse problems in Pine Island Glacier, Antarctica</a>, with Teresa Kyrke-Smith and <a href="https://www.bas.ac.uk/profile/ghg/">Hilmar Gudmundsson</a>.</p>
 <p>2017-10-01: Welcome to Hamza Alawiye and Alexei Gazca, who begin their DPhil studies today! My co-supervisors are <a href="https://www.maths.ox.ac.uk/people/alain.goriely">Alain Goriely</a> (Hamza) and <a href="http://people.maths.ox.ac.uk/suli/">Endre Süli</a> (Alexei).</p>
 <p>2017-07-18: I am giving an invited seminar at the <a href="http://caims2017.caims.ca/caims2017/welcome2017.html">annual meeting of the Canadian Applied and Industrial Mathematics society</a> in Halifax, Nova Scotia.</p>
@@ -326,6 +341,8 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <p>2017-01-20: I have been appointed as an editorial board member of SIAM&#8217;s <a href="http://epubs.siam.org/series/fa">Fundamentals of Algorithms</a> book series.</p>
 <p>2017-01-16: I am teaching <a href="https://courses.maths.ox.ac.uk/node/4910">C6.4 Finite Element Methods for PDEs</a> this term. My <a href="https://courses.maths.ox.ac.uk/node/4910">introductory lecture notes on finite elements</a> may be of interest. Any comments gratefully received!</p>
 <p>2017-01-02: A new paper is up on arXiv about <a href="https://arxiv.org/abs/1612.09597">recovering inundation profiles from tidal data</a>, with <a href="http://www.simonfunke.com">Simon Funke</a> and <a href="https://www.google.co.uk/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwiy8_Go4bbYAhVkIMAKHZPRAb0QFggnMAA&amp;url=https%3A%2F%2Fwww.imperial.ac.uk%2Fpeople%2Fm.d.piggott&amp;usg=AOvVaw1mX772qbdYLXZNCk8Lf2r1">Matthew Piggott</a>.</p>
+
+<h2 id="news">2016</h2>
 <p>2016-10-01: I am delighted to announce that I have been appointed as an Associate Professor in the Mathematical Institute and as a Tutorial Fellow at Oriel College.</p>
 <p>2016-10-01: Welcome to Florian Wechsung, and Matteo Croci, who begin their DPhil studies today under my supervision! My co-supervisors are <a href="http://www.lcs-fast.com/the_team/">Mark Taylor</a> of <a href="http://www.lcs-fast.com/">London Computational Solutions</a> (Florian), and <a href="https://www.simula.no/people/meg">Marie Rognes</a> of <a href="https://simula.no">Simula Research Laboratory</a> and <a href="http://people.maths.ox.ac.uk/~gilesm/">Mike Giles</a> (Matteo).</p>
 <p>2016-09-28: A new paper is up on arXiv about <a href="https://arxiv.org/abs/1609.08842">the analysis of Carrier&#8217;s problem</a> with <a href="https://people.maths.ox.ac.uk/chapman/">Jon Chapman</a>.</p>
@@ -337,6 +354,8 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <p>2016-03-16: A new paper is up on arXiv about <a href="https://arxiv.org/abs/1603.04570">optimal preconditioners for the Ohta&#8211;Kawasaki equations</a> with <a href="http://www.kent.ac.uk/smsas/our-people/profiles/pearson_john.html">John Pearson</a>.</p>
 <p>2016-03-15: There&#8217;s an open faculty position in numerical analysis in Oxford (an associate professorship). Apply by April 29!</p>
 <p>2016-01-28: A new paper is up on arXiv about <a href="https://arxiv.org/abs/1601.07383">using deflation to compute multiple equilibria of nematic liquid crystals</a> with <a href="http://jadler.math.tufts.edu/">James Adler</a>, <a href="https://webhosting.math.tufts.edu/dbemerson/">David Emerson</a> and <a href="http://www.math.mun.ca/~smaclachlan/">Scott MacLachlan</a>.</p>
+
+<h2 id="news">2015</h2>
 <p>2015-11-30: Another paper is up on arXiv about <a href="https://arxiv.org/abs/1511.08463">linear and nonlinear solvers in variational fracture mechanics </a>with <a href="http://www.lmm.jussieu.fr/~corrado/">Corrado Maurini</a>. The <a href="https://bitbucket.org/pefarrell/varfrac-solvers">code that supports the manuscript</a> is available on bitbucket.</p>
 <p>2015-09-19: <a href="https://www.facebook.com/SIAMconnect/photos/a.10155994620440304.1073741848.81505865303/10155994624125304/?type=3&amp;theater">Images from the SIAM Awards Lunch</a> in Beijing are online.</p>
 <p>2015-09-18: I gave the invited scientific lecture to the annual general meeting of <a href="http://www.nag.co.uk">NAG</a>.</p>
