@@ -80,10 +80,12 @@ title: People
 &nbsp;
 &nbsp;
 
-<!---
-## MSc and undergraduate students
+## MSc students
 
---->
+<figure>
+  <img src="{{site.url}}/images/vais.jpg" alt="Matěj Vais"/>
+  <figcaption>Matěj Vais. <br/>Topic: simulation of power-law fluids with low power-law index.</figcaption>
+</figure>
 
 ## DPhil graduates
 
