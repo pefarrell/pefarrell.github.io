@@ -80,11 +80,15 @@ title: People
 &nbsp;
 &nbsp;
 
-## MSc students
+## Visiting MSc students
+<figure>
+  <img src="{{site.url}}/images/hadjslimane.jpg" alt="Arselane Hadj-Slimane"/>
+  <figcaption>Arselane Hadj-Slimane. <br/> Home university: ENS Saclay. <br/>Topic: shape optimisation in the presence of multiple solutions.</figcaption>
+</figure>
 
 <figure>
   <img src="{{site.url}}/images/vais.jpg" alt="Matěj Vais"/>
-  <figcaption>Matěj Vais. <br/>Topic: simulation of power-law fluids with low power-law index.</figcaption>
+  <figcaption>Matěj Vais. <br/> Home university: Charles University Prague. <br/>Topic: simulation of power-law fluids with low power-law index.</figcaption>
 </figure>
 
 ## DPhil graduates
