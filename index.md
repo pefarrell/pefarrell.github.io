@@ -43,6 +43,7 @@ I am always looking for talented PhD students and postdocs. Members of my group 
   <a href="https://www.simula.no/people/thomasms">Thomas Surowiec</a>,
   <a href="https://appliedmath.brown.edu/people/johnny-guzman">Johnny Guzmán</a>, and
   <a href="https://people.epfl.ch/daniel.kressner">Daniel Kressner</a>.</p>
+<p>2025-03-28: I will give a talk in the <a href="https://applied-mathematics.wp.st-andrews.ac.uk/event/prof-patrick-farrell-university-of-oxford/">Applied Mathematics Seminar in St. Andrews</a>, hosted by <a href="https://www.st-andrews.ac.uk/mathematics-statistics/people/ns210/">Nikolaos Sfakianakis</a>.</p>
 <p>2025-02-24: I will give a invited talk at the <a href="https://sfb65.univie.ac.at/">3rd SFB International Workshop on Taming Complexity in Partial Differential Systems</a> organised by Anton Arnold, Norbert Mauser, Ilaria Perugia, Dirk Praetorius, and Joachim Schöberl in Vienna, Austria.</p>
 <p>2025-02-05: I am organising the <a href="https://www2.karlin.mff.cuni.cz/~prusv/ncmm/conference/mixtures/">Mixtures: modeling, analysis, and computing</a> conference in Prague, the inaugural meeting of the European Mathematical Society topical activity group on mixtures.</p>
 <p>2025-02-01: I will begin as an associate editor of <a href="https://www.ams.org/publications/journals/journalsframework/mcom">Mathematics of Computation</a>.</p>
