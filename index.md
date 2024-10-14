@@ -37,6 +37,7 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <h2 id="forthcoming">Forthcoming</h2>
 
 <p>2025-11-03: I will give an invited talk at the Computational Materials Science and Mathematics at the Particle and Atomistic Scales workshop at the ICMS, organised by Maciej Buze, Danny Perez, and Helen Li in Edinburgh, UK.</p>
+<p>2025-09-01: I will give a plenary talk at the <a href="https://enumath2025.eu/">ENUMATH 2025</a> conference in Heidelberg, Germany.</p>
 <p>2025-07-06: I will give an invited talk at the <a href="https://www.grc.org/liquid-crystals-conference/2025/">Gordon Research Conference on Liquid Crystals</a> in Manchester, USA.</p>
 <p>2025-06-15: I am organising the <a href="https://ems-masc.cuni.cz/">EMS School on Mathematical Modelling, Numerical Analysis, and Scientific Computing</a> in Kácov, Czechia. The speakers this year are 
   <a href="https://www.tue.nl/en/research/researchers/olga-mula-hernandez">Olga Mula</a>,
