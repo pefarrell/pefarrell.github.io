@@ -51,7 +51,7 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <p>2025-01-01: I will take up the Donatio Universitatis Carolinæ Chair (a two-year visiting chair) at the <a href="https://www.mff.cuni.cz/en">Faculty of Mathematics and Physics</a> at Charles University Prague.</p>
 <p>2024-11-28: I will give a talk in the Cambridge <a href="http://talks.cam.ac.uk/show/index/9811">Applied and Computational Mathematics seminar series</a>, hosted by <a href="http://www.damtp.cam.ac.uk/user/mjc249/home.html">Matt Colbrook</a>.</p>
 <p>2024-11-21: I will host <a href="http://www.lorenzopareschi.it/">Lorenzo Pareschi</a> for a <a href="https://www.maths.ox.ac.uk/node/68815">talk in the Computational Mathematics and Applications Seminar series</a>.</p>
-<p>2024-11-13: I will give a talk in the <a href="https://www.maths.ed.ac.uk/school-of-mathematics/events/acm">Edinburgh Applied and Compuational Mathematics seminar series</a>, hosted by <a href="https://kaibohu.github.io/">Kaibo Hu</a>.</p>
+<p>2024-11-13: I will give a talk in the <a href="https://www.maths.ed.ac.uk/school-of-mathematics/events/acm">Edinburgh Applied and Computational Mathematics seminar series</a>, hosted by <a href="https://kaibohu.github.io/">Kaibo Hu</a>.</p>
 <p>2024-10-29: I will give a <a href="https://www.cc.ac.cn/article/175/4034.html">seminar</a> at the State Key Laboratory of Scientific and Engineering Computing, hosted by <a href="https://lsec.cc.ac.cn/~zhangcs/">Chensong Zhang</a> and <a href="https://lsec.cc.ac.cn/~liuxin/">Xin Liu</a>.</p>
 <p>2024-10-28: I will give a <a href="https://bicmr.pku.edu.cn/content/show/18-3434.html">colloquium</a> at the <a href="https://bicmr.pku.edu.cn/">Beijing International Center for Mathematical Research</a>.</p>
 
