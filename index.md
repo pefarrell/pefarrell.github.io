@@ -54,6 +54,7 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <p>2024-11-13: I will give a talk in the <a href="https://www.maths.ed.ac.uk/school-of-mathematics/events/acm">Edinburgh Applied and Computational Mathematics seminar series</a>, hosted by <a href="https://kaibohu.github.io/">Kaibo Hu</a>.</p>
 <p>2024-10-29: I will give a <a href="https://www.cc.ac.cn/article/175/4034.html">seminar</a> at the State Key Laboratory of Scientific and Engineering Computing, hosted by <a href="https://lsec.cc.ac.cn/~zhangcs/">Chensong Zhang</a> and <a href="https://lsec.cc.ac.cn/~liuxin/">Xin Liu</a>.</p>
 <p>2024-10-28: I will give a <a href="https://bicmr.pku.edu.cn/content/show/18-3434.html">colloquium</a> at the <a href="https://bicmr.pku.edu.cn/">Beijing International Center for Mathematical Research</a>.</p>
+<p>2024-10-16: I will give a <a href="https://www.bits-pilani.ac.in/news/guest-talk-by-prof-prof-patrick-e-farrell-university-of-oxford/">seminar</a> at BITS Pilani in Hyderabad, hosted by <a href="https://www.bits-pilani.ac.in/hyderabad/gujji-murali-mohan-reddy/">Gujji Murali Mohan Reddy</a>.</p>
 
 <h2 id="news">2024</h2>
 <p>2024-10-09: Welcome to Matěj Vais! Matěj is an MSc student from Charles University Prague who is visiting for a term.</p>
