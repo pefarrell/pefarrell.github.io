@@ -55,6 +55,7 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <p>2024-11-13: I will give a talk in the <a href="https://www.maths.ed.ac.uk/school-of-mathematics/events/acm">Edinburgh Applied and Computational Mathematics seminar series</a>, hosted by <a href="https://kaibohu.github.io/">Kaibo Hu</a>.</p>
 
 <h2 id="news">2024</h2>
+<p>2024-10-30: Oriel is hiring a <a href="https://www.oriel.ox.ac.uk/vacancies/stipendiary-lecturer-in-mathematics/">stipendiary lecturer in mathematics</a> to cover my visiting professorship at Charles University Prague. Please contact me with any questions!</p>
 <p>2024-10-30: I gave a short course on using Firedrake to solve PDEs at the School of Mathematical Sciences, Peking University.</p> 
 <p>2024-10-29: I gave a <a href="https://www.cc.ac.cn/article/175/4034.html">seminar</a> at the State Key Laboratory of Scientific and Engineering Computing, hosted by <a href="https://lsec.cc.ac.cn/~zhangcs/">Chensong Zhang</a> and <a href="https://lsec.cc.ac.cn/~liuxin/">Xin Liu</a>.</p>
 <p>2024-10-28: I gave a <a href="https://bicmr.pku.edu.cn/content/show/18-3434.html">colloquium</a> at the <a href="https://bicmr.pku.edu.cn/">Beijing International Center for Mathematical Research</a>, hosted by <a href="http://faculty.bicmr.pku.edu.cn/~zhanglei/indexE.html">Lei Zhang</a>.</p>
