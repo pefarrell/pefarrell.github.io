@@ -52,10 +52,10 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <p>2025-01-01: I will take up the Donatio Universitatis Carolinæ Chair (a two-year visiting chair) at the <a href="https://www.mff.cuni.cz/en">Faculty of Mathematics and Physics</a> at Charles University Prague.</p>
 <p>2024-11-28: I will give a talk in the Cambridge <a href="http://talks.cam.ac.uk/show/index/9811">Applied and Computational Mathematics seminar series</a>, hosted by <a href="http://www.damtp.cam.ac.uk/user/mjc249/home.html">Matt Colbrook</a>.</p>
 <p>2024-11-21: I will host <a href="http://www.lorenzopareschi.it/">Lorenzo Pareschi</a> for a <a href="https://www.maths.ox.ac.uk/node/68815">talk in the Computational Mathematics and Applications Seminar series</a>.</p>
-<p>2024-11-13: I will give a talk in the <a href="https://www.maths.ed.ac.uk/school-of-mathematics/events/acm">Edinburgh Applied and Computational Mathematics seminar series</a>, hosted by <a href="https://kaibohu.github.io/">Kaibo Hu</a>.</p>
-<p>2024-11-12: I will teach a <a href="https://www.mac-migs.ac.uk/events/mac-migs-deep-dive-on-fem/">deep dive on finite elements</a> for the MAC-MIGS CDT in Edinburgh.</p>
 
 <h2 id="news">2024</h2>
+<p>2024-11-13: I gave a talk in the <a href="https://www.maths.ed.ac.uk/school-of-mathematics/events/acm">Edinburgh Applied and Computational Mathematics seminar series</a>, hosted by <a href="https://kaibohu.github.io/">Kaibo Hu</a>.</p>
+<p>2024-11-12: I taught a <a href="https://www.mac-migs.ac.uk/events/mac-migs-deep-dive-on-fem/">deep dive on finite elements</a> for the MAC-MIGS CDT in Edinburgh.</p>
 <p>2024-10-30: Oriel is hiring a <a href="https://www.oriel.ox.ac.uk/vacancies/stipendiary-lecturer-in-mathematics/">stipendiary lecturer in mathematics</a> to cover my visiting professorship at Charles University Prague. Please contact me with any questions!</p>
 <p>2024-10-30: I gave a short course on using Firedrake to solve PDEs at the School of Mathematical Sciences, Peking University.</p> 
 <p>2024-10-29: I gave a <a href="https://www.cc.ac.cn/article/175/4034.html">seminar</a> at the State Key Laboratory of Scientific and Engineering Computing, hosted by <a href="https://lsec.cc.ac.cn/~zhangcs/">Chensong Zhang</a> and <a href="https://lsec.cc.ac.cn/~liuxin/">Xin Liu</a>.</p>
