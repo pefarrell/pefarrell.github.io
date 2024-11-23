@@ -51,9 +51,10 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <p>2025-02-01: I will begin as an associate editor of <a href="https://www.ams.org/publications/journals/journalsframework/mcom">Mathematics of Computation</a>.</p>
 <p>2025-01-01: I will take up the Donatio Universitatis Carolinæ Chair (a two-year visiting chair) at the <a href="https://www.mff.cuni.cz/en">Faculty of Mathematics and Physics</a> at Charles University Prague.</p>
 <p>2024-11-28: I will give a talk in the Cambridge <a href="http://talks.cam.ac.uk/show/index/9811">Applied and Computational Mathematics seminar series</a>, hosted by <a href="http://www.damtp.cam.ac.uk/user/mjc249/home.html">Matt Colbrook</a>.</p>
-<p>2024-11-21: I will host <a href="http://www.lorenzopareschi.it/">Lorenzo Pareschi</a> for a <a href="https://www.maths.ox.ac.uk/node/68815">talk in the Computational Mathematics and Applications Seminar series</a>.</p>
 
 <h2 id="news">2024</h2>
+<p>2024-11-23: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2411.13354">time-harmonic waves in Korteweg and nematic-Korteweg fluids</a>, with Umberto Zerbinati. We derive new variants of the Helmholtz equation that describe the anisotropic propagation of sound waves in nematic liquid crystals.</p>
+<p>2024-11-21: I hosted <a href="http://www.lorenzopareschi.it/">Lorenzo Pareschi</a> for a <a href="https://www.maths.ox.ac.uk/node/68815">talk in the Computational Mathematics and Applications Seminar series</a>.</p>
 <p>2024-11-13: I gave a talk in the <a href="https://www.maths.ed.ac.uk/school-of-mathematics/events/acm">Edinburgh Applied and Computational Mathematics seminar series</a>, hosted by <a href="https://kaibohu.github.io/">Kaibo Hu</a>.</p>
 <p>2024-11-12: I taught a <a href="https://www.mac-migs.ac.uk/events/mac-migs-deep-dive-on-fem/">deep dive on finite elements</a> for the MAC-MIGS CDT in Edinburgh.</p>
 <p>2024-10-30: Oriel is hiring a <a href="https://www.oriel.ox.ac.uk/vacancies/stipendiary-lecturer-in-mathematics/">stipendiary lecturer in mathematics</a> to cover my visiting professorship at Charles University Prague. Please contact me with any questions!</p>
