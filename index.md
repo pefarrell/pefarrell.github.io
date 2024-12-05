@@ -36,6 +36,10 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <h2 id="forthcoming">Forthcoming</h2>
 
+<p>2026-05-18: I will organise a workshop on smectics and complex layered fluids at <a href="https://www.houches-school-physics.com/ecole-de-physique-des-houches/home-ecole-les-houches-1066564.kjsp">l'École de physique des Houches</a>, alongside 
+<a href="https://cv.hal.science/emmanuelle-lacaze">Emmanuelle Lacaze</a>, 
+<a href="https://ms.mcmaster.ca/~bronsard/">Lia Bronsard</a>, and 
+<a href="https://www2.thphy.uni-duesseldorf.de/~hlowen/">Hartmut Löwen</a>.</p>
 <p>2025-11-03: I will give an invited talk at the Computational Materials Science and Mathematics at the Particle and Atomistic Scales workshop at the ICMS, organised by Maciej Buze, Danny Perez, and Helen Li in Edinburgh, UK.</p>
 <p>2025-09-01: I will give a plenary talk at the <a href="https://enumath2025.eu/">ENUMATH 2025</a> conference in Heidelberg, Germany.</p>
 <p>2025-07-06: I will give an invited talk at the <a href="https://www.grc.org/liquid-crystals-conference/2025/">Gordon Research Conference on Liquid Crystals</a> in Manchester, USA.</p>
