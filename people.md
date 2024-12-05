@@ -191,7 +191,7 @@ title: People
 
 <figure>
   <img src="{{site.url}}/images/sap.jpg" alt="Duygu Sap"/>
-  <figcaption><a href="https://duygusap.com/">Duygu Sap</a>. <br/>Funded on EPSRC grant <a href="https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/R029423/1">PRISM: Platform for Research in Simulation Methods</a>.</figcaption>
+  <figcaption><a href="https://duygusap.com/">Duygu Sap</a>. <br/>Funded on EPSRC grant <a href="https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/R029423/1">PRISM: Platform for Research in Simulation Methods</a>. Next step: Innovation Research Fellow at the University of Warwick.</figcaption>
 </figure>
 
 &nbsp;
@@ -200,7 +200,7 @@ title: People
 
 <figure>
   <img src="{{site.url}}/images/roy.jpg" alt="Thomas Roy"/>
-  <figcaption><a href="https://people.llnl.gov/roy27">Thomas Roy</a>. <br/>Postdoctoral topic: nonlinear solvers in reservoir models. <br/> Next step: a postdoc with <a href="https://people.llnl.gov/beck33">Victor Beck</a>, then an appointment as Staff Scientist at Lawrence Livermore National Laboratory.</figcaption>
+  <figcaption><a href="https://people.llnl.gov/roy27">Thomas Roy</a>. <br/>Postdoctoral topic: nonlinear solvers in reservoir models. <br/> Next step: a postdoc with <a href="https://people.llnl.gov/beck33">Victor Beck</a>, then a permanent appointment as Staff Scientist at Lawrence Livermore National Laboratory.</figcaption>
 </figure>
 
 &nbsp;
