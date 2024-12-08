@@ -20,15 +20,6 @@ title: People
   <figcaption>Pablo Brubeck. <br/>Funded on EPSRC grant <a href="https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W026163/1">SysGenX: Composable software generation for system-level simulation at Exascale</a>.</figcaption>
 </figure>
 
-&nbsp;
-&nbsp;
-
-<figure>
-  <img src="{{site.url}}/images/betteridge.jpg" alt="Jack Betteridge"/>
-  <figcaption>Jack Betteridge. <br/>Funded on EPSRC grant <a href="https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W026163/1">SysGenX: Composable software generation for system-level simulation at Exascale</a>.</figcaption>
-</figure>
-
-
 ## DPhil students
 
 <figure>
@@ -188,6 +179,13 @@ title: People
 
 
 ## Postdoctoral alumni
+<figure>
+  <img src="{{site.url}}/images/betteridge.jpg" alt="Jack Betteridge"/>
+  <figcaption>Jack Betteridge. <br/>Funded on EPSRC grant <a href="https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W026163/1">SysGenX: Composable software generation for system-level simulation at Exascale</a>. Next step: Research Scientst at <a href="https://www.devitocodes.com/about/">Devito Codes</a>.</figcaption>
+</figure>
+
+&nbsp;
+&nbsp;
 
 <figure>
   <img src="{{site.url}}/images/sap.jpg" alt="Duygu Sap"/>
