@@ -7,10 +7,11 @@ title: Patrick E. Farrell
 
 I am a [Professor](https://www.maths.ox.ac.uk/people/patrick.farrell) in the
 [Numerical Analysis
-group](https://www.maths.ox.ac.uk/groups/numerical-analysis) of the
+group](https://www.maths.ox.ac.uk/groups/numerical-analysis) of the Mathematical Institute of the
 University of Oxford, and a Tutorial Fellow at [Oriel
 College](https://www.oriel.ox.ac.uk/people/dr-patrick-farrell),
-Oxford.
+Oxford. For 2025 and 2026 I am also the Donatio Universitatis Carolinæ Chair at the
+<a href="https://www.mff.cuni.cz/en">Faculty of Mathematics and Physics</a> at Charles University Prague.
 
 I work on the numerical
 solution of partial differential equations, with a particular focus on
@@ -21,7 +22,7 @@ solution of partial differential equations, with a particular focus on
  - preconditioners and fast solvers.
 
 I have applied the numerical techniques I develop to various
-applications, in the areas of renewable energy,
+applications, in the areas of mixtures, renewable energy,
 cardiac electrophysiology, glaciology, magnetohydrodynamics,
 quantum mechanics, and liquid crystals.
 
@@ -53,9 +54,9 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <p>2025-02-24: I will give a invited talk at the <a href="https://sfb65.univie.ac.at/#!/public/events/2025/3rd_SFB_International_Workshop/">3rd SFB International Workshop on Taming Complexity in Partial Differential Systems</a> organised by Anton Arnold, Norbert Mauser, Ilaria Perugia, Dirk Praetorius, and Joachim Schöberl in Vienna, Austria.</p>
 <p>2025-02-05: I am organising the <a href="https://www2.karlin.mff.cuni.cz/~prusv/ncmm/conference/mixtures/">Mixtures: modeling, analysis, and computing</a> conference in Prague, the inaugural meeting of the European Mathematical Society topical activity group on mixtures.</p>
 <p>2025-02-01: I will begin as an associate editor of <a href="https://www.ams.org/publications/journals/journalsframework/mcom">Mathematics of Computation</a>.</p>
-<p>2025-01-01: I will take up the Donatio Universitatis Carolinæ Chair (a two-year visiting chair) at the <a href="https://www.mff.cuni.cz/en">Faculty of Mathematics and Physics</a> at Charles University Prague.</p>
 
 <h2 id="news">2024</h2>
+<p>2025-01-01: I began as the Donatio Universitatis Carolinæ Chair (a two-year visiting chair) at the <a href="https://www.mff.cuni.cz/en">Faculty of Mathematics and Physics</a> at Charles University Prague.</p>
 <p>2024-12-09: A paper on <a href="https://doi.org/10.21105/joss.07359">coupling NETGEN/NGSolve and PETSc</a> was accepted in the Journal of Open Source Software, written with Jack Betteridge, Matthias Hochsteger, Christopher Lackner, Joachim Schöberl, Stefano Zampini, and Umberto Zerbinati.</p>
 <p>2024-11-28: I gave a talk in the Cambridge <a href="http://talks.cam.ac.uk/show/index/9811">Applied and Computational Mathematics seminar series</a>, hosted by <a href="http://www.damtp.cam.ac.uk/user/mjc249/home.html">Matt Colbrook</a>.</p>
 <p>2024-11-23: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2411.13354">time-harmonic waves in Korteweg and nematic-Korteweg fluids</a>, with Umberto Zerbinati. We derive new variants of the Helmholtz equation that describe the anisotropic propagation of sound waves in nematic liquid crystals.</p>
