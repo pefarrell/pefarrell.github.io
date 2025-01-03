@@ -248,7 +248,7 @@ title: People
 
 <figure>
   <img src="{{site.url}}/images/castellaz.jpg" alt="Benjamin Castellaz"/>
-  <figcaption>Benjamin Castellaz. <br/>Topic: high-order structure-preserving discretisations and solvers for the Oberbeck-Boussinesq equations. <br/> 2024 MSc thesis on the Mathematical Modelling and Scientific Computing course. Next step: a PhD at the Institute for Stochastics and Applications at the University of Stuttgart. </figcaption>
+  <figcaption>Benjamin Castellaz. <br/>Topic: high-order structure-preserving discretisations and solvers for the Oberbeck-Boussinesq equations. <br/> 2024 MSc thesis on the Mathematical Modelling and Scientific Computing course. Next step: a PhD with <a href="https://www.isa.uni-stuttgart.de/en/institute/team/Radde-00003/">Nicole Radde</a> and <a href="https://www.ians.uni-stuttgart.de/institute/team/Barth-00010/">Andrea Barth</a> at the Institute for Stochastics and Applications at the University of Stuttgart.</figcaption>
 </figure>
 
 &nbsp;
