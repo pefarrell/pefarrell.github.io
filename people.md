@@ -10,7 +10,7 @@ title: People
 ## Visiting research fellows
 <figure>
   <img src="{{site.url}}/images/alonso.jpg" alt="Diego Hayashi Alonso"/>
-  <figcaption><a href="https://scholar.google.com/citations?user=SCoRD7cAAAAJ&hl=en">Diego Hayashi Alonso</a>. <br/>Visiting Jan 2024 to Dec 2024, funded by FAPESP.</figcaption>
+  <figcaption><a href="https://scholar.google.com/citations?user=SCoRD7cAAAAJ&hl=en">Diego Hayashi Alonso</a>. <br/>Visiting Jan 2024 to Feb 2025, funded by FAPESP.</figcaption>
 </figure>
 
 ## Postdoctoral research associates
