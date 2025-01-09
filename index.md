@@ -56,6 +56,7 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <p>2025-02-01: I will begin as an associate editor of <a href="https://www.ams.org/publications/journals/journalsframework/mcom">Mathematics of Computation</a>.</p>
 
 <h2 id="news">2024</h2>
+<p>2025-01-01: Welcome to Lenka Košárková! Lenka is a PhD student at Charles University Prague whom I supervise as part of my visiting professorship. She is co-supervised by <a href="https://www.karlin.mff.cuni.cz/~hron/">Jaroslav Hron</a>.</p>
 <p>2025-01-01: I began as the Donatio Universitatis Carolinæ Chair (a two-year visiting chair) at the <a href="https://www.mff.cuni.cz/en">Faculty of Mathematics and Physics</a> at Charles University Prague.</p>
 <p>2024-12-09: A paper on <a href="https://doi.org/10.21105/joss.07359">coupling NETGEN/NGSolve and PETSc</a> was accepted in the Journal of Open Source Software, written with Jack Betteridge, Matthias Hochsteger, Christopher Lackner, Joachim Schöberl, Stefano Zampini, and Umberto Zerbinati.</p>
 <p>2024-11-28: I gave a talk in the Cambridge <a href="http://talks.cam.ac.uk/show/index/9811">Applied and Computational Mathematics seminar series</a>, hosted by <a href="http://www.damtp.cam.ac.uk/user/mjc249/home.html">Matt Colbrook</a>.</p>

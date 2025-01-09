@@ -71,6 +71,14 @@ title: People
 &nbsp;
 &nbsp;
 
+<figure>
+  <img src="{{site.url}}/images/kosarkova.jpg" alt="Lenka Košárková"/>
+  <figcaption><a href="https://www.karlin.mff.cuni.cz/~kosarkova/">Lenka Košárková</a> (Charles University Prague). <br/>Topic: modelling and discretisation of multicomponent physiological flows.</figcaption>
+</figure>
+
+&nbsp;
+&nbsp;
+
 ## Visiting MSc students
 <figure>
   <img src="{{site.url}}/images/hadjslimane.jpg" alt="Arselane Hadj-Slimane"/>
