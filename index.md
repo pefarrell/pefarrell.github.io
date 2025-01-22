@@ -57,6 +57,7 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <p>2025-02-01: I will begin as an associate editor of <a href="https://www.ams.org/publications/journals/journalsframework/mcom">Mathematics of Computation</a>.</p>
 
 <h2 id="news">2024</h2>
+<p>2025-01-22: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2501.11654">topology-preserving discretisation for the magneto-frictional equations arising in the Parker conjecture</a> in astrophysics, with Mingdong He, Boris Andrews, and <a href="https://kaibohu.github.io/">Kaibo Hu</a>. We devise a discretization that preserves the helicity of the flow, a topological invariant that is crucial for physical fidelity.</p>
 <p>2025-01-01: Welcome to Lenka Košárková! Lenka is a PhD student at Charles University Prague whom I supervise as part of my visiting professorship. She is co-supervised by <a href="https://www.karlin.mff.cuni.cz/~hron/">Jaroslav Hron</a>.</p>
 <p>2025-01-01: I began as the Donatio Universitatis Carolinæ Chair (a two-year visiting chair) at the <a href="https://www.mff.cuni.cz/en">Faculty of Mathematics and Physics</a> at Charles University Prague.</p>
 <p>2024-12-09: A paper on <a href="https://doi.org/10.21105/joss.07359">coupling NETGEN/NGSolve and PETSc</a> was accepted in the Journal of Open Source Software, written with Jack Betteridge, Matthias Hochsteger, Christopher Lackner, Joachim Schöberl, Stefano Zampini, and Umberto Zerbinati.</p>
