@@ -189,7 +189,7 @@ title: People
 ## Postdoctoral alumni
 <figure>
   <img src="{{site.url}}/images/betteridge.jpg" alt="Jack Betteridge"/>
-  <figcaption>Jack Betteridge. <br/>Funded on EPSRC grant <a href="https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W026163/1">SysGenX: Composable software generation for system-level simulation at Exascale</a>. Next step: Research Scientst at <a href="https://www.devitocodes.com/about/">Devito Codes</a>.</figcaption>
+  <figcaption>Jack Betteridge. <br/>Funded on EPSRC grant <a href="https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W026163/1">SysGenX: Composable software generation for system-level simulation at Exascale</a>. Next step: Research Scientist at <a href="https://www.devitocodes.com/about/">Devito Codes</a>.</figcaption>
 </figure>
 
 &nbsp;
