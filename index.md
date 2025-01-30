@@ -44,7 +44,7 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <p>2025-11-03: I will give an invited talk at the Computational Materials Science and Mathematics at the Particle and Atomistic Scales workshop at the ICMS, organised by Maciej Buze, Danny Perez, and Helen Li in Edinburgh, UK.</p>
 <p>2025-09-15: Boris Andrews will talk in a minisymposium on "New generation methods for numerical challenges in curl-div problems: Maxwell, MD, and derived models" at <a href="https://cage.ugent.be/acomen2025/">the ACOMEN conference</a>, organised by the <a href="https://erc-nemesis.eu/">PIs of the NEMESIS ERC project</a>, Jérôme Droniou, Daniele A. Di Pietro, Lourenço Beirão da Veiga, and Paola F. Antonietti.</p>
 <p>2025-09-01: I will give a plenary talk at the <a href="https://enumath2025.eu/">ENUMATH 2025</a> conference in Heidelberg, Germany.</p>
-<p>2025-07-13: Pablo Brubeck will give a talk at <a href="https://icosahom2025.org/">ICOSAHOM 2025</a>.</p>
+<p>2025-07-13: Aaron Baier-Reinio and Pablo Brubeck will give talks at <a href="https://icosahom2025.org/">ICOSAHOM 2025</a>.</p>
 <p>2025-07-06: I will give an invited talk at the <a href="https://www.grc.org/liquid-crystals-conference/2025/">Gordon Research Conference on Liquid Crystals</a> in Manchester, USA.</p>
 <p>2025-06-23: I will give a plenary talk at the <a href="https://www.dd29.polimi.it/">29th International Conference on Domain Decomposition Methods (DD29)</a> in Milan, Italy.</p>
 <p>2025-06-15: I am organising the <a href="https://ems-masc.cuni.cz/">EMS School on Mathematical Modelling, Numerical Analysis, and Scientific Computing</a> in Kácov, Czechia. The speakers this year are 
