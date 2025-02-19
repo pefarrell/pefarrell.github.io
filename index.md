@@ -11,7 +11,7 @@ group](https://www.maths.ox.ac.uk/groups/numerical-analysis) of the Mathematical
 University of Oxford, and a Tutorial Fellow at [Oriel
 College](https://www.oriel.ox.ac.uk/people/dr-patrick-farrell),
 Oxford. For 2025 and 2026 I am also the Donatio Universitatis Carolinæ Chair at the
-<a href="https://www.mff.cuni.cz/en">Faculty of Mathematics and Physics</a> at Charles University Prague.
+<a href="https://www.mff.cuni.cz/en">Faculty of Mathematics and Physics</a> at Charles University in Prague.
 
 I work on the numerical
 solution of partial differential equations, with a particular focus on
@@ -55,6 +55,7 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <p>2025-04-11: I will give a plenary talk at the <a href="https://www.numerical.rl.ac.uk/events/siam-ukie-annual-meeting-2025/">SIAM UKIE annual meeting</a> at Rutherford Appleton Laboratory.</p>
 <p>2025-03-31: I will give a talk in the <a href="https://www.cimne.com/vnews/m2912/12298/cimne-seminar-designing-conservative-and-accurately-dissipative-numerical-integrators-in-time-by-patrick-farrell">CINME seminar series of the Universitat Politècnica de Catalunya</a>, hosted by <a href="https://sites.google.com/view/alexferrer">Àlex Ferrer</a>.</p>
 <p>2025-03-28: I will give a talk in the <a href="https://applied-mathematics.wp.st-andrews.ac.uk/event/prof-patrick-farrell-university-of-oxford/">Applied Mathematics Seminar in St. Andrews</a>, hosted by <a href="https://www.st-andrews.ac.uk/mathematics-statistics/people/ns210/">Nikolaos Sfakianakis</a>.</p>
+<p>2025-03-12: I will give my <a href="https://www.karlin.mff.cuni.cz/php/msekce/colloquia/2025/M_Kolokvium_34.pdf">inaugural lecture as Donatio Chair</a> at Charles University.</p>
 <p>2025-02-24: I will give a invited talk at the <a href="https://sfb65.univie.ac.at/#!/public/events/2025/3rd_SFB_International_Workshop/">3rd SFB International Workshop on Taming Complexity in Partial Differential Systems</a> organised by Anton Arnold, Norbert Mauser, Ilaria Perugia, Dirk Praetorius, and Joachim Schöberl in Vienna, Austria.</p>
 
 <h2 id="news">2024</h2>
