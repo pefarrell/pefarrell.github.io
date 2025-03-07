@@ -58,6 +58,8 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <p>2025-03-12: I will give my <a href="https://www.karlin.mff.cuni.cz/php/msekce/colloquia/2025/M_Kolokvium_35.pdf">inaugural lecture as Donatio Chair</a> at Charles University.</p>
 
 <h2 id="news">2024</h2>
+<p>2025-03-07: I have <b>been awarded the <a href="https://www.siam.org/programs-initiatives/prizes-awards/major-prizes-lectures/germund-dahlquist-prize/prize-history/">2025 Germund Dahlquist Prize by SIAM</a></b> for my work in the numerical solution of partial differential equations!</p>
+
 <p>2025-02-24: I gave an invited talk at the <a href="https://sfb65.univie.ac.at/#!/public/events/2025/3rd_SFB_International_Workshop/">3rd SFB International Workshop on Taming Complexity in Partial Differential Systems</a> organised by Anton Arnold, Norbert Mauser, Ilaria Perugia, Dirk Praetorius, and Joachim Schöberl in Vienna, Austria.</p>
 <p>2025-02-05: I organised and financially supported the <a href="https://www2.karlin.mff.cuni.cz/~prusv/ncmm/conference/mixtures/">Mixtures: modeling, analysis, and computing</a> conference in Prague, the inaugural meeting of the European Mathematical Society topical activity group on mixtures.</p>
 <p>2025-02-01: I began as an associate editor of <a href="https://www.ams.org/publications/journals/journalsframework/mcom">Mathematics of Computation</a>.</p>
