@@ -56,7 +56,7 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <p>2025-03-31: I will give a talk in the <a href="https://www.cimne.com/vnews/m2912/12298/cimne-seminar-designing-conservative-and-accurately-dissipative-numerical-integrators-in-time-by-patrick-farrell">CINME seminar series of the Universitat Politècnica de Catalunya</a>, hosted by <a href="https://sites.google.com/view/alexferrer">Àlex Ferrer</a>.</p>
 <p>2025-03-28: I will give a talk in the <a href="https://applied-mathematics.wp.st-andrews.ac.uk/event/prof-patrick-farrell-university-of-oxford/">Applied Mathematics Seminar in St. Andrews</a>, hosted by <a href="https://www.st-andrews.ac.uk/mathematics-statistics/people/ns210/">Nikolaos Sfakianakis</a>.</p>
 
-<h2 id="news">2024</h2>
+<h2 id="news">News</h2>
 <p>2025-03-13: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2503.10771">the analysis and numerical analysis of the Helmholtz-Korteweg equation</a>, with <a href="https://www.uzerbinati.eu/">Umberto Zerbinati</a> and <a href="https://timvanbeeck.github.io/">Tim van Beeck</a>.</p>
 
 <p>2025-03-12: I gave my <a href="https://www.karlin.mff.cuni.cz/php/msekce/colloquia/2025/M_Kolokvium_35.pdf">inaugural lecture as Donatio Chair</a> at Charles University.</p>
@@ -72,6 +72,8 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <p>2025-01-22: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2501.11654">topology-preserving discretisation for the magneto-frictional equations arising in the Parker conjecture</a> in astrophysics, with Mingdong He, Boris Andrews, and <a href="https://kaibohu.github.io/">Kaibo Hu</a>. We devise a discretization that preserves the helicity of the flow, a topological invariant that is crucial for physical fidelity.</p>
 <p>2025-01-01: Welcome to Lenka Košárková! Lenka is a PhD student at Charles University Prague whom I supervise as part of my visiting professorship. She is co-supervised with <a href="https://www.karlin.mff.cuni.cz/~hron/">Jaroslav Hron</a>.</p>
 <p>2025-01-01: I began as the Donatio Universitatis Carolinæ Chair (a two-year visiting chair) at the <a href="https://www.mff.cuni.cz/en">Faculty of Mathematics and Physics</a> at Charles University Prague.</p>
+
+<h2 id="2024">2024</h2>
 <p>2024-12-09: A paper on <a href="https://doi.org/10.21105/joss.07359">coupling NETGEN/NGSolve and PETSc</a> was accepted in the Journal of Open Source Software, written with Jack Betteridge, Matthias Hochsteger, Christopher Lackner, Joachim Schöberl, Stefano Zampini, and Umberto Zerbinati.</p>
 <p>2024-11-28: I gave a talk in the Cambridge <a href="http://talks.cam.ac.uk/show/index/9811">Applied and Computational Mathematics seminar series</a>, hosted by <a href="http://www.damtp.cam.ac.uk/user/mjc249/home.html">Matt Colbrook</a>.</p>
 <p>2024-11-23: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2411.13354">time-harmonic waves in Korteweg and nematic-Korteweg fluids</a>, with Umberto Zerbinati. We derive new variants of the Helmholtz equation that describe the anisotropic propagation of sound waves in nematic liquid crystals. Update: accepted in PRE.</p>
