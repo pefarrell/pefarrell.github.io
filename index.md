@@ -57,6 +57,8 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <p>2025-03-28: I will give a talk in the <a href="https://applied-mathematics.wp.st-andrews.ac.uk/event/prof-patrick-farrell-university-of-oxford/">Applied Mathematics Seminar in St. Andrews</a>, hosted by <a href="https://www.st-andrews.ac.uk/mathematics-statistics/people/ns210/">Nikolaos Sfakianakis</a>.</p>
 
 <h2 id="news">2024</h2>
+<p>2025-03-13: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2503.10771">the analysis and numerical analysis of the Helmholtz-Korteweg equation</a>, with <a href="https://www.uzerbinati.eu/">Umberto Zerbinati</a> and <a href="https://timvanbeeck.github.io/">Tim van Beeck</a>.</p>
+
 <p>2025-03-12: I gave my <a href="https://www.karlin.mff.cuni.cz/php/msekce/colloquia/2025/M_Kolokvium_35.pdf">inaugural lecture as Donatio Chair</a> at Charles University.</p>
 
 <p>2025-03-07: I have <b>been awarded the <a href="https://www.siam.org/programs-initiatives/prizes-awards/major-prizes-lectures/germund-dahlquist-prize/prize-history/">2025 Germund Dahlquist Prize by SIAM</a></b> for my work in the numerical solution of partial differential equations!</p>
