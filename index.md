@@ -67,7 +67,15 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <p>2025-03-07: I have <b>been awarded the <a href="https://www.siam.org/programs-initiatives/prizes-awards/major-prizes-lectures/germund-dahlquist-prize/prize-history/">2025 Germund Dahlquist Prize by SIAM</a></b> for my work in the numerical solution of partial differential equations!</p>
 
+<p>2025-03-07: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2503.05674">multiple solutions of the Grad-Shafranov equations in the MAST-U tokamak</a>, with <a href="https://scholar.google.com/citations?user=x5UzeL8AAAAJ&hl=en">Kamran Pentland</a>, <a href="https://scholar.google.com/citations?user=TJjZjWQAAAAJ&hl=en">Nicola Amorisco</a>, and <a href="https://scholar.google.co.uk/citations?user=gSR84cAAAAAJ&hl=en">Chris Ham</a> of the UK Atomic Energy Authority. We demonstrate that the Grad-Shafranov equations with free boundary conditions permit multiple solutions in realistic tokamak configurations of MAST-U.</p>
+  <figure>
+  <img src="{{site.url}}/images/mastu.png" alt="Two solutions of the Grad-Shafranov equations in MAST-U."/>
+  <figcaption>Separatrices of two distinct solutions (red and blue) for the same Grad-Shafranov equations in MAST-U.</figcaption>
+  </figure>
+
+
 <p>2025-03-07: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2503.05672">the latent variable proximal point algorithm for variational problems with inequality constraints</a>, with <a href="https://jsdokken.com/">Jørgen Dokken</a>, <a href="https://brendankeith.github.io/">Brendan Keith</a>, <a href="https://thomas-surowiec.github.io/">Thomas Surowiec</a>, and <a href="https://ioannispapapadopoulos.github.io/">Ioannis Papadopoulos</a>. We present a new algorithm for such problems that offers mesh-independent convergence and feasibility. We show how it can be used to solve 12 problems from across applied mathematics, among them: the obstacle problem, the Signorini problem, variational fracture, gradient flow on the Gibbs simplex for multiphase flow, a quasi-variational inequality, a problem with gradient constraints, enforcing eigenvalue constraints in Landau-de Gennes, the eikonal equation, and the convexity constraint in the Monge-Ampère equation.</p>
+
 
 <p>2025-03-03: Boris Andrews, Aaron Baier-Reinio, Pablo Brubeck, and Mingdong He <a href="https://meetings.siam.org/speakdex.cfm?CONFCODE=CSE25">gave talks at SIAM CSE25</a> in Fort Worth, Texas, USA.</p>
 
