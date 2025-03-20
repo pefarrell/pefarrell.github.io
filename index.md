@@ -61,6 +61,9 @@ I am always looking for talented PhD students and postdocs. Members of my group 
   <a href="https://www.simula.no/people/thomasms">Thomas Surowiec</a>,
   <a href="https://appliedmath.brown.edu/people/johnny-guzman">Johnny Guzmán</a>, and
   <a href="https://people.epfl.ch/daniel.kressner">Daniel Kressner</a>.</p>
+
+<p>2025-05-12: There will be a <a href="https://ccp-dcm.github.io/exeter_hackathon.html">Firedrake/FEniCS hackathon in Exeter</a>, organised by <a href="https://experts.exeter.ac.uk/33035-jemma-shipton">Jemma Shipton</a> as part of our <a href="https://ccp-dcm.github.io/index.html">Collaborative Computational Project on Data-centric Computational Mechanics</a>.</p>
+
 <p>2025-04-11: I will give a plenary talk at the <a href="https://www.numerical.rl.ac.uk/events/siam-ukie-annual-meeting-2025/">SIAM UKIE annual meeting</a> at Rutherford Appleton Laboratory.</p>
 <p>2025-03-31: I will give a talk in the <a href="https://www.cimne.com/vnews/m2912/12298/cimne-seminar-designing-conservative-and-accurately-dissipative-numerical-integrators-in-time-by-patrick-farrell">CINME seminar series of the Universitat Politècnica de Catalunya</a>, hosted by <a href="https://sites.google.com/view/alexferrer">Àlex Ferrer</a>.</p>
 <p>2025-03-28: I will give a talk in the <a href="https://applied-mathematics.wp.st-andrews.ac.uk/event/prof-patrick-farrell-university-of-oxford/">Applied Mathematics Seminar in St. Andrews</a>, hosted by <a href="https://www.st-andrews.ac.uk/mathematics-statistics/people/ns210/">Nikolaos Sfakianakis</a>.</p>
