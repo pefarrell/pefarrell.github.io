@@ -37,12 +37,17 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <h2 id="forthcoming">Forthcoming</h2>
 
+<p>2026-06-29: I will give a plenary talk at <a href="https://scicade.org/">SciCADE 2026</a> in Edinburgh, Scotland.</p>
+
 <p>2026-05-18: I will organise a workshop on smectics and complex layered fluids at <a href="https://www.houches-school-physics.com/ecole-de-physique-des-houches/home-ecole-les-houches-1066564.kjsp">l'École de physique des Houches</a>, alongside 
 <a href="https://cv.hal.science/emmanuelle-lacaze">Emmanuelle Lacaze</a>, 
 <a href="https://ms.mcmaster.ca/~bronsard/">Lia Bronsard</a>, and 
 <a href="https://www2.thphy.uni-duesseldorf.de/~hlowen/">Hartmut Löwen</a>.</p>
-<p>2025-11-03: I will give an invited talk at the Computational Materials Science and Mathematics at the Particle and Atomistic Scales workshop at the ICMS, organised by Maciej Buze, Danny Perez, and Helen Li in Edinburgh, UK.</p>
+
+<p>2025-11-03: I will give an invited talk at the <a href="https://www.icms.org.uk/CoMPASs">Computational Materials Science and Mathematics at the Particle and Atomistic Scales workshop at the ICMS</a>, organised by Maciej Buze, Danny Perez, and Helen Li in Edinburgh, UK.</p>
+
 <p>2025-09-15: Boris Andrews will talk in a minisymposium on "New generation methods for numerical challenges in curl-div problems: Maxwell, MD, and derived models" at <a href="https://cage.ugent.be/acomen2025/">the ACOMEN conference</a>, organised by the <a href="https://erc-nemesis.eu/">PIs of the NEMESIS ERC project</a>, Jérôme Droniou, Daniele A. Di Pietro, Lourenço Beirão da Veiga, and Paola F. Antonietti.</p>
+
 <p>2025-09-01: I will give a plenary talk at the <a href="https://enumath2025.eu/">ENUMATH 2025</a> conference in Heidelberg, Germany.</p>
 
 <p>2025-07-28: Aaron Baier-Reinio will give a talk at <a href="https://www.siam.org/conferences-events/siam-conferences/an25/">the SIAM/CAIMS annual meeting</a>.</p>
