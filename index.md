@@ -44,6 +44,17 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <a href="https://ms.mcmaster.ca/~bronsard/">Lia Bronsard</a>, and 
 <a href="https://www2.thphy.uni-duesseldorf.de/~hlowen/">Hartmut Löwen</a>.</p>
 
+<p>2026-01-12: I will give an invited talk at the workshop on <a href="https://www.tsimf.cn/meeting/detail?id=417">Finite Element Tensor Calculus</a>, held at the Tsinghua Sanya International Mathematics Forum in Sanya, China. The organisers are
+  <a href="https://kaibohu.github.io/">Kaibo Hu</a>,
+  <a href="https://marienhanot.fr/">Marien Hanot</a>,
+  <a href="https://zhangshuo-lsec.github.io/">Shuo Zhang</a>, and
+  <a href="https://lsec.cc.ac.cn/~zwy/">Weijing Zheng</a>.</p>
+
+<p>2026-01-08: I will give an invited talk at the International Conference on Structure-Preserving Finite Element Methods, held at the Institute of Computational Mathematics and Scientific/Engineering Computing (ICMSEC), Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, China. The organisers are
+  <a href="https://kaibohu.github.io/">Kaibo Hu</a>,
+  <a href="https://zhangshuo-lsec.github.io/">Shuo Zhang</a>, and
+  <a href="https://lsec.cc.ac.cn/~zwy/">Weijing Zheng</a>.</p>
+
 <p>2025-11-03: I will give an invited talk at the <a href="https://www.icms.org.uk/CoMPASs">Computational Materials Science and Mathematics at the Particle and Atomistic Scales workshop at the ICMS</a>, organised by Maciej Buze, Danny Perez, and Helen Li in Edinburgh, UK.</p>
 
 <p>2025-09-15: Boris Andrews will talk in a minisymposium on "New generation methods for numerical challenges in curl-div problems: Maxwell, MD, and derived models" at <a href="https://cage.ugent.be/acomen2025/">the ACOMEN conference</a>, organised by the <a href="https://erc-nemesis.eu/">PIs of the NEMESIS ERC project</a>, Jérôme Droniou, Daniele A. Di Pietro, Lourenço Beirão da Veiga, and Paola F. Antonietti.</p>
@@ -61,6 +72,7 @@ I am always looking for talented PhD students and postdocs. Members of my group 
   <a href="https://www.simula.no/people/thomasms">Thomas Surowiec</a>,
   <a href="https://appliedmath.brown.edu/people/johnny-guzman">Johnny Guzmán</a>, and
   <a href="https://people.epfl.ch/daniel.kressner">Daniel Kressner</a>.</p>
+
 
 <p>2025-05-12: There will be a <a href="https://ccp-dcm.github.io/exeter_hackathon.html">Firedrake/FEniCS hackathon in Exeter</a>, organised by <a href="https://experts.exeter.ac.uk/33035-jemma-shipton">Jemma Shipton</a> as part of our <a href="https://ccp-dcm.github.io/index.html">Collaborative Computational Project on Data-centric Computational Mechanics</a>.</p>
 
