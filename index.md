@@ -124,6 +124,7 @@ I am always looking for talented PhD students and postdocs. Members of my group 
   <img src="{{site.url}}/images/firedrake24_students.jpg" alt="Picture of Patrick Farrell, surrounded by current and former students and postdocs."/>
   </figure>
 </p>
+<p>2024-09-15: I will serve on the prize committee for the <a href="https://people.cs.uchicago.edu/~ridg/prizes/langtangenprize.pdf">Langtangen Prize</a> on the foundations of numerical simulation technology.</p>
 <p>2024-08-13: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2408.17390">high-order discretizations for the Stokes-Onsager-Stefan-Maxwell equations describing multicomponent flow</a>, with Aaron Baier-Reinio.
   <figure>
   <img src="{{site.url}}/images/sosm-2024-09.png" alt=""/>
