@@ -61,6 +61,8 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <p>2025-09-01: I will give a plenary talk at the <a href="https://enumath2025.eu/">ENUMATH 2025</a> conference in Heidelberg, Germany.</p>
 
+<p>2025-08-20: Boris Andrews will talk at the <a href="https://mfet2025.de/">Modern Finite Element Technologies</a> conference in Aachen, Germany.</p>
+
 <p>2025-07-28: Aaron Baier-Reinio will give a talk at <a href="https://www.siam.org/conferences-events/siam-conferences/an25/">the SIAM/CAIMS annual meeting</a>.</p>
 
 <p>2025-07-13: Aaron Baier-Reinio and Pablo Brubeck will give talks at <a href="https://icosahom2025.org/">ICOSAHOM 2025</a>.</p>
