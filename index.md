@@ -42,7 +42,7 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <p>2026-05-18: I will organise a workshop on smectics and complex layered fluids at <a href="https://www.houches-school-physics.com/ecole-de-physique-des-houches/home-ecole-les-houches-1066564.kjsp">l'École de physique des Houches</a>, alongside 
 <a href="https://cv.hal.science/emmanuelle-lacaze">Emmanuelle Lacaze</a>, 
 <a href="https://ms.mcmaster.ca/~bronsard/">Lia Bronsard</a>, and 
-<a href="https://www2.thphy.uni-duesseldorf.de/~hlowen/">Hartmut Löwen</a>.</p>
+<a href="https://www2.thphy.uni-duesseldorf.de/~hlowen/">Hartmut Löwen</a>. Thanks to the <a href="https://www.we-heraeus-stiftung.de/english/">Wilhelm und Else Heraeus-Stiftung</a> for their kind support.</p>
 
 <p>2026-01-12: I will give an invited talk at the workshop on <a href="https://www.tsimf.cn/meeting/detail?id=417">Finite Element Tensor Calculus</a>, held at the Tsinghua Sanya International Mathematics Forum in Sanya, China. The organisers are
   <a href="https://kaibohu.github.io/">Kaibo Hu</a>,
