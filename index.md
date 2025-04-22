@@ -44,6 +44,12 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <a href="https://ms.mcmaster.ca/~bronsard/">Lia Bronsard</a>, and 
 <a href="https://www2.thphy.uni-duesseldorf.de/~hlowen/">Hartmut Löwen</a>. Thanks to the <a href="https://www.we-heraeus-stiftung.de/english/">Wilhelm und Else Heraeus-Stiftung</a> for their kind support.</p>
 
+<p>2026-04-20: I will attend the <a href="https://www.esi.ac.at/events/e585/">Differential Complexes: Theory, Discretization, and Applications</a> thematic programme at the Erwin Schrödinger Institut in Vienna, Austria. The organisers are
+  <a href="https://www.mat.univie.ac.at/~cap/">Andreas Cap</a>,
+  <a href="https://people.math.ethz.ch/~hiptmair/Homepage/index.html">Ralf Hiptmair</a>, and
+  <a href="https://kaibohu.github.io/">Kaibo Hu</a>, and
+  <a href="https://www.tuwien.at/mg/asc/schoeberl">Joachim Schöberl</a>.</p>
+
 <p>2026-01-12: I will give an invited talk at the workshop on <a href="https://www.tsimf.cn/meeting/detail?id=417">Finite Element Tensor Calculus</a>, held at the Tsinghua Sanya International Mathematics Forum in Sanya, China. The organisers are
   <a href="https://kaibohu.github.io/">Kaibo Hu</a>,
   <a href="https://marienhanot.fr/">Marien Hanot</a>,
@@ -58,6 +64,12 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <p>2025-11-03: I will give an invited talk at the <a href="https://www.icms.org.uk/CoMPASs">Computational Materials Science and Mathematics at the Particle and Atomistic Scales workshop at the ICMS</a>, organised by Maciej Buze, Danny Perez, and Helen Li in Edinburgh, UK.</p>
 
 <p>2025-09-15: Boris Andrews will talk in a minisymposium on "New generation methods for numerical challenges in curl-div problems: Maxwell, MD, and derived models" at <a href="https://cage.ugent.be/acomen2025/">the ACOMEN conference</a>, organised by the <a href="https://erc-nemesis.eu/">PIs of the NEMESIS ERC project</a>, Jérôme Droniou, Daniele A. Di Pietro, Lourenço Beirão da Veiga, and Paola F. Antonietti.</p>
+
+<p>2025-09-07: I will attend the <a href="https://www.mittag-leffler.se/activities/interfaces-and-unfitted-discretization-methods/">Interfaces and Unfitted Discretization Methods</a> thematic programme at the Institut Mittag-Leffler in Stockholm, Sweden. The organisers are
+  <a href="https://www.kth.se/profile/akto">Anna-Karin Tornberg</a>,
+  <a href="https://www.kth.se/profile/sara7">Sara Zahedi</a>, and
+  <a href="https://users.oden.utexas.edu/~pgm/">Per-Gunnar Martinsson</a>, and
+  <a href="https://mox.polimi.it/people/alfio-quarteroni/">Alfio Quarteroni</a>.</p>
 
 <p>2025-09-01: I will give a plenary talk at the <a href="https://enumath2025.eu/">ENUMATH 2025</a> conference in Heidelberg, Germany.</p>
 
