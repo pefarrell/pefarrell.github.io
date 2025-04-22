@@ -90,9 +90,10 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <p>2025-05-12: There will be a <a href="https://ccp-dcm.github.io/exeter_hackathon.html">Firedrake/FEniCS hackathon in Exeter</a>, organised by <a href="https://experts.exeter.ac.uk/33035-jemma-shipton">Jemma Shipton</a> as part of our <a href="https://ccp-dcm.github.io/index.html">Collaborative Computational Project on Data-centric Computational Mechanics</a>.</p>
 
-<p>2025-04-22: I will give a talk in the <a href="https://www.simula.no/langtangen-seminar">Langtangen Seminar on Scientific Computing</a> at Simula Research Laboratory, organised by <a href="https://www.simula.no/people/meg">Marie Rognes</a> and <a href="https://www.simula.no/people/thomasms">Thomas Surowiec</a>.</p>
-
 <h2 id="news">News</h2>
+
+<p>2025-04-22: I gave a talk in the <a href="https://www.simula.no/langtangen-seminar">Langtangen Seminar on Scientific Computing</a> at Simula Research Laboratory, organised by <a href="https://www.simula.no/people/meg">Marie Rognes</a> and <a href="https://www.simula.no/people/thomasms">Thomas Surowiec</a>.</p>
+
 
 <p>2025-04-11: I gave a plenary talk at the <a href="https://www.numerical.rl.ac.uk/events/siam-ukie-annual-meeting-2025/">SIAM UKIE annual meeting</a> at Rutherford Appleton Laboratory.</p>
 
