@@ -37,6 +37,8 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <h2 id="forthcoming">Forthcoming</h2>
 
+<p>2026-07-23: I will give <b>a section lecture at the <a href="https://www.icm2026.org/event/ac193975-5d24-4628-8c30-ddb23de19a8b/home">International Congress of Mathematicians</a></b>, in Section 15: Numerical Analysis and Scientific Computing, in Pennsylvania, USA.</p>
+
 <p>2026-06-29: I will give a plenary talk at <a href="https://scicade.org/">SciCADE 2026</a> in Edinburgh, Scotland.</p>
 
 <p>2026-05-18: I will organise a workshop on smectics and complex layered fluids at <a href="https://www.houches-school-physics.com/ecole-de-physique-des-houches/home-ecole-les-houches-1066564.kjsp">l'École de physique des Houches</a>, alongside 
@@ -54,12 +56,12 @@ I am always looking for talented PhD students and postdocs. Members of my group 
   <a href="https://kaibohu.github.io/">Kaibo Hu</a>,
   <a href="https://marienhanot.fr/">Marien Hanot</a>,
   <a href="https://zhangshuo-lsec.github.io/">Shuo Zhang</a>, and
-  <a href="https://lsec.cc.ac.cn/~zwy/">Weijing Zheng</a>.</p>
+  <a href="https://lsec.cc.ac.cn/~zwy/">Weiying Zheng</a>.</p>
 
 <p>2026-01-08: I will give an invited talk at the International Conference on Structure-Preserving Finite Element Methods, held at the Institute of Computational Mathematics and Scientific/Engineering Computing (ICMSEC), Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, China. The organisers are
   <a href="https://kaibohu.github.io/">Kaibo Hu</a>,
   <a href="https://zhangshuo-lsec.github.io/">Shuo Zhang</a>, and
-  <a href="https://lsec.cc.ac.cn/~zwy/">Weijing Zheng</a>.</p>
+  <a href="https://lsec.cc.ac.cn/~zwy/">Weiying Zheng</a>.</p>
 
 <p>2025-11-03: I will give an invited talk at the <a href="https://www.icms.org.uk/CoMPASs">Computational Materials Science and Mathematics at the Particle and Atomistic Scales workshop at the ICMS</a>, organised by Maciej Buze, Danny Perez, and Helen Li in Edinburgh, UK.</p>
 
