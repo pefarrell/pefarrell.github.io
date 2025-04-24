@@ -89,6 +89,7 @@ I am always looking for talented PhD students and postdocs. Members of my group 
   <a href="https://appliedmath.brown.edu/people/johnny-guzman">Johnny Guzmán</a>, and
   <a href="https://people.epfl.ch/daniel.kressner">Daniel Kressner</a>.</p>
 
+<p>2025-05-14: I will give a talk in the <a href="https://www.mff.cuni.cz/en/mathmac/seminar">mathematical modeling, applied analysis and computational mathematics</a> series at Charles University, in Prague, Czechia.</p>
 
 <p>2025-05-12: There will be a <a href="https://ccp-dcm.github.io/exeter_hackathon.html">Firedrake/FEniCS hackathon in Exeter</a>, organised by <a href="https://experts.exeter.ac.uk/33035-jemma-shipton">Jemma Shipton</a> as part of our <a href="https://ccp-dcm.github.io/index.html">Collaborative Computational Project on Data-centric Computational Mechanics</a>.</p>
 
