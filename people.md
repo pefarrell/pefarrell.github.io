@@ -5,14 +5,6 @@ title: People
 &nbsp;
 &nbsp;
 
-<!-- ## Visiting faculty -->
-
-## Visiting research fellows
-<figure>
-  <img src="{{site.url}}/images/alonso.jpg" alt="Diego Hayashi Alonso"/>
-  <figcaption><a href="https://scholar.google.com/citations?user=SCoRD7cAAAAJ&hl=en">Diego Hayashi Alonso</a>. <br/>Visiting Jan 2024 to Feb 2025, funded by FAPESP.</figcaption>
-</figure>
-
 ## Postdoctoral research associates
 
 <figure>
@@ -76,20 +68,6 @@ title: People
   <figcaption><a href="https://www.karlin.mff.cuni.cz/~kosarkova/">Lenka Košárková</a> (Charles University Prague). <br/>Topic: modelling and discretisation of multicomponent physiological flows.</figcaption>
 </figure>
 
-&nbsp;
-&nbsp;
-
-## Visiting MSc students
-<figure>
-  <img src="{{site.url}}/images/hadjslimane.jpg" alt="Arselane Hadj-Slimane"/>
-  <figcaption>Arselane Hadj-Slimane. <br/> Home university: ENS Saclay. <br/>Topic: shape optimisation in the presence of multiple solutions.</figcaption>
-</figure>
-
-<figure>
-  <img src="{{site.url}}/images/vais.jpg" alt="Matěj Vais"/>
-  <figcaption>Matěj Vais. <br/> Home university: Charles University Prague. <br/>Topic: simulation of power-law fluids with low power-law index.</figcaption>
-</figure>
-
 ## DPhil graduates
 
 <figure>
@@ -102,7 +80,7 @@ title: People
 
 <figure>
   <img src="{{site.url}}/images/croci.jpg" alt="Matteo Croci"/>
-  <figcaption><a href="https://croci.github.io/">Matteo Croci</a>. <br/>Topic: <a href="{{site.url}}/files/croci.pdf">multilevel Monte Carlo methods for uncertainty quantification in brain simulations</a>. DPhil viva: 2020-01-20. <br/> Co-supervised with <a href="https://people.maths.ox.ac.uk/gilesm/">Mike Giles</a> and <a href="https://marierognes.org">Marie Rognes</a>.<br/> Next step: a postdoc with Mike Giles in Oxford, then a postdoc with <a href="https://kiwi.oden.utexas.edu/">Karen Willcox</a> at UT Austin, and then a permanent position at BCAM.</figcaption>
+  <figcaption><a href="https://croci.github.io/">Matteo Croci</a>. <br/>Topic: <a href="{{site.url}}/files/croci.pdf">multilevel Monte Carlo methods for uncertainty quantification in brain simulations</a>. DPhil viva: 2020-01-20. <br/> Co-supervised with <a href="https://people.maths.ox.ac.uk/gilesm/">Mike Giles</a> and <a href="https://marierognes.org">Marie Rognes</a>.<br/> Next step: a postdoc with Mike Giles in Oxford, then a postdoc with <a href="https://kiwi.oden.utexas.edu/">Karen Willcox</a> at UT Austin, and then a permanent faculty position at the Basque Centre for Applied Mathematics.</figcaption>
 </figure>
 
 &nbsp;
@@ -118,7 +96,7 @@ title: People
 
 <figure>
   <img src="{{site.url}}/images/gazca.jpg" alt="Pablo Alexei Gazca Orozco"/>
-  <figcaption><a href="https://gazcaorozco.github.io/home/">Pablo Alexei Gazca Orozco</a>. <br/>Topic: <a href="{{site.url}}/files/gazca.pdf">Numerical analysis of implicitly constituted incompressible fluids: mixed formulations</a>. DPhil viva: 2020-10-19. <br/>Co-supervised with <a href="http://people.maths.ox.ac.uk/suli/">Endre Süli</a>.<br/> Next step: a postdoc with <a href="https://www.caa-avh.nat.fau.eu/enrique-zuazua/">Enrique Zuazua</a> in Erlangen-Nuremberg, then a postdoc with <a href="https://aam.uni-freiburg.de/agru/index.html">Michael Růžička</a> in Freiburg.</figcaption>
+  <figcaption><a href="https://gazcaorozco.github.io/home/">Pablo Alexei Gazca Orozco</a>. <br/>Topic: <a href="{{site.url}}/files/gazca.pdf">Numerical analysis of implicitly constituted incompressible fluids: mixed formulations</a>. DPhil viva: 2020-10-19. <br/>Co-supervised with <a href="http://people.maths.ox.ac.uk/suli/">Endre Süli</a>.<br/> Next step: a postdoc with <a href="https://www.caa-avh.nat.fau.eu/enrique-zuazua/">Enrique Zuazua</a> in Erlangen-Nuremberg, now with a permanent faculty position at Charles University in Prague.</figcaption>
 </figure>
 
 &nbsp;
@@ -126,7 +104,7 @@ title: People
 
 <figure>
   <img src="{{site.url}}/images/xia.jpg" alt="Jingmin Xia"/>
-  <figcaption><a href="https://jingminxia.github.io/">Jingmin Xia</a>. <br/>Topic: <a href="{{site.url}}/files/xia.pdf">Computational and analytical aspects of energy minimisation problems in cholesteric, ferronematic and smectic liquid crystals</a>. DPhil viva: 2021-06-01. <br/> Next step: a permanent lectureship at the <a href="https://english.nudt.edu.cn/">National University of Defense Technology</a> in Changsha, China.</figcaption>
+  <figcaption><a href="https://jingminxia.github.io/">Jingmin Xia</a>. <br/>Topic: <a href="{{site.url}}/files/xia.pdf">Computational and analytical aspects of energy minimisation problems in cholesteric, ferronematic and smectic liquid crystals</a>. DPhil viva: 2021-06-01. <br/> Next step: a permanent faculty position at the National University of Defense Technology in Changsha, China.</figcaption>
 </figure>
 
 &nbsp;
@@ -142,7 +120,7 @@ title: People
 
 <figure>
   <img src="{{site.url}}/images/boulle.jpg" alt="Nicolas Boullé"/>
-  <figcaption><a href="https://nboulle.github.io/">Nicolas Boullé</a>. <br/>Topic: <a href="{{site.url}}/files/boulle.pdf">Data-driven discovery of Green's functions</a>. DPhil viva: 2022-08-30. <br/>Co-supervised with <a href="https://marierognes.org">Marie Rognes</a> and <a href="https://pi.math.cornell.edu/~ajt/">Alex Townsend</a>. Next step: an INI-Simons Postdoctoral Fellowship at the University of Cambridge, then a permanent lectureship at Imperial College London.</figcaption>
+  <figcaption><a href="https://nboulle.github.io/">Nicolas Boullé</a>. <br/>Topic: <a href="{{site.url}}/files/boulle.pdf">Data-driven discovery of Green's functions</a>. DPhil viva: 2022-08-30. <br/>Co-supervised with <a href="https://marierognes.org">Marie Rognes</a> and <a href="https://pi.math.cornell.edu/~ajt/">Alex Townsend</a>. Next step: an INI-Simons Postdoctoral Fellowship at the University of Cambridge, then a permanent faculty position at Imperial College London.</figcaption>
 </figure>
 
 &nbsp;
@@ -214,7 +192,7 @@ title: People
 
 <figure>
   <img src="{{site.url}}/images/paganini.jpg" alt="Alberto Paganini"/>
-  <figcaption><a href="https://le.ac.uk/people/alberto-paganini">Alberto Paganini</a>. <br/>Postdoctoral topic: shape optimisation. <br/> Next steps: a departmental lectureship in Oxford, then a permanent lectureship at the University of Leicester.</figcaption>
+  <figcaption><a href="https://le.ac.uk/people/alberto-paganini">Alberto Paganini</a>. <br/>Postdoctoral topic: shape optimisation. <br/> Next steps: a departmental lectureship in Oxford, then a permanent faculty position at the University of Leicester.</figcaption>
 </figure>
 
 &nbsp;
@@ -283,4 +261,26 @@ title: People
 <figure>
   <img src="{{site.url}}/images/wilson.jpg" alt="Andrew Wilson"/>
   <figcaption><a href="https://en.wikipedia.org/wiki/Andrew_Wilson_(swimmer)">Andrew Wilson</a>. <br/>Topic: multigrid preconditioners for the Onsager-Stefan-Maxwell equations. <br/> 2022 MMSC project. Next step: a research assistantship with <a href="https://www.earth.ox.ac.uk/people/samar-khatiwala/">Samar Khatiwala</a> and <a href="https://people.maths.ox.ac.uk/cartis/">Coralia Cartis</a>.</figcaption>
+</figure>
+
+&nbsp;
+&nbsp;
+
+<figure>
+  <img src="{{site.url}}/images/alonso.jpg" alt="Diego Hayashi Alonso"/>
+  <figcaption><a href="https://scholar.google.com/citations?user=SCoRD7cAAAAJ&hl=en">Diego Hayashi Alonso</a>. <br/>Visited Jan 2024 to Feb 2025 on a postdoctoral scholarship funded by FAPESP.</figcaption>
+</figure>
+
+
+&nbsp;
+&nbsp;
+
+<figure>
+  <img src="{{site.url}}/images/hadjslimane.jpg" alt="Arselane Hadj-Slimane"/>
+  <figcaption>Arselane Hadj-Slimane. <br/> Visiting MSc student. Home university: ENS Saclay. <br/>Topic: shape optimisation in the presence of multiple solutions.</figcaption>
+</figure>
+
+<figure>
+  <img src="{{site.url}}/images/vais.jpg" alt="Matěj Vais"/>
+  <figcaption>Matěj Vais. <br/> Visiting MSc student. Home university: Charles University Prague. <br/>Topic: simulation of power-law fluids with low power-law index.</figcaption>
 </figure>
