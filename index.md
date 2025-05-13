@@ -91,9 +91,12 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <p>2025-05-14: I will give a talk in the <a href="https://www.mff.cuni.cz/en/mathmac/seminar">mathematical modeling, applied analysis and computational mathematics</a> series at Charles University, in Prague, Czechia.</p>
 
-<p>2025-05-12: There will be a <a href="https://ccp-dcm.github.io/exeter_hackathon.html">Firedrake/FEniCS hackathon in Exeter</a>, organised by <a href="https://experts.exeter.ac.uk/33035-jemma-shipton">Jemma Shipton</a> as part of our <a href="https://ccp-dcm.github.io/index.html">Collaborative Computational Project on Data-centric Computational Mechanics</a>.</p>
 
 <h2 id="news">News</h2>
+
+<p>2025-05-13: Umberto Zerbinati gave a short course on <a href="https://www.uzerbinati.eu/teaching/spectral_theory/">spectral theory and spectral practice</a> at the University of Edinburgh, focussing on finite element discretisations of eigenvalue problems involving non-normal operators.</p>
+
+<p>2025-05-12: <a href="https://experts.exeter.ac.uk/33035-jemma-shipton">Jemma Shipton</a> organised a <a href="https://ccp-dcm.github.io/exeter_hackathon.html">Firedrake/FEniCS hackathon in Exeter</a> as part of our <a href="https://ccp-dcm.github.io/index.html">Collaborative Computational Project on Data-centric Computational Mechanics</a>.</p>
 
 <p>2025-04-22: I gave a talk in the <a href="https://www.simula.no/langtangen-seminar">Langtangen Seminar on Scientific Computing</a> at Simula Research Laboratory, organised by <a href="https://www.simula.no/people/meg">Marie Rognes</a> and <a href="https://www.simula.no/people/thomasms">Thomas Surowiec</a>.</p>
 
