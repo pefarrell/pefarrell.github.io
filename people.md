@@ -268,7 +268,7 @@ title: People
 
 <figure>
   <img src="{{site.url}}/images/alonso.jpg" alt="Diego Hayashi Alonso"/>
-  <figcaption><a href="https://scholar.google.com/citations?user=SCoRD7cAAAAJ&hl=en">Diego Hayashi Alonso</a>. <br/>Visited Jan 2024 to Feb 2025 on a postdoctoral scholarship funded by FAPESP.</figcaption>
+  <figcaption><a href="https://scholar.google.com/citations?user=SCoRD7cAAAAJ&hl=en">Diego Hayashi Alonso</a>. <br/> Topic: topology optimisation of compressible flows. <br/>Visited Jan 2024 to Feb 2025 on a postdoctoral scholarship funded by FAPESP.</figcaption>
 </figure>
 
 
@@ -277,10 +277,10 @@ title: People
 
 <figure>
   <img src="{{site.url}}/images/hadjslimane.jpg" alt="Arselane Hadj-Slimane"/>
-  <figcaption>Arselane Hadj-Slimane. <br/> Visiting MSc student. Home university: ENS Saclay. <br/>Topic: shape optimisation in the presence of multiple solutions.</figcaption>
+  <figcaption>Arselane Hadj-Slimane. <br/>Topic: shape optimisation in the presence of multiple solutions. <br/> Visiting MSc student. Home institution: ENS Saclay. </figcaption>
 </figure>
 
 <figure>
   <img src="{{site.url}}/images/vais.jpg" alt="Matěj Vais"/>
-  <figcaption>Matěj Vais. <br/> Visiting MSc student. Home university: Charles University Prague. <br/>Topic: simulation of power-law fluids with low power-law index.</figcaption>
+  <figcaption>Matěj Vais. <br/>Topic: simulation of power-law fluids with low power-law index. <br/> Visiting MSc student. Home institution: Charles University.</figcaption>
 </figure>
