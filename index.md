@@ -91,10 +91,10 @@ I am always looking for talented PhD students and postdocs. Members of my group 
   <a href="https://appliedmath.brown.edu/people/johnny-guzman">Johnny Guzmán</a>, and
   <a href="https://people.epfl.ch/daniel.kressner">Daniel Kressner</a>.</p>
 
-<p>2025-05-14: I will give a talk in the <a href="https://www.mff.cuni.cz/en/mathmac/seminar">mathematical modeling, applied analysis and computational mathematics</a> series at Charles University, in Prague, Czechia.</p>
-
 
 <h2 id="news">News</h2>
+
+<p>2025-05-14: I gave a talk in the <a href="https://www.mff.cuni.cz/en/mathmac/seminar">mathematical modeling, applied analysis and computational mathematics</a> series at Charles University, in Prague, Czechia.</p>
 
 <p>2025-05-13: Umberto Zerbinati gave a short course on <a href="https://www.uzerbinati.eu/teaching/spectral_theory/">spectral theory and spectral practice</a> at the University of Edinburgh, focussing on finite element discretisations of eigenvalue problems involving non-normal operators.</p>
 
