@@ -2,11 +2,11 @@
 title: Research presentations
 ---
 
-Here is an incomplete sample of research presentations, to give an idea of the kind of research I do.
+Here is an incomplete sample of some research presentations I have given.
 
 <h2><a href="{{site.url}}/files/talks/structure_in_time.pdf" class="iwantyoubold">Enforcing conservation laws and dissipation inequalities numerically via auxiliary variables</a></h2>
 
-<p>Related coauthors: Boris Andrews</p>
+<p>Related coauthors: Boris Andrews, Mingdong He, Kaibo Hu</p>
 
 <p>We propose a general strategy for enforcing multiple conservation laws and dissipation inequalities in the numerical solution of initial value problems. The key idea is to represent each conservation law or dissipation inequality by means of an associated test function; we introduce auxiliary variables representing the projection of these test functions onto a discrete test set,
 and modify the equation to use these new variables. </p>
