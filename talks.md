@@ -4,7 +4,7 @@ title: Research presentations
 
 Here is an incomplete sample of research presentations, to give an idea of the kind of research I do.
 
-<b><h2><a href="{{site.url}}/files/talks/structure_in_time.pdf">Enforcing conservation laws and dissipation inequalities numerically via auxiliary variables</a></h2></b>
+<h2><a href="{{site.url}}/files/talks/structure_in_time.pdf" class="iwantyoubold">Enforcing conservation laws and dissipation inequalities numerically via auxiliary variables</a></h2>
 
 <p>Related authors: Boris Andrews</p>
 
@@ -17,7 +17,7 @@ first time discretization of the compressible equations that conserves mass, mom
 and provably dissipates entropy.</p>
 
 
-<b><h2><a href="{{site.url}}/files/talks/multicomponent_flows.pdf">Discretising the Navier-Stokes-Onsager-Stefan-Maxwell equations of multicomponent flow</a></h2></b>
+<h2><a href="{{site.url}}/files/talks/multicomponent_flows.pdf" class="iwantyoubold">Discretising the Navier-Stokes-Onsager-Stefan-Maxwell equations of multicomponent flow</a></h2>
 
 <p>Related authors: Charles Monroe, Alexander Van-Brunt, Francis Aznaran, Kars Knook, Aaron Baier-Reinio</p>
 
@@ -29,9 +29,9 @@ and provably dissipates entropy.</p>
 
 <p>We present numerical simulations involving (i) the microfluidic non-ideal mixing of hydrocarbons and (ii) the transient evolution of a lithium-ion battery electrolyte in a Hull cell electrode. </p>
 
-<b><h2><a href="{{site.url}}/files/talks/reynolds_robust_solvers.pdf">Reynolds-robust solvers for incompressible flow problems</a></h2></b>
+<h2><a href="{{site.url}}/files/talks/reynolds_robust_solvers.pdf" class="iwantyoubold">Reynolds-robust solvers for incompressible flow problems</a></h2>
 
-<p>Related authors: Florian Wechsung, Ridgway Scott, Lawrence Mitchell, Fabian Laakmann</p>
+<p>Related authors: Florian Wechsung, Ridgway Scott, Lawrence Mitchell, Fabian Laakmann, Alexei Gazca</p>
 
  <p>When approximating PDEs with the finite element method, large sparse linear systems must be solved. The ideal preconditioner yields convergence that is algorithmically optimal and parameter robust, i.e. the number of Krylov iterations required to solve the linear system to a given accuracy does not grow substantially as the mesh or problem parameters are changed.</p>
 
