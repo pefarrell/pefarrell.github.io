@@ -84,13 +84,24 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <p>2025-07-13: Aaron Baier-Reinio and Pablo Brubeck will give talks at <a href="https://icosahom2025.org/">ICOSAHOM 2025</a>.</p>
 
 <p>2025-07-06: I will give an invited talk at the <a href="https://www.grc.org/liquid-crystals-conference/2025/">Gordon Research Conference on Liquid Crystals</a> in Manchester, USA.</p>
+
+<p>2025-06-23: Pablo Brubeck, Kars Knook, and Umberto Zerbinati will talk at the <a href="https://www.dd29.polimi.it/">29th International Conference on Domain Decomposition Methods (DD29)</a> in Milan, Italy.</p>
+
 <p>2025-06-23: I will give a plenary talk at the <a href="https://www.dd29.polimi.it/">29th International Conference on Domain Decomposition Methods (DD29)</a> in Milan, Italy.</p>
+
 <p>2025-06-15: I am organising the <a href="https://ems-masc.cuni.cz/">EMS School on Mathematical Modelling, Numerical Analysis, and Scientific Computing</a> in Kácov, Czechia. The speakers this year are 
   <a href="https://www.tue.nl/en/research/researchers/olga-mula-hernandez">Olga Mula</a>,
   <a href="https://www.simula.no/people/thomasms">Thomas Surowiec</a>,
   <a href="https://appliedmath.brown.edu/people/johnny-guzman">Johnny Guzmán</a>, and
   <a href="https://people.epfl.ch/daniel.kressner">Daniel Kressner</a>.</p>
 
+<p>2025-06-12: I will host <a href="https://chercheurs.lille.inria.fr/ccances/">Clément Cancès</a> for a <a href="https://www.maths.ox.ac.uk/node/70689">talk in the Computational Mathematics and Applications Seminar series</a>.</p>
+
+<p>2025-05-25: Pablo Brubeck will talk at the <a href=""https://coupled2025.cimne.com/>International Conference on Coupled Problems in Science and Engineering</a>.</p>
+
+<p>2025-05-23: Pablo Brubeck and Umberto Zerbinati will talk at the <a href="https://indico.sissa.it/event/153/">22nd European Finite Element Fair</a>.</p>
+
+<p>2025-05-22: I will host <a href="https://scholar.google.com.au/citations?user=rd0Ywo0AAAAJ&amp;hl=en">Geoff Vasil</a> for a <a href="https://www.maths.ox.ac.uk/node/70186">talk in the Computational Mathematics and Applications Seminar series</a>.</p>
 
 <h2 id="news">News</h2>
 
