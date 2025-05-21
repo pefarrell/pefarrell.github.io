@@ -97,7 +97,7 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <p>2025-06-12: I will host <a href="https://chercheurs.lille.inria.fr/ccances/">Clément Cancès</a> for a <a href="https://www.maths.ox.ac.uk/node/70689">talk in the Computational Mathematics and Applications Seminar series</a>.</p>
 
-<p>2025-05-25: Pablo Brubeck will talk at the <a href=""https://coupled2025.cimne.com/>International Conference on Coupled Problems in Science and Engineering</a>.</p>
+<p>2025-05-25: Pablo Brubeck will talk at the <a href="https://coupled2025.cimne.com">International Conference on Coupled Problems in Science and Engineering</a>.</p>
 
 <p>2025-05-23: Pablo Brubeck and Umberto Zerbinati will talk at the <a href="https://indico.sissa.it/event/153/">22nd European Finite Element Fair</a>.</p>
 
