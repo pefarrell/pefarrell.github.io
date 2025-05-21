@@ -61,5 +61,5 @@ modification to an existing Newton-based solver. Third, it can scale to very
 large discretisations if a good preconditioner is available; no auxiliary
 problems must be solved.</p>
 
-<p>We will present applications to hyperelastic structures, singularly perturbed problems,
+<p>We present applications to hyperelastic structures, singularly perturbed problems,
 and Bose-Einstein condensates, among others. </p>
