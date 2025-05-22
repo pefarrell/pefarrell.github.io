@@ -105,6 +105,15 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <h2 id="news">News</h2>
 
+<p>2025-05-22: A new paper is published in Computer Physics Communications on <a href="https://doi.org/10.1016/j.cpc.2025.109675">implementing the nonlinear Fokker-Planck collision operator for charged particle collisions in a low density plasma</a>, with 
+<a href="https://www.physics.ox.ac.uk/our-people/hardman">Michael Hardman</a>, 
+<a href="https://www.physics.ox.ac.uk/our-people/abazorius">Mantas Abazorius</a>, 
+<a href="https://orcid.org/0000-0002-3156-8227">John Omotani</a>, 
+<a href="https://www.physics.ox.ac.uk/our-people/barnesm">Michael Barnes</a>, 
+<a href="https://www.physics.ox.ac.uk/our-people/newtons">Sarah Newton</a>, 
+<a href="https://github.com/jwscook">James Cook</a>, and 
+<a href="https://plasma.princeton.edu/people/felix-parra-diaz">Felix Parra</a>.</p>
+
 <p>2025-05-14: I gave a talk in the <a href="https://www.mff.cuni.cz/en/mathmac/seminar">mathematical modeling, applied analysis and computational mathematics</a> series at Charles University, in Prague, Czechia.</p>
 
 <p>2025-05-13: Umberto Zerbinati gave a short course on <a href="https://www.uzerbinati.eu/teaching/spectral_theory/">spectral theory and spectral practice</a> at the University of Edinburgh, focussing on finite element discretisations of eigenvalue problems involving non-normal operators.</p>
