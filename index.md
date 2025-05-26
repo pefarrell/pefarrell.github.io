@@ -87,6 +87,8 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <p>2025-07-28: Aaron Baier-Reinio will give a talk at <a href="https://www.siam.org/conferences-events/siam-conferences/an25/">the SIAM/CAIMS annual meeting</a>.</p>
 
+<p>2025-07-16: I will serve as internal PhD examiner for <a href="https://www.physics.ox.ac.uk/our-people/acton">Georgia Acton</a>.</p>
+
 <p>2025-07-13: Aaron Baier-Reinio and Pablo Brubeck will give talks at <a href="https://icosahom2025.org/">ICOSAHOM 2025</a>.</p>
 
 <p>2025-07-06: I will give an invited talk at the <a href="https://www.grc.org/liquid-crystals-conference/2025/">Gordon Research Conference on Liquid Crystals</a> in Manchester, USA.</p>
@@ -103,13 +105,15 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <p>2025-06-12: I will host <a href="https://chercheurs.lille.inria.fr/ccances/">Clément Cancès</a> for a <a href="https://www.maths.ox.ac.uk/node/70689">talk in the Computational Mathematics and Applications Seminar series</a>.</p>
 
-<p>2025-05-25: Pablo Brubeck will talk at the <a href="https://coupled2025.cimne.com">International Conference on Coupled Problems in Science and Engineering</a>.</p>
 
-<p>2025-05-23: Pablo Brubeck and Umberto Zerbinati will talk at the <a href="https://indico.sissa.it/event/153/">22nd European Finite Element Fair</a>.</p>
-
-<p>2025-05-22: I will host <a href="https://scholar.google.com.au/citations?user=rd0Ywo0AAAAJ&amp;hl=en">Geoff Vasil</a> for a <a href="https://www.maths.ox.ac.uk/node/70186">talk in the Computational Mathematics and Applications Seminar series</a>.</p>
 
 <h2 id="news">News</h2>
+
+<p>2025-05-26: Pablo Brubeck will talk at the <a href="https://coupled2025.cimne.com">International Conference on Coupled Problems in Science and Engineering</a>.</p>
+
+<p>2025-05-23: Pablo Brubeck and Umberto Zerbinati spoke at the <a href="https://indico.sissa.it/event/153/">22nd European Finite Element Fair</a>.</p>
+
+<p>2025-05-22: I hosted <a href="https://scholar.google.com.au/citations?user=rd0Ywo0AAAAJ&amp;hl=en">Geoff Vasil</a> for a <a href="https://www.maths.ox.ac.uk/node/70186">talk in the Computational Mathematics and Applications Seminar series</a>.</p>
 
 <p>2025-05-22: A new paper is published in Computer Physics Communications on <a href="https://doi.org/10.1016/j.cpc.2025.109675">implementing the nonlinear Fokker-Planck collision operator for charged particle collisions in a low density plasma</a>, with 
 <a href="https://www.physics.ox.ac.uk/our-people/hardman">Michael Hardman</a>, 
