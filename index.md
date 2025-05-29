@@ -109,6 +109,8 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <h2 id="news">News</h2>
 
+<p>2025-05-29: Welcome to <a href="https://kaibohu.github.io/">Kaibo Hu</a>, who will join the Numerical Analysis group as faculty later this year!</p>
+
 <p>2025-05-26: Pablo Brubeck will talk at the <a href="https://coupled2025.cimne.com">International Conference on Coupled Problems in Science and Engineering</a>.</p>
 
 <p>2025-05-23: Pablo Brubeck and Umberto Zerbinati spoke at the <a href="https://indico.sissa.it/event/153/">22nd European Finite Element Fair</a>.</p>
