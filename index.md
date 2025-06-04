@@ -199,7 +199,9 @@ I am always looking for talented PhD students and postdocs. Members of my group 
   <figcaption>A simulation of a device for the microfluidic mixing of benzene and cyclohexane. The volume is coloured by the mole fraction of benzene, and its isosurfaces are shown. Streamlines of the benzene velocity field are also displayed.</figcaption>
   </figure>
   </p>
-<p>2024-08-13: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2408.05095">augmented Lagrangian preconditioners for Navier-Stokes control problems</a>, with <a href="https://sites.google.com/view/santololeveque/home">Santolo Leveque</a> and <a href="https://www.sns.it/en/persona/michele-benzi">Michele Benzi</a>.</p>
+
+<p>2024-08-13: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2408.05095">augmented Lagrangian preconditioners for Navier-Stokes control problems</a>, with <a href="https://sites.google.com/view/santololeveque/home">Santolo Leveque</a> and <a href="https://www.sns.it/en/persona/michele-benzi">Michele Benzi</a>. Update: accepted in SISC.</p>
+
 <p>2024-07-30: I gave a talk in the <a href="https://mfem.org/seminar/">FEM@LNLL seminar series</a>, hosted by <a href="https://people.llnl.gov/kolev1">Tzanio Kolev</a>.</p>
 <p>2024-07-17: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2407.11904">time discretisations that preserve conservation laws and dissipation inequalities</a>, with Boris Andrews.</p>
 <p>2024-07-15: Congratulations to <a href="https://ecmiindmath.org/2024/07/15/lanczos-ecmi-ems-prize-awarded-to-mumps/">Patrick Amestoy, Jean-Yves L'Excellent, and Theo Mary</a> on <a href="https://euromathsoc.org/news/fourteen-prizes-awarded-to-european-mathematicians-at-the-9th-ecm-121">winning the inaugural EMS/ECMI Lanczos Prize for Mathematical Software</a> for their work on <a href="https://mumps-solver.org/index.php">MUMPS</a>!</p>
