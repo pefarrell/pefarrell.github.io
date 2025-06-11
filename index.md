@@ -105,10 +105,10 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <p>2025-06-12: I will host <a href="https://chercheurs.lille.inria.fr/ccances/">Clément Cancès</a> for a <a href="https://www.maths.ox.ac.uk/node/70689">talk in the Computational Mathematics and Applications Seminar series</a>.</p>
 
-<p>2025-06-10: Umberto Zerbinati will talk at the <a href="https://sites.google.com/view/mathematical-methods-for-waves/home">Mathematical Methods for Wave Problems</a> meeting in Leicester, UK.</p>
-
 
 <h2 id="news">News</h2>
+
+<p>2025-06-10: Umberto Zerbinati spoke at the <a href="https://sites.google.com/view/mathematical-methods-for-waves/home">Mathematical Methods for Wave Problems</a> meeting in Leicester, UK.</p>
 
 <p>2025-05-29: Welcome to <a href="https://kaibohu.github.io/">Kaibo Hu</a>, who will join the Numerical Analysis group as faculty later this year!</p>
 
