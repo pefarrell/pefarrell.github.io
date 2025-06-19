@@ -89,6 +89,8 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <p>2025-07-16: I will serve as internal PhD examiner for <a href="https://www.physics.ox.ac.uk/our-people/acton">Georgia Acton</a>.</p>
 
+<p>2025-07-14: Welcome to Sebastien Flavien Randriatsitoaina, an MSc student at the <a href="https://aims.ac.za/">African Institute for Mathematical Sciences</a> in Cape Town. Sebastien will be supervised by <a href="https://www.earth.ox.ac.uk/people/richard-katz">Richard Katz</a> and myself for the summer under the <a href="https://www.maths.ox.ac.uk/outreach/miorpa">MIORPA</a> programme.</p>
+
 <p>2025-07-13: Aaron Baier-Reinio and Pablo Brubeck will give talks at <a href="https://icosahom2025.org/">ICOSAHOM 2025</a>.</p>
 
 <p>2025-07-06: I will give an invited talk at the <a href="https://www.grc.org/liquid-crystals-conference/2025/">Gordon Research Conference on Liquid Crystals</a> in Manchester, USA.</p>
@@ -97,16 +99,18 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <p>2025-06-23: I will give a plenary talk at the <a href="https://www.dd29.polimi.it/">29th International Conference on Domain Decomposition Methods (DD29)</a> in Milan, Italy.</p>
 
-<p>2025-06-15: I am organising the <a href="https://ems-masc.cuni.cz/">EMS School on Mathematical Modelling, Numerical Analysis, and Scientific Computing</a> in Kácov, Czechia. The speakers this year are 
+
+
+
+<h2 id="news">News</h2>
+
+<p>2025-06-15: I organised and financially supported the <a href="https://ems-masc.cuni.cz/">EMS School on Mathematical Modelling, Numerical Analysis, and Scientific Computing</a> in Kácov, Czechia. The speakers this year were
   <a href="https://www.tue.nl/en/research/researchers/olga-mula-hernandez">Olga Mula</a>,
   <a href="https://www.simula.no/people/thomasms">Thomas Surowiec</a>,
   <a href="https://appliedmath.brown.edu/people/johnny-guzman">Johnny Guzmán</a>, and
   <a href="https://people.epfl.ch/daniel.kressner">Daniel Kressner</a>.</p>
 
-<p>2025-06-12: I will host <a href="https://chercheurs.lille.inria.fr/ccances/">Clément Cancès</a> for a <a href="https://www.maths.ox.ac.uk/node/70689">talk in the Computational Mathematics and Applications Seminar series</a>.</p>
-
-
-<h2 id="news">News</h2>
+<p>2025-06-12: I hosted <a href="https://chercheurs.lille.inria.fr/ccances/">Clément Cancès</a> for a <a href="https://www.maths.ox.ac.uk/node/70689">talk in the Computational Mathematics and Applications Seminar series</a>.</p>
 
 <p>2025-06-10: Umberto Zerbinati spoke at the <a href="https://sites.google.com/view/mathematical-methods-for-waves/home">Mathematical Methods for Wave Problems</a> meeting in Leicester, UK.</p>
 
