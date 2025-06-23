@@ -47,6 +47,9 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <p>2026-06-29: I will give a plenary talk at <a href="https://scicade.org/">SciCADE 2026</a> in Edinburgh, Scotland.</p>
 
+<p>2026-06-10: Aaron Baier-Reinio will talk in a minisymposium organised by <a href="https://www.karlin.mff.cuni.cz/~mbul8060/">Miroslav Bulíček</a>, <a href="https://www.karlin.mff.cuni.cz/~prusv/">Vít Průša</a>, and 
+<a href="https://geo.mff.cuni.cz/~soucek/">Ondřej Souček</a> at the <a href="https://aimsconference.org/conferences/2026/index.html">AIMS conference</a> in Athens, Greece.</p>
+
 <p>2026-05-18: I will organise a workshop on smectics and complex layered fluids at <a href="https://www.houches-school-physics.com/ecole-de-physique-des-houches/home-ecole-les-houches-1066564.kjsp">l'École de physique des Houches</a>, alongside 
 <a href="https://cv.hal.science/emmanuelle-lacaze">Emmanuelle Lacaze</a>, 
 <a href="https://ms.mcmaster.ca/~bronsard/">Lia Bronsard</a>, and 
