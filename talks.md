@@ -64,7 +64,7 @@ problems must be solved.</p>
 <p>We present applications to hyperelastic structures, singularly perturbed problems,
 and Bose-Einstein condensates, among others. </p>
 
-<h2><a href="{{site.url}}/files/talks/fast_riesz_maps_simplices.pdf.pdf" class="iwantyoubold">Fast high-order solvers on simplices for the de Rham complex</a></h2>
+<h2><a href="{{site.url}}/files/talks/fast_riesz_maps_simplices.pdf" class="iwantyoubold">Fast high-order solvers on simplices for the de Rham complex</a></h2>
 
 <p>Related coauthors: Pablo Brubeck, Robert Kirby, Charles Parker</p>
 
