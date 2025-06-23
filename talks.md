@@ -63,3 +63,14 @@ problems must be solved.</p>
 
 <p>We present applications to hyperelastic structures, singularly perturbed problems,
 and Bose-Einstein condensates, among others. </p>
+
+<h2><a href="{{site.url}}/files/talks/fast_riesz_maps_simplices.pdf.pdf" class="iwantyoubold">Fast high-order solvers on simplices for the de Rham complex</a></h2>
+
+<p>Related coauthors: Pablo Brubeck, Robert Kirby, Charles Parker</p>
+
+<p>We present new finite elements for solving the Riesz maps of the de Rham complex on triangular and tetrahedral meshes at high order. The finite elements discretize the same spaces as usual, but with different basis functions, so that the resulting matrices have desirable properties. These properties mean that we can solve the Riesz maps to a given accuracy in a 𝑝-robust number of iterations with 𝒪(𝑝⁶) flops in three dimensions, rather than the naive 𝒪(𝑝⁹) flops.</p>
+
+<p>The degrees of freedom build upon an idea of Demkowicz et al., and consist of integral moments on an equilateral reference simplex with respect to a numerically computed polynomial basis that is orthogonal in two different inner products. As a result,  the interior-interface and interior-interior couplings are provably weak, and we devise a preconditioning strategy by neglecting them.</p>
+
+<p>The combination of this approach with a space decomposition method on vertex and edge star patches allows us to efficiently solve the canonical Riesz maps at high order.
+We apply this to solving the Hodge Laplacians of the de Rham complex with novel augmented Lagrangian preconditioners.</p>
