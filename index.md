@@ -100,12 +100,12 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <p>2025-06-23: Pablo Brubeck, Kars Knook, and Umberto Zerbinati will talk at the <a href="https://www.dd29.polimi.it/">29th International Conference on Domain Decomposition Methods (DD29)</a> in Milan, Italy.</p>
 
-<p>2025-06-23: I will give a plenary talk at the <a href="https://www.dd29.polimi.it/">29th International Conference on Domain Decomposition Methods (DD29)</a> in Milan, Italy.</p>
-
 
 
 
 <h2 id="news">News</h2>
+
+<p>2025-06-23: I gave a plenary talk at the <a href="https://www.dd29.polimi.it/">29th International Conference on Domain Decomposition Methods (DD29)</a> in Milan, Italy.</p>
 
 <p>2025-06-15: I organised and financially supported the <a href="https://ems-masc.cuni.cz/">EMS School on Mathematical Modelling, Numerical Analysis, and Scientific Computing</a> in Kácov, Czechia. The speakers this year were
   <a href="https://www.tue.nl/en/research/researchers/olga-mula-hernandez">Olga Mula</a>,
