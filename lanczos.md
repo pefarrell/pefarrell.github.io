@@ -64,7 +64,7 @@ The award comprises a certificate and a cash prize of €3000.
 Award Presentation
 ==================
 
-The Prize will be presented at the Ninth European Congress of Mathematics in Seville, July 15–19, 2024. The recipients will be invited to present their work at the congress.
+The Prize will be presented at the 23rd ECMI Conference on Industrial and Applied Mathematics in Kaunas, 29 June-3 July 2026. The recipients will be invited to present their work at the congress.
 
 Prize Fund
 ==========
@@ -87,7 +87,14 @@ The prize committee consists of
 Deadline for Submission
 =======================
 
-Nominations for the prize should be submitted electronically to the chair of the Prize Committee, Professor Patrick Farrell (University of Oxford) patrick.farrell@maths.ox.ac.uk with the EMS Office in cc ems-office@helsinki.fi by December 31, 2023.
+Nominations for the prize should be submitted electronically to the chair of the Prize Committee, Professor Patrick Farrell (University of Oxford) patrick.farrell@maths.ox.ac.uk with the EMS Office in cc ems-office@helsinki.fi by December 31, 2025.
+
+Previous submissions will roll over unless otherwise requested or updated.
 
 Email any queries about the prize to Professor Patrick Farrell (University of Oxford), patrick.farrell@maths.ox.ac.uk.
+
+Past winners
+============
+
+- 2023: Patrick Amestoy, Jean-Yves L'Excellent, and Theo Mary: <a href="https://mumps-solver.org/index.php">MUMPS</a>
 
