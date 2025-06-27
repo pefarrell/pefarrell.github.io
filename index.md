@@ -47,6 +47,9 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <p>2026-06-29: I will give a plenary talk at <a href="https://scicade.org/">SciCADE 2026</a> in Edinburgh, Scotland.</p>
 
+<p>2026-06-10: Aaron Baier-Reinio will talk in a minisymposium organised by <a href="https://www.karlin.mff.cuni.cz/~mbul8060/">Miroslav Bulíček</a>, <a href="https://www.karlin.mff.cuni.cz/~prusv/">Vít Průša</a>, and 
+<a href="https://geo.mff.cuni.cz/~soucek/">Ondřej Souček</a> at the <a href="https://aimsconference.org/conferences/2026/index.html">AIMS conference</a> in Athens, Greece.</p>
+
 <p>2026-05-18: I will organise a workshop on smectics and complex layered fluids at <a href="https://www.houches-school-physics.com/ecole-de-physique-des-houches/home-ecole-les-houches-1066564.kjsp">l'École de physique des Houches</a>, alongside 
 <a href="https://cv.hal.science/emmanuelle-lacaze">Emmanuelle Lacaze</a>, 
 <a href="https://ms.mcmaster.ca/~bronsard/">Lia Bronsard</a>, and 
@@ -89,25 +92,32 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <p>2025-07-16: I will serve as internal PhD examiner for <a href="https://www.physics.ox.ac.uk/our-people/acton">Georgia Acton</a>.</p>
 
+<p>2025-07-14: Welcome to Sebastien Flavien Randriatsitoaina, an MSc student at the <a href="https://aims.ac.za/">African Institute for Mathematical Sciences</a> in Cape Town. Sebastien will be supervised by <a href="https://www.earth.ox.ac.uk/people/richard-katz">Richard Katz</a> and myself for the summer under the <a href="https://www.maths.ox.ac.uk/outreach/miorpa">MIORPA</a> programme.</p>
+
 <p>2025-07-13: Aaron Baier-Reinio and Pablo Brubeck will give talks at <a href="https://icosahom2025.org/">ICOSAHOM 2025</a>.</p>
 
 <p>2025-07-06: I will give an invited talk at the <a href="https://www.grc.org/liquid-crystals-conference/2025/">Gordon Research Conference on Liquid Crystals</a> in Manchester, USA.</p>
 
 <p>2025-06-23: Pablo Brubeck, Kars Knook, and Umberto Zerbinati will talk at the <a href="https://www.dd29.polimi.it/">29th International Conference on Domain Decomposition Methods (DD29)</a> in Milan, Italy.</p>
 
-<p>2025-06-23: I will give a plenary talk at the <a href="https://www.dd29.polimi.it/">29th International Conference on Domain Decomposition Methods (DD29)</a> in Milan, Italy.</p>
 
-<p>2025-06-15: I am organising the <a href="https://ems-masc.cuni.cz/">EMS School on Mathematical Modelling, Numerical Analysis, and Scientific Computing</a> in Kácov, Czechia. The speakers this year are 
+
+
+<h2 id="news">News</h2>
+
+<p>2025-06-23: I gave a plenary talk at the <a href="https://www.dd29.polimi.it/">29th International Conference on Domain Decomposition Methods (DD29)</a> in Milan, Italy.</p>
+
+<p>2025-06-15: I organised and financially supported the <a href="https://ems-masc.cuni.cz/">EMS School on Mathematical Modelling, Numerical Analysis, and Scientific Computing</a> in Kácov, Czechia. The speakers this year were
   <a href="https://www.tue.nl/en/research/researchers/olga-mula-hernandez">Olga Mula</a>,
   <a href="https://www.simula.no/people/thomasms">Thomas Surowiec</a>,
   <a href="https://appliedmath.brown.edu/people/johnny-guzman">Johnny Guzmán</a>, and
   <a href="https://people.epfl.ch/daniel.kressner">Daniel Kressner</a>.</p>
 
-<p>2025-06-12: I will host <a href="https://chercheurs.lille.inria.fr/ccances/">Clément Cancès</a> for a <a href="https://www.maths.ox.ac.uk/node/70689">talk in the Computational Mathematics and Applications Seminar series</a>.</p>
+<p>2025-06-12: I hosted <a href="https://chercheurs.lille.inria.fr/ccances/">Clément Cancès</a> for a <a href="https://www.maths.ox.ac.uk/node/70689">talk in the Computational Mathematics and Applications Seminar series</a>.</p>
 
+<p>2025-06-10: Umberto Zerbinati spoke at the <a href="https://sites.google.com/view/mathematical-methods-for-waves/home">Mathematical Methods for Wave Problems</a> meeting in Leicester, UK.</p>
 
-
-<h2 id="news">News</h2>
+<p>2025-05-29: Welcome to <a href="https://kaibohu.github.io/">Kaibo Hu</a>, who will join the Numerical Analysis group as faculty later this year!</p>
 
 <p>2025-05-26: Pablo Brubeck will talk at the <a href="https://coupled2025.cimne.com">International Conference on Coupled Problems in Science and Engineering</a>.</p>
 
@@ -155,7 +165,7 @@ I am always looking for talented PhD students and postdocs. Members of my group 
   </figure>
 
 
-<p>2025-03-07: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2503.05672">the latent variable proximal point algorithm for variational problems with inequality constraints</a>, with <a href="https://jsdokken.com/">Jørgen Dokken</a>, <a href="https://brendankeith.github.io/">Brendan Keith</a>, <a href="https://thomas-surowiec.github.io/">Thomas Surowiec</a>, and <a href="https://ioannispapapadopoulos.github.io/">Ioannis Papadopoulos</a>. We present a new algorithm for such problems that offers mesh-independent convergence and feasibility. We show how it can be used to solve 12 problems from across applied mathematics, among them: the obstacle problem, the Signorini problem, variational fracture, gradient flow on the Gibbs simplex for multiphase flow, a quasi-variational inequality, a problem with gradient constraints, enforcing eigenvalue constraints in Landau-de Gennes, the eikonal equation, and the convexity constraint in the Monge-Ampère equation.</p>
+<p>2025-03-07: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2503.05672">the latent variable proximal point algorithm for variational problems with inequality constraints</a>, with <a href="https://jsdokken.com/">Jørgen Dokken</a>, <a href="https://brendankeith.github.io/">Brendan Keith</a>, <a href="https://thomas-surowiec.github.io/">Thomas Surowiec</a>, and <a href="https://ioannispapapadopoulos.github.io/">Ioannis Papadopoulos</a>. We present a new algorithm for such problems that offers mesh-independent convergence and feasibility. We show how it can be used to solve 12 problems from across applied mathematics, among them: the obstacle problem, the Signorini problem, variational fracture, gradient flow on the Gibbs simplex for multiphase flow, a quasi-variational inequality, a problem with gradient constraints, enforcing eigenvalue constraints in Landau-de Gennes, the eikonal equation, and the convexity constraint in the Monge-Ampère equation. Update: accepted in CMAME.</p>
 
 
 <p>2025-03-03: Boris Andrews, Aaron Baier-Reinio, Pablo Brubeck, and Mingdong He <a href="https://meetings.siam.org/speakdex.cfm?CONFCODE=CSE25">gave talks at SIAM CSE25</a> in Fort Worth, Texas, USA.</p>
@@ -197,7 +207,9 @@ I am always looking for talented PhD students and postdocs. Members of my group 
   <figcaption>A simulation of a device for the microfluidic mixing of benzene and cyclohexane. The volume is coloured by the mole fraction of benzene, and its isosurfaces are shown. Streamlines of the benzene velocity field are also displayed.</figcaption>
   </figure>
   </p>
-<p>2024-08-13: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2408.05095">augmented Lagrangian preconditioners for Navier-Stokes control problems</a>, with <a href="https://sites.google.com/view/santololeveque/home">Santolo Leveque</a> and <a href="https://www.sns.it/en/persona/michele-benzi">Michele Benzi</a>.</p>
+
+<p>2024-08-13: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2408.05095">augmented Lagrangian preconditioners for Navier-Stokes control problems</a>, with <a href="https://sites.google.com/view/santololeveque/home">Santolo Leveque</a> and <a href="https://www.sns.it/en/persona/michele-benzi">Michele Benzi</a>. Update: accepted in SISC.</p>
+
 <p>2024-07-30: I gave a talk in the <a href="https://mfem.org/seminar/">FEM@LNLL seminar series</a>, hosted by <a href="https://people.llnl.gov/kolev1">Tzanio Kolev</a>.</p>
 <p>2024-07-17: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2407.11904">time discretisations that preserve conservation laws and dissipation inequalities</a>, with Boris Andrews.</p>
 <p>2024-07-15: Congratulations to <a href="https://ecmiindmath.org/2024/07/15/lanczos-ecmi-ems-prize-awarded-to-mumps/">Patrick Amestoy, Jean-Yves L'Excellent, and Theo Mary</a> on <a href="https://euromathsoc.org/news/fourteen-prizes-awarded-to-european-mathematicians-at-the-9th-ecm-121">winning the inaugural EMS/ECMI Lanczos Prize for Mathematical Software</a> for their work on <a href="https://mumps-solver.org/index.php">MUMPS</a>!</p>

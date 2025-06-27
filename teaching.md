@@ -21,3 +21,7 @@ Here are <a href="{{site.url}}/files/kacov2023.pdf">some lecture slides on numer
 <h3>Solving Partial Differential Equations with Firedrake</h3>
 
 Here are <a href="{{site.url}}/files/icerm2024.pdf">some lecture slides on solving PDEs with Firedrake</a> I gave at ICERM in 2024. Some of the codes <a href="https://github.com/pefarrell/icerm2024">are available in this github repository</a>.
+
+<h3>Continuum Mechanics and the Entropy Principle</h3>
+
+Here are <a href="{{site.url}}/files/malekprusa.pdf">lecture slides for a one-hour talk on continuum mechanics and the entropy principle</a> explaining the basic idea of <a href="https://doi.org/10.1007/978-3-319-13344-7_1">a wonderful review article of Málek and Průša</a> on the use of the entropy principle to derive constitutive relations for models in continuum mechanics.
