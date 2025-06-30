@@ -98,12 +98,13 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <p>2025-07-06: I will give an invited talk at the <a href="https://www.grc.org/liquid-crystals-conference/2025/">Gordon Research Conference on Liquid Crystals</a> in Manchester, USA.</p>
 
-<p>2025-06-23: Pablo Brubeck, Kars Knook, and Umberto Zerbinati will talk at the <a href="https://www.dd29.polimi.it/">29th International Conference on Domain Decomposition Methods (DD29)</a> in Milan, Italy.</p>
-
-
 
 
 <h2 id="news">News</h2>
+
+<p>2025-06-23: Pablo Brubeck, Kars Knook, and Umberto Zerbinati spoke at the <a href="https://www.dd29.polimi.it/">29th International Conference on Domain Decomposition Methods (DD29)</a> in Milan, Italy.</p>
+
+<p>2025-06-23: Boris Andrews, Aaron Baier-Reinio, and Mingdong He spoke at the <a href="https://numericalanalysisconference.org.uk/">30th Biennial Numerical Analysis Conference</a> in Glasgow, UK.</p>
 
 <p>2025-06-23: I gave a plenary talk at the <a href="https://www.dd29.polimi.it/">29th International Conference on Domain Decomposition Methods (DD29)</a> in Milan, Italy.</p>
 
