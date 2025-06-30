@@ -76,6 +76,11 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <p>2025-11-03: I will give an invited talk at the <a href="https://www.icms.org.uk/CoMPASs">Computational Materials Science and Mathematics at the Particle and Atomistic Scales workshop at the ICMS</a>, organised by Maciej Buze, Danny Perez, and Helen Li in Edinburgh, UK.</p>
 
+<p>2025-10-08: I will give an invited talk at the <a href="https://martinlicht.github.io/frontiers2025.html">Frontiers in Numerical Methods for Nonlinear Partial Differential Equations</a> workshop in Lausanne, Switzerland. The organisers are
+  <a href="https://martinlicht.github.io/">Martin Licht</a>,
+  <a href="https://who.rocq.inria.fr/Martin.Vohralik/">Martin Vohralik</a>, and
+  <a href="https://tchaumont.github.io/">Théophile Chaumont-Frelet</a>.
+
 <p>2025-09-15: Boris Andrews will talk in a minisymposium on "New generation methods for numerical challenges in curl-div problems: Maxwell, MD, and derived models" at <a href="https://cage.ugent.be/acomen2025/">the ACOMEN conference</a>, organised by the <a href="https://erc-nemesis.eu/">PIs of the NEMESIS ERC project</a>, Jérôme Droniou, Daniele A. Di Pietro, Lourenço Beirão da Veiga, and Paola F. Antonietti.</p>
 
 <p>2025-09-07: I will attend the <a href="https://www.mittag-leffler.se/activities/interfaces-and-unfitted-discretization-methods/">Interfaces and Unfitted Discretization Methods</a> thematic programme at the Institut Mittag-Leffler in Stockholm, Sweden. The organisers are
