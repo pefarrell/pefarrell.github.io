@@ -81,6 +81,10 @@ I am always looking for talented PhD students and postdocs. Members of my group 
   <a href="https://who.rocq.inria.fr/Martin.Vohralik/">Martin Vohralik</a>, and
   <a href="https://tchaumont.github.io/">Théophile Chaumont-Frelet</a>.
 
+<p>2025-10-01: I will serve as external PhD examiner for Ben Green at Loughborough University.</p>
+
+<p>2025-09-29: I will serve as PhD examiner for <a href="https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=12925">Alena Jarolímová</a> at Charles University.</p>
+
 <p>2025-09-15: Boris Andrews will talk in a minisymposium on "New generation methods for numerical challenges in curl-div problems: Maxwell, MD, and derived models" at <a href="https://cage.ugent.be/acomen2025/">the ACOMEN conference</a>, organised by the <a href="https://erc-nemesis.eu/">PIs of the NEMESIS ERC project</a>, Jérôme Droniou, Daniele A. Di Pietro, Lourenço Beirão da Veiga, and Paola F. Antonietti.</p>
 
 <p>2025-09-07: I will attend the <a href="https://www.mittag-leffler.se/activities/interfaces-and-unfitted-discretization-methods/">Interfaces and Unfitted Discretization Methods</a> thematic programme at the Institut Mittag-Leffler in Stockholm, Sweden. The organisers are
@@ -99,7 +103,7 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <p>2025-07-14: Welcome to Sebastien Flavien Randriatsitoaina, an MSc student at the <a href="https://aims.ac.za/">African Institute for Mathematical Sciences</a> in Cape Town. Sebastien will be supervised by <a href="https://www.earth.ox.ac.uk/people/richard-katz">Richard Katz</a> and myself for the summer under the <a href="https://www.maths.ox.ac.uk/outreach/miorpa">MIORPA</a> programme.</p>
 
-<p>2025-07-13: Aaron Baier-Reinio and Pablo Brubeck will give talks at <a href="https://icosahom2025.org/">ICOSAHOM 2025</a>.</p>
+<p>2025-07-13: Aaron Baier-Reinio, Pablo Brubeck, and Umberto Zerbinati will give talks at <a href="https://icosahom2025.org/">ICOSAHOM 2025</a>.</p>
 
 <p>2025-07-06: I will give an invited talk at the <a href="https://www.grc.org/liquid-crystals-conference/2025/">Gordon Research Conference on Liquid Crystals</a> in Manchester, USA.</p>
 
