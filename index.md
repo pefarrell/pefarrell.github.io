@@ -51,7 +51,7 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <a href="https://www.numerik.mathematik.uni-mainz.de/prof-dr-maria-lukacova-medvidova/">Mária Lukácová-Medvidová</a>.
 </p>
 
-<p>2026-07-23: I will give <b>a section lecture at the <a href="https://www.icm2026.org/event/ac193975-5d24-4628-8c30-ddb23de19a8b/speakers">International Congress of Mathematicians</a></b>, in Section 15: Numerical Analysis and Scientific Computing, in Pennsylvania, USA.</p>
+<p>2026-07-23: I will give <b>a section lecture at the <a class="iwantyoubold" href="https://www.icm2026.org/event/ac193975-5d24-4628-8c30-ddb23de19a8b/speakers">International Congress of Mathematicians</a></b>, in Section 15: Numerical Analysis and Scientific Computing, in Pennsylvania, USA.</p>
 
 <p>2026-06-29: I will give a plenary talk at <a href="https://scicade.org/">SciCADE 2026</a> in Edinburgh, Scotland.</p>
 
