@@ -96,5 +96,5 @@ Email any queries about the prize to Professor Patrick Farrell (University of Ox
 Past winners
 ============
 
-- 2023: Patrick Amestoy, Jean-Yves L'Excellent, and Theo Mary: <a href="https://mumps-solver.org/index.php">MUMPS</a>
+- 2024: Patrick Amestoy, Jean-Yves L'Excellent, and Theo Mary: <a href="https://mumps-solver.org/index.php">MUMPS</a>
 
