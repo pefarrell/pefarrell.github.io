@@ -37,6 +37,14 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <h2 id="forthcoming">Forthcoming</h2>
 
+<!--
+<p>2027-06-06: I will organise the <a href="https://ems-masc.cuni.cz/">EMS School on Mathematical Modelling, Numerical Analysis, and Scientific Computing</a> in Kácov, Czechia. The speakers this year will be
+  <a href="https://www.tue.nl/en/research/researchers/olga-mula-hernandez">Olga Mula</a>,
+  <a href="https://www.simula.no/people/thomasms">Thomas Surowiec</a>,
+  <a href="https://appliedmath.brown.edu/people/johnny-guzman">Johnny Guzmán</a>, and
+  <a href="https://people.epfl.ch/daniel.kressner">Daniel Kressner</a>.</p>
+-->
+
 <p>2026-11-30: I am organising the second meeting of the <a href="https://ems-tag-mixtures.github.io/">European Mathematical Society topical activity group on mixtures</a> at the <a href="Centre International de Rencontres Mathématiques">Centre International de Rencontres Mathématiques</a>, alongside
 <a href="https://chercheurs.lille.inria.fr/ccances/">Clément Cancès</a>,
 <a href="https://team.inria.fr/matherials/team-members/virginie-ehrlacher-galland/">Virginie Ehrlacher</a>, and
