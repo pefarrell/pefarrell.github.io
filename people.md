@@ -5,6 +5,13 @@ title: People
 &nbsp;
 &nbsp;
 
+## Outreach students
+
+<figure>
+  <img src="{{site.url}}/images/randriatsitoaina.jpg" alt="Sebastien Randriatsitoaina"/>
+  <figcaption>Sebastien Randriatsitoaina. <br/>Topic: Modelling tidal turbulence in the Earth's core using spectral methods, on the <a href="https://www.maths.ox.ac.uk/outreach/miorpa">MIORPA outreach program</a>. <br/>Co-supervised with <a href="https://www.earth.ox.ac.uk/people/richard-katz">Richard Katz</a>.</figcaption>
+</figure>
+
 ## Postdoctoral research associates
 
 <figure>
