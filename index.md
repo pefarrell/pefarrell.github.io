@@ -113,11 +113,12 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <p>2025-07-13: Aaron Baier-Reinio, Pablo Brubeck, and Umberto Zerbinati will give talks at <a href="https://icosahom2025.org/">ICOSAHOM 2025</a>.</p>
 
-<p>2025-07-06: I will give an invited talk at the <a href="https://www.grc.org/liquid-crystals-conference/2025/">Gordon Research Conference on Liquid Crystals</a> in Manchester, USA.</p>
 
 
 
 <h2 id="news">News</h2>
+
+<p>2025-07-06: I gave an invited talk at the <a href="https://www.grc.org/liquid-crystals-conference/2025/">Gordon Research Conference on Liquid Crystals</a> in Manchester, USA.</p>
 
 <p>2025-06-23: Pablo Brubeck, Kars Knook, and Umberto Zerbinati spoke at the <a href="https://www.dd29.polimi.it/">29th International Conference on Domain Decomposition Methods (DD29)</a> in Milan, Italy.</p>
 
