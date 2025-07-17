@@ -107,16 +107,16 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <p>2025-07-28: Aaron Baier-Reinio will give a talk at <a href="https://www.siam.org/conferences-events/siam-conferences/an25/">the SIAM/CAIMS annual meeting</a>.</p>
 
-<p>2025-07-16: I will serve as internal PhD examiner for <a href="https://www.physics.ox.ac.uk/our-people/acton">Georgia Acton</a>.</p>
-
-<p>2025-07-14: Welcome to Sebastien Flavien Randriatsitoaina, an MSc student at the <a href="https://aims.ac.za/">African Institute for Mathematical Sciences</a> in Cape Town. Sebastien will be supervised by <a href="https://www.earth.ox.ac.uk/people/richard-katz">Richard Katz</a> and myself for the summer under the <a href="https://www.maths.ox.ac.uk/outreach/miorpa">MIORPA</a> programme.</p>
-
-<p>2025-07-13: Aaron Baier-Reinio, Pablo Brubeck, and Umberto Zerbinati will give talks at <a href="https://icosahom2025.org/">ICOSAHOM 2025</a>.</p>
-
 
 
 
 <h2 id="news">News</h2>
+
+<p>2025-07-16: I served as internal PhD examiner for <a href="https://www.physics.ox.ac.uk/our-people/acton">Georgia Acton</a>. Congratulations!</p>
+
+<p>2025-07-14: Welcome to Sebastien Flavien Randriatsitoaina, an MSc student at the <a href="https://aims.ac.za/">African Institute for Mathematical Sciences</a> in Cape Town. Sebastien is supervised by <a href="https://www.earth.ox.ac.uk/people/richard-katz">Richard Katz</a> and myself for the summer under the <a href="https://www.maths.ox.ac.uk/outreach/miorpa">MIORPA</a> programme.</p>
+
+<p>2025-07-13: Aaron Baier-Reinio, Pablo Brubeck, and Umberto Zerbinati gave talks at <a href="https://icosahom2025.org/">ICOSAHOM 2025</a>.</p>
 
 <p>2025-07-06: I gave an invited talk at the <a href="https://www.grc.org/liquid-crystals-conference/2025/">Gordon Research Conference on Liquid Crystals</a> in Manchester, USA.</p>
 
