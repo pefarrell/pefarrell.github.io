@@ -301,7 +301,8 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <p>2023-01-04: I gave a talk in the <a href="https://www.firedrakeproject.org/firedrake_22.html">Firedrake meeting</a>, as did Umberto Zerbinati, India Marsden, and Francis Aznaran.</p>
 
 <h2 id="news">2022</h2>
-<p>2022-12-13: I served on the PhD jury of <a href="https://michaloutrata.com/">Michal Outrata</a>, a student of <a href="http://www.unige.ch/~gander/">Martin Gander</a>, at the University of Geneva.
+<p>2022-12-13: I served as external PhD examiner for <a href="https://michaloutrata.com/">Michal Outrata</a> at the University of Geneva. Congratulations!</p>
+
 <p>2022-12-06: I gave a talk in the <a href="https://cemse.kaust.edu.sa/amcs/events/mathematics-and-applications-colloquium">KAUST Mathematics and Applications Colloquium</a>, hosted by <a href="https://cemse.kaust.edu.sa/sna/people/person/jinchao-xu">Jinchao Xu</a>.</p>
 <p>2022-12-05: I gave a talk in the <a href="https://cemse.kaust.edu.sa/cs/events/graduate-seminar">KAUST Computer Science Graduate Seminar</a>, hosted by <a href="https://www.kaust.edu.sa/en/study/faculty/david-keyes">David Keyes</a>.</p>
 <p>2022-11-25: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2211.14284">solvers for the Riesz maps of the de Rham complex with optimal complexity in polynomial degree</a>, with <a href="https://www.linkedin.com/in/pablo-brubeck-625713a5/?originalSubdomain=uk">Pablo Brubeck</a>. These allow us to solve certain canonical problems with very high polynomial degree (up to <i>p=31</i>) on unstructured meshes in 3D. Update: accepted in SIAM Journal on Scientific Computing.</p>
