@@ -82,7 +82,7 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <p>2025-11-04: Diego Alonso will give a talk on our work at the <a href="https://sites.usp.br/rcgi/events/etri/etri-2025/">Energy Transition Research & Innovation conference</a> in São Paulo, Brazil.</p>
 
-<p>2025-11-03: I will give an invited talk at the <a href="https://www.icms.org.uk/CoMPASs">Computational Materials Science and Mathematics at the Particle and Atomistic Scales workshop at the ICMS</a>, organised by Maciej Buze, Danny Perez, and Helen Li in Edinburgh, UK.</p>
+<p>2025-11-03: I will give an invited talk at the <a href="https://icms.ac.uk/activities/workshop/compass-computational-materials-science-and-mathematics-at-the-particle-and-atomistic-scales/">Computational Materials Science and Mathematics at the Particle and Atomistic Scales workshop at the ICMS</a>, organised by Maciej Buze, Danny Perez, and Helen Li in Edinburgh, UK.</p>
 
 <p>2025-10-08: I will give an invited talk at the <a href="https://martinlicht.github.io/frontiers2025.html">Frontiers in Numerical Methods for Nonlinear Partial Differential Equations</a> workshop in Lausanne, Switzerland. The organisers are
   <a href="https://martinlicht.github.io/">Martin Licht</a>,
