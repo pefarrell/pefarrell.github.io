@@ -15,3 +15,13 @@ a:hover, a:focus {
 .iwantyoubold:focus {
   font-weight: bold;
 }
+
+/* Add space between the last navigation link and the footer */
+header h3:last-of-type {
+  margin-bottom: 2rem;
+}
+
+/* Alternative: Add space at the top of the footer */
+footer {
+  margin-top: 2rem;
+}
