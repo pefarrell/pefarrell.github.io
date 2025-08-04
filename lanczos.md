@@ -76,7 +76,7 @@ Prize Committee
 The prize committee consists of
 
 - <a href="https://pefarrell.org">Patrick Farrell (Oxford)</a>
-- <a href="https://www.imperial.ac.uk/people/lawrence.mitchell">Lawrence Mitchell (NVIDIA)</a>
+- <a href="https://scholar.google.com/citations?user=GfzjtHEAAAAJ&hl=en">Lawrence Mitchell (NVIDIA)</a>
 - <a href="https://www.ntnu.edu/employees/elena.celledoni">Elena Celledoni (NTNU)</a>
 - <a href="https://math.bu.edu/people/jbala/">Jennifer Balakrishnan (Boston)</a>
 - <a href="https://www.anl.gov/profile/sven-leyffer">Sven Leyffer (Argonne)</a>
