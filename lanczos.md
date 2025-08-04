@@ -28,11 +28,10 @@ The Prize Committee is responsible for solicitation and the evaluation of nomina
 
 - a three-page summary addressing the evaluation criteria (the three-page limit does not include the bibliography);
 - a letter of support from a user of the software that is not nominated;
-- one or more scientific papers or technical reports describing the software and its uses;
 - CVs of those being nominated, at most 2 pages per author;
-- a one-page report containing:
+- a brief report containing:
   * a link to the project’s website, and to the publicly available source code;
-  * a citation for a persistent archive of the software as of the date of submission (e.g. via Zenodo), to provide a permanently archived snapshot of the software;
+  * DOIs for one or more scientific papers or technical reports describing the software and its uses;
   * links to: the software’s documentation, examples of its use, test programs, and scripts for executing those test programs;
   * for software with complex installation procedures, we recommend that a suitable container be prepared to simplify the prize committee’s task (e.g. a Docker or Singularity container).
 
@@ -79,10 +78,9 @@ The prize committee consists of
 - <a href="https://pefarrell.org">Patrick Farrell (Oxford)</a>
 - <a href="https://www.imperial.ac.uk/people/lawrence.mitchell">Lawrence Mitchell (NVIDIA)</a>
 - <a href="https://www.ntnu.edu/employees/elena.celledoni">Elena Celledoni (NTNU)</a>
-- <a href="https://www2.mathematik.tu-darmstadt.de/~pfetsch/">Marc Pfetsch (TU Darmstadt)</a>
-- <a href="https://glotzerlab.engin.umich.edu/home/">Sharon Glotzer (Michigan)</a>
-- <a href="https://wstein.org/">William Stein (SageMath)</a>
 - <a href="https://math.bu.edu/people/jbala/">Jennifer Balakrishnan (Boston)</a>
+- <a href="https://www.anl.gov/profile/sven-leyffer">Sven Leyffer (Argonne)</a>
+- <a href="https://cermics.enpc.fr/~lelievre/">Tony Lelièvre (ENPC)</a>
 
 Deadline for Submission
 =======================

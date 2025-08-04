@@ -105,12 +105,13 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <p>2025-08-20: Boris Andrews will talk at the <a href="https://mfet2025.de/">Modern Finite Element Technologies</a> conference in Aachen, Germany.</p>
 
-<p>2025-07-28: Aaron Baier-Reinio will give a talk at <a href="https://www.siam.org/conferences-events/siam-conferences/an25/">the SIAM/CAIMS annual meeting</a>.</p>
 
 
 
 
 <h2 id="news">News</h2>
+
+<p>2025-07-28: Aaron Baier-Reinio gave a talk at <a href="https://www.siam.org/conferences-events/siam-conferences/an25/">the SIAM/CAIMS annual meeting</a>.</p>
 
 <p>2025-07-16: I served as internal PhD examiner for <a href="https://www.physics.ox.ac.uk/our-people/acton">Georgia Acton</a>. Congratulations!</p>
 
