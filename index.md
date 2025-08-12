@@ -167,7 +167,7 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <p>2025-03-31: I gave a <a href="https://www.cimne.com/vnews/m2912/12298/cimne-seminar-designing-conservative-and-accurately-dissipative-numerical-integrators-in-time-by-patrick-farrell">seminar at the Centro Internacional de Métodos Numéricos en la Ingeniería, Universitat Politècnica de Catalunya</a>, hosted by <a href="https://sites.google.com/view/alexferrer">Àlex Ferrer</a>.</p>
 
-<p>2025-03-28: I will give a talk in the <a href="https://applied-mathematics.wp.st-andrews.ac.uk/event/prof-patrick-farrell-university-of-oxford/">Applied Mathematics Seminar in St. Andrews</a>, hosted by <a href="https://www.st-andrews.ac.uk/mathematics-statistics/people/ns210/">Nikolaos Sfakianakis</a>.</p>
+<p>2025-03-28: I will give a talk in the <a href="https://applied-mathematics.wp.st-andrews.ac.uk/event/prof-patrick-farrell-university-of-oxford/">Applied Mathematics Seminar in St. Andrews</a>, hosted by <a href="https://www.st-andrews.ac.uk/mathematics-statistics/people/te55/">Tom Elsden</a>.</p>
 
 
 <p>2025-03-20: Mingdong He <a href="https://icmsec.cc.ac.cn/article/178/4145.html">gave a talk at the Institute of Computational Mathematics and Scientific/Engineering Computing</a>, Beijing, China.</p>
