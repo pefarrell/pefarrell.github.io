@@ -111,6 +111,8 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <h2 id="news">News</h2>
 
+<p>2025-08-13: Oriel College is recruiting a <a href="https://www.oriel.ox.ac.uk/vacancies/graduate-teaching-and-research-scholarship-in-mathematics/">Graduate Teaching and Research Scholar</a>.</p>
+
 <p>2025-07-28: Aaron Baier-Reinio gave a talk at <a href="https://www.siam.org/conferences-events/siam-conferences/an25/">the SIAM/CAIMS annual meeting</a>.</p>
 
 <p>2025-07-16: I served as internal PhD examiner for <a href="https://www.physics.ox.ac.uk/our-people/acton">Georgia Acton</a>. Congratulations!</p>
