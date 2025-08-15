@@ -119,6 +119,8 @@ Geometric PDE Challenges in Science & Engineering
 
 <h2 id="news">News</h2>
 
+<p>2025-08-15: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2508.10744">a framework for developing kinetic models for ordered fluids</a>, with <a href="https://carrilloja.org/">José Antonio Carrillo</a>, <a href="https://www.andreamedaglia.eu/">Andrea Medaglia</a>, and <a href="https://www.uzerbinati.eu/">Umberto Zerbinati</a>.</p>
+
 <p>2025-08-13: Oriel College is recruiting a <a href="https://www.oriel.ox.ac.uk/vacancies/graduate-teaching-and-research-scholarship-in-mathematics/">Graduate Teaching and Research Scholar</a>.</p>
 
 <p>2025-07-28: Aaron Baier-Reinio gave a talk at <a href="https://www.siam.org/conferences-events/siam-conferences/an25/">the SIAM/CAIMS annual meeting</a>.</p>
@@ -136,6 +138,8 @@ Geometric PDE Challenges in Science & Engineering
 <p>2025-06-23: Boris Andrews, Aaron Baier-Reinio, and Mingdong He spoke at the <a href="https://numericalanalysisconference.org.uk/">30th Biennial Numerical Analysis Conference</a> in Glasgow, UK.</p>
 
 <p>2025-06-23: I gave a plenary talk at the <a href="https://www.dd29.polimi.it/">29th International Conference on Domain Decomposition Methods (DD29)</a> in Milan, Italy.</p>
+
+<p>2025-06-20: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2506.17406">fast solvers for the Riesz maps of the de Rham complex on simplices</a>, with <a href="https://www.maths.ox.ac.uk/people/pablo.brubeckmartinez">Pablo Brubeck</a>, <a href="https://sites.baylor.edu/robert_kirby/">Rob Kirby</a>, and <a href="https://sites.google.com/view/charlieparker2">Charles Parker</a>.</p>
 
 <p>2025-06-15: I organised and financially supported the <a href="https://ems-masc.cuni.cz/">EMS School on Mathematical Modelling, Numerical Analysis, and Scientific Computing</a> in Kácov, Czechia. The speakers this year were
   <a href="https://www.tue.nl/en/research/researchers/olga-mula-hernandez">Olga Mula</a>,
