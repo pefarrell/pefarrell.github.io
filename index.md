@@ -111,15 +111,12 @@ Geometric PDE Challenges in Science & Engineering
   <a href="https://users.oden.utexas.edu/~pgm/">Per-Gunnar Martinsson</a>, and
   <a href="https://mox.polimi.it/people/alfio-quarteroni/">Alfio Quarteroni</a>.</p>
 
-<p>2025-09-01: I will give a plenary talk at the <a href="https://enumath2025.eu/">ENUMATH 2025</a> conference in Heidelberg, Germany.</p>
-
-<p>2025-08-20: Boris Andrews will talk at the <a href="https://mfet2025.de/">Modern Finite Element Technologies</a> conference in Aachen, Germany.</p>
-
-
-
+<p>2025-09-05: I will give a plenary talk at the <a href="https://enumath2025.eu/">ENUMATH 2025</a> conference in Heidelberg, Germany.</p>
 
 
 <h2 id="news">News</h2>
+
+<p>2025-08-20: Boris Andrews gave a talk at the <a href="https://mfet2025.de/">Modern Finite Element Technologies</a> conference in Aachen, Germany.</p>
 
 <p>2025-08-15: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2508.10744">a framework for developing kinetic models for ordered fluids</a>, with <a href="https://carrilloja.org/">José Antonio Carrillo</a>, <a href="https://www.andreamedaglia.eu/">Andrea Medaglia</a>, and <a href="https://www.uzerbinati.eu/">Umberto Zerbinati</a>.</p>
 
