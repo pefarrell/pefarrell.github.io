@@ -113,8 +113,11 @@ Geometric PDE Challenges in Science & Engineering
 
 <p>2025-09-05: I will give a plenary talk at the <a href="https://enumath2025.eu/">ENUMATH 2025</a> conference in Heidelberg, Germany.</p>
 
+<p>2025-09-03: I will talk in the MS55 minisymposium at the <a href="https://enumath2025.eu/">ENUMATH 2025</a> conference in Heidelberg, Germany.</p>
 
 <h2 id="news">News</h2>
+
+<p>2025-08-29: Congratulations to <a href="https://borisandrews.github.io/">Boris Andrews</a> on passing his DPhil viva! Thanks to <a href="https://www.math.wustl.edu/~astern/">Ari Stern</a> and <a href="https://sites.google.com/view/charlieparker2">Charlie Parker</a> for serving as examiners.</p>
 
 <p>2025-08-20: Boris Andrews gave a talk at the <a href="https://mfet2025.de/">Modern Finite Element Technologies</a> conference in Aachen, Germany.</p>
 
