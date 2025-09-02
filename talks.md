@@ -74,3 +74,17 @@ and Bose-Einstein condensates, among others. </p>
 
 <p>The combination of this approach with a space decomposition method on vertex and edge star patches allows us to efficiently solve the canonical Riesz maps at high order.
 We apply this to solving the Hodge Laplacians of the de Rham complex with novel augmented Lagrangian preconditioners.</p>
+
+<h2><a href="{{site.url}}/files/talks/multistable_shape_optimisation.pdf" class="iwantyoubold">Controlling the energy jump of multistable structures using shape optimisation</a></h2>
+
+<p>Related coauthors: Arselane Hadj-Slimane, Àlex Ferrer, Alberto Paganini</p>
+
+<p>In many PDE-constrained optimisation problems the parameter-to-solution map is single-valued. What happens when this does not hold?</p>
+
+<p>We consider a shape optimisation problem to control the energy jump between two different, stable states of a hyperelastic metamaterial. The displacement of a bl
+ock of rubber is described by a nonlinear neo-Hookean PDE with nonzero Dirichlet conditions. The PDE possesses several distinct solutions. Switching between two
+stable states requires energy to overcome the saddle point between them.</p>
+
+<p>We formulate a shape optimisation problem to control the energy jump between different stable states. We show that if we begin at a configuration with three dis
+tinct solutions, and make sufficiently small changes to the domain, these branches of solutions persist. We devise a numerical algorithm for solving the problem.
+ Computations indicate that the formulation and algorithm are robust: we can control the energy jump in a small number of optimisation iterations.</p>
