@@ -4,6 +4,17 @@ title: Research presentations
 
 Here is an incomplete sample of some research presentations I have given.
 
+<h2><a href="{{site.url}}/files/talks/latent_variable_proximal_point.pdf" class="iwantyoubold">The latent variable proximal point algorithm for variational problems with inequality constraints</a></h2>
+
+<p>Related coauthors: Brendan Keith, Thomas Surowiec, Ioannis Papadopoulos, Jørgen Dokken</p>
+
+<p>The latent variable proximal point (LVPP) algorithm is a new framework for solving infinite-dimensional variational problems with inequality constraints. The algorithm is a saddle point reformulation of the Bregman proximal point algorithm. At the continuous level, the two formulations are equivalent, but the saddle point formulation is more amenable to discretisation.</p>
+
+<p>LVPP yields numerical methods with observed mesh-independence for obstacle problems, contact, fracture, plasticity, and others besides. In many cases this mesh independence is achieved for the first time. The framework also extends to more complex constraints, providing means to enforce convexity in the Monge-Ampère equation and gracefully handling quasi-variational inequalities, where the underlying constraint depends implicitly on the unknown solution.</p>
+
+<p>In this talk we describe the LVPP algorithm in a general form and apply it to a number of problems from across mathematics.</p>
+
+
 <h2><a href="{{site.url}}/files/talks/structure_in_time.pdf" class="iwantyoubold">Enforcing conservation laws and dissipation inequalities numerically via auxiliary variables</a></h2>
 
 <p>Related coauthors: Boris Andrews, Mingdong He, Kaibo Hu</p>
