@@ -94,6 +94,8 @@ Geometric PDE Challenges in Science & Engineering
 
 <p>2025-11-03: I will give an invited talk at the <a href="https://icms.ac.uk/activities/workshop/compass-computational-materials-science-and-mathematics-at-the-particle-and-atomistic-scales/">Computational Materials Science and Mathematics at the Particle and Atomistic Scales workshop at the ICMS</a>, organised by Maciej Buze, Danny Perez, and Helen Li in Edinburgh, UK.</p>
 
+<p>2025-10-16: I will give a <a href="https://www.ucl.ac.uk/~ucahalk/UCL_Colloquium.html">departmental colloquium at University College London</a>.</p>
+
 <p>2025-10-08: I will give an invited talk at the <a href="https://martinlicht.github.io/frontiers2025.html">Frontiers in Numerical Methods for Nonlinear Partial Differential Equations</a> workshop in Lausanne, Switzerland. The organisers are
   <a href="https://martinlicht.github.io/">Martin Licht</a>,
   <a href="https://who.rocq.inria.fr/Martin.Vohralik/">Martin Vohralik</a>, and
