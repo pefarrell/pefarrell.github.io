@@ -117,6 +117,8 @@ Geometric PDE Challenges in Science & Engineering
 
 <p>2025-09-06: I attended the <a href="https://numpde.kaust.edu.sa/camwa50">50th Anniversary of Computers & Mathematics with Applications</a> workshop in Heidelberg, Germany.</p>
 
+<p>2025-09-05: I have joined the ENUMATH Programme Committee.</p>
+
 <p>2025-09-05: I gave a plenary talk at the <a href="https://enumath2025.eu/">ENUMATH 2025</a> conference in Heidelberg, Germany.</p>
 
 <p>2025-09-03: I spoke in the MS55 minisymposium at the <a href="https://enumath2025.eu/">ENUMATH 2025</a> conference in Heidelberg, Germany,
