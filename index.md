@@ -113,11 +113,14 @@ Geometric PDE Challenges in Science & Engineering
   <a href="https://users.oden.utexas.edu/~pgm/">Per-Gunnar Martinsson</a>, and
   <a href="https://mox.polimi.it/people/alfio-quarteroni/">Alfio Quarteroni</a>.</p>
 
-<p>2025-09-05: I will give a plenary talk at the <a href="https://enumath2025.eu/">ENUMATH 2025</a> conference in Heidelberg, Germany.</p>
-
-<p>2025-09-03: I will talk in the MS55 minisymposium at the <a href="https://enumath2025.eu/">ENUMATH 2025</a> conference in Heidelberg, Germany.</p>
-
 <h2 id="news">News</h2>
+
+<p>2025-09-06: I attended the <a href="https://numpde.kaust.edu.sa/camwa50">50th Anniversary of Computers & Mathematics with Applications</a> workshop in Heidelberg, Germany.</p>
+
+<p>2025-09-05: I gave a plenary talk at the <a href="https://enumath2025.eu/">ENUMATH 2025</a> conference in Heidelberg, Germany.</p>
+
+<p>2025-09-03: I spoke in the MS55 minisymposium at the <a href="https://enumath2025.eu/">ENUMATH 2025</a> conference in Heidelberg, Germany,
+organised by <a href="https://ioannispapapadopoulos.github.io/">Ioannis Papadopoulos</a> and <a href="https://www.wias-berlin.de/people/hintermueller/">Michael Hintermüller</a>.</p>
 
 <p>2025-08-29: Congratulations to <a href="https://borisandrews.github.io/">Boris Andrews</a> on passing his DPhil viva! Thanks to <a href="https://www.math.wustl.edu/~astern/">Ari Stern</a> and <a href="https://sites.google.com/view/charlieparker2">Charlie Parker</a> for serving as examiners.</p>
 
