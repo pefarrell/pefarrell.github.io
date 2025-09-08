@@ -130,6 +130,8 @@ Geometric PDE Challenges in Science & Engineering
 <p>2025-09-03: I spoke in the MS55 minisymposium at the <a href="https://enumath2025.eu/">ENUMATH 2025</a> conference in Heidelberg, Germany,
 organised by <a href="https://ioannispapapadopoulos.github.io/">Ioannis Papadopoulos</a> and <a href="https://www.wias-berlin.de/people/hintermueller/">Michael Hintermüller</a>.</p>
 
+<p>2025-09-01: I have started as an Associate Head of Department of the Mathematical Institute at the University of Oxford.</p> 
+
 <p>2025-08-29: Congratulations to <a href="https://borisandrews.github.io/">Boris Andrews</a> on passing his DPhil viva! Thanks to <a href="https://www.math.wustl.edu/~astern/">Ari Stern</a> and <a href="https://sites.google.com/view/charlieparker2">Charlie Parker</a> for serving as examiners.</p>
 
 <p>2025-08-20: Boris Andrews gave a talk at the <a href="https://mfet2025.de/">Modern Finite Element Technologies</a> conference in Aachen, Germany.</p>
