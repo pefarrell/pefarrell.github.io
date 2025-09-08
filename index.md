@@ -94,6 +94,8 @@ Geometric PDE Challenges in Science & Engineering
 
 <p>2025-11-03: I will give an invited talk at the <a href="https://icms.ac.uk/activities/workshop/compass-computational-materials-science-and-mathematics-at-the-particle-and-atomistic-scales/">Computational Materials Science and Mathematics at the Particle and Atomistic Scales workshop at the ICMS</a>, organised by Maciej Buze, Danny Perez, and Helen Li in Edinburgh, UK.</p>
 
+<p>2025-10-30: I will give a talk in the <a href="https://www.bcamath.org/en/applied-fluid-mechanics-colloquium-1">Applied Fluid Mechanics colloquium at the Basque Center for Applied Mathematics</a>.</p>
+
 <p>2025-10-16: I will give a <a href="https://www.ucl.ac.uk/~ucahalk/UCL_Colloquium.html">departmental colloquium at University College London</a>.</p>
 
 <p>2025-10-08: I will give an invited talk at the <a href="https://martinlicht.github.io/frontiers2025.html">Frontiers in Numerical Methods for Nonlinear Partial Differential Equations</a> workshop in Lausanne, Switzerland. The organisers are
@@ -107,13 +109,17 @@ Geometric PDE Challenges in Science & Engineering
 
 <p>2025-09-15: Boris Andrews will talk in a minisymposium on "New generation methods for numerical challenges in curl-div problems: Maxwell, MD, and derived models" at <a href="https://cage.ugent.be/acomen2025/">the ACOMEN conference</a>, organised by the <a href="https://erc-nemesis.eu/">PIs of the NEMESIS ERC project</a>, Jérôme Droniou, Daniele A. Di Pietro, Lourenço Beirão da Veiga, and Paola F. Antonietti.</p>
 
-<p>2025-09-07: I will attend the <a href="https://www.mittag-leffler.se/activities/interfaces-and-unfitted-discretization-methods/">Interfaces and Unfitted Discretization Methods</a> thematic programme at the Institut Mittag-Leffler in Stockholm, Sweden. The organisers are
+<p>2025-09-11: I will give <a href="https://www.mittag-leffler.se/seminar/patrick-farrell-tba/">a research seminar at the Institut Mittag-Leffler</a>.</p>
+
+<p>2025-09-10: I will give introductory lectures to the finite element method at the Institut Mittag-Leffler.</p>
+
+<h2 id="news">News</h2>
+
+<p>2025-09-07: I attended the <a href="https://www.mittag-leffler.se/activities/interfaces-and-unfitted-discretization-methods/">Interfaces and Unfitted Discretization Methods</a> thematic programme at the Institut Mittag-Leffler in Stockholm, Sweden. The organisers are
   <a href="https://www.kth.se/profile/akto">Anna-Karin Tornberg</a>,
   <a href="https://www.kth.se/profile/sara7">Sara Zahedi</a>, and
   <a href="https://users.oden.utexas.edu/~pgm/">Per-Gunnar Martinsson</a>, and
   <a href="https://mox.polimi.it/people/alfio-quarteroni/">Alfio Quarteroni</a>.</p>
-
-<h2 id="news">News</h2>
 
 <p>2025-09-06: I attended the <a href="https://numpde.kaust.edu.sa/camwa50">50th Anniversary of Computers & Mathematics with Applications</a> workshop in Heidelberg, Germany.</p>
 
