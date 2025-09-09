@@ -115,6 +115,8 @@ Geometric PDE Challenges in Science & Engineering
 
 <h2 id="news">News</h2>
 
+<p>2025-09-09: Congratulations to Sebastien Randriatsitoaina on completing the <a href="https://www.maths.ox.ac.uk/outreach/miorpa">MIORPA</a> summer research programme, supervised by <a href="https://www.earth.ox.ac.uk/people/richard-katz">Richard Katz</a> and myself.</p>
+
 <p>2025-09-07: I attended the <a href="https://www.mittag-leffler.se/activities/interfaces-and-unfitted-discretization-methods/">Interfaces and Unfitted Discretization Methods</a> thematic programme at the Institut Mittag-Leffler in Stockholm, Sweden. The organisers are
   <a href="https://www.kth.se/profile/akto">Anna-Karin Tornberg</a>,
   <a href="https://www.kth.se/profile/sara7">Sara Zahedi</a>, and
@@ -144,7 +146,7 @@ organised by <a href="https://ioannispapapadopoulos.github.io/">Ioannis Papadopo
 
 <p>2025-07-16: I served as internal PhD examiner for <a href="https://www.physics.ox.ac.uk/our-people/acton">Georgia Acton</a>. Congratulations!</p>
 
-<p>2025-07-14: Welcome to Sebastien Flavien Randriatsitoaina, an MSc student at the <a href="https://aims.ac.za/">African Institute for Mathematical Sciences</a> in Cape Town. Sebastien is supervised by <a href="https://www.earth.ox.ac.uk/people/richard-katz">Richard Katz</a> and myself for the summer under the <a href="https://www.maths.ox.ac.uk/outreach/miorpa">MIORPA</a> programme.</p>
+<p>2025-07-14: Welcome to Sebastien Randriatsitoaina, an MSc student at the <a href="https://aims.ac.za/">African Institute for Mathematical Sciences</a> in Cape Town. Sebastien is supervised by <a href="https://www.earth.ox.ac.uk/people/richard-katz">Richard Katz</a> and myself for the summer under the <a href="https://www.maths.ox.ac.uk/outreach/miorpa">MIORPA</a> programme.</p>
 
 <p>2025-07-13: Aaron Baier-Reinio, Pablo Brubeck, and Umberto Zerbinati gave talks at <a href="https://icosahom2025.org/">ICOSAHOM 2025</a>.</p>
 
