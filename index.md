@@ -109,11 +109,11 @@ Geometric PDE Challenges in Science & Engineering
 
 <p>2025-09-15: Boris Andrews will talk in a minisymposium on "New generation methods for numerical challenges in curl-div problems: Maxwell, MD, and derived models" at <a href="https://cage.ugent.be/acomen2025/">the ACOMEN conference</a>, organised by the <a href="https://erc-nemesis.eu/">PIs of the NEMESIS ERC project</a>, Jérôme Droniou, Daniele A. Di Pietro, Lourenço Beirão da Veiga, and Paola F. Antonietti.</p>
 
-<p>2025-09-11: I will give <a href="https://www.mittag-leffler.se/seminar/patrick-farrell-tba/">a research seminar at the Institut Mittag-Leffler</a>.</p>
-
-<p>2025-09-10: I will give introductory lectures to the finite element method at the Institut Mittag-Leffler.</p>
-
 <h2 id="news">News</h2>
+
+<p>2025-09-11: I gave <a href="https://www.mittag-leffler.se/seminar/patrick-farrell-tba/">a research seminar at the Institut Mittag-Leffler</a>.</p>
+
+<p>2025-09-10: I gave some introductory lectures to the finite element method at the Institut Mittag-Leffler.</p>
 
 <p>2025-09-09: Congratulations to Sebastien Randriatsitoaina on completing the <a href="https://www.maths.ox.ac.uk/outreach/miorpa">MIORPA</a> summer research programme, supervised by <a href="https://www.earth.ox.ac.uk/people/richard-katz">Richard Katz</a> and myself.</p>
 
