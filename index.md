@@ -94,7 +94,7 @@ Geometric PDE Challenges in Science & Engineering
 
 <p>2025-11-03: I will give an invited talk at the <a href="https://icms.ac.uk/activities/workshop/compass-computational-materials-science-and-mathematics-at-the-particle-and-atomistic-scales/">Computational Materials Science and Mathematics at the Particle and Atomistic Scales workshop at the ICMS</a>, organised by Maciej Buze, Danny Perez, and Helen Li in Edinburgh, UK.</p>
 
-<p>2025-10-30: I will give a talk in the <a href="https://www.bcamath.org/en/applied-fluid-mechanics-colloquium-1">Applied Fluid Mechanics colloquium at the Basque Center for Applied Mathematics</a>.</p>
+<p>2025-10-30: I will give a talk in the <a href="https://www.bcamath.org/en/applied-fluid-mechanics-colloquium-2">Applied Fluid Mechanics colloquium at the Basque Center for Applied Mathematics</a>.</p>
 
 <p>2025-10-16: I will give a <a href="https://www.ucl.ac.uk/~ucahalk/UCL_Colloquium.html">departmental colloquium at University College London</a>.</p>
 
