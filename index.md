@@ -114,7 +114,7 @@ Geometric PDE Challenges in Science & Engineering
 
 <h2 id="news">News</h2>
 
-<p>2025-09-15: Aaron Baier-Reinio, Pablo Brubeck, Joseph Flood, Kars Knook, India Marsden, Anurag Rao, and Matin Shams are giving talks at the <a href="https://www.firedrakeproject.org/firedrake_25.html">Firedrake '25 conference</a>.</p>
+<p>2025-09-15: Aaron Baier-Reinio, Pablo Brubeck, Joseph Flood, Kars Knook, India Marsden, Anurag Rao, and Matin Shams gave talks at the <a href="https://www.firedrakeproject.org/firedrake_25.html">Firedrake '25 conference</a>.</p>
 
 <p>2025-09-15: Boris Andrews gave a talk in a minisymposium on "New generation methods for numerical challenges in curl-div problems: Maxwell, MD, and derived models" at <a href="https://cage.ugent.be/acomen2025/">the ACOMEN conference</a>, organised by the <a href="https://erc-nemesis.eu/">PIs of the NEMESIS ERC project</a>, Jérôme Droniou, Daniele A. Di Pietro, Lourenço Beirão da Veiga, and Paola F. Antonietti.</p>
 
