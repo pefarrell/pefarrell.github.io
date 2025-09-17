@@ -92,6 +92,8 @@ Geometric PDE Challenges in Science & Engineering
   <a href="https://zhangshuo-lsec.github.io/">Shuo Zhang</a>, and
   <a href="https://lsec.cc.ac.cn/~zwy/">Weiying Zheng</a>.</p>
 
+<p>2025-11-10: I will serve as external PhD examiner for <a href="https://scholar.google.com/citations?user=eKC0C_8AAAAJ&hl=en">Alban Bloor Riley</a> at the University of Manchester.</p>
+
 <p>2025-11-04: Diego Alonso will give a talk on our work at the <a href="https://sites.usp.br/rcgi/events/etri/etri-2025/">Energy Transition Research & Innovation conference</a> in São Paulo, Brazil.</p>
 
 <p>2025-11-03: I will give an invited talk at the <a href="https://icms.ac.uk/activities/workshop/compass-computational-materials-science-and-mathematics-at-the-particle-and-atomistic-scales/">Computational Materials Science and Mathematics at the Particle and Atomistic Scales workshop at the ICMS</a>, organised by Maciej Buze, Danny Perez, and Helen Li in Edinburgh, UK.</p>
