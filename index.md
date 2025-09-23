@@ -114,7 +114,7 @@ Geometric PDE Challenges in Science & Engineering
 
 <h2 id="news">News</h2>
 
-<p>2025-09-15: Aaron Baier-Reinio, Pablo Brubeck, Joseph Flood, Kars Knook, India Marsden, Anurag Rao, and Matin Shams gave talks at the <a href="https://www.firedrakeproject.org/firedrake_25.html">Firedrake '25 conference</a>.</p>
+<p>2025-09-15: Aaron Baier-Reinio, Pablo Brubeck, Kars Knook, India Marsden, Anurag Rao, and Matin Shams gave talks at the <a href="https://www.firedrakeproject.org/firedrake_25.html">Firedrake '25 conference</a>.</p>
 
 <p>2025-09-15: Boris Andrews gave a talk in a minisymposium on "New generation methods for numerical challenges in curl-div problems: Maxwell, MD, and derived models" at <a href="https://cage.ugent.be/acomen2025/">the ACOMEN conference</a>, organised by the <a href="https://erc-nemesis.eu/">PIs of the NEMESIS ERC project</a>, Jérôme Droniou, Daniele A. Di Pietro, Lourenço Beirão da Veiga, and Paola F. Antonietti.</p>
 
@@ -261,7 +261,7 @@ organised by <a href="https://ioannispapapadopoulos.github.io/">Ioannis Papadopo
   </figure>
 </p>
 <p>2024-09-15: I will serve on the prize committee for the <a href="https://people.cs.uchicago.edu/~ridg/prizes/langtangenprize.pdf">Langtangen Prize</a> on the foundations of numerical simulation technology.</p>
-<p>2024-08-13: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2408.17390">high-order discretizations for the Stokes-Onsager-Stefan-Maxwell equations describing multicomponent flow</a>, with Aaron Baier-Reinio.
+<p>2024-08-13: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2408.17390">high-order discretizations for the Stokes-Onsager-Stefan-Maxwell equations describing multicomponent flow</a>, with Aaron Baier-Reinio. Update: accepted in SISC.
   <figure>
   <img src="{{site.url}}/images/sosm-2024-09.png" alt=""/>
   <figcaption>A simulation of a device for the microfluidic mixing of benzene and cyclohexane. The volume is coloured by the mole fraction of benzene, and its isosurfaces are shown. Streamlines of the benzene velocity field are also displayed.</figcaption>
@@ -271,7 +271,7 @@ organised by <a href="https://ioannispapapadopoulos.github.io/">Ioannis Papadopo
 <p>2024-08-13: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2408.05095">augmented Lagrangian preconditioners for Navier-Stokes control problems</a>, with <a href="https://sites.google.com/view/santololeveque/home">Santolo Leveque</a> and <a href="https://www.sns.it/en/persona/michele-benzi">Michele Benzi</a>. Update: accepted in SISC.</p>
 
 <p>2024-07-30: I gave a talk in the <a href="https://mfem.org/seminar/">FEM@LNLL seminar series</a>, hosted by <a href="https://people.llnl.gov/kolev1">Tzanio Kolev</a>.</p>
-<p>2024-07-17: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2407.11904">time discretisations that preserve conservation laws and dissipation inequalities</a>, with Boris Andrews.</p>
+<p>2024-07-17: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2407.11904">time discretisations that preserve conservation laws and dissipation inequalities</a>, with Boris Andrews. Update: accepted in SISC.</p>
 <p>2024-07-15: Congratulations to <a href="https://ecmiindmath.org/2024/07/15/lanczos-ecmi-ems-prize-awarded-to-mumps/">Patrick Amestoy, Jean-Yves L'Excellent, and Theo Mary</a> on <a href="https://euromathsoc.org/news/fourteen-prizes-awarded-to-european-mathematicians-at-the-9th-ecm-121">winning the inaugural EMS/ECMI Lanczos Prize for Mathematical Software</a> for their work on <a href="https://mumps-solver.org/index.php">MUMPS</a>!</p>
 <p>2024-07-01: I attended the <a href="https://pdesoft.org/">PDESoft 2024 conference</a> in Cambridge, UK. Umberto Zerbinati, Jack Betteridge, India Marsden, Pablo Brubeck, Boris Andrews, and Aaron Baier-Reinio gave talks.</p>
 <p>2024-06-21: I attended the <a href="https://efef2024.github.io/">European Finite Element Fair</a> organised by <a href="https://profiles.ucl.ac.uk/36640-erik-burman">Erik Burman</a> and others in London, UK. Umberto Zerbinati, Mingdong He, Boris Andrews, Aaron Baier-Reinio, Pablo Brubeck, and India Marsden gave talks.</p>
