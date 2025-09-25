@@ -111,6 +111,8 @@ Geometric PDE Challenges in Science & Engineering
 
 <p>2025-09-29: I will serve as PhD examiner for <a href="https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=12925">Alena Jarolímová</a> at Charles University.</p>
 
+<p>2025-09-29: <a href="https://www.uzerbinati.eu/">Umberto Zerbinati</a> will give a talk in the <a href="https://cemse.kaust.edu.sa/events/by-type/seminar/2025/09/29/new-challenges-kinetic-theory-complex-fluids">SIAM student chapter seminar</a> at KAUST, Thuwal, Saudi Arabia.</p>
+
 
 <h2 id="news">News</h2>
 
@@ -344,8 +346,8 @@ organised by <a href="https://ioannispapapadopoulos.github.io/">Ioannis Papadopo
 <h2 id="news">2022</h2>
 <p>2022-12-13: I served as external PhD examiner for <a href="https://michaloutrata.com/">Michal Outrata</a> at the University of Geneva. Congratulations!</p>
 
-<p>2022-12-06: I gave a talk in the <a href="https://cemse.kaust.edu.sa/amcs/events/mathematics-and-applications-colloquium">KAUST Mathematics and Applications Colloquium</a>, hosted by <a href="https://cemse.kaust.edu.sa/sna/people/person/jinchao-xu">Jinchao Xu</a>.</p>
-<p>2022-12-05: I gave a talk in the <a href="https://cemse.kaust.edu.sa/cs/events/graduate-seminar">KAUST Computer Science Graduate Seminar</a>, hosted by <a href="https://www.kaust.edu.sa/en/study/faculty/david-keyes">David Keyes</a>.</p>
+<p>2022-12-06: I gave a talk in the <a href="https://cemse.kaust.edu.sa/amcs/events/mathematics-and-applications-colloquium">KAUST Mathematics and Applications Colloquium</a>, hosted by <a href="https://cemse.kaust.edu.sa/sna/people/person/jinchao-xu">Jinchao Xu</a>, in Thuwal, Saudi Arabia.</p>
+<p>2022-12-05: I gave a talk in the <a href="https://cemse.kaust.edu.sa/cs/events/graduate-seminar">KAUST Computer Science Graduate Seminar</a>, hosted by <a href="https://www.kaust.edu.sa/en/study/faculty/david-keyes">David Keyes</a>, in Thuwal, Saudi Arabia.</p>
 <p>2022-11-25: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2211.14284">solvers for the Riesz maps of the de Rham complex with optimal complexity in polynomial degree</a>, with <a href="https://www.linkedin.com/in/pablo-brubeck-625713a5/?originalSubdomain=uk">Pablo Brubeck</a>. These allow us to solve certain canonical problems with very high polynomial degree (up to <i>p=31</i>) on unstructured meshes in 3D. Update: accepted in SIAM Journal on Scientific Computing.</p>
 <p>2022-11-24: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2211.13505">how to enforce electroneutrality in Onsager-Stefan-Maxwell models with charged species</a>, with <a href="https://www.linkedin.com/in/alexander-van-brunt-595a7a146">Alexander Van-Brunt</a> and <a href="https://eng.ox.ac.uk/monroe-research-group/">Charles Monroe</a>. Update: accepted with no modifications in Electrochimica Acta.</p>
 <p>2022-11-10: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2211.05494">two conjectures on the Stokes complex in three dimensions on Freudenthal meshes</a>, with <a href="http://people.cs.uchicago.edu/~ridg/">Ridgway Scott</a> and <a href="https://www.imperial.ac.uk/people/lawrence.mitchell">Lawrence Mitchell</a>. Update: accepted in SIAM Journal on Scientific Computing.</p>
