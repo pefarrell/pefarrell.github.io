@@ -109,6 +109,8 @@ Geometric PDE Challenges in Science & Engineering
 
 <p>2025-10-01: I will serve as external PhD examiner for Ben Green at Loughborough University.</p>
 
+<p>2025-10-01: Arselane Hadj Slimane will give a talk on shape optimization of snap-through behavior in metamaterials in the minisymposium on Shape and Topology Optimization at the <a href="https://conference3.aau.at/event/122/">EUCCO conference</a> in Klagenfurt, Austria.</p>
+
 <p>2025-09-29: I will serve as PhD examiner for <a href="https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=12925">Alena Jarolímová</a> at Charles University.</p>
 
 <p>2025-09-29: <a href="https://www.uzerbinati.eu/">Umberto Zerbinati</a> will give a talk in the <a href="https://cemse.kaust.edu.sa/events/by-type/seminar/2025/09/29/new-challenges-kinetic-theory-complex-fluids">SIAM student chapter seminar</a> at KAUST, Thuwal, Saudi Arabia.</p>
