@@ -21,14 +21,6 @@ title: People
 
 ## DPhil students
 
-<figure>
-  <img src="{{site.url}}/images/andrews.png" alt="Boris Andrews"/>
-  <figcaption><a href="https://borisandrews.github.io/">Boris Andrews</a>. <br/>Topic: structure-preserving discretisations in time. <br/>Co-supervised with <a href="https://scholar.google.co.uk/citations?user=XRAFAoEAAAAJ&hl=en">Wayne Arter</a>.</figcaption>
-</figure>
-
-
-&nbsp;
-&nbsp;
 
 <figure>
   <img src="{{site.url}}/images/baier-reinio.png" alt="Aaron Baier-Reinio"/>
@@ -167,9 +159,16 @@ title: People
 
 <figure>
   <img src="{{site.url}}/images/gonzalez.png" alt="Gonzalo Gonzalez de Diego"/>
-  <figcaption>Gonzalo Gonzalez de Diego. <br/>Topic: Viscous contact problems in glaciology. DPhil viva: 2023-09-05. <br/>Co-supervised with <a href="http://people.maths.ox.ac.uk/hewitt/">Ian Hewitt</a>. Next step: a postdoctoral position with <a href="https://math.nyu.edu/~stadler/">Georg Stadler</a> at NYU.</figcaption>
+  <figcaption>Gonzalo Gonzalez de Diego. <br/>Topic: <a href="{{site.url}}/files/dediego.pdf">Viscous contact problems in glaciology</a>. DPhil viva: 2023-09-05. <br/>Co-supervised with <a href="http://people.maths.ox.ac.uk/hewitt/">Ian Hewitt</a>. Next step: a postdoctoral position with <a href="https://math.nyu.edu/~stadler/">Georg Stadler</a> at NYU.</figcaption>
 </figure>
 
+&nbsp;
+&nbsp;
+
+<figure>
+  <img src="{{site.url}}/images/andrews.png" alt="Boris Andrews"/>
+  <figcaption><a href="https://borisandrews.github.io/">Boris Andrews</a>. <br/>Topic: <a href="{{site.url}}/files/andrews.pdf">Geometric numerical integration via auxiliary variables</a>. DPhil viva: 2025-08-29. <br/>Co-supervised with <a href="https://scholar.google.co.uk/citations?user=XRAFAoEAAAAJ&hl=en">Wayne Arter</a>. Next step: a postdoctoral position with <a href="https://kaibohu.github.io/">Kaibo Hu</a> at Oxford.</figcaption>
+</figure>
 
 ## Postdoctoral alumni
 <figure>
