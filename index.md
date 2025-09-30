@@ -92,6 +92,8 @@ Geometric PDE Challenges in Science & Engineering
   <a href="https://zhangshuo-lsec.github.io/">Shuo Zhang</a>, and
   <a href="https://lsec.cc.ac.cn/~zwy/">Weiying Zheng</a>.</p>
 
+<p>2025-11-12: <a href="https://www.uzerbinati.eu/">Umberto Zerbinati</a> will give a talk in the <a href="https://www.mff.cuni.cz/en/mathmac/seminar">mathematical modeling, applied analysis and computational mathematics</a> series at Charles University, Prague, Czechia.</p>
+
 <p>2025-11-10: I will serve as external PhD examiner for <a href="https://scholar.google.com/citations?user=eKC0C_8AAAAJ&hl=en">Alban Bloor Riley</a> at the University of Manchester.</p>
 
 <p>2025-11-04: Diego Alonso will give a talk on our work at the <a href="https://sites.usp.br/rcgi/events/etri/etri-2025/">Energy Transition Research & Innovation conference</a> in São Paulo, Brazil.</p>
