@@ -92,6 +92,8 @@ Geometric PDE Challenges in Science & Engineering
   <a href="https://zhangshuo-lsec.github.io/">Shuo Zhang</a>, and
   <a href="https://lsec.cc.ac.cn/~zwy/">Weiying Zheng</a>.</p>
 
+<p>2025-11-12: <a href="https://www.uzerbinati.eu/">Umberto Zerbinati</a> will give a talk in the <a href="https://www.mff.cuni.cz/en/mathmac/seminar">mathematical modeling, applied analysis and computational mathematics</a> series at Charles University, Prague, Czechia.</p>
+
 <p>2025-11-10: I will serve as external PhD examiner for <a href="https://scholar.google.com/citations?user=eKC0C_8AAAAJ&hl=en">Alban Bloor Riley</a> at the University of Manchester.</p>
 
 <p>2025-11-04: Diego Alonso will give a talk on our work at the <a href="https://sites.usp.br/rcgi/events/etri/etri-2025/">Energy Transition Research & Innovation conference</a> in São Paulo, Brazil.</p>
@@ -111,12 +113,13 @@ Geometric PDE Challenges in Science & Engineering
 
 <p>2025-10-01: Arselane Hadj Slimane will give a talk on shape optimization of snap-through behavior in metamaterials in the minisymposium on Shape and Topology Optimization at the <a href="https://conference3.aau.at/event/122/">EUCCO conference</a> in Klagenfurt, Austria.</p>
 
-<p>2025-09-29: I will serve as PhD examiner for <a href="https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=12925">Alena Jarolímová</a> at Charles University.</p>
-
-<p>2025-09-29: <a href="https://www.uzerbinati.eu/">Umberto Zerbinati</a> will give a talk in the <a href="https://cemse.kaust.edu.sa/events/by-type/seminar/2025/09/29/new-challenges-kinetic-theory-complex-fluids">SIAM student chapter seminar</a> at KAUST, Thuwal, Saudi Arabia.</p>
-
 
 <h2 id="news">News</h2>
+
+<p>2025-09-29: I served as PhD examiner for <a href="https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=12925">Alena Jarolímová</a> at Charles University.</p>
+
+<p>2025-09-29: <a href="https://www.uzerbinati.eu/">Umberto Zerbinati</a> gave a talk in the <a href="https://cemse.kaust.edu.sa/events/by-type/seminar/2025/09/29/new-challenges-kinetic-theory-complex-fluids">SIAM student chapter seminar</a> at KAUST, Thuwal, Saudi Arabia.</p>
+
 
 <p>2025-09-15: Aaron Baier-Reinio, Pablo Brubeck, Kars Knook, India Marsden, Anurag Rao, and Matin Shams gave talks at the <a href="https://www.firedrakeproject.org/firedrake_25.html">Firedrake '25 conference</a>.</p>
 
