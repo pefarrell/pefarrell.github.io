@@ -109,12 +109,13 @@ Geometric PDE Challenges in Science & Engineering
   <a href="https://who.rocq.inria.fr/Martin.Vohralik/">Martin Vohralik</a>, and
   <a href="https://tchaumont.github.io/">Théophile Chaumont-Frelet</a>.
 
-<p>2025-10-01: I will serve as external PhD examiner for Ben Green at Loughborough University.</p>
-
-<p>2025-10-01: Arselane Hadj Slimane will give a talk on shape optimization of snap-through behavior in metamaterials in the minisymposium on Shape and Topology Optimization at the <a href="https://conference3.aau.at/event/122/">EUCCO conference</a> in Klagenfurt, Austria.</p>
-
 
 <h2 id="news">News</h2>
+
+<p>2025-10-01: I served as external PhD examiner for Ben Green at Loughborough University. Congratulations!</p>
+
+<p>2025-10-01: Arselane Hadj Slimane gave a talk on shape optimization of snap-through behavior in metamaterials in the minisymposium on Shape and Topology Optimization at the <a href="https://conference3.aau.at/event/122/">EUCCO conference</a> in Klagenfurt, Austria.</p>
+
 
 <p>2025-09-29: I served as PhD examiner for <a href="https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=12925">Alena Jarolímová</a> at Charles University.</p>
 
