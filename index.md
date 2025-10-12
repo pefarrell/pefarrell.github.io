@@ -104,13 +104,14 @@ Geometric PDE Challenges in Science & Engineering
 
 <p>2025-10-16: I will give a <a href="https://www.ucl.ac.uk/~ucahalk/UCL_Colloquium.html">departmental colloquium at University College London</a>.</p>
 
-<p>2025-10-08: I will give an invited talk at the <a href="https://martinlicht.github.io/frontiers2025.html">Frontiers in Numerical Methods for Nonlinear Partial Differential Equations</a> workshop in Lausanne, Switzerland. The organisers are
+
+<h2 id="news">News</h2>
+
+<p>2025-10-08: I gave an invited talk at the <a href="https://martinlicht.github.io/frontiers2025.html">Frontiers in Numerical Methods for Nonlinear Partial Differential Equations</a> workshop in Lausanne, Switzerland. The organisers were
   <a href="https://martinlicht.github.io/">Martin Licht</a>,
   <a href="https://who.rocq.inria.fr/Martin.Vohralik/">Martin Vohralik</a>, and
   <a href="https://tchaumont.github.io/">Théophile Chaumont-Frelet</a>.
 
-
-<h2 id="news">News</h2>
 
 <p>2025-10-01: I served as external PhD examiner for Ben Green at Loughborough University. Congratulations!</p>
 
