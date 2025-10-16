@@ -102,10 +102,10 @@ Geometric PDE Challenges in Science & Engineering
 
 <p>2025-10-30: I will give a talk in the <a href="https://www.bcamath.org/en/applied-fluid-mechanics-colloquium-2">Applied Fluid Mechanics colloquium at the Basque Center for Applied Mathematics</a>.</p>
 
-<p>2025-10-16: I will give a <a href="https://www.ucl.ac.uk/~ucahalk/UCL_Colloquium.html">departmental colloquium at University College London</a>.</p>
-
 
 <h2 id="news">News</h2>
+
+<p>2025-10-16: I gave a <a href="https://www.ucl.ac.uk/~ucahalk/UCL_Colloquium.html">departmental colloquium at University College London</a>.</p>
 
 <p>2025-10-08: I gave an invited talk at the <a href="https://martinlicht.github.io/frontiers2025.html">Frontiers in Numerical Methods for Nonlinear Partial Differential Equations</a> workshop in Lausanne, Switzerland. The organisers were
   <a href="https://martinlicht.github.io/">Martin Licht</a>,
