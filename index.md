@@ -45,7 +45,7 @@ I am always looking for talented PhD students and postdocs. Members of my group 
   <a href="https://people.epfl.ch/daniel.kressner">Daniel Kressner</a>.</p>
 -->
 
-<p>2026-11-30: I am organising the second meeting of the <a href="https://ems-tag-mixtures.github.io/">European Mathematical Society topical activity group on mixtures</a> at the <a href="Centre International de Rencontres Mathématiques">Centre International de Rencontres Mathématiques</a>, alongside
+<p>2026-11-30: I am organising the second meeting of the <a href="https://ems-tag-mixtures.github.io/">European Mathematical Society topical activity group on mixtures</a> at the <a href="https://www.cirm-math.com/">Centre International de Rencontres Mathématiques</a>, alongside
 <a href="https://chercheurs.lille.inria.fr/ccances/">Clément Cancès</a>,
 <a href="https://team.inria.fr/matherials/team-members/virginie-ehrlacher-galland/">Virginie Ehrlacher</a>, and
 <a href="https://www.numerik.mathematik.uni-mainz.de/prof-dr-maria-lukacova-medvidova/">Mária Lukácová-Medvidová</a>.
