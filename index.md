@@ -107,6 +107,8 @@ Geometric PDE Challenges in Science & Engineering
 
 <p>2025-10-16: I gave a <a href="https://www.ucl.ac.uk/~ucahalk/UCL_Colloquium.html">departmental colloquium at University College London</a>.</p>
 
+<p>2025-10-13: Welcome to Jens Molge! Jens is an MSc student co-supervised with <a href="https://scoop.iwr.uni-heidelberg.de/team/rherzog/">Roland Herzog</a> and <a href="https://scoop.iwr.uni-heidelberg.de/team/gm%C3%BCller/">Georg Müller</a>. Jens is visiting for five months.</p>
+
 <p>2025-10-08: I gave an invited talk at the <a href="https://martinlicht.github.io/frontiers2025.html">Frontiers in Numerical Methods for Nonlinear Partial Differential Equations</a> workshop in Lausanne, Switzerland. The organisers were
   <a href="https://martinlicht.github.io/">Martin Licht</a>,
   <a href="https://who.rocq.inria.fr/Martin.Vohralik/">Martin Vohralik</a>, and
@@ -122,6 +124,7 @@ Geometric PDE Challenges in Science & Engineering
 
 <p>2025-09-29: <a href="https://www.uzerbinati.eu/">Umberto Zerbinati</a> gave a talk in the <a href="https://cemse.kaust.edu.sa/events/by-type/seminar/2025/09/29/new-challenges-kinetic-theory-complex-fluids">SIAM student chapter seminar</a> at KAUST, Thuwal, Saudi Arabia.</p>
 
+<p>2025-09-15: Welcome to Jakub Cach! Jakub is a PhD student of <a href="https://www.karlin.mff.cuni.cz/~tumak3am/">Karel Tůma</a> and is visiting for three months.</p>
 
 <p>2025-09-15: Aaron Baier-Reinio, Pablo Brubeck, Kars Knook, India Marsden, Anurag Rao, and Matin Shams gave talks at the <a href="https://www.firedrakeproject.org/firedrake_25.html">Firedrake '25 conference</a>.</p>
 
