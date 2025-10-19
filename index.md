@@ -105,6 +105,11 @@ Geometric PDE Challenges in Science & Engineering
 
 <h2 id="news">News</h2>
 
+<p>2025-10-17: Our finite element reading group resumes with the beginning of term. With researchers from my group and <a href="https://kaibohu.github.io/">Kaibo Hu</a>, we have a good crowd!</p>
+  <figure>
+  <img src="{{site.url}}/images/reading-group-20251017.png" alt="Reading group attendees, 2025-10-17."/>
+  </figure>
+
 <p>2025-10-16: I gave a <a href="https://www.ucl.ac.uk/~ucahalk/UCL_Colloquium.html">departmental colloquium at University College London</a>.</p>
 
 <p>2025-10-13: Welcome to Jens Molge! Jens is an MSc student co-supervised with <a href="https://scoop.iwr.uni-heidelberg.de/team/rherzog/">Roland Herzog</a> and <a href="https://scoop.iwr.uni-heidelberg.de/team/gm%C3%BCller/">Georg Müller</a>. Jens is visiting for five months.</p>
