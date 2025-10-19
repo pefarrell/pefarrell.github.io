@@ -107,7 +107,7 @@ Geometric PDE Challenges in Science & Engineering
 
 <p>2025-10-17: Our finite element reading group resumes with the beginning of term. With researchers from my group and <a href="https://kaibohu.github.io/">Kaibo Hu</a>, we have a good crowd!</p>
   <figure>
-  <img src="{{site.url}}/images/reading-group-20251017.png" alt="Reading group attendees, 2025-10-17."/>
+  <img src="{{site.url}}/images/reading-group-20251017.jpg" alt="Reading group attendees, 2025-10-17."/>
   </figure>
 
 <p>2025-10-16: I gave a <a href="https://www.ucl.ac.uk/~ucahalk/UCL_Colloquium.html">departmental colloquium at University College London</a>.</p>
