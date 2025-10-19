@@ -105,7 +105,7 @@ Geometric PDE Challenges in Science & Engineering
 
 <h2 id="news">News</h2>
 
-<p>2025-10-17: Our finite element reading group resumes with the beginning of term. With researchers from my group and <a href="https://kaibohu.github.io/">Kaibo Hu</a>, we have a good crowd!</p>
+<p>2025-10-17: Our <a href="https://borisandrews.github.io/reading-group/">finite element reading group</a> resumes with the beginning of term. With researchers from my group and <a href="https://kaibohu.github.io/">Kaibo Hu</a>, we have a good crowd!</p>
   <figure>
   <img src="{{site.url}}/images/reading-group-20251017.jpg" alt="Reading group attendees, 2025-10-17."/>
   </figure>
