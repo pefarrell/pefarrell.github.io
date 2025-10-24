@@ -81,7 +81,7 @@ Geometric PDE Challenges in Science & Engineering
   <a href="https://kaibohu.github.io/">Kaibo Hu</a>, and
   <a href="https://www.tuwien.at/mg/asc/schoeberl">Joachim Schöberl</a>.</p>
 
-<p>2026-04-13: I will attend the <a href="https://icerm.brown.edu/program/semester_program_workshop/sp-s26-w3">Simulation-Based Optimization with Applications</a> workshop at the Institute for Computational and Experimental Research in Mathematics in Providence, USA. The organisers are
+<p>2026-04-13: I will attend the <a href="https://icerm.brown.edu/program/semester_program_workshop/sp-s26-w3">Simulation-Based Optimization with Applications</a> workshop at the Institute for Computational and Experimental Research in Mathematics (ICERM) in Providence, USA. The organisers are
   <a href="http://math.gmu.edu/~hantil/">Harbir Antil</a>,
   <a href="https://www.caam.rice.edu/~heinken">Matthias Heinkenschloss</a>,
   <a href="https://brendankeith.github.io/">Brendan Keith</a>,
