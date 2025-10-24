@@ -81,6 +81,13 @@ Geometric PDE Challenges in Science & Engineering
   <a href="https://kaibohu.github.io/">Kaibo Hu</a>, and
   <a href="https://www.tuwien.at/mg/asc/schoeberl">Joachim Schöberl</a>.</p>
 
+<p>2026-04-13: I will attend the <a href="https://icerm.brown.edu/program/semester_program_workshop/sp-s26-w3">Simulation-Based Optimization with Applications</a> workshop at the Institute for Computational and Experimental Research in Mathematics in Providence, USA. The organisers are
+  <a href="http://math.gmu.edu/~hantil/">Harbir Antil</a>,
+  <a href="https://www.caam.rice.edu/~heinken">Matthias Heinkenschloss</a>,
+  <a href="https://brendankeith.github.io/">Brendan Keith</a>,
+  <a href="https://elizabethnewman.owlstown.net/">Elizabeth Newman</a>, and
+  <a href="http://faculty.ucmerced.edu/npetra/index.html">Noemi Petra</a>.</p>
+
 <p>2025-03-23: I will give an invited talk at the workshop on <a href="https://project.inria.fr/ranpdes/workshop-2026/">Robust Adaptivity for Nonlinear Partial Differential Equations</a> in Paris, France. The organisers are
   <a href="https://who.rocq.inria.fr/Martin.Vohralik/">Martin Vohralik</a>, and
   <a href="https://ins.uni-bonn.de/staff/gantner">Gregor Gantner</a>.</p>
