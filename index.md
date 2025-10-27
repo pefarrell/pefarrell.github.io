@@ -116,6 +116,8 @@ Geometric PDE Challenges in Science & Engineering
 
 <h2 id="news">News</h2>
 
+<p>2025-10-27: Congratulations to the authors of <a href="https://doi.org/10.1093/pnasnexus/pgae392">Simulating cardiac fluid dynamics in the human heart</a> and <a href="https://doi.org/10.1007/s10208-024-09681-8">Proximal Galerkin: a structure-preserving finite element method for pointwise bound constraints</a> on winning the inaugural 2025 <a href="https://people.cs.uchicago.edu/~ridg/prizes/prizes.html">Langtangen Prize on the foundations of numerical software technology</a>. It was an honour to chair the committee.</p>
+
 <p>2025-10-17: Our <a href="https://borisandrews.github.io/reading-group/">finite element reading group</a> resumes with the beginning of term. With researchers from my group and <a href="https://kaibohu.github.io/">Kaibo Hu</a>, we have a good crowd!</p>
   <figure>
   <img src="{{site.url}}/images/reading-group-20251017.jpg" alt="Reading group attendees, 2025-10-17."/>
