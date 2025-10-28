@@ -98,7 +98,7 @@ Geometric PDE Challenges in Science & Engineering
   <a href="https://zhangshuo-lsec.github.io/">Shuo Zhang</a>, and
   <a href="https://lsec.cc.ac.cn/~zwy/">Weiying Zheng</a>.</p>
 
-<p>2026-01-08: I will give an invited talk at the International Conference on Structure-Preserving Finite Element Methods, held at the Institute of Computational Mathematics and Scientific/Engineering Computing (ICMSEC), Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, China. The organisers are
+<p>2026-01-08: I will give an invited talk at the <a href="https://lsec.cc.ac.cn/~icspfem26/">International Conference on Structure-Preserving Finite Element Methods</a>, held at the Institute of Computational Mathematics and Scientific/Engineering Computing (ICMSEC), Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, China. The organisers are
   <a href="https://kaibohu.github.io/">Kaibo Hu</a>,
   <a href="https://zhangshuo-lsec.github.io/">Shuo Zhang</a>, and
   <a href="https://lsec.cc.ac.cn/~zwy/">Weiying Zheng</a>.</p>
