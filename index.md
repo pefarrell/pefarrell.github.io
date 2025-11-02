@@ -111,10 +111,11 @@ Geometric PDE Challenges in Science & Engineering
 
 <p>2025-11-03: I will give an invited talk at the <a href="https://icms.ac.uk/activities/workshop/compass-computational-materials-science-and-mathematics-at-the-particle-and-atomistic-scales/">Computational Materials Science and Mathematics at the Particle and Atomistic Scales workshop at the ICMS</a>, organised by Maciej Buze, Danny Perez, and Helen Li in Edinburgh, UK.</p>
 
-<p>2025-10-30: I will give a talk in the <a href="https://www.bcamath.org/en/applied-fluid-mechanics-colloquium-2">Applied Fluid Mechanics colloquium at the Basque Center for Applied Mathematics</a>.</p>
-
 
 <h2 id="news">News</h2>
+
+<p>2025-10-30: I gave a talk in the <a href="https://www.bcamath.org/en/applied-fluid-mechanics-colloquium-2">Applied Fluid Mechanics colloquium at the Basque Center for Applied Mathematics</a>, hosted by <a href="https://croci.github.io/">Matteo Croci</a>.</p>
+
 
 <p>2025-10-27: Congratulations to the authors of <a href="https://doi.org/10.1093/pnasnexus/pgae392">Simulating cardiac fluid dynamics in the human heart</a> and <a href="https://doi.org/10.1007/s10208-024-09681-8">Proximal Galerkin: a structure-preserving finite element method for pointwise bound constraints</a> on winning the inaugural 2025 <a href="https://people.cs.uchicago.edu/~ridg/prizes/prizes.html">Langtangen Prize on the foundations of numerical software technology</a>. It was an honour to chair the committee.</p>
 
