@@ -109,10 +109,16 @@ Geometric PDE Challenges in Science & Engineering
 
 <p>2025-11-04: Diego Alonso will give a talk on our work at the <a href="https://sites.usp.br/rcgi/events/etri/etri-2025/">Energy Transition Research & Innovation conference</a> in São Paulo, Brazil.</p>
 
-<p>2025-11-03: I will give an invited talk at the <a href="https://icms.ac.uk/activities/workshop/compass-computational-materials-science-and-mathematics-at-the-particle-and-atomistic-scales/">Computational Materials Science and Mathematics at the Particle and Atomistic Scales workshop at the ICMS</a>, organised by Maciej Buze, Danny Perez, and Helen Li in Edinburgh, UK.</p>
 
 
 <h2 id="news">News</h2>
+
+<p>2025-11-04: I gave an invited talk at the <a href="https://icms.ac.uk/activities/workshop/compass-computational-materials-science-and-mathematics-at-the-particle-and-atomistic-scales/">Computational Materials Science and Mathematics at the Particle and Atomistic Scales workshop at the ICMS</a>, organised by 
+<a href="https://mbuze.github.io/">Maciej Buze</a>,
+<a href="https://warwick.ac.uk/fac/sci/maths/people/staff/hudson/">Thomas Hudson</a>,
+<a href="https://sites.google.com/site/xingjiehelenli/">Xingjie Helen Li</a>, and
+<a href="https://sites.google.com/view/dannyperez/home">Danny Perez</a>
+in Edinburgh, UK.</p>
 
 <p>2025-10-30: I gave a talk in the <a href="https://www.bcamath.org/en/applied-fluid-mechanics-colloquium-2">Applied Fluid Mechanics colloquium at the Basque Center for Applied Mathematics</a>, hosted by <a href="https://croci.github.io/">Matteo Croci</a>.</p>
 

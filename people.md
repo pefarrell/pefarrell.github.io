@@ -225,7 +225,7 @@ title: People
 
 <figure>
   <img src="{{site.url}}/images/parvizi.jpg" alt="Maryam Parvizi"/>
-  <figcaption><a href="https://scholar.google.co.uk/citations?user=mz7BJFAAAAAJ&hl=en&oi=ao">Maryam Parvizi</a>. <br/>Visited Apr 2023 to Apr 2024, funded by a Humboldt Fellowship and Leibniz University Hannover.</figcaption>
+  <figcaption><a href="https://www.birmingham.ac.uk/staff/profiles/maths/parvizi-maryam">Maryam Parvizi</a>. <br/>Visited Apr 2023 to Apr 2024, funded by a Humboldt Fellowship and Leibniz University Hannover.</figcaption>
 </figure>
 
 &nbsp;
