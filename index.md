@@ -105,13 +105,12 @@ Geometric PDE Challenges in Science & Engineering
 
 <p>2025-11-12: <a href="https://www.uzerbinati.eu/">Umberto Zerbinati</a> will give a talk in the <a href="https://www.mff.cuni.cz/en/mathmac/seminar">mathematical modeling, applied analysis and computational mathematics</a> series at Charles University, Prague, Czechia.</p>
 
-<p>2025-11-10: I will serve as external PhD examiner for <a href="https://scholar.google.com/citations?user=eKC0C_8AAAAJ&hl=en">Alban Bloor Riley</a> at the University of Manchester.</p>
-
-<p>2025-11-04: Diego Alonso will give a talk on our work at the <a href="https://sites.usp.br/rcgi/events/etri/etri-2025/">Energy Transition Research & Innovation conference</a> in São Paulo, Brazil.</p>
-
-
 
 <h2 id="news">News</h2>
+
+<p>2025-11-10: I served as external PhD examiner for <a href="https://scholar.google.com/citations?user=eKC0C_8AAAAJ&hl=en">Alban Bloor Riley</a> at the University of Manchester. Congratulations!</p>
+
+<p>2025-11-04: Diego Alonso gave a talk on our work at the <a href="https://sites.usp.br/rcgi/events/etri/etri-2025/">Energy Transition Research & Innovation conference</a> in São Paulo, Brazil.</p>
 
 <p>2025-11-04: I gave an invited talk at the <a href="https://icms.ac.uk/activities/workshop/compass-computational-materials-science-and-mathematics-at-the-particle-and-atomistic-scales/">Computational Materials Science and Mathematics at the Particle and Atomistic Scales workshop at the ICMS</a>, organised by 
 <a href="https://mbuze.github.io/">Maciej Buze</a>,
@@ -268,10 +267,14 @@ organised by <a href="https://ioannispapapadopoulos.github.io/">Ioannis Papadopo
 <p>2025-03-03: Boris Andrews, Aaron Baier-Reinio, Pablo Brubeck, and Mingdong He <a href="https://meetings.siam.org/speakdex.cfm?CONFCODE=CSE25">gave talks at SIAM CSE25</a> in Fort Worth, Texas, USA.</p>
 
 <p>2025-02-24: I gave an invited talk at the <a href="https://sfb65.univie.ac.at/#!/public/events/2025/3rd_SFB_International_Workshop/">3rd SFB International Workshop on Taming Complexity in Partial Differential Systems</a> organised by Anton Arnold, Norbert Mauser, Ilaria Perugia, Dirk Praetorius, and Joachim Schöberl in Vienna, Austria.</p>
+
 <p>2025-02-05: I organised and financially supported the <a href="https://www2.karlin.mff.cuni.cz/~prusv/ncmm/conference/mixtures/">Mixtures: modeling, analysis, and computing</a> conference in Prague, the inaugural meeting of the European Mathematical Society topical activity group on mixtures.</p>
+
 <p>2025-02-01: I began as an associate editor of <a href="https://www.ams.org/publications/journals/journalsframework/mcom">Mathematics of Computation</a>.</p>
+
 <p>2025-01-24: Pablo Brubeck has a new paper up on arXiv about <a href="https://arxiv.org/abs/2501.14599">enabling classical and modern macroelements in FIAT</a>, with <a href="https://sites.baylor.edu/robert_kirby/">Rob Kirby</a>.</p>
-<p>2025-01-22: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2501.11654">topology-preserving discretisation for the magneto-frictional equations arising in the Parker conjecture</a> in astrophysics, with Mingdong He, Boris Andrews, and <a href="https://kaibohu.github.io/">Kaibo Hu</a>. We devise a discretization that preserves the helicity of the flow, a topological invariant that is crucial for physical fidelity.</p>
+
+<p>2025-01-22: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2501.11654">topology-preserving discretisation for the magneto-frictional equations arising in the Parker conjecture</a> in astrophysics, with Mingdong He, Boris Andrews, and <a href="https://kaibohu.github.io/">Kaibo Hu</a>. We devise a discretization that preserves the helicity of the flow, a topological invariant that is crucial for physical fidelity. Update: accepted in SISC.</p>
 <p>2025-01-01: Welcome to Lenka Košárková! Lenka is a PhD student at Charles University Prague whom I supervise as part of my visiting professorship. She is co-supervised with <a href="https://www.karlin.mff.cuni.cz/~hron/">Jaroslav Hron</a>.</p>
 <p>2025-01-01: I began as the Donatio Universitatis Carolinæ Chair (a two-year visiting chair) at the <a href="https://www.mff.cuni.cz/en">Faculty of Mathematics and Physics</a> at Charles University Prague.</p>
 
