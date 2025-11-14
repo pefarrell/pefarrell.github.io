@@ -25,7 +25,7 @@ title: People
 
 <figure>
   <img src="{{site.url}}/images/he.jpg" alt="Mingdong He"/>
-  <figcaption>Mingdong He. <br/>Topic: preconditioners in fluid mechanics.</figcaption>
+  <figcaption>Mingdong He (何明东). <br/>Topic: topological property preservation in fluid mechanics.</figcaption>
 </figure>
 
 &nbsp;
@@ -58,6 +58,23 @@ title: People
 <figure>
   <img src="{{site.url}}/images/kosarkova.jpg" alt="Lenka Košárková"/>
   <figcaption><a href="https://www.karlin.mff.cuni.cz/~kosarkova/">Lenka Košárková</a> (Charles University Prague). <br/>Topic: modelling and discretisation of multicomponent physiological flows.</figcaption>
+</figure>
+
+&nbsp;
+&nbsp;
+
+<figure>
+  <img src="{{site.url}}/images/dong.jpg" alt="Chenghao Dong"/>
+  <figcaption>Chenghao Dong (董承昊). <br/>Topic: the latent variable proximal point method for variational inequalities.</figcaption>
+</figure>
+
+
+&nbsp;
+&nbsp;
+
+<figure>
+  <img src="{{site.url}}/images/higham.jpg" alt="Thomas Higham"/>
+  <figcaption>Thomas Higham. <br/>Topic: non-axisymetric magnetic equilibria calculation in tokamaks. <br/> Co-supervised with Ed Threlfall and <a href="https://scholar.google.co.uk/citations?user=gSR84cAAAAAJ&hl=en&oi=sra">Christopher Ham</a> of the UK Atomic Energy Authority.</figcaption>
 </figure>
 
 ## DPhil graduates
@@ -96,7 +113,7 @@ title: People
 
 <figure>
   <img src="{{site.url}}/images/xia.jpg" alt="Jingmin Xia"/>
-  <figcaption><a href="https://jingminxia.github.io/">Jingmin Xia</a>. <br/>Topic: <a href="{{site.url}}/files/xia.pdf">Computational and analytical aspects of energy minimisation problems in cholesteric, ferronematic and smectic liquid crystals</a>. DPhil viva: 2021-06-01. <br/> Next step: a permanent faculty position at the National University of Defense Technology in Changsha, China.</figcaption>
+  <figcaption><a href="https://jingminxia.github.io/">Jingmin Xia (夏静敏)</a>. <br/>Topic: <a href="{{site.url}}/files/xia.pdf">Computational and analytical aspects of energy minimisation problems in cholesteric, ferronematic and smectic liquid crystals</a>. DPhil viva: 2021-06-01. <br/> Next step: a permanent faculty position at the National University of Defense Technology in Changsha, China.</figcaption>
 </figure>
 
 &nbsp;
@@ -160,7 +177,7 @@ title: People
 
 <figure>
   <img src="{{site.url}}/images/andrews.png" alt="Boris Andrews"/>
-  <figcaption><a href="https://borisandrews.github.io/">Boris Andrews</a>. <br/>Topic: <a href="{{site.url}}/files/andrews.pdf">Geometric numerical integration via auxiliary variables</a>. DPhil viva: 2025-08-29. <br/>Co-supervised with <a href="https://scholar.google.co.uk/citations?user=XRAFAoEAAAAJ&hl=en">Wayne Arter</a>. Next step: a postdoctoral position with <a href="https://kaibohu.github.io/">Kaibo Hu</a> at Oxford.</figcaption>
+  <figcaption><a href="https://borisandrews.github.io/">Boris Andrews</a>. <br/>Topic: <a href="{{site.url}}/files/andrews.pdf">Geometric numerical integration via auxiliary variables</a>. DPhil viva: 2025-08-29. <br/>Co-supervised with <a href="https://scholar.google.co.uk/citations?user=XRAFAoEAAAAJ&hl=en">Wayne Arter</a> of the UK Atomic Energy Authority. Next step: a postdoctoral position with <a href="https://kaibohu.github.io/">Kaibo Hu</a> at Oxford.</figcaption>
 </figure>
 
 ## Postdoctoral alumni
@@ -205,7 +222,27 @@ title: People
 &nbsp;
 &nbsp;
 
-## Other alumni and visitors
+
+## Hosted fellowship alumni
+
+<figure>
+  <img src="{{site.url}}/images/parvizi.jpg" alt="Maryam Parvizi"/>
+  <figcaption><a href="https://www.birmingham.ac.uk/staff/profiles/maths/parvizi-maryam">Maryam Parvizi</a>. <br/>Hosted Apr 2023 to Apr 2024, funded by a Humboldt Fellowship. Next step: a fellowship at the University of Birmingham, then a permanent position at the Jinan-Birmingham Joint Institute.</figcaption>
+</figure>
+
+&nbsp;
+&nbsp;
+
+<figure>
+  <img src="{{site.url}}/images/alonso.jpg" alt="Diego Hayashi Alonso"/>
+  <figcaption><a href="https://scholar.google.com/citations?user=SCoRD7cAAAAJ&hl=en">Diego Hayashi Alonso</a>. <br/> Topic: topology optimisation of compressible flows. <br/>Hosted Jan 2024 to Feb 2025 on a postdoctoral scholarship funded by FAPESP.</figcaption>
+</figure>
+
+
+&nbsp;
+&nbsp;
+
+## Other visitors and alumni
 
 <figure>
   <img src="{{site.url}}/images/kevrekidis.jpg" width="600px" alt="Panos Kevrekidis"/>
@@ -218,14 +255,6 @@ title: People
 <figure>
   <img src="{{site.url}}/images/ferrer.png" alt="Àlex Ferrer"/>
   <figcaption><a href="https://sites.google.com/view/alexferrer">Àlex Ferrer</a>. <br/>Visited Jul 2022 to Jul 2023, funded by a grant from the Universitat Politècnica de Catalunya and the Catalan government.</figcaption>
-</figure>
-
-&nbsp;
-&nbsp;
-
-<figure>
-  <img src="{{site.url}}/images/parvizi.jpg" alt="Maryam Parvizi"/>
-  <figcaption><a href="https://www.birmingham.ac.uk/staff/profiles/maths/parvizi-maryam">Maryam Parvizi</a>. <br/>Visited Apr 2023 to Apr 2024, funded by a Humboldt Fellowship and Leibniz University Hannover.</figcaption>
 </figure>
 
 &nbsp;
@@ -265,14 +294,6 @@ title: People
 &nbsp;
 &nbsp;
 
-<figure>
-  <img src="{{site.url}}/images/alonso.jpg" alt="Diego Hayashi Alonso"/>
-  <figcaption><a href="https://scholar.google.com/citations?user=SCoRD7cAAAAJ&hl=en">Diego Hayashi Alonso</a>. <br/> Topic: topology optimisation of compressible flows. <br/>Visited Jan 2024 to Feb 2025 on a postdoctoral scholarship funded by FAPESP.</figcaption>
-</figure>
-
-
-&nbsp;
-&nbsp;
 
 <figure>
   <img src="{{site.url}}/images/hadjslimane.jpg" alt="Arselane Hadj-Slimane"/>
