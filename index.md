@@ -103,10 +103,11 @@ Geometric PDE Challenges in Science & Engineering
   <a href="https://zhangshuo-lsec.github.io/">Shuo Zhang</a>, and
   <a href="https://lsec.cc.ac.cn/~zwy/">Weiying Zheng</a>.</p>
 
-<p>2025-11-12: <a href="https://www.uzerbinati.eu/">Umberto Zerbinati</a> will give a talk in the <a href="https://www.mff.cuni.cz/en/mathmac/seminar">mathematical modeling, applied analysis and computational mathematics</a> series at Charles University, Prague, Czechia.</p>
 
 
 <h2 id="news">News</h2>
+
+<p>2025-11-12: <a href="https://www.uzerbinati.eu/">Umberto Zerbinati</a> gave a talk in the <a href="https://www.mff.cuni.cz/en/mathmac/seminar">mathematical modeling, applied analysis and computational mathematics</a> series at Charles University, Prague, Czechia.</p>
 
 <p>2025-11-10: I served as external PhD examiner for <a href="https://scholar.google.com/citations?user=eKC0C_8AAAAJ&hl=en">Alban Bloor Riley</a> at the University of Manchester. Congratulations!</p>
 
@@ -123,6 +124,12 @@ in Edinburgh, UK.</p>
 
 
 <p>2025-10-27: Congratulations to the authors of <a href="https://doi.org/10.1093/pnasnexus/pgae392">Simulating cardiac fluid dynamics in the human heart</a> and <a href="https://doi.org/10.1007/s10208-024-09681-8">Proximal Galerkin: a structure-preserving finite element method for pointwise bound constraints</a> on winning the inaugural 2025 <a href="https://people.cs.uchicago.edu/~ridg/prizes/prizes.html">Langtangen Prize on the foundations of numerical software technology</a>. It was an honour to chair the committee.</p>
+
+<p>2025-10-22: I presided at a guest night dinner at Oriel College for the first time.
+  <figure>
+  <img src="{{site.url}}/images/first-presiding-at-guest-night-20251022.jpg" alt="High table dinner at Oriel College, 2025-10-22."/>
+  </figure>
+</p>
 
 <p>2025-10-17: Our <a href="https://borisandrews.github.io/reading-group/">finite element reading group</a> resumes with the beginning of term. With researchers from my group and <a href="https://kaibohu.github.io/">Kaibo Hu</a>, we have a good crowd!</p>
   <figure>
