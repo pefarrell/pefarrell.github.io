@@ -89,7 +89,7 @@ Geometric PDE Challenges in Science & Engineering
   <a href="http://faculty.ucmerced.edu/npetra/index.html">Noemi Petra</a>.</p>
 
 <p>2025-03-23: I will give an invited talk at the workshop on <a href="https://project.inria.fr/ranpdes/workshop-2026/">Robust Adaptivity for Nonlinear Partial Differential Equations</a> in Paris, France. The organisers are
-  <a href="https://who.rocq.inria.fr/Martin.Vohralik/">Martin Vohralik</a>, and
+  <a href="https://who.rocq.inria.fr/Martin.Vohralik/">Martin Vohralik</a> and
   <a href="https://ins.uni-bonn.de/staff/gantner">Gregor Gantner</a>.</p>
 
 <p>2026-01-12: I will give an invited talk at the workshop on <a href="https://www.tsimf.cn/meeting/detail?id=417">Finite Element Tensor Calculus</a>, held at the Tsinghua Sanya International Mathematics Forum in Sanya, China. The organisers are
