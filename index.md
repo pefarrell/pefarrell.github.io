@@ -98,6 +98,8 @@ Geometric PDE Challenges in Science & Engineering
   <a href="https://zhangshuo-lsec.github.io/">Shuo Zhang</a>, and
   <a href="https://lsec.cc.ac.cn/~zwy/">Weiying Zheng</a>.</p>
 
+<p>2026-01-12: India Marsden will attend the <a href="https://icms.ac.uk/activities/workshop/rwam2026/">Retreat for Women in Applied Mathematics 2026 at the ICMS</a> in Edinburgh, UK.</p>
+
 <p>2026-01-08: I will give an invited talk at the <a href="https://lsec.cc.ac.cn/~icspfem26/">International Conference on Structure-Preserving Finite Element Methods</a>, held at the Institute of Computational Mathematics and Scientific/Engineering Computing (ICMSEC), Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, China. The organisers are
   <a href="https://kaibohu.github.io/">Kaibo Hu</a>,
   <a href="https://zhangshuo-lsec.github.io/">Shuo Zhang</a>, and
@@ -108,7 +110,7 @@ Geometric PDE Challenges in Science & Engineering
 
 <h2 id="news">News</h2>
 
-<p>2025-11-24: I hosted <a href="https://cemse.kaust.edu.sa/profiles/stefano-zampini">Stefano Zampini</a> for a research visit.</p>
+<p>2025-11-24: I hosted <a href="https://cemse.kaust.edu.sa/profiles/stefano-zampini">Stefano Zampini</a> from the King Abdullah University of Science and Technology (KAUST) for a research visit.</p>
 
 <p>2025-11-12: <a href="https://www.uzerbinati.eu/">Umberto Zerbinati</a> gave a talk in the <a href="https://www.mff.cuni.cz/en/mathmac/seminar">mathematical modeling, applied analysis and computational mathematics</a> series at Charles University, Prague, Czechia.</p>
 
