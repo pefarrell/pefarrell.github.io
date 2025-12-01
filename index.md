@@ -107,6 +107,9 @@ Geometric PDE Challenges in Science & Engineering
 
 <h2 id="news">News</h2>
 
+
+<p>2025-12-01: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2511.23266">Conservative and dissipative discretisations of multi-conservative ODEs and GENERIC systems</a>, with <a href="https://borisandrews.github.io/">Boris Andrews</a>.</p>
+
 <p>2025-11-12: <a href="https://www.uzerbinati.eu/">Umberto Zerbinati</a> gave a talk in the <a href="https://www.mff.cuni.cz/en/mathmac/seminar">mathematical modeling, applied analysis and computational mathematics</a> series at Charles University, Prague, Czechia.</p>
 
 <p>2025-11-10: I served as external PhD examiner for <a href="https://scholar.google.com/citations?user=eKC0C_8AAAAJ&hl=en">Alban Bloor Riley</a> at the University of Manchester. Congratulations!</p>
