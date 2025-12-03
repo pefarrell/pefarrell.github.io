@@ -110,6 +110,8 @@ Geometric PDE Challenges in Science & Engineering
 
 <h2 id="news">News</h2>
 
+<p>2025-12-04: I hosted <a href="https://www.niallmadden.ie/">Niall Madden</a> for a <a href="https://www.maths.ox.ac.uk/node/72400">talk in the Computational Mathematics and Applications Seminar series</a>.</p>
+
 <p>2025-12-01: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2511.23266">Conservative and dissipative discretisations of multi-conservative ODEs and GENERIC systems</a>, with <a href="https://borisandrews.github.io/">Boris Andrews</a>.</p>
 
 <p>2025-11-24: I hosted <a href="https://cemse.kaust.edu.sa/profiles/stefano-zampini">Stefano Zampini</a> from the King Abdullah University of Science and Technology (KAUST) for a research visit.</p>
