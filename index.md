@@ -105,10 +105,10 @@ Geometric PDE Challenges in Science & Engineering
   <a href="https://zhangshuo-lsec.github.io/">Shuo Zhang</a>, and
   <a href="https://lsec.cc.ac.cn/~zwy/">Weiying Zheng</a>.</p>
 
-<p>2025-12-11: I will give a seminar in the <a href="https://seminar-nm.karlin.mff.cuni.cz/">Numerical Mathematics</a> series at Charles University, Prague, Czechia.</p>
-
 
 <h2 id="news">News</h2>
+
+<p>2025-12-11: I gave a seminar in the <a href="https://seminar-nm.karlin.mff.cuni.cz/">Numerical Mathematics</a> series at Charles University, Prague, Czechia.</p>
 
 <p>2025-12-04: I hosted <a href="https://www.niallmadden.ie/">Niall Madden</a> for a <a href="https://www.maths.ox.ac.uk/node/72400">talk in the Computational Mathematics and Applications Seminar series</a>.</p>
 
