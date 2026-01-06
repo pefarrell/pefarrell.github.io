@@ -92,6 +92,8 @@ Geometric PDE Challenges in Science & Engineering
   <a href="https://who.rocq.inria.fr/Martin.Vohralik/">Martin Vohralik</a> and
   <a href="https://ins.uni-bonn.de/staff/gantner">Gregor Gantner</a>.</p>
 
+<p>2025-03-18: I will give a 2.5-day tutorial on <a href="https://www.firedrakeproject.org/tutorial_mar_26.html">Solving partial differential equations with Firedrake</a> in Oxford, UK.</p>
+
 <p>2026-01-12: I will give an invited talk at the workshop on <a href="https://www.tsimf.cn/meeting/detail?id=417">Finite Element Tensor Calculus</a>, held at the Tsinghua Sanya International Mathematics Forum in Sanya, China. The organisers are
   <a href="https://kaibohu.github.io/">Kaibo Hu</a>,
   <a href="https://marienhanot.fr/">Marien Hanot</a>,
