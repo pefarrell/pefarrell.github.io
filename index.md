@@ -94,6 +94,8 @@ Geometric PDE Challenges in Science & Engineering
 
 <p>2025-03-18: I will give a 2.5-day tutorial on <a href="https://www.firedrakeproject.org/tutorial_mar_26.html">Solving partial differential equations with Firedrake</a> in Oxford, UK.</p>
 
+<p>2025-02-05: Umberto Zerbinati will give a talk in the Cambridge <a href="https://talks.cam.ac.uk/talk/index/242575">Applied and Computational Mathematics seminar series</a>, hosted by <a href="http://www.damtp.cam.ac.uk/user/mjc249/home.html">Matt Colbrook</a>.</p>
+
 <p>2026-01-12: I will give an invited talk at the workshop on <a href="https://www.tsimf.cn/meeting/detail?id=417">Finite Element Tensor Calculus</a>, held at the Tsinghua Sanya International Mathematics Forum in Sanya, China. The organisers are
   <a href="https://kaibohu.github.io/">Kaibo Hu</a>,
   <a href="https://marienhanot.fr/">Marien Hanot</a>,
@@ -298,7 +300,9 @@ organised by <a href="https://ioannispapapadopoulos.github.io/">Ioannis Papadopo
 
 <h2 id="2024">2024</h2>
 <p>2024-12-09: A paper on <a href="https://doi.org/10.21105/joss.07359">coupling NETGEN/NGSolve and PETSc</a> was accepted in the Journal of Open Source Software, written with Jack Betteridge, Matthias Hochsteger, Christopher Lackner, Joachim Schöberl, Stefano Zampini, and Umberto Zerbinati.</p>
+
 <p>2024-11-28: I gave a talk in the Cambridge <a href="http://talks.cam.ac.uk/show/index/9811">Applied and Computational Mathematics seminar series</a>, hosted by <a href="http://www.damtp.cam.ac.uk/user/mjc249/home.html">Matt Colbrook</a>.</p>
+
 <p>2024-11-23: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2411.13354">time-harmonic waves in Korteweg and nematic-Korteweg fluids</a>, with Umberto Zerbinati. We derive new variants of the Helmholtz equation that describe the anisotropic propagation of sound waves in nematic liquid crystals. Update: accepted in PRE.</p>
 <p>2024-11-21: I hosted <a href="http://www.lorenzopareschi.it/">Lorenzo Pareschi</a> for a <a href="https://www.maths.ox.ac.uk/node/68815">talk in the Computational Mathematics and Applications Seminar series</a>.</p>
 <p>2024-11-13: I gave a talk in the <a href="https://www.maths.ed.ac.uk/school-of-mathematics/events/acm">Edinburgh Applied and Computational Mathematics seminar series</a>, hosted by <a href="https://kaibohu.github.io/">Kaibo Hu</a>.</p>
