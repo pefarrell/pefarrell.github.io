@@ -120,6 +120,11 @@ Geometric PDE Challenges in Science & Engineering
 
 <p>2025-12-01: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2511.23266">Conservative and dissipative discretisations of multi-conservative ODEs and GENERIC systems</a>, with <a href="https://borisandrews.github.io/">Boris Andrews</a>.</p>
 
+<p>2025-11-27: It was nice to meet William Hague and Roger Penrose on the occasion of the Chancellor's visit to the Mathematical Institute.
+  <figure>
+  <img src="{{site.url}}/images/penrose-hague-20251127.jpg" alt="Talking with Roger Penrose, William Hague, Jon Chapman, 2025-11-27."/>
+  </figure></p>
+
 <p>2025-11-24: I hosted <a href="https://cemse.kaust.edu.sa/profiles/stefano-zampini">Stefano Zampini</a> from the King Abdullah University of Science and Technology (KAUST) for a research visit.</p>
 
 <p>2025-11-12: <a href="https://www.uzerbinati.eu/">Umberto Zerbinati</a> gave a talk in the <a href="https://www.mff.cuni.cz/en/mathmac/seminar">mathematical modeling, applied analysis and computational mathematics</a> series at Charles University, Prague, Czechia.</p>
