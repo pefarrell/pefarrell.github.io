@@ -104,6 +104,8 @@ Geometric PDE Challenges in Science & Engineering
 
 <p>2026-01-12: India Marsden will attend the <a href="https://icms.ac.uk/activities/workshop/rwam2026/">Retreat for Women in Applied Mathematics 2026 at the ICMS</a> in Edinburgh, UK.</p>
 
+<p>2026-01-10: I will give a lecture at Peking University in Beijing, China, hosted by <a href="https://lsec.cc.ac.cn/fengkangprize/huj.htm">Jun Hu</a>.</p>
+
 <p>2026-01-08: I will give an invited talk at the <a href="https://lsec.cc.ac.cn/~icspfem26/">International Conference on Structure-Preserving Finite Element Methods</a>, held at the Institute of Computational Mathematics and Scientific/Engineering Computing (ICMSEC), Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, China. The organisers are
   <a href="https://kaibohu.github.io/">Kaibo Hu</a>,
   <a href="https://zhangshuo-lsec.github.io/">Shuo Zhang</a>, and
