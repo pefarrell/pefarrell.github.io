@@ -316,3 +316,10 @@ title: People
   <figcaption>Sebastien Randriatsitoaina. <br/>Topic: Modelling tidal turbulence in the Earth's core using spectral methods, on the <a href="https://www.maths.ox.ac.uk/outreach/miorpa">MIORPA outreach program</a>. <br/>Co-supervised with <a href="https://www.earth.ox.ac.uk/people/richard-katz">Richard Katz</a>. Home institution: African Institute for Mathematical Sciences.</figcaption>
 </figure>
 
+&nbsp;
+&nbsp;
+
+<figure>
+  <img src="{{site.url}}/images/cach.jpg" alt="Jakub Cach"/>
+  <figcaption>Jakub Cach. <br/>Topic: Preconditioners for viscoelastic problems. Home institution: Charles University.</figcaption>
+</figure>
