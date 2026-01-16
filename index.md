@@ -96,23 +96,24 @@ Geometric PDE Challenges in Science & Engineering
 
 <p>2025-02-05: Umberto Zerbinati will give a talk in the Cambridge <a href="https://talks.cam.ac.uk/talk/index/242575">Applied and Computational Mathematics seminar series</a>, hosted by <a href="http://www.damtp.cam.ac.uk/user/mjc249/home.html">Matt Colbrook</a>.</p>
 
-<p>2026-01-12: I will give an invited talk at the workshop on <a href="https://tsimf.tsinghua.edu.cn/info/1235/1207.htm">Finite Element Tensor Calculus</a>, held at the Tsinghua Sanya International Mathematics Forum in Sanya, China. The organisers are
+<h2 id="news">News</h2>
+
+<p>2026-01-12: I gave an invited talk at the workshop on <a href="https://tsimf.tsinghua.edu.cn/info/1235/1207.htm">Finite Element Tensor Calculus</a>, held at the Tsinghua Sanya International Mathematics Forum in Sanya, China. The organisers were
   <a href="https://kaibohu.github.io/">Kaibo Hu</a>,
   <a href="https://marienhanot.fr/">Marien Hanot</a>,
   <a href="https://zhangshuo-lsec.github.io/">Shuo Zhang</a>, and
   <a href="https://lsec.cc.ac.cn/~zwy/">Weiying Zheng</a>.</p>
 
-<p>2026-01-12: India Marsden will attend the <a href="https://icms.ac.uk/activities/workshop/rwam2026/">Retreat for Women in Applied Mathematics 2026 at the ICMS</a> in Edinburgh, UK.</p>
+<p>2026-01-12: India Marsden attended the <a href="https://icms.ac.uk/activities/workshop/rwam2026/">Retreat for Women in Applied Mathematics 2026 at the ICMS</a> in Edinburgh, UK.</p>
 
-<p>2026-01-10: I will give a lecture at Peking University in Beijing, China, hosted by <a href="https://lsec.cc.ac.cn/fengkangprize/huj.htm">Jun Hu</a>.</p>
+<p>2026-01-10: I gave a lecture at Peking University in Beijing, China, hosted by <a href="https://lsec.cc.ac.cn/fengkangprize/huj.htm">Jun Hu</a>.</p>
 
-<p>2026-01-08: I will give an invited talk at the <a href="https://lsec.cc.ac.cn/~icspfem26/">International Conference on Structure-Preserving Finite Element Methods</a>, held at the Institute of Computational Mathematics and Scientific/Engineering Computing (ICMSEC), Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, China. The organisers are
+<p>2026-01-08: I gave an invited talk at the <a href="https://lsec.cc.ac.cn/~icspfem26/">International Conference on Structure-Preserving Finite Element Methods</a>, held at the Institute of Computational Mathematics and Scientific/Engineering Computing (ICMSEC), Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, China. The organisers were
   <a href="https://kaibohu.github.io/">Kaibo Hu</a>,
   <a href="https://zhangshuo-lsec.github.io/">Shuo Zhang</a>, and
   <a href="https://lsec.cc.ac.cn/~zwy/">Weiying Zheng</a>.</p>
 
 
-<h2 id="news">News</h2>
 
 <p>2025-12-11: I gave a seminar in the <a href="https://seminar-nm.karlin.mff.cuni.cz/">Numerical Mathematics</a> series at Charles University, Prague, Czechia.</p>
 
