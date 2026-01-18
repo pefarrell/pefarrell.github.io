@@ -19,13 +19,9 @@ Here is an incomplete sample of some research presentations I have given.
 
 <p>Related coauthors: Boris Andrews, Mingdong He, Kaibo Hu</p>
 
-<p>We propose a general strategy for enforcing multiple conservation laws and dissipation inequalities in the numerical solution of initial value problems. The key idea is to represent each conservation law or dissipation inequality by means of an associated test function; we introduce auxiliary variables representing the projection of these test functions onto a discrete test set,
-and modify the equation to use these new variables. </p>
+<p>We propose a general strategy for enforcing multiple conservation laws and dissipation inequalities in the numerical solution of initial value problems, without Lagrange multipliers or brute-force projection operators. The key idea is to represent each conservation law or dissipation inequality by means of an associated test function; we introduce auxiliary variables representing the projection of these test functions onto a discrete test set, and modify the equation to use these new variables.</p>
 
-<p>We demonstrate these ideas by their application to the several problems, including the Kepler and Kovalevskaya problems, the Benjamin-Bona-Mahony equation, and the Navier-Stokes equations. In particular, we generalize to arbitrary order the energy-dissipating and
-helicity-tracking scheme of Rebholz for the incompressible Navier-Stokes equations, and devise the
-first time discretization of the compressible equations that conserves mass, momentum, and energy,
-and provably dissipates entropy.</p>
+<p>We demonstrate these ideas by their application to the several problems, including Hamiltonian and GENERIC ODEs, the Benjamin-Bona-Mahony equation, and the Navier-Stokes equations; we devise the first time discretization of the Eulerian formulation of the compressible Navier-Stokes equations that conserves mass, momentum, and energy, and provably dissipates entropy. In many cases preserving conservation and/or dissipation structure appears to offer considerable qualitative advantages over other structure-preserving schemes (e.g. preserving symplecticity).</p>
 
 
 <h2><a href="{{site.url}}/files/talks/multicomponent_flows.pdf" class="iwantyoubold">Discretising the Navier-Stokes-Onsager-Stefan-Maxwell equations of multicomponent flow</a></h2>
