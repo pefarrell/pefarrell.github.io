@@ -323,3 +323,11 @@ title: People
   <img src="{{site.url}}/images/cach.jpg" alt="Jakub Cach"/>
   <figcaption>Jakub Cach. <br/>Topic: Preconditioners for viscoelastic problems. Home institution: Charles University.</figcaption>
 </figure>
+
+&nbsp;
+&nbsp;
+
+<figure>
+  <img src="{{site.url}}/images/guo.jpg" alt="Yusen Guo"/>
+  <figcaption>Yusen Guo. <br/>Topic: electromagnetism with nonlinear constitutive relations. Home institution: University of Leicester.</figcaption>
+</figure>

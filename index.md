@@ -98,6 +98,8 @@ Geometric PDE Challenges in Science & Engineering
 
 <h2 id="news">News</h2>
 
+<p>2026-01-19: Welcome to Yusen Guo! Yusen is a PhD student with <a href="https://le.ac.uk/people/alberto-paganini">Alberto Paganini</a> at the University of Leicester. Yusen is visiting for three weeks.</p>
+
 <p>2026-01-12: I gave an invited talk at the workshop on <a href="https://tsimf.tsinghua.edu.cn/info/1235/1207.htm">Finite Element Tensor Calculus</a>, held at the Tsinghua Sanya International Mathematics Forum in Sanya, China. The organisers were
   <a href="https://kaibohu.github.io/">Kaibo Hu</a>,
   <a href="https://marienhanot.fr/">Marien Hanot</a>,
@@ -113,6 +115,7 @@ Geometric PDE Challenges in Science & Engineering
   <a href="https://zhangshuo-lsec.github.io/">Shuo Zhang</a>, and
   <a href="https://lsec.cc.ac.cn/~zwy/">Weiying Zheng</a>.</p>
 
+<p>2026-01-06: Welcome to <a href="https://scholar.google.com/citations?user=4VOJOMAAAAAJ&hl=en">Ana Djurdevac</a>, who joins the Numerical Analysis group as faculty!</p>
 
 
 <p>2025-12-11: I gave a seminar in the <a href="https://seminar-nm.karlin.mff.cuni.cz/">Numerical Mathematics</a> series at Charles University, Prague, Czechia.</p>
@@ -159,7 +162,7 @@ in Edinburgh, UK.</p>
 
 <p>2025-10-16: I gave a <a href="https://www.ucl.ac.uk/~ucahalk/UCL_Colloquium.html">departmental colloquium at University College London</a>.</p>
 
-<p>2025-10-13: Welcome to Jens Molge! Jens is an MSc student co-supervised with <a href="https://scoop.iwr.uni-heidelberg.de/team/rherzog/">Roland Herzog</a> and <a href="https://scoop.iwr.uni-heidelberg.de/team/gm%C3%BCller/">Georg Müller</a>. Jens is visiting for five months.</p>
+<p>2025-10-13: Welcome to Jens Molge! Jens is an MSc student co-supervised with <a href="https://scoop.iwr.uni-heidelberg.de/team/rherzog/">Roland Herzog</a> and <a href="https://scoop.iwr.uni-heidelberg.de/team/gm%C3%BCller/">Georg Müller</a> at Ruprecht-Karls-Universität Heidelberg. Jens is visiting for five months.</p>
 
 <p>2025-10-08: I gave an invited talk at the <a href="https://martinlicht.github.io/frontiers2025.html">Frontiers in Numerical Methods for Nonlinear Partial Differential Equations</a> workshop in Lausanne, Switzerland. The organisers were
   <a href="https://martinlicht.github.io/">Martin Licht</a>,
