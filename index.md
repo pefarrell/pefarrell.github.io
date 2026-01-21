@@ -98,6 +98,8 @@ Geometric PDE Challenges in Science & Engineering
 
 <h2 id="news">News</h2>
 
+<p>2026-01-21: <a href="https://www.oriel.ox.ac.uk/">Oriel College</a> turns 700 years old today! Remarkable.</p>
+
 <p>2026-01-19: Welcome to Yusen Guo! Yusen is a PhD student with <a href="https://le.ac.uk/people/alberto-paganini">Alberto Paganini</a> at the University of Leicester. Yusen is visiting for three weeks.</p>
 
 <p>2026-01-12: I gave an invited talk at the workshop on <a href="https://tsimf.tsinghua.edu.cn/info/1235/1207.htm">Finite Element Tensor Calculus</a>, held at the Tsinghua Sanya International Mathematics Forum in Sanya, China. The organisers were
