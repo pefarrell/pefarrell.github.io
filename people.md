@@ -329,5 +329,5 @@ title: People
 
 <figure>
   <img src="{{site.url}}/images/guo.jpg" alt="Yusen Guo"/>
-  <figcaption>Yusen Guo. <br/>Topic: electromagnetism with nonlinear constitutive relations. Home institution: University of Leicester.</figcaption>
+  <figcaption>Yusen Guo (郭羽森). <br/>Topic: electromagnetism with nonlinear constitutive relations. Home institution: University of Leicester.</figcaption>
 </figure>
