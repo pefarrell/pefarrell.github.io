@@ -98,6 +98,14 @@ Geometric PDE Challenges in Science & Engineering
 
 <h2 id="news">News</h2>
 
+<p>2026-02-01: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2602.01142">a thermodynamically-consistent variant of the viscoelastic Johnson-Segalman-Giesekus model</a>, with
+<a href="https://www.karlin.mff.cuni.cz/~cach/">Jakub Cach</a>,
+<a href="https://www.karlin.mff.cuni.cz/~tumak3am/">Karel Tůma</a>,
+and
+<a href="https://www.karlin.mff.cuni.cz/~malek/new-OBJ/index.php?title=Josef_M%C3%A1lek">Josef Málek</a>.
+</p>
+
+
 <p>2026-01-21: <a href="https://www.oriel.ox.ac.uk/">Oriel College</a> turns 700 years old today! Remarkable.</p>
 
 <p>2026-01-19: Welcome to Yusen Guo! Yusen is a PhD student with <a href="https://le.ac.uk/people/alberto-paganini">Alberto Paganini</a> at the University of Leicester. Yusen is visiting for three weeks.</p>
