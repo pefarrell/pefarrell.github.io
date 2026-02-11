@@ -88,24 +88,28 @@ Geometric PDE Challenges in Science & Engineering
   <a href="https://elizabethnewman.owlstown.net/">Elizabeth Newman</a>, and
   <a href="http://faculty.ucmerced.edu/npetra/index.html">Noemi Petra</a>.</p>
 
-<p>2025-03-28: I will give a talk at the workshop on <a href="https://math4cardio.cuni.cz/">Modeling blood flow in the cardiovascular system and artificial devices</a> in Prague, Czechia. The organisers are
+<p>2026-03-28: I will give a talk at the workshop on <a href="https://math4cardio.cuni.cz/">Modeling blood flow in the cardiovascular system and artificial devices</a> in Prague, Czechia. The organisers are
   <a href="https://www.karlin.mff.cuni.cz/~hron/">Jaroslav Hron</a>,
   <a href="https://profiles.utsouthwestern.edu/profile/195959/radomir-chabiniok.html">Radomir Chabiniok</a>,
   <a href="https://www.karlin.mff.cuni.cz/~malek/new-OBJ/index.php?title=Josef_M%C3%A1lek">Josef Málek</a>,
   <a href="https://www.jefferson.edu/academics/colleges-schools-institutes/skmc/departments/cardiac-surgery/faculty/rajagopal.html">Keshava Rajagopal</a>, and
   <a href="https://www.karlin.mff.cuni.cz/~tumak3am/">Karel Tůma</a>.</p>
 
-<p>2025-03-23: I will give an invited talk at the workshop on <a href="https://project.inria.fr/ranpdes/workshop-2026/">Robust adaptivity for nonlinear partial differential equations</a> in Paris, France. The organisers are
+<p>2026-03-23: I will give an invited talk at the workshop on <a href="https://project.inria.fr/ranpdes/workshop-2026/">Robust adaptivity for nonlinear partial differential equations</a> in Paris, France. The organisers are
   <a href="https://who.rocq.inria.fr/Martin.Vohralik/">Martin Vohralik</a> and
   <a href="https://ins.uni-bonn.de/staff/gantner">Gregor Gantner</a>.</p>
 
-<p>2025-03-18: I will give a 2.5-day tutorial on <a href="https://www.firedrakeproject.org/tutorial_mar_26.html">Solving partial differential equations with Firedrake</a> in Oxford, UK.</p>
+<p>2026-03-18: I will give a 2.5-day tutorial on <a href="https://www.firedrakeproject.org/tutorial_mar_26.html">Solving partial differential equations with Firedrake</a> in Oxford, UK.</p>
 
-<p>2025-03-04: I will give a talk in the Exeter Geophysical and Astrophysical Fluid Dynamics seminar series, hosted by <a href="https://experts.exeter.ac.uk/33035-jemma-shipton">Jemma Shipton</a>.</p>
+<p>2026-03-04: I will give a talk in the Exeter Geophysical and Astrophysical Fluid Dynamics seminar series, hosted by <a href="https://experts.exeter.ac.uk/33035-jemma-shipton">Jemma Shipton</a>.</p>
+
+<p>2026-02-13: Thomas Higham will give a seminar in the University of Manchester SIAM-IMA Student Chapter.</p>
 
 <h2 id="news">News</h2>
 
-<p>2025-02-05: Umberto Zerbinati gave a talk in the Cambridge <a href="https://talks.cam.ac.uk/talk/index/242575">Applied and Computational Mathematics seminar series</a>, hosted by <a href="http://www.damtp.cam.ac.uk/user/mjc249/home.html">Matt Colbrook</a>.</p>
+<p>2026-02-11: Umberto Zerbinati gave a talk in the <a href="https://researchseminars.org/seminar/MathMAC">Modelling of materials seminar series</a> at Charles University in Prague, hosted by <a href="https://www.karlin.mff.cuni.cz/~malek/new-OBJ/index.php?title=Josef_M%C3%A1lek">Josef Málek</a>.</p>
+
+<p>2026-02-05: Umberto Zerbinati gave a talk in the <a href="https://talks.cam.ac.uk/talk/index/242575">Applied and Computational Mathematics seminar series</a> at the University of Cambridge, hosted by <a href="http://www.damtp.cam.ac.uk/user/mjc249/home.html">Matt Colbrook</a>.</p>
 
 <p>2026-02-01: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2602.01142">a thermodynamically-consistent variant of the viscoelastic Johnson-Segalman-Giesekus model</a>, with
 <a href="https://www.karlin.mff.cuni.cz/~cach/">Jakub Cach</a>,
