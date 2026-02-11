@@ -88,7 +88,14 @@ Geometric PDE Challenges in Science & Engineering
   <a href="https://elizabethnewman.owlstown.net/">Elizabeth Newman</a>, and
   <a href="http://faculty.ucmerced.edu/npetra/index.html">Noemi Petra</a>.</p>
 
-<p>2025-03-23: I will give an invited talk at the workshop on <a href="https://project.inria.fr/ranpdes/workshop-2026/">Robust Adaptivity for Nonlinear Partial Differential Equations</a> in Paris, France. The organisers are
+<p>2025-03-28: I will give a talk at the workshop on <a href="https://math4cardio.cuni.cz/">Modeling blood flow in the cardiovascular system and artificial devices</a> in Prague, Czechia. The organisers are
+  <a href="https://www.karlin.mff.cuni.cz/~hron/">Jaroslav Hron</a>,
+  <a href="https://profiles.utsouthwestern.edu/profile/195959/radomir-chabiniok.html">Radomir Chabiniok</a>,
+  <a href="https://www.karlin.mff.cuni.cz/~malek/new-OBJ/index.php?title=Josef_M%C3%A1lek">Josef Málek</a>,
+  <a href="https://www.jefferson.edu/academics/colleges-schools-institutes/skmc/departments/cardiac-surgery/faculty/rajagopal.html">Keshava Rajagopal</a>, and
+  <a href="https://www.karlin.mff.cuni.cz/~tumak3am/">Karel Tůma</a>.</p>
+
+<p>2025-03-23: I will give an invited talk at the workshop on <a href="https://project.inria.fr/ranpdes/workshop-2026/">Robust adaptivity for nonlinear partial differential equations</a> in Paris, France. The organisers are
   <a href="https://who.rocq.inria.fr/Martin.Vohralik/">Martin Vohralik</a> and
   <a href="https://ins.uni-bonn.de/staff/gantner">Gregor Gantner</a>.</p>
 
