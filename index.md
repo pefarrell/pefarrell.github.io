@@ -103,9 +103,11 @@ Geometric PDE Challenges in Science & Engineering
 
 <p>2026-03-04: I will give a talk in the Exeter Geophysical and Astrophysical Fluid Dynamics seminar series, hosted by <a href="https://experts.exeter.ac.uk/33035-jemma-shipton">Jemma Shipton</a>.</p>
 
-<p>2026-02-13: Thomas Higham will give a seminar in the University of Manchester SIAM-IMA Student Chapter.</p>
-
 <h2 id="news">News</h2>
+
+<p>2026-02-16: Welcome to <a href="https://sites.google.com/view/jonghopark">Jongho Park</a>! Jongho is a Research Scientist at the King Abdullah University of Science and Technology (KAUST). He is here for two weeks for a research visit.</p>
+
+<p>2026-02-13: Thomas Higham gave a seminar in the University of Manchester SIAM-IMA Student Chapter.</p>
 
 <p>2026-02-11: Umberto Zerbinati gave a talk in the <a href="https://researchseminars.org/seminar/MathMAC">Modelling of materials seminar series</a> at Charles University in Prague, hosted by <a href="https://www.karlin.mff.cuni.cz/~malek/new-OBJ/index.php?title=Josef_M%C3%A1lek">Josef Málek</a>.</p>
 
@@ -152,7 +154,7 @@ and
   <img src="{{site.url}}/images/penrose-hague-20251127.jpg" alt="Talking with Roger Penrose, William Hague, Jon Chapman, 2025-11-27."/>
   </figure></p>
 
-<p>2025-11-24: I hosted <a href="https://cemse.kaust.edu.sa/profiles/stefano-zampini">Stefano Zampini</a> from the King Abdullah University of Science and Technology (KAUST) for a research visit.</p>
+<p>2025-11-24: Welcome to <a href="https://cemse.kaust.edu.sa/profiles/stefano-zampini">Stefano Zampini</a>! Stefano is a Research Scientist at the King Abdullah University of Science and Technology (KAUST). He is here for a week-long research visit.</p>
 
 <p>2025-11-12: <a href="https://www.uzerbinati.eu/">Umberto Zerbinati</a> gave a talk in the <a href="https://www.mff.cuni.cz/en/mathmac/seminar">mathematical modeling, applied analysis and computational mathematics</a> series at Charles University, Prague, Czechia.</p>
 
