@@ -68,7 +68,7 @@ Geometric PDE Challenges in Science & Engineering
   <a href="https://www.math.umd.edu/~rhn/">Ricardo Nochetto</a>, and
   <a href="https://www.math.lsu.edu/~walker/">Shawn Walker</a>.</p>
 
-<p>2026-05-18: I will organise a workshop on smectics and complex layered fluids at <a href="https://www.houches-school-physics.com/program/program-2026/smectics-and-distorted-nematics-analytics-numerics-and-experiments-1644440.kjsp?RH=1757601871949">l'École de physique des Houches</a>, alongside 
+<p>2026-05-18: I will organise a <a href="https://houches-mai2026.sciencesconf.org/">workshop on smectics and complex layered fluids</a> at <a href="https://www.houches-school-physics.com/program/program-2026/smectics-and-distorted-nematics-analytics-numerics-and-experiments-1644440.kjsp?RH=1757601871949">l'École de physique des Houches</a>, alongside 
 <a href="https://cv.hal.science/emmanuelle-lacaze">Emmanuelle Lacaze</a>, 
 <a href="https://ms.mcmaster.ca/~bronsard/">Lia Bronsard</a>, and 
 <a href="https://www2.thphy.uni-duesseldorf.de/~hlowen/">Hartmut Löwen</a>. Thanks to the <a href="https://www.we-heraeus-stiftung.de/english/">Wilhelm und Else Heraeus-Stiftung</a> for their kind support.</p>
