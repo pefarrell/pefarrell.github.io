@@ -25,7 +25,7 @@ title: People
 
 <figure>
   <img src="{{site.url}}/images/he.jpg" alt="Mingdong He"/>
-  <figcaption>Mingdong He (何明东). <br/>Topic: topological property preservation in fluid mechanics.</figcaption>
+  <figcaption>Mingdong He (何明东). <br/>Topic: topological property preservation in fluid mechanics. <br/> Co-supervised with <a href="https://kaibohu.github.io/">Kaibo Hu</a>.</figcaption>
 </figure>
 
 &nbsp;
