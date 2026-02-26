@@ -107,6 +107,13 @@ Geometric PDE Challenges in Science & Engineering
 
 <h2 id="news">News</h2>
 
+<p>2026-02-24: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2602.21384">a kinetic interpretation of the Rajagopal-Srinivasa constitutive closure</a>, with
+<a href="https://www.karlin.mff.cuni.cz/~malek/new-OBJ/index.php?title=Josef_M%25C3%25A1lek%22%3EJosef">Josef Málek</a>,
+<a href="https://geo.mff.cuni.cz/~soucek/">Ondřej Souček</a>,
+and
+<a href="https://www.uzerbinati.eu/">Umberto Zerbinati</a>.
+</p>
+
 <p>2026-02-16: Welcome to <a href="https://sites.google.com/view/jonghopark">Jongho Park</a>! Jongho is a Research Scientist at the King Abdullah University of Science and Technology (KAUST). He is here for two weeks for a research visit.</p>
 
 <p>2026-02-13: Thomas Higham gave a seminar in the University of Manchester SIAM-IMA Student Chapter.</p>
