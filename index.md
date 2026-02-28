@@ -33,7 +33,7 @@ commit to [PETSc](https://gitlab.com/petsc/petsc),
 [petsc4py](https://bitbucket.org/petsc/petsc4py), and
 [firedrake](https://www.firedrakeproject.org/).
 
-I am always looking for talented PhD students and postdocs. Members of my group have a very strong track record of winning doctoral scholarships, research prizes, independent fellowships, and tenure-track positions. If you are interested, please contact me!
+I am always looking for talented PhD students and postdocs. Members of my group have a very strong track record of winning doctoral scholarships, research prizes, independent fellowships, and tenure-track positions. If you are interested, please contact me! The <a href="https://www.maths.ox.ac.uk/study-here/postgraduate-study/doctor-philosophy-dphil">deadline for applications for doctoral scholarships is early January each year</a>.
 
 <h2 id="forthcoming">Forthcoming</h2>
 

@@ -19,7 +19,9 @@
         <h1><a href="{{ "/" | absolute_url }}" class="iwantyoubold">{{ site.title | default: site.github.repository_name }}</a></h1>
 
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+          <a href="{{ 'images/profile_full.png' | relative_url }}">
+            <img src="{{ site.logo | relative_url }}" alt="Profile picture" />
+          </a>
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
