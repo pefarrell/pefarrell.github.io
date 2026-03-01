@@ -107,6 +107,8 @@ Geometric PDE Challenges in Science & Engineering
 
 <h2 id="news">News</h2>
 
+<p>2026-03-02: Welcome to <a href="https://timvanbeeck.github.io/">Tim van Beeck</a>! Tim is a PhD student at the University of Göttingen, supervised by <a href="https://cpde.math.uni-goettingen.de/en/members/CLehrenfeld/index.html">Christoph Lehrenfeld</a>. He is here for a week for a research visit.</p>
+
 <p>2026-02-24: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2602.21384">a kinetic interpretation of the Rajagopal-Srinivasa constitutive closure</a>, with
 <a href="https://www.karlin.mff.cuni.cz/~malek/new-OBJ/index.php?title=Josef_M%C3%A1lek">Josef Málek</a>,
 <a href="https://geo.mff.cuni.cz/~soucek/">Ondřej Souček</a>,
