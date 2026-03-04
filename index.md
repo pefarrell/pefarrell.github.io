@@ -101,11 +101,14 @@ Geometric PDE Challenges in Science & Engineering
   <a href="https://who.rocq.inria.fr/Martin.Vohralik/">Martin Vohralik</a> and
   <a href="https://ins.uni-bonn.de/staff/gantner">Gregor Gantner</a>.</p>
 
+<p>2026-03-19: Umberto Zerbinati will give a talk in the <a href="https://lorenzopareschi.blogspot.com/p/adamus-fis2.html">ADAMUS seminar series</a> at the Università degli Studi di Ferrara, hosted by <a href="https://lorenzopareschi.blogspot.com">Lorenzo Pareschi</a> and <a href="https://www.andreamedaglia.eu/">Andrea Medaglia</a>.</p>
+
 <p>2026-03-18: I will give a 2.5-day tutorial on <a href="https://www.firedrakeproject.org/tutorial_mar_26.html">Solving partial differential equations with Firedrake</a> in Oxford, UK.</p>
 
-<p>2026-03-04: I will give a talk in the Exeter Geophysical and Astrophysical Fluid Dynamics seminar series, hosted by <a href="https://experts.exeter.ac.uk/33035-jemma-shipton">Jemma Shipton</a>.</p>
 
 <h2 id="news">News</h2>
+
+<p>2026-03-04: I gave a talk in the Exeter Geophysical and Astrophysical Fluid Dynamics seminar series, hosted by <a href="https://experts.exeter.ac.uk/33035-jemma-shipton">Jemma Shipton</a>.</p>
 
 <p>2026-03-02: Welcome to <a href="https://timvanbeeck.github.io/">Tim van Beeck</a>! Tim is a PhD student at the University of Göttingen, supervised by <a href="https://cpde.math.uni-goettingen.de/en/members/CLehrenfeld/index.html">Christoph Lehrenfeld</a>. He is here for a week for a research visit.</p>
 
