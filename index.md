@@ -681,8 +681,17 @@ organised by <a href="https://ioannispapapadopoulos.github.io/">Ioannis Papadopo
 <p>2015-09-01: A new paper is up on arXiv about <a href="https://arxiv.org/abs/1508.07633">PDE-constrained optimisation, deflation and Schur complement preconditioners</a>.</p>
 <p>2015-08-31: I&#8217;ve just released <a href="https://bitbucket.org/pefarrell/pymlmc">a Python implementation of Mike Giles&#8217; multilevel Monte Carlo demo code</a>.</p>
 <p>2015-08-27: The <a href="https://doi.org/10.1137/140984798">first deflation paper</a> has been published online in SIAM Journal on Scientific Computing.</p>
+
 <p>2015-08-13: I collected the Wilkinson prize at ICIAM 2015 in Beijing today. Thanks again to NAG, ANL and NPL.</p>
+
+  <figure>
+  <img src="{{site.url}}/images/wilkinsonprize.jpg" alt="Wilkinson Prize ceremony 2015."/>
+  <figcaption>The ceremony for the Wilkinson Prize at ICIAM 2015.</figcaption>
+  </figure>
+
 <p>2015-07-16: I have been selected for polar service with the British Antarctic Survey! I will be undertaking fieldwork in the Antarctic this November as part of an observational campaign on the retreating ice sheets on the east coast of the Antarctic peninsula, on <a href="https://en.wikipedia.org/wiki/Flask_Glacier">Flask Glacier</a> and <a href="https://en.wikipedia.org/wiki/Scar_Inlet">Scar Inlet</a>.</p>
 <p>2015-06-23: I came second in the Fox prize competition, joining company such as Andy Wathen, Peter Sweby, Alan Edelman, Mark Ainsworth, Barry Smith, and Des Higham. Congratulations to <a href="http://www.homepages.ucl.ac.uk/~ucahism/">Iain Smears</a> and <a href="http://pi.math.cornell.edu/~ajt/">Alex Townsend</a>.</p>
+
 <p>2015-06-11: I have won <b><a href="http://www.nag.co.uk/other/WilkinsonPrize.html">the 2015 Wilkinson prize for Numerical Software</a></b>, along with my colleagues Simon Funke, David Ham and Marie Rognes.</p>
+
 <p>2015-03-06: I have been shortlisted for the <b><a href="http://www.numerical.rl.ac.uk/people/nimg/fox/">17th IMA Leslie Fox prize in numerical analysis</a></b>.</p>
