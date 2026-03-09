@@ -90,7 +90,7 @@ Geometric PDE Challenges in Science & Engineering
   <a href="https://elizabethnewman.owlstown.net/">Elizabeth Newman</a>, and
   <a href="http://faculty.ucmerced.edu/npetra/index.html">Noemi Petra</a>.</p>
 
-<p>2026-03-28: I will give a talk at the workshop on <a href="https://math4cardio.cuni.cz/">Modeling blood flow in the cardiovascular system and artificial devices</a> in Prague, Czechia. The organisers are
+<p>2026-03-28: I will give an invited talk at the workshop on <a href="https://math4cardio.cuni.cz/">Modeling blood flow in the cardiovascular system and artificial devices</a> in Prague, Czechia. The organisers are
   <a href="https://www.karlin.mff.cuni.cz/~hron/">Jaroslav Hron</a>,
   <a href="https://profiles.utsouthwestern.edu/profile/195959/radomir-chabiniok.html">Radomir Chabiniok</a>,
   <a href="https://www.karlin.mff.cuni.cz/~malek/new-OBJ/index.php?title=Josef_M%C3%A1lek">Josef Málek</a>,
