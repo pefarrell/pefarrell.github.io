@@ -108,6 +108,13 @@ Geometric PDE Challenges in Science & Engineering
 
 <h2 id="news">News</h2>
 
+<p>2026-03-12: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2603.12134">global and local helicity preservation in the finite element discretisation of magnetic relaxation</a>, with
+<a href="https://sites.google.com/view/mingdonghe/home/">Mingdong He</a>,
+<a href="https://kaibohu.github.io/">Kaibo Hu</a>,
+and
+<a href="https://ganghui-zhang.github.io/">Ganghui Zhang</a>.
+</p>
+
 <p>2026-03-04: I gave a talk in the Exeter Geophysical and Astrophysical Fluid Dynamics seminar series, hosted by <a href="https://experts.exeter.ac.uk/33035-jemma-shipton">Jemma Shipton</a>.</p>
 
 <p>2026-03-02: Welcome to <a href="https://timvanbeeck.github.io/">Tim van Beeck</a>! Tim is a PhD student at the University of Göttingen, supervised by <a href="https://cpde.math.uni-goettingen.de/en/members/CLehrenfeld/index.html">Christoph Lehrenfeld</a>. He is here for a week for a research visit.</p>
