@@ -20,7 +20,7 @@ Here are <a href="{{site.url}}/files/kacov2023.pdf">some lecture slides on numer
 
 <h3>Solving Partial Differential Equations with Firedrake</h3>
 
-Here are <a href="{{site.url}}/files/icerm2024.pdf">some lecture slides on solving PDEs with Firedrake</a> I gave at ICERM in 2024. Some of the codes <a href="https://github.com/pefarrell/icerm2024">are available in this github repository</a>.
+Here are <a href="https://github.com/pefarrell/oxford2026/blob/main/slides.pdf">the lecture slides on Solving PDEs with Firedrake</a> I gave at ICERM in 2024 and in Oxford in 2026. The codes <a href="https://github.com/pefarrell/oxford2026">are available in this github repository</a>.
 
 <h3>Continuum Mechanics and the Entropy Principle</h3>
 
