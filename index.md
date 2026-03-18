@@ -139,6 +139,7 @@ and
 <a href="https://www.karlin.mff.cuni.cz/~tumak3am/">Karel Tůma</a>,
 and
 <a href="https://www.karlin.mff.cuni.cz/~malek/new-OBJ/index.php?title=Josef_M%C3%A1lek">Josef Málek</a>.
+Update: accepted in Applications in Engineering Science.
 </p>
 
 
