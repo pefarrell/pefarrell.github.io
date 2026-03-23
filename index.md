@@ -209,6 +209,8 @@ in Edinburgh, UK.</p>
 
 <p>2025-10-16: I gave a <a href="https://www.ucl.ac.uk/~ucahalk/UCL_Colloquium.html">departmental colloquium at University College London</a>.</p>
 
+<p>2025-10-16: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2510.14923">finite element methods for electroneutral multicomponent electrolyte flows</a>, with <a href="https://orcid.org/0000-0002-0542-4342">Aaron Baier-Reinio</a> and <a href="https://eng.ox.ac.uk/monroe-research-group/">Charles Monroe</a>.</p>
+
 <p>2025-10-13: Welcome to Jens Molge! Jens is an MSc student co-supervised with <a href="https://scoop.iwr.uni-heidelberg.de/team/rherzog/">Roland Herzog</a> and <a href="https://scoop.iwr.uni-heidelberg.de/team/gm%C3%BCller/">Georg Müller</a> at Ruprecht-Karls-Universität Heidelberg. Jens is visiting for five months.</p>
 
 <p>2025-10-08: I gave an invited talk at the <a href="https://martinlicht.github.io/frontiers2025.html">Frontiers in Numerical Methods for Nonlinear Partial Differential Equations</a> workshop in Lausanne, Switzerland. The organisers were
