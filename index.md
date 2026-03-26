@@ -97,16 +97,15 @@ Geometric PDE Challenges in Science & Engineering
   <a href="https://www.jefferson.edu/academics/colleges-schools-institutes/skmc/departments/cardiac-surgery/faculty/rajagopal.html">Keshava Rajagopal</a>, and
   <a href="https://www.karlin.mff.cuni.cz/~tumak3am/">Karel Tůma</a>.</p>
 
-<p>2026-03-23: I will give an invited talk at the workshop on <a href="https://project.inria.fr/ranpdes/workshop-2026/">Robust adaptivity for nonlinear partial differential equations</a> in Paris, France. The organisers are
+<h2 id="news">News</h2>
+
+<p>2026-03-23: I gave an invited talk at the workshop on <a href="https://project.inria.fr/ranpdes/workshop-2026/">Robust adaptivity for nonlinear partial differential equations</a> in Paris, France. The organisers were
   <a href="https://who.rocq.inria.fr/Martin.Vohralik/">Martin Vohralik</a> and
   <a href="https://ins.uni-bonn.de/staff/gantner">Gregor Gantner</a>.</p>
 
-<p>2026-03-19: Umberto Zerbinati will give a talk in the <a href="https://lorenzopareschi.blogspot.com/p/adamus-fis2.html">ADAMUS seminar series</a> at the Università degli Studi di Ferrara, hosted by <a href="https://lorenzopareschi.blogspot.com">Lorenzo Pareschi</a> and <a href="https://www.andreamedaglia.eu/">Andrea Medaglia</a>.</p>
+<p>2026-03-19: Umberto Zerbinati gave a talk in the <a href="https://lorenzopareschi.blogspot.com/p/adamus-fis2.html">ADAMUS seminar series</a> at the Università degli Studi di Ferrara, hosted by <a href="https://lorenzopareschi.blogspot.com">Lorenzo Pareschi</a> and <a href="https://www.andreamedaglia.eu/">Andrea Medaglia</a>.</p>
 
-<p>2026-03-18: I will give a 2.5-day tutorial on <a href="https://www.firedrakeproject.org/tutorial_mar_26.html">Solving partial differential equations with Firedrake</a> in Oxford, UK.</p>
-
-
-<h2 id="news">News</h2>
+<p>2026-03-18: I gave a 2.5-day tutorial on <a href="https://www.firedrakeproject.org/tutorial_mar_26.html">Solving partial differential equations with Firedrake</a> in Oxford, UK.</p>
 
 <p>2026-03-12: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2603.12134">global and local helicity preservation in the finite element discretisation of magnetic relaxation</a>, with
 <a href="https://sites.google.com/view/mingdonghe/home/">Mingdong He</a>,
