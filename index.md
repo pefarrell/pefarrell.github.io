@@ -90,14 +90,17 @@ Geometric PDE Challenges in Science & Engineering
   <a href="https://elizabethnewman.owlstown.net/">Elizabeth Newman</a>, and
   <a href="http://faculty.ucmerced.edu/npetra/index.html">Noemi Petra</a>.</p>
 
-<p>2026-03-28: I will give an invited talk at the workshop on <a href="https://math4cardio.cuni.cz/">Modeling blood flow in the cardiovascular system and artificial devices</a> in Prague, Czechia. The organisers are
+<h2 id="news">News</h2>
+
+<p>I have been <b><a href="https://www.siam.org/publications/siam-news/articles/siam-announces-2026-class-of-fellows/">elected a Fellow of the Society for Industrial and Applied Mathematics</a></b>.</p>
+
+<p>2026-03-28: I gave an invited talk at the workshop on <a href="https://math4cardio.cuni.cz/">Modeling blood flow in the cardiovascular system and artificial devices</a> in Prague, Czechia. The organisers are
   <a href="https://www.karlin.mff.cuni.cz/~hron/">Jaroslav Hron</a>,
   <a href="https://profiles.utsouthwestern.edu/profile/195959/radomir-chabiniok.html">Radomir Chabiniok</a>,
   <a href="https://www.karlin.mff.cuni.cz/~malek/new-OBJ/index.php?title=Josef_M%C3%A1lek">Josef Málek</a>,
   <a href="https://www.jefferson.edu/academics/colleges-schools-institutes/skmc/departments/cardiac-surgery/faculty/rajagopal.html">Keshava Rajagopal</a>, and
   <a href="https://www.karlin.mff.cuni.cz/~tumak3am/">Karel Tůma</a>.</p>
 
-<h2 id="news">News</h2>
 
 <p>2026-03-23: I gave an invited talk at the workshop on <a href="https://project.inria.fr/ranpdes/workshop-2026/">Robust adaptivity for nonlinear partial differential equations</a> in Paris, France. The organisers were
   <a href="https://who.rocq.inria.fr/Martin.Vohralik/">Martin Vohralik</a> and
