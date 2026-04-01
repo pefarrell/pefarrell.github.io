@@ -92,7 +92,7 @@ Geometric PDE Challenges in Science & Engineering
 
 <h2 id="news">News</h2>
 
-<p>2026-03-31: I have been <b><a href="https://www.siam.org/publications/siam-news/articles/siam-announces-2026-class-of-fellows/">elected a Fellow of the Society for Industrial and Applied Mathematics</a></b>.</p>
+<p>2026-03-31: I have been <b><a class="iwantyoubold" href="https://www.siam.org/publications/siam-news/articles/siam-announces-2026-class-of-fellows/">elected a Fellow of the Society for Industrial and Applied Mathematics</a></b>.</p>
 
 <p>2026-03-28: I gave an invited talk at the workshop on <a href="https://math4cardio.cuni.cz/">Modeling blood flow in the cardiovascular system and artificial devices</a> in Prague, Czechia. The organisers are
   <a href="https://www.karlin.mff.cuni.cz/~hron/">Jaroslav Hron</a>,
