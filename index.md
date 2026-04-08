@@ -90,9 +90,9 @@ Geometric PDE Challenges in Science & Engineering
   <a href="https://elizabethnewman.owlstown.net/">Elizabeth Newman</a>, and
   <a href="http://faculty.ucmerced.edu/npetra/index.html">Noemi Petra</a>.</p>
 
-<p>2026-04-08: I will give a talk in the <a href="https://www.mff.cuni.cz/en/mathmac/seminar">mathematical modeling, applied analysis and computational mathematics</a> series at Charles University, in Prague, Czechia.</p>
-
 <h2 id="news">News</h2>
+
+<p>2026-04-08: I gave a talk in the <a href="https://www.mff.cuni.cz/en/mathmac/seminar">mathematical modeling, applied analysis and computational mathematics</a> series at Charles University, in Prague, Czechia.</p>
 
 <p>2026-03-31: I have been <b><a class="iwantyoubold" href="https://www.siam.org/publications/siam-news/articles/siam-announces-2026-class-of-fellows/">elected a Fellow of the Society for Industrial and Applied Mathematics</a></b>.</p>
 
