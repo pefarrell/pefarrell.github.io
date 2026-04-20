@@ -129,7 +129,7 @@ and
 <a href="https://www.karlin.mff.cuni.cz/~malek/new-OBJ/index.php?title=Josef_M%C3%A1lek">Josef Málek</a>,
 <a href="https://geo.mff.cuni.cz/~soucek/">Ondřej Souček</a>,
 and
-<a href="https://www.uzerbinati.eu/">Umberto Zerbinati</a>.
+<a href="https://www.uzerbinati.eu/">Umberto Zerbinati</a>. Update: accepted in the International Journal of Engineering Science, in the special issue in memory of <a href="https://en.wikipedia.org/wiki/K._R._Rajagopal">Kumbakonam Rajagopal</a>.
 </p>
 
 <p>2026-02-16: Welcome to <a href="https://sites.google.com/view/jonghopark">Jongho Park</a>! Jongho is a Research Scientist at the King Abdullah University of Science and Technology (KAUST). He is here for two weeks for a research visit.</p>
