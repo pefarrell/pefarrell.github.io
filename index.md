@@ -77,14 +77,15 @@ Geometric PDE Challenges in Science & Engineering
 
 <p>2026-05-07: I will give a seminar in the <a href="https://www.math.cit.tum.de/math/forschung/gruppen/numerical-analysis/oberseminar-numerical-methods-in-cse/">Numerical Methods in CSE</a> seminar at TU München, hosted by <a href="https://www.professoren.tum.de/en/wohlmuth-barbara">Barbara Wohlmuth</a> and <a href="https://www.math.cit.tum.de/math/personen/wissenschaftliches-personal/muhr-markus/">Markus Muhr</a>.</p>
 
-<p>2026-04-20: I will give the opening talk of the <a href="https://www.esi.ac.at/events/e585/">Differential Complexes: Theory, Discretization, and Applications</a> thematic programme at the Erwin Schrödinger Institut in Vienna, Austria. The organisers are
+
+<h2 id="news">News</h2>
+
+<p>2026-04-20: I gave the opening talk of the <a href="https://www.esi.ac.at/events/e585/">Differential Complexes: Theory, Discretization, and Applications</a> thematic programme at the Erwin Schrödinger Institut in Vienna, Austria. The organisers are
   <a href="https://www.mat.univie.ac.at/~cap/">Andreas Cap</a>,
   <a href="https://people.math.ethz.ch/~hiptmair/Homepage/index.html">Ralf Hiptmair</a>,
   <a href="https://kaibohu.github.io/">Kaibo Hu</a>, and
   <a href="https://www.tuwien.at/mg/asc/schoeberl">Joachim Schöberl</a>.</p>
 
-
-<h2 id="news">News</h2>
 
 <p>2026-04-13: I gave an invited talk at the workshop on <a href="https://icerm.brown.edu/program/semester_program_workshop/sp-s26-w3">Simulation-Based Optimization with Applications</a> at the Institute for Computational and Experimental Research in Mathematics (ICERM) in Providence, USA. The organisers were
   <a href="http://math.gmu.edu/~hantil/">Harbir Antil</a>,
