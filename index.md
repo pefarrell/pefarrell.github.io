@@ -80,6 +80,11 @@ Geometric PDE Challenges in Science & Engineering
 
 <h2 id="news">News</h2>
 
+<p>2026-04-21: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2604.19230">preconditioners for the Onsager-Stefan-Maxwell equations for multicomponent diffusion</a>, with
+<a href="https://www.maths.ox.ac.uk/people/kars.knook">Kars Knook</a>,
+and Aaron Baier-Reinio.</p>
+
+
 <p>2026-04-20: I gave the opening talk of the <a href="https://www.esi.ac.at/events/e585/">Differential Complexes: Theory, Discretization, and Applications</a> thematic programme at the Erwin Schrödinger Institut in Vienna, Austria. The organisers are
   <a href="https://www.mat.univie.ac.at/~cap/">Andreas Cap</a>,
   <a href="https://people.math.ethz.ch/~hiptmair/Homepage/index.html">Ralf Hiptmair</a>,
