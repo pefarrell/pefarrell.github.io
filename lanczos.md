@@ -94,5 +94,5 @@ Email any queries about the prize to Professor Patrick Farrell (University of Ox
 Past winners
 ============
 
-- 2024: Patrick Amestoy, Jean-Yves L'Excellent, and Theo Mary: <a href="https://mumps-solver.org/index.php">MUMPS</a>
+- 2024: Patrick Amestoy, Jean-Yves L'Excellent, and Theo Mary: <a href="https://mumps-solver.org/index.php">MUMPS</a>, "<i>for their important and widely-used contributions to the numerical solution of sparse linear systems</i>."
 
