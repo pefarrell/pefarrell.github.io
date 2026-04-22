@@ -81,7 +81,7 @@ Geometric PDE Challenges in Science & Engineering
 <h2 id="news">News</h2>
 
 <p>2026-04-21: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2604.19230">preconditioners for the Onsager-Stefan-Maxwell equations for multicomponent diffusion</a>, with
-<a href="https://www.maths.ox.ac.uk/people/kars.knook">Kars Knook</a>,
+<a href="https://www.maths.ox.ac.uk/people/kars.knook">Kars Knook</a>
 and Aaron Baier-Reinio.</p>
 
 
