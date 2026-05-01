@@ -224,10 +224,16 @@ in Edinburgh, UK.</p>
 
 <p>2025-10-13: Welcome to Jens Molge! Jens is an MSc student co-supervised with <a href="https://scoop.iwr.uni-heidelberg.de/team/rherzog/">Roland Herzog</a> and <a href="https://scoop.iwr.uni-heidelberg.de/team/gm%C3%BCller/">Georg Müller</a> at Ruprecht-Karls-Universität Heidelberg. Jens is visiting for five months.</p>
 
+<p>2025-10-11: I published a paper about <a href="https://doi.org/10.1007/s00366-025-02203-2">topology optimisation of transient compressible flow</a> in Engineering with Computers, with
+<a href="https://scholar.google.com/citations?user=SCoRD7cAAAAJ&hl=en">Diego Alonso</a>,
+<a href="https://sites.usp.br/rcgi/julio-romano-meneghini/">Julio Meneghini</a>,
+and
+<a href="https://sites.usp.br/rcgi/emilio-c-n-silva/">Emilio Silva</a>.</p>
+
 <p>2025-10-08: I gave an invited talk at the <a href="https://martinlicht.github.io/frontiers2025.html">Frontiers in Numerical Methods for Nonlinear Partial Differential Equations</a> workshop in Lausanne, Switzerland. The organisers were
   <a href="https://martinlicht.github.io/">Martin Licht</a>,
   <a href="https://who.rocq.inria.fr/Martin.Vohralik/">Martin Vohralik</a>, and
-  <a href="https://tchaumont.github.io/">Théophile Chaumont-Frelet</a>.
+  <a href="https://tchaumont.github.io/">Théophile Chaumont-Frelet</a>.</p>
 
 
 <p>2025-10-01: I served as external PhD examiner for Ben Green at Loughborough University. Congratulations!</p>
