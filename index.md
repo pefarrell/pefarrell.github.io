@@ -75,10 +75,13 @@ Geometric PDE Challenges in Science & Engineering
 <a href="https://ms.mcmaster.ca/~bronsard/">Lia Bronsard</a>, and 
 <a href="https://www2.thphy.uni-duesseldorf.de/~hlowen/">Hartmut Löwen</a>. Thanks to the <a href="https://www.we-heraeus-stiftung.de/english/">Wilhelm und Else Heraeus-Stiftung</a> for their kind support.</p>
 
-<p>2026-05-07: I will give a seminar in the <a href="https://www.math.cit.tum.de/math/forschung/gruppen/numerical-analysis/oberseminar-numerical-methods-in-cse/">Numerical Methods in CSE</a> seminar at TU München, hosted by <a href="https://www.professoren.tum.de/en/wohlmuth-barbara">Barbara Wohlmuth</a> and <a href="https://www.math.cit.tum.de/math/personen/wissenschaftliches-personal/muhr-markus/">Markus Muhr</a>.</p>
 
 
 <h2 id="news">News</h2>
+
+
+
+<p>2026-05-07: I gave a seminar in the <a href="https://www.math.cit.tum.de/math/forschung/gruppen/numerical-analysis/oberseminar-numerical-methods-in-cse/">Numerical Methods in CSE</a> seminar at TU München, hosted by <a href="https://www.professoren.tum.de/en/wohlmuth-barbara">Barbara Wohlmuth</a> and <a href="https://www.math.cit.tum.de/math/personen/wissenschaftliches-personal/muhr-markus/">Markus Muhr</a>.</p>
 
 <p>2026-04-21: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2604.19230">preconditioners for the Onsager-Stefan-Maxwell equations for multicomponent diffusion</a>, with
 <a href="https://www.maths.ox.ac.uk/people/kars.knook">Kars Knook</a>
