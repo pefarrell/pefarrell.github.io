@@ -75,7 +75,7 @@ Geometric PDE Challenges in Science & Engineering
 <a href="https://ms.mcmaster.ca/~bronsard/">Lia Bronsard</a>, and 
 <a href="https://www2.thphy.uni-duesseldorf.de/~hlowen/">Hartmut Löwen</a>. Thanks to the <a href="https://www.we-heraeus-stiftung.de/english/">Wilhelm und Else Heraeus-Stiftung</a> for their kind support.</p>
 
-
+<p>2026-05-13: I will give an invited talk online at the workshop on <a href="https://mif.cnu.edu.ua/2026/05/07/workshop-on-numerical-analysis-and-approximation-theory/">Numerical Analysis and Approximation Theory</a> at the Vasyl Stefanyk Carpathian National University in Ivano-Frankivsk, Ukraine. The organiser is <a href="https://kmfa.cnu.edu.ua/en/roman-dmytryshyn/">Roman Dmytryshyn</a>.</p>
 
 <h2 id="news">News</h2>
 
