@@ -297,7 +297,7 @@ title: People
 
 <figure>
   <img src="{{site.url}}/images/hadjslimane.jpg" alt="Arselane Hadj-Slimane"/>
-  <figcaption>Arselane Hadj-Slimane. <br/>Topic: shape optimisation in the presence of multiple solutions. <br/> Visiting MSc student. Home institution: ENS Saclay. </figcaption>
+  <figcaption>Arselane Hadj-Slimane. <br/>Topic: shape optimisation in the presence of multiple solutions. <br/> Visiting MSc student. Home institution: ENS Saclay. Next step: a PhD with Grégoire Allaire.</figcaption>
 </figure>
 
 &nbsp;
