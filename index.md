@@ -70,12 +70,19 @@ Geometric PDE Challenges in Science & Engineering
   <a href="https://www.math.umd.edu/~rhn/">Ricardo Nochetto</a>, and
   <a href="https://www.math.lsu.edu/~walker/">Shawn Walker</a>.</p>
 
-<p>2026-05-18: I will organise a <a href="https://houches-mai2026.sciencesconf.org/">workshop on smectics and complex layered fluids</a> at <a href="https://www.houches-school-physics.com/program/program-2026/smectics-and-distorted-nematics-analytics-numerics-and-experiments-1644440.kjsp?RH=1757601871949">l'École de physique des Houches</a>, alongside 
+<h2 id="news">News</h2>
+
+<p>2026-05-19: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2605.20371">arbitrary-order structure-preserving discretizations for geometric curvature flows</a>, with
+<a href="https://ganghui-zhang.github.io/">Ganghui Zhang</a>
+and
+<a href="https://ganghui-zhang.github.io/">Boris Andrews</a>
+.</p>
+
+<p>2026-05-18: I organised a <a href="https://houches-mai2026.sciencesconf.org/">workshop on smectics and complex layered fluids</a> at <a href="https://www.houches-school-physics.com/program/program-2026/smectics-and-distorted-nematics-analytics-numerics-and-experiments-1644440.kjsp?RH=1757601871949">l'École de physique des Houches</a>, alongside 
 <a href="https://cv.hal.science/emmanuelle-lacaze">Emmanuelle Lacaze</a>, 
 <a href="https://ms.mcmaster.ca/~bronsard/">Lia Bronsard</a>, and 
 <a href="https://www2.thphy.uni-duesseldorf.de/~hlowen/">Hartmut Löwen</a>. Thanks to the <a href="https://www.we-heraeus-stiftung.de/english/">Wilhelm und Else Heraeus-Stiftung</a> for their kind support.</p>
 
-<h2 id="news">News</h2>
 
 <p>2026-05-13: I gave an invited talk online at the workshop on <a href="https://mif.cnu.edu.ua/2026/05/07/workshop-on-numerical-analysis-and-approximation-theory/">Numerical Analysis and Approximation Theory</a> at the Vasyl Stefanyk Carpathian National University in Ivano-Frankivsk, Ukraine. The organiser is <a href="https://kmfa.cnu.edu.ua/en/roman-dmytryshyn/">Roman Dmytryshyn</a>.</p>
 
