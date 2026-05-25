@@ -74,6 +74,16 @@ Geometric PDE Challenges in Science & Engineering
 
 <h2 id="news">News</h2>
 
+<p>2026-05-25:
+<a href="https://orcid.org/0000-0002-0542-4342">Aaron Baier-Reinio</a>,
+<a href="https://sites.google.com/view/mingdonghe/home/">Mingdong He</a>,
+<a href="https://thighamoxford.github.io/">Thomas Higham</a>,
+<a href="https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=18459">Lenka Kosarkova</a>,
+and
+<a href="https://www.uzerbinati.eu/">Umberto Zerbinati</a>
+attended the
+<a href="https://ems-maff.cuni.cz/">EMS School on Mathematical Aspects of Fluid Flows</a> in Kácov, Czechia.</p>
+
 <p>2026-05-19: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2605.20371">arbitrary-order structure-preserving discretizations for geometric curvature flows</a>, with
 <a href="https://ganghui-zhang.github.io/">Ganghui Zhang</a>
 and
