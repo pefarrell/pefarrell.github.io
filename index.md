@@ -84,6 +84,8 @@ and
 attended the
 <a href="https://ems-maff.cuni.cz/">EMS School on Mathematical Aspects of Fluid Flows</a> in Kácov, Czechia.</p>
 
+<p>2026-05-23: I have <b>been awarded the <a class="iwantyoubold" href="https://www.universityofgalway.ie/about-us/news-and-events/news-archive/2026/may/university-of-galway-celebrates-2026-alumni-award-honourees-at-annual-gala">2026 Alumni Award for Engineering, Science and Technology by the University of Galway</a></b>!</p>
+
 <p>2026-05-19: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2605.20371">arbitrary-order structure-preserving discretizations for geometric curvature flows</a>, with
 <a href="https://ganghui-zhang.github.io/">Ganghui Zhang</a>
 and
@@ -373,7 +375,7 @@ organised by <a href="https://ioannispapapadopoulos.github.io/">Ioannis Papadopo
 
 <p>2025-03-12: I gave my <a href="https://www.karlin.mff.cuni.cz/php/msekce/colloquia/2025/M_Kolokvium_35.pdf">inaugural lecture as Donatio Chair</a> at Charles University.</p>
 
-<p>2025-03-07: I have <b>been awarded the <a href="https://www.siam.org/programs-initiatives/prizes-awards/major-prizes-lectures/germund-dahlquist-prize/prize-history/">2025 Germund Dahlquist Prize by SIAM</a></b> for my work in the numerical solution of partial differential equations!</p>
+<p>2025-03-07: I have <b>been awarded the <a class="iwantyoubold" href="https://www.siam.org/programs-initiatives/prizes-awards/major-prizes-lectures/germund-dahlquist-prize/prize-history/">2025 Germund Dahlquist Prize by SIAM</a></b> for my work in the numerical solution of partial differential equations!</p>
 
 <p>2025-03-07: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2503.05674">multiple solutions of the Grad-Shafranov equations in the MAST-U tokamak</a>, with <a href="https://scholar.google.com/citations?user=x5UzeL8AAAAJ&hl=en">Kamran Pentland</a>, <a href="https://scholar.google.com/citations?user=TJjZjWQAAAAJ&hl=en">Nicola Amorisco</a>, and <a href="https://scholar.google.co.uk/citations?user=gSR84cAAAAAJ&hl=en">Chris Ham</a> of the UK Atomic Energy Authority. We demonstrate that the Grad-Shafranov equations with free boundary conditions permit multiple solutions in realistic tokamak configurations of MAST-U. Update: accepted in Nuclear Fusion.</p>
   <figure>
