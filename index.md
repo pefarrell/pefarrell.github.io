@@ -244,6 +244,11 @@ in Edinburgh, UK.</p>
   <img src="{{site.url}}/images/reading-group-20251017.jpg" alt="Reading group attendees, 2025-10-17."/>
   </figure>
 
+<p>2025-10-16: It is twenty years since I won the <a href="https://www.ria.ie/grants-awards/prizes/hamilton-prize-in-mathematics/">Hamilton Prize from the Royal Irish Academy</a>. I met <a href="https://en.wikipedia.org/wiki/Steven_Weinberg">Steven Weinberg</a>!
+  <figure>
+  <img src="{{site.url}}/images/hamilton-prize-20051016.png" alt="Meeting Steven Weinberg at the Hamilton Prize ceremony, 2005-10-16."/>
+  </figure></p>
+
 <p>2025-10-16: I gave a <a href="https://www.ucl.ac.uk/~ucahalk/UCL_Colloquium.html">departmental colloquium at University College London</a>.</p>
 
 <p>2025-10-16: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2510.14923">finite element methods for electroneutral multicomponent electrolyte flows</a>, with <a href="https://orcid.org/0000-0002-0542-4342">Aaron Baier-Reinio</a> and <a href="https://eng.ox.ac.uk/monroe-research-group/">Charles Monroe</a>.</p>
