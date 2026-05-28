@@ -92,7 +92,12 @@ and
 attended the
 <a href="https://ems-maff.cuni.cz/">EMS School on Mathematical Aspects of Fluid Flows</a> in Kácov, Czechia.</p>
 
-<p>2026-05-23: I have <b>been awarded the <a class="iwantyoubold" href="https://www.universityofgalway.ie/about-us/news-and-events/news-archive/2026/may/university-of-galway-celebrates-2026-alumni-award-honourees-at-annual-gala">2026 Alumni Award for Engineering, Science and Technology by the University of Galway</a></b>!</p>
+<p>2026-05-23: I have <b>been awarded the <a class="iwantyoubold" href="https://www.universityofgalway.ie/about-us/news-and-events/news-archive/2026/may/university-of-galway-celebrates-2026-alumni-award-honourees-at-annual-gala">2026 Alumni Award for Engineering, Science and Technology by the University of Galway</a></b>!
+  <figure>
+  <img src="{{site.url}}/images/galway-alumni-award-20260523.jpg" alt="2026 Alumni Award for Science, Engineering, and Technology from the University of Galway."/>
+  <figcaption>2026 Alumni Award for Science, Engineering, and Technology from the University of Galway.</figcaption>
+  </figure>
+</p>
 
 <p>2026-05-19: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2605.20371">arbitrary-order structure-preserving discretizations for geometric curvature flows</a>, with
 <a href="https://ganghui-zhang.github.io/">Ganghui Zhang</a>
