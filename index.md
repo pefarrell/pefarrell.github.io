@@ -74,6 +74,14 @@ Geometric PDE Challenges in Science & Engineering
 
 <h2 id="news">News</h2>
 
+<p>2026-05-28: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2605.27069">the convergence of iterated penalty methods for structure-preserving discretisations of saddle point problems</a>, with
+<a href="https://sites.google.com/pitt.edu/neilan/home">Michael Neilan</a>,
+<a href="https://sites.google.com/view/charlieparker2/about">Charles Parker</a>,
+and
+<a href="https://people.cs.uchicago.edu/~ridg/">Ridgway Scott</a>
+.</p>
+
+
 <p>2026-05-25:
 <a href="https://orcid.org/0000-0002-0542-4342">Aaron Baier-Reinio</a>,
 <a href="https://sites.google.com/view/mingdonghe/home/">Mingdong He</a>,
