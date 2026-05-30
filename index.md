@@ -69,6 +69,16 @@ Geometric PDE Challenges in Science & Engineering
   <a href="https://www.math.umd.edu/~rhn/">Ricardo Nochetto</a>, and
   <a href="https://www.math.lsu.edu/~walker/">Shawn Walker</a>.</p>
 
+<p>2026-06-01:
+<a href="https://www.maths.ox.ac.uk/people/pablo.brubeckmartinez">Pablo Brubeck</a>,
+<a href="https://scholar.google.com/citations?user=SCoRD7cAAAAJ&hl=en">Diego Alonso</a>,
+<a href="https://www.maths.ox.ac.uk/people/india.marsden">India Marsden</a>,
+<a href="https://orcid.org/0000-0002-0542-4342">Aaron Baier-Reinio</a>,
+<a href="https://sites.google.com/view/mingdonghe/home/">Mingdong He</a>,
+and
+<a href="https://borisandrews.github.io/">Boris Andrews</a>
+will talk at the <a href="https://www.firedrakeproject.org/firedrake_26.html">joint PETSc-Firedrake '26 conference</a> in Oxford, UK.</p>
+
 <h2 id="news">News</h2>
 
 <p>2026-05-28: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2605.27069">the convergence of iterated penalty methods for structure-preserving discretisations of saddle point problems</a>, with
@@ -98,7 +108,7 @@ attended the
 <p>2026-05-19: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2605.20371">arbitrary-order structure-preserving discretizations for geometric curvature flows</a>, with
 <a href="https://ganghui-zhang.github.io/">Ganghui Zhang</a>
 and
-<a href="https://ganghui-zhang.github.io/">Boris Andrews</a>
+<a href="https://borisandrews.github.io/">Boris Andrews</a>
 .</p>
 
 <p>2026-05-18: I organised a <a href="https://houches-mai2026.sciencesconf.org/">workshop on smectics and complex layered fluids</a> at <a href="https://www.houches-school-physics.com/program/program-2026/smectics-and-distorted-nematics-analytics-numerics-and-experiments-1644440.kjsp?RH=1757601871949">l'École de physique des Houches</a>, alongside 
