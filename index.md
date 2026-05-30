@@ -37,13 +37,10 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <h2 id="forthcoming">Forthcoming</h2>
 
-<!--
 <p>2027-06-06: I will organise the <a href="https://ems-masc.cuni.cz/">EMS School on Mathematical Modelling, Numerical Analysis, and Scientific Computing</a> in Kácov, Czechia. The speakers this year will be
-  <a href="https://www.tue.nl/en/research/researchers/olga-mula-hernandez">Olga Mula</a>,
-  <a href="https://www.simula.no/people/thomasms">Thomas Surowiec</a>,
-  <a href="https://appliedmath.brown.edu/people/johnny-guzman">Johnny Guzmán</a>, and
-  <a href="https://people.epfl.ch/daniel.kressner">Daniel Kressner</a>.</p>
--->
+  <a href="https://www.damtp.cam.ac.uk/user/mjc249/home.html">Matthew Colbrook</a>,
+  <a href="https://www.simula.no/people/meg">Marie Rognes</a>, and
+  <a href="https://alextownsend.net/">Alex Townsend</a>.</p>
 
 <p>2027-04-18: I will participate in the <a href="https://www.mfo.de/www/activity/2716">Structure Preserving Methods for Computational Geometric Mechanics</a> workshop at the Mathematisches Forschungsinstitut Oberwolfach, Germany.</p>
 
@@ -95,7 +92,6 @@ attended the
 <p>2026-05-23: I have <b>been awarded the <a class="iwantyoubold" href="https://www.universityofgalway.ie/about-us/news-and-events/news-archive/2026/may/university-of-galway-celebrates-2026-alumni-award-honourees-at-annual-gala">2026 Alumni Award for Engineering, Science and Technology by the University of Galway</a></b>!
   <figure>
   <img src="{{site.url}}/images/galway-alumni-award-20260523.jpg" alt="2026 Alumni Award for Science, Engineering, and Technology from the University of Galway."/>
-  <figcaption>2026 Alumni Award for Science, Engineering, and Technology from the University of Galway.</figcaption>
   </figure>
 </p>
 
