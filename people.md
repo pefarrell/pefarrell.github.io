@@ -74,7 +74,7 @@ title: People
 
 <figure>
   <img src="{{site.url}}/images/higham.jpg" alt="Thomas Higham"/>
-  <figcaption>Thomas Higham. <br/>Topic: non-axisymetric magnetic equilibria calculation in tokamaks. <br/> Co-supervised with Ed Threlfall and <a href="https://scholar.google.co.uk/citations?user=gSR84cAAAAAJ&hl=en&oi=sra">Christopher Ham</a> of the UK Atomic Energy Authority.</figcaption>
+  <figcaption>Thomas Higham. <br/>Topic: non-axisymmetric magnetic equilibria calculation in tokamaks. <br/> Co-supervised with Ed Threlfall and <a href="https://scholar.google.co.uk/citations?user=gSR84cAAAAAJ&hl=en&oi=sra">Christopher Ham</a> of the UK Atomic Energy Authority.</figcaption>
 </figure>
 
 ## DPhil graduates

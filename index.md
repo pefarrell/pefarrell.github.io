@@ -93,7 +93,7 @@ and
 <a href="https://orcid.org/0000-0002-0542-4342">Aaron Baier-Reinio</a>,
 <a href="https://sites.google.com/view/mingdonghe/home/">Mingdong He</a>,
 <a href="https://thighamoxford.github.io/">Thomas Higham</a>,
-<a href="https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=18459">Lenka Kosarkova</a>,
+<a href="https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=18459">Lenka Košárková</a>,
 and
 <a href="https://www.uzerbinati.eu/">Umberto Zerbinati</a>
 attended the
@@ -474,7 +474,7 @@ organised by <a href="https://ioannispapapadopoulos.github.io/">Ioannis Papadopo
 <p>2024-05-20: Pablo Brubeck spoke at the <a href="https://matematica.unipv.it/ricerca/cicli-di-seminari/seminari-di-matematica-applicata/">Applied Mathematics Seminar</a> in Pavia, Italy.<p>
 <p>2024-05-14: Pablo Brubeck spoke in a minisymposium at the <a href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=78652">SIAM Conference on Applied Linear Algebra</a> in Paris, France.<p>
 <p>2024-05-03: I gave a talk in the <a href="https://warwick.ac.uk/fac/sci/maths/research/events/colloquium/">Warwick Mathematics Colloquium</a>.</p>
-<p>2024-04-19: Pablo Brubeck spoke at the <a href="https://easychair.org/smart-program/CM2024/2024-04-19.html">18th Copper Mountain Conference on Iterative Methdos 2024</a> in Colorado, USA.<p>
+<p>2024-04-19: Pablo Brubeck spoke at the <a href="https://easychair.org/smart-program/CM2024/2024-04-19.html">18th Copper Mountain Conference on Iterative Methods 2024</a> in Colorado, USA.<p>
 <p>2024-04-09: Pablo Brubeck spoke at the <a href="https://sites.google.com/site/pjamesongraber/applied-math-seminar#h.qi3gvko1negi">Baylor Applied Mathematics Seminar</a> in Waco, TX, USA.<p>
 <p>2024-04-03: I gave a plenary talk at the <a href="https://events.dm.unipi.it/event/225/">Exploiting Algebraic and Geometric Structure in Time-Integration Methods</a> workshop organised by Santolo Leveque, Stefano Massei, Cecilia Pagliantini, Luca Saluzzi, and Milo Viviani in Pisa, Italy. Boris Andrews also gave a presentation.</p>
 <p>2024-04-02: Pablo Brubeck spoke at the <a href="https://oden.utexas.edu/news-and-events/past-events/1905---Dr.%20Pablo%20Brubeck%20Martinez">Oden Institute Seminar</a> in Austin, TX, USA.<p>
@@ -622,7 +622,7 @@ organised by <a href="https://ioannispapapadopoulos.github.io/">Ioannis Papadopo
 <p>2021-01-14: I am attending the online <a href="https://ccfe.ukaea.uk/excalibur-computing-project-will-sharpen-understanding-of-plasma-behaviour/">UKAEA ExCALIBUR-NEPTUNE</a> kickoff meeting to design a new code to simulate the turbulent edge of a plasma in a tokamak reactor.</p>
 
 <h2 id="news">2020</h2>
-<p>2020-11-24: I am organising a workshop on <a href="https://excalibur-genx.github.io/community-workshop/00_schedule.html">Planning for exasale continuum mechanics software</a>, with Jack Betteridge and <a href="https://www.imperial.ac.uk/people/david.ham">David Ham</a>. This is part of our <a href="https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V001493/1">ExCALIBUR working group</a>.</p>
+<p>2020-11-24: I am organising a workshop on <a href="https://excalibur-genx.github.io/community-workshop/00_schedule.html">Planning for exascale continuum mechanics software</a>, with Jack Betteridge and <a href="https://www.imperial.ac.uk/people/david.ham">David Ham</a>. This is part of our <a href="https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V001493/1">ExCALIBUR working group</a>.</p>
 <p>2020-11-17: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2011.08802">multigrid methods for phase field modelling of multivariant martensitic formation</a>, with <a href="http://www.karlin.mff.cuni.cz/~tumak3am/">Karel Tůma</a>, <a href="https://scholar.google.co.uk/citations?user=9xxR6moAAAAJ&hl=en">Mohsen Rezaee-Hajidehi</a>, <a href="https://www2.karlin.mff.cuni.cz/~hron/">Jaroslav Hron</a>, and <a href="http://bluebox.ippt.pan.pl/~sstupkie/">Stanislaw Stupkiewicz</a>. Update: accepted in CMAME. Here's a video of the microstructure evolution in a pseudoelastic CuAlNi single crystal during nano-indentation.</p>
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/MqtsP-f4KSI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 <p>2020-11-15: The <a href="https://www.cityu.edu.hk/node/93911">HKIAS International Conference on Mathematical Analysis and its Applications</a> has been rescheduled. Update: deferred (again) due to the coronavirus pandemic.</p>
