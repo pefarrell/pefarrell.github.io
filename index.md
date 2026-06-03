@@ -61,7 +61,9 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <p>2026-06-10: Aaron Baier-Reinio will talk in a minisymposium organised by <a href="https://www.karlin.mff.cuni.cz/~mbul8060/">Miroslav Bulíček</a>, <a href="https://www.karlin.mff.cuni.cz/~prusv/">Vít Průša</a>, and 
 <a href="https://geo.mff.cuni.cz/~soucek/">Ondřej Souček</a> at the <a href="https://aimsconference.org/conferences/2026/index.html">AIMS conference</a> in Athens, Greece.</p>
 
-<p>2026-06-02: I will give an invited talk at the workshop on <a href="https://brinmrc.umd.edu/summer26-gpdecse/">
+<h2 id="news">News</h2>
+
+<p>2026-06-02: I gave an invited talk at the workshop on <a href="https://brinmrc.umd.edu/summer26-gpdecse/">
 Geometric PDE Challenges in Science & Engineering
 </a> in College Park, Maryland. The organisers are
   <a href="https://mechmat.caltech.edu/">Kaushik Bhattacharya</a>,
@@ -77,16 +79,14 @@ Geometric PDE Challenges in Science & Engineering
 <a href="https://sites.google.com/view/mingdonghe/home/">Mingdong He</a>,
 and
 <a href="https://borisandrews.github.io/">Boris Andrews</a>
-will talk at the <a href="https://www.firedrakeproject.org/firedrake_26.html">joint PETSc-Firedrake '26 conference</a> in Oxford, UK.</p>
+gave talks at the <a href="https://www.firedrakeproject.org/firedrake_26.html">joint PETSc-Firedrake '26 conference</a> in Oxford, UK.</p>
 
-<h2 id="news">News</h2>
 
 <p>2026-05-28: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2605.27069">the convergence of iterated penalty methods for structure-preserving discretisations of saddle point problems</a>, with
 <a href="https://sites.google.com/pitt.edu/neilan/home">Michael Neilan</a>,
 <a href="https://sites.google.com/view/charlieparker2/about">Charles Parker</a>,
 and
-<a href="https://people.cs.uchicago.edu/~ridg/">Ridgway Scott</a>
-.</p>
+<a href="https://people.cs.uchicago.edu/~ridg/">Ridgway Scott</a>.</p>
 
 
 <p>2026-05-25:
