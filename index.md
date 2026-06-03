@@ -21,8 +21,8 @@ solution of partial differential equations, with a particular focus on
  - adjoint techniques, their application and automation,
  - preconditioners and fast solvers.
 
-I have applied the numerical techniques I develop to various
-applications, in the areas of mixtures, renewable energy,
+I have applied the numerical techniques I develop to
+problems in the areas of mixtures, renewable energy,
 cardiac electrophysiology, glaciology, magnetohydrodynamics,
 quantum mechanics, and liquid crystals.
 
