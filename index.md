@@ -63,6 +63,8 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <h2 id="news">News</h2>
 
+<p>2026-06-08: Welcome to <a href="https://numpi.dm.unipi.it/people/federica-mugnaioni/">Federica Mugnaioni</a>! Federica is a PhD student at the Scuola Normale Superiore in Pisa, supervised by <a href="https://www.sns.it/en/persona/michele-benzi">Michele Benzi</a>. She is here for three weeks.</p>
+
 <p>2026-06-02: I gave an invited talk at the workshop on <a href="https://brinmrc.umd.edu/summer26-gpdecse/">
 Geometric PDE Challenges in Science & Engineering
 </a> in College Park, Maryland. The organisers are
@@ -124,6 +126,8 @@ and
 <p>2026-05-14: I hosted <a href="https://www.nummath.math.uni-mainz.de/prof-dr-maria-lukacova-medvidova/">Mária Lukácová-Medvidová</a> for a research visit.</p>
 
 <p>2026-05-07: I gave a seminar in the <a href="https://www.math.cit.tum.de/math/forschung/gruppen/numerical-analysis/oberseminar-numerical-methods-in-cse/">Numerical Methods in CSE</a> seminar at TU München, hosted by <a href="https://www.professoren.tum.de/en/wohlmuth-barbara">Barbara Wohlmuth</a> and <a href="https://www.math.cit.tum.de/math/personen/wissenschaftliches-personal/muhr-markus/">Markus Muhr</a>.</p>
+
+<p>2026-04-27: Welcome to <a href="https://cam.fst.um.edu.mo/people/phd-student/">Jing-Yuan Wang</a>! Jing-Yuan is a PhD student at the University of Macau, supervised by <a href="https://www.fst.um.edu.mo/people/xccai/">Xiao-Chuan Cai</a>. She is here for ten weeks.</p>
 
 <p>2026-04-21: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2604.19230">preconditioners for the Onsager-Stefan-Maxwell equations for multicomponent diffusion</a>, with
 <a href="https://www.maths.ox.ac.uk/people/kars.knook">Kars Knook</a>
