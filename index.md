@@ -58,10 +58,16 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <p>2026-06-29: I will give a plenary talk at <a href="https://scicade.org/">SciCADE 2026</a> in Edinburgh, Scotland.</p>
 
-<p>2026-06-10: Aaron Baier-Reinio will talk in a minisymposium organised by <a href="https://www.karlin.mff.cuni.cz/~mbul8060/">Miroslav Bulíček</a>, <a href="https://www.karlin.mff.cuni.cz/~prusv/">Vít Průša</a>, and 
-<a href="https://geo.mff.cuni.cz/~soucek/">Ondřej Souček</a> at the <a href="https://aimsconference.org/conferences/2026/index.html">AIMS conference</a> in Athens, Greece.</p>
-
 <h2 id="news">News</h2>
+
+<p>2026-06-16: I published a paper about <a href="https://doi.org/10.1108/HFF-04-2026-0598">topology optimisation of transient turbulent compressible flow</a> in the International Journal of Numerical Methods for Heat & Fluid Flow, with
+<a href="https://scholar.google.com/citations?user=SCoRD7cAAAAJ&hl=en">Diego Alonso</a>,
+<a href="https://sites.usp.br/rcgi/julio-romano-meneghini/">Julio Meneghini</a>,
+and
+<a href="https://sites.usp.br/rcgi/emilio-c-n-silva/">Emilio Silva</a>.</p>
+
+<p>2026-06-10: Aaron Baier-Reinio gave a talk in a minisymposium organised by <a href="https://www.karlin.mff.cuni.cz/~mbul8060/">Miroslav Bulíček</a>, <a href="https://www.karlin.mff.cuni.cz/~prusv/">Vít Průša</a>, and 
+<a href="https://geo.mff.cuni.cz/~soucek/">Ondřej Souček</a> at the <a href="https://aimsconference.org/conferences/2026/index.html">AIMS conference</a> in Athens, Greece.</p>
 
 <p>2026-06-08: Welcome to <a href="https://numpi.dm.unipi.it/people/federica-mugnaioni/">Federica Mugnaioni</a>! Federica is a PhD student at the Scuola Normale Superiore in Pisa, supervised by <a href="https://www.sns.it/en/persona/michele-benzi">Michele Benzi</a>. She is here for three weeks.</p>
 
