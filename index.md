@@ -56,6 +56,9 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <p>2026-07-23: I will give <b>a section lecture at the <a class="iwantyoubold" href="https://www.icm2026.org/event/ac193975-5d24-4628-8c30-ddb23de19a8b/speakers">International Congress of Mathematicians</a></b>, in Section 15: Numerical Analysis and Scientific Computing, in Pennsylvania, USA.</p>
 
+<p>2026-07-10: Aaron Baier-Reinio will give a talk in a minisymposium organised by <a href="https://www.karlin.mff.cuni.cz/~mbul8060/">Miroslav Bulíček</a>, <a href="https://www.karlin.mff.cuni.cz/~prusv/">Vít Průša</a>, and 
+<a href="https://geo.mff.cuni.cz/~soucek/">Ondřej Souček</a> at the <a href="https://aimsconference.org/conferences/2026/index.html">AIMS conference</a> in Athens, Greece.</p>
+
 <p>2026-06-29: I will give a plenary talk at <a href="https://scicade.org/">SciCADE 2026</a> in Edinburgh, Scotland.</p>
 
 <h2 id="news">News</h2>
@@ -65,9 +68,6 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <a href="https://sites.usp.br/rcgi/julio-romano-meneghini/">Julio Meneghini</a>,
 and
 <a href="https://sites.usp.br/rcgi/emilio-c-n-silva/">Emilio Silva</a>.</p>
-
-<p>2026-06-10: Aaron Baier-Reinio gave a talk in a minisymposium organised by <a href="https://www.karlin.mff.cuni.cz/~mbul8060/">Miroslav Bulíček</a>, <a href="https://www.karlin.mff.cuni.cz/~prusv/">Vít Průša</a>, and 
-<a href="https://geo.mff.cuni.cz/~soucek/">Ondřej Souček</a> at the <a href="https://aimsconference.org/conferences/2026/index.html">AIMS conference</a> in Athens, Greece.</p>
 
 <p>2026-06-08: Welcome to <a href="https://numpi.dm.unipi.it/people/federica-mugnaioni/">Federica Mugnaioni</a>! Federica is a PhD student at the Scuola Normale Superiore in Pisa, supervised by <a href="https://www.sns.it/en/persona/michele-benzi">Michele Benzi</a>. She is here for three weeks.</p>
 
