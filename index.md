@@ -63,6 +63,8 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <h2 id="news">News</h2>
 
+<p>2026-06-22: I featured in the <a href="https://www.siam.org/publications/siam-news/articles/2026-june-prize-spotlight/">SIAM 2026 June Prize Spotlight on SIAM News</a>.</p>
+
 <p>2026-06-16: I published a paper about <a href="https://doi.org/10.1108/HFF-04-2026-0598">topology optimisation of transient turbulent compressible flow</a> in the International Journal of Numerical Methods for Heat & Fluid Flow, with
 <a href="https://scholar.google.com/citations?user=SCoRD7cAAAAJ&hl=en">Diego Alonso</a>,
 <a href="https://sites.usp.br/rcgi/julio-romano-meneghini/">Julio Meneghini</a>,
