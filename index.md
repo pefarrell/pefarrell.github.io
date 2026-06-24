@@ -50,6 +50,8 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <a href="https://www.numerik.mathematik.uni-mainz.de/prof-dr-maria-lukacova-medvidova/">Mária Lukácová-Medvidová</a>.
 </p>
 
+<p>2026-11-27: I will give a departmental colloquium in <a href="https://www.maths.manchester.ac.uk/">the Department of Mathematics of the University of Manchester</a>.</p>
+
 <p>2026-09-23: I will give an invited talk at the <a href="https://hypertop.cimne.com/">HyperTop Workshop on Advances in Shape and Topology Optimization for Hyperelastic Materials</a> at the Universitat Politècnica de Catalunya in Barcelona, Spain.</p>
 
 <p>2026-09-14: I will give an invited talk at the workshop on <a href="https://www.uzerbinati.eu/pages/borgodeigatti/">Advances in Ordered Fluids and Alignment Phenomena Modeling, Analysis, and Numerical Methods</a> in Golferenzo, Italy.</p>
@@ -60,6 +62,8 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <a href="https://geo.mff.cuni.cz/~soucek/">Ondřej Souček</a> at the <a href="https://aimsconference.org/conferences/2026/index.html">AIMS conference</a> in Athens, Greece.</p>
 
 <p>2026-06-29: I will give a plenary talk at <a href="https://scicade.org/">SciCADE 2026</a> in Edinburgh, Scotland.</p>
+
+<p>2026-06-25: I will host <a href="http://www.chunmei-su.cn/">Chunmei Su 苏春梅</a> for an out-of-term <a href="https://www.maths.ox.ac.uk/node/81638">Computational Mathematics & Applications Seminar</a>.</p>
 
 <h2 id="news">News</h2>
 
