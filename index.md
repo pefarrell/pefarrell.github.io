@@ -52,6 +52,8 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <p>2026-11-27: I will give a departmental colloquium in <a href="https://www.maths.manchester.ac.uk/">the Department of Mathematics of the University of Manchester</a>.</p>
 
+<p>2026-10-01: I will host <a href="https://timvanbeeck.github.io/">Tim van Beeck</a> for several months. Tim is a PhD student at the University of Göttingen, supervised by <a href="https://cpde.math.uni-goettingen.de/en/members/CLehrenfeld/index.html">Christoph Lehrenfeld</a>. His visit is supported by a <a href="https://www2.daad.de/ausland/studieren/stipendium/de/70-stipendien-finden-und-bewerben/?detail=57556279">Forschungsstipendien für Doktorandinnen und Doktoranden</a> from the Deutscher Akademischer Austauschdienst.</p>
+
 <p>2026-09-23: I will give an invited talk at the <a href="https://hypertop.cimne.com/">HyperTop Workshop on Advances in Shape and Topology Optimization for Hyperelastic Materials</a> at the Universitat Politècnica de Catalunya in Barcelona, Spain.</p>
 
 <p>2026-09-14: I will give an invited talk at the workshop on <a href="https://www.uzerbinati.eu/pages/borgodeigatti/">Advances in Ordered Fluids and Alignment Phenomena Modeling, Analysis, and Numerical Methods</a> in Golferenzo, Italy.</p>
