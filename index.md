@@ -63,11 +63,18 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <p>2026-07-10: Aaron Baier-Reinio will give a talk in a minisymposium organised by <a href="https://www.karlin.mff.cuni.cz/~mbul8060/">Miroslav Bulíček</a>, <a href="https://www.karlin.mff.cuni.cz/~prusv/">Vít Průša</a>, and 
 <a href="https://geo.mff.cuni.cz/~soucek/">Ondřej Souček</a> at the <a href="https://aimsconference.org/conferences/2026/index.html">AIMS conference</a> in Athens, Greece.</p>
 
-<p>2026-06-29: I will give a plenary talk at <a href="https://scicade.org/">SciCADE 2026</a> in Edinburgh, Scotland.</p>
-
-<p>2026-06-25: I will host <a href="http://www.chunmei-su.cn/">Chunmei Su 苏春梅</a> for an out-of-term <a href="https://www.maths.ox.ac.uk/node/81638">Computational Mathematics & Applications Seminar</a>.</p>
-
 <h2 id="news">News</h2>
+
+<p>2026-06-30: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2606.27300">automating Galerkin timestepping methods in Irksome</a>, with
+<a href="https://borisandrews.github.io/">Boris Andrews</a>,
+<a href="https://www.maths.ox.ac.uk/people/pablo.brubeckmartinez">Pablo Brubeck</a>,
+<a href="https://sites.baylor.edu/robert_kirby/">Rob Kirby</a>,
+and
+<a href="https://www.math.mun.ca/~smaclachlan/">Scott MacLachlan</a>.</p>
+
+<p>2026-06-30: I gave a plenary talk at <a href="https://scicade.org/">SciCADE 2026</a> in Edinburgh, Scotland.</p>
+
+<p>2026-06-25: I hosted <a href="http://www.chunmei-su.cn/">Chunmei Su 苏春梅</a> for an out-of-term <a href="https://www.maths.ox.ac.uk/node/81638">Computational Mathematics & Applications Seminar</a>.</p>
 
 <p>2026-06-22: I featured in the <a href="https://www.siam.org/publications/siam-news/articles/2026-june-prize-spotlight/">SIAM 2026 June Prize Spotlight on SIAM News</a>.</p>
 
