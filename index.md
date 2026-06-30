@@ -387,7 +387,7 @@ organised by <a href="https://ioannispapapadopoulos.github.io/">Ioannis Papadopo
 
 <p>2025-05-29: Welcome to <a href="https://kaibohu.github.io/">Kaibo Hu</a>, who will join the Numerical Analysis group as faculty later this year!</p>
 
-<p>2025-05-26: Pablo Brubeck will talk at the <a href="https://coupled2025.cimne.com">International Conference on Coupled Problems in Science and Engineering</a>.</p>
+<p>2025-05-26: Pablo Brubeck spoke at the <a href="https://coupled2025.cimne.com">International Conference on Coupled Problems in Science and Engineering</a>.</p>
 
 <p>2025-05-23: Pablo Brubeck and Umberto Zerbinati spoke at the <a href="https://indico.sissa.it/event/153/">22nd European Finite Element Fair</a>.</p>
 
@@ -415,7 +415,7 @@ organised by <a href="https://ioannispapapadopoulos.github.io/">Ioannis Papadopo
 
 <p>2025-03-31: I gave a <a href="https://www.cimne.com/vnews/m2912/12298/cimne-seminar-designing-conservative-and-accurately-dissipative-numerical-integrators-in-time-by-patrick-farrell">seminar at the Centro Internacional de Métodos Numéricos en la Ingeniería, Universitat Politècnica de Catalunya</a>, hosted by <a href="https://sites.google.com/view/alexferrer">Àlex Ferrer</a>.</p>
 
-<p>2025-03-28: I will give a talk in the <a href="https://applied-mathematics.wp.st-andrews.ac.uk/event/prof-patrick-farrell-university-of-oxford/">Applied Mathematics Seminar in St. Andrews</a>, hosted by <a href="https://www.st-andrews.ac.uk/mathematics-statistics/people/te55/">Tom Elsden</a>.</p>
+<p>2025-03-28: I gave a talk in the <a href="https://applied-mathematics.wp.st-andrews.ac.uk/event/prof-patrick-farrell-university-of-oxford/">Applied Mathematics Seminar in St. Andrews</a>, hosted by <a href="https://www.st-andrews.ac.uk/mathematics-statistics/people/te55/">Tom Elsden</a>.</p>
 
 
 <p>2025-03-20: Mingdong He <a href="https://icmsec.cc.ac.cn/article/178/4145.html">gave a talk at the Institute of Computational Mathematics and Scientific/Engineering Computing</a>, Beijing, China.</p>
@@ -492,17 +492,17 @@ organised by <a href="https://ioannispapapadopoulos.github.io/">Ioannis Papadopo
 <p>2024-06-13: I gave an invited talk at the <a href="https://indico.math.cnrs.fr/event/napde">New Trends in Numerical Analysis of PDEs</a> conference organised by Clément Cancès, Claire Chainais, Maxime Herda, Simon Lemaire, and Antoine Zurek in Lille, France.</p>
 <p>2024-06-10: Mingdong He gave a contributed talk at the <a href="https://www.math.emory.edu/~yxi26/Precond24/accepted.html">Preconditioning 2024</a> meeting in Atlanta, USA.</p>
 <p>2024-06-10: Kars Knook organised a minisymposium on <a href="https://www.math.emory.edu/~yxi26/Precond24/accepted.html">Preconditioners for High Frequency Helmholtz Problems</a> at the Preconditioning 2024 meeting in Atlanta, USA.</p>
-<p>2024-06-07: Pablo Brubeck spoke in a minisymposium at the <a href="https://eccomas2024.org/event/session/57b1e478-f81f-11ee-a60e-000c29ddfc0c">ECCOMAS 2024</a> in Lisbon, Portugal.<p>
+<p>2024-06-07: Pablo Brubeck spoke in a minisymposium at the <a href="https://eccomas2024.org/event/session/57b1e478-f81f-11ee-a60e-000c29ddfc0c">ECCOMAS 2024</a> in Lisbon, Portugal.</p>
 <p>2024-06-06: I hosted <a href="https://www.math.wustl.edu/~astern/">Ari Stern</a> for a talk in the <a href="https://www.maths.ox.ac.uk/node/66126">Computational Mathematics and Applications seminar</a>.</p>
-<p>2024-05-23: Pablo Brubeck spoke at the <a href="https://cds.uni-koeln.de/en/workshops/petsc-2024/program">PETSc User Meeting</a> in Cologne, Germany.<p>
+<p>2024-05-23: Pablo Brubeck spoke at the <a href="https://cds.uni-koeln.de/en/workshops/petsc-2024/program">PETSc User Meeting</a> in Cologne, Germany.</p>
 <p>2024-05-20: I gave a plenary talk at the <a href="https://hpcse.it4i.cz/HPCSE24/">HPCSE 2024 High Performance Computing in Science and Engineering conference</a> in Soláň, Czechia.</p>
-<p>2024-05-20: Pablo Brubeck spoke at the <a href="https://matematica.unipv.it/ricerca/cicli-di-seminari/seminari-di-matematica-applicata/">Applied Mathematics Seminar</a> in Pavia, Italy.<p>
-<p>2024-05-14: Pablo Brubeck spoke in a minisymposium at the <a href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=78652">SIAM Conference on Applied Linear Algebra</a> in Paris, France.<p>
+<p>2024-05-20: Pablo Brubeck spoke at the <a href="https://matematica.unipv.it/ricerca/cicli-di-seminari/seminari-di-matematica-applicata/">Applied Mathematics Seminar</a> in Pavia, Italy.</p>
+<p>2024-05-14: Pablo Brubeck spoke in a minisymposium at the <a href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=78652">SIAM Conference on Applied Linear Algebra</a> in Paris, France.</p>
 <p>2024-05-03: I gave a talk in the <a href="https://warwick.ac.uk/fac/sci/maths/research/events/colloquium/">Warwick Mathematics Colloquium</a>.</p>
-<p>2024-04-19: Pablo Brubeck spoke at the <a href="https://easychair.org/smart-program/CM2024/2024-04-19.html">18th Copper Mountain Conference on Iterative Methods 2024</a> in Colorado, USA.<p>
-<p>2024-04-09: Pablo Brubeck spoke at the <a href="https://sites.google.com/site/pjamesongraber/applied-math-seminar#h.qi3gvko1negi">Baylor Applied Mathematics Seminar</a> in Waco, TX, USA.<p>
+<p>2024-04-19: Pablo Brubeck spoke at the <a href="https://easychair.org/smart-program/CM2024/2024-04-19.html">18th Copper Mountain Conference on Iterative Methods 2024</a> in Colorado, USA.</p>
+<p>2024-04-09: Pablo Brubeck spoke at the <a href="https://sites.google.com/site/pjamesongraber/applied-math-seminar#h.qi3gvko1negi">Baylor Applied Mathematics Seminar</a> in Waco, TX, USA.</p>
 <p>2024-04-03: I gave a plenary talk at the <a href="https://events.dm.unipi.it/event/225/">Exploiting Algebraic and Geometric Structure in Time-Integration Methods</a> workshop organised by Santolo Leveque, Stefano Massei, Cecilia Pagliantini, Luca Saluzzi, and Milo Viviani in Pisa, Italy. Boris Andrews also gave a presentation.</p>
-<p>2024-04-02: Pablo Brubeck spoke at the <a href="https://oden.utexas.edu/news-and-events/past-events/1905---Dr.%20Pablo%20Brubeck%20Martinez">Oden Institute Seminar</a> in Austin, TX, USA.<p>
+<p>2024-04-02: Pablo Brubeck spoke at the <a href="https://oden.utexas.edu/news-and-events/past-events/1905---Dr.%20Pablo%20Brubeck%20Martinez">Oden Institute Seminar</a> in Austin, TX, USA.</p>
 <p>2024-03-11: I attended the <a href="https://icerm.brown.edu/programs/sp-s24/w2/">PDEs and Geometry: Numerical Aspects</a> workshop at ICERM, as part of the <a href="https://icerm.brown.edu/programs/sp-s24/">Numerical PDEs: Analysis, Algorithms, and Data Challenges</a> semester program.</p>
 <p>2024-03-06: I spoke at the annual <a href="https://ukaeaevents.com/neptune-workshop-2024/">UKAEA NEPTUNE</a> workshop.</p>
 <p>2024-02-29: I hosted <a href="https://cemse.kaust.edu.sa/ecrc/people/person/stefano-zampini">Stefano Zampini</a> for a talk in the <a href="https://www.maths.ox.ac.uk/node/66126">Computational Mathematics and Applications seminar</a>.</p>
@@ -510,11 +510,11 @@ organised by <a href="https://ioannispapapadopoulos.github.io/">Ioannis Papadopo
 <p>2024-01-30: Welcome to <a href="https://scholar.google.co.uk/citations?user=SCoRD7cAAAAJ&hl=en&oi=ao">Diego Hayashi Alonso</a>, who is visiting for a year from the Universidade de São Paulo.</p>
 <p>2024-01-25: I hosted <a href="http://matheblume.com/">Fleurianne Bertrand</a> for a talk in the <a href="https://www.maths.ox.ac.uk/node/61490">Computational Mathematics and Applications seminar</a>.</p>
 <p>2024-01-22: I gave a <a href="http://talks.bham.ac.uk/talk/index/5557">seminar jointly in the Optimisation and Numerical Analysis / Applied Mathematics series</a> at the University of Birmingham.</p>
-<p>2024-01-15: Pablo Brubeck spoke in a minisymposium at <a href="https://www.ci2ma.udec.cl/wonapde2024/">WONAPDE 2024</a> in Concepción, Chile.<p>
+<p>2024-01-15: Pablo Brubeck spoke in a minisymposium at <a href="https://www.ci2ma.udec.cl/wonapde2024/">WONAPDE 2024</a> in Concepción, Chile.</p>
 <p>2024-01-03: A new paper on multiple solutions of the Grad-Shafranov equations has been accepted in Nuclear Fusion Letters.</p>
 
 
-<h2 id="news">2023</h2>
+<h2 id="2023">2023</h2>
 <p>2023-12-23: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2312.15210">the kinetic derivation of a compressible Leslie-Ericksen equation for rarified calamitic gases</a>, with Umberto Zerbinati and <a href="https://www.dmi.unict.it/~russo/">Giovanni Russo</a>. Update: accepted in Multiscale Modeling and Simulation.</p>
 <p>2023-12-06: I gave a seminar in the Mathematical Modelling series at Charles University Prague.</p>
 <p>2023-11-20: I hosted a research visit from <a href="https://brendankeith.github.io/">Brendan Keith</a>.</p>
@@ -555,7 +555,7 @@ organised by <a href="https://ioannispapapadopoulos.github.io/">Ioannis Papadopo
 <p>2023-01-18: I hosted <a href="https://mkilme01.pages.tufts.edu/">Misha Kilmer</a> for a talk in the <a href="https://www.maths.ox.ac.uk/node/60817">Computational Mathematics and Applications seminar</a>.</p>
 <p>2023-01-04: I gave a talk in the <a href="https://www.firedrakeproject.org/firedrake_22.html">Firedrake meeting</a>, as did Umberto Zerbinati, India Marsden, and Francis Aznaran.</p>
 
-<h2 id="news">2022</h2>
+<h2 id="2022">2022</h2>
 <p>2022-12-13: I served as external PhD examiner for <a href="https://michaloutrata.com/">Michal Outrata</a> at the University of Geneva. Congratulations!</p>
 
 <p>2022-12-06: I gave a talk in the <a href="https://cemse.kaust.edu.sa/amcs/events/mathematics-and-applications-colloquium">KAUST Mathematics and Applications Colloquium</a>, hosted by <a href="https://cemse.kaust.edu.sa/sna/people/person/jinchao-xu">Jinchao Xu</a>, in Thuwal, Saudi Arabia.</p>
@@ -601,7 +601,7 @@ organised by <a href="https://ioannispapapadopoulos.github.io/">Ioannis Papadopo
 <p>2022-01-01: I have joined the <a href="https://www.siam.org/journals/sisc/board.php">SIAM Journal on Scientific Computing Editorial Board</a> as an Associate Editor.</p>
 <p>2022-01-01: I have joined the <a href="https://euromathsoc.org/committee-applications-interdisciplinary-relations">Committee on Applications and Interdisciplinary Relations</a> of the <a href="https://euromathsoc.org">European Mathematical Society</a>.</p>
 
-<h2 id="news">2021</h2>
+<h2 id="2021">2021</h2>
 <p>2021-11-11: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2111.05593">the numerical solution of viscous contact problems applied to glacial sliding</a>, with <a href="http://www.maths.ox.ac.uk/people/gonzalo.gonzalezdediego">Gonzalo Gonzalez de Diego</a> and <a href="https://people.maths.ox.ac.uk/hewitt/">Ian Hewitt</a>. Update: accepted in JFM.</p>
 <p>2021-10-27: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2110.13224">transformations for Mardal-Tai-Winther and Arnold-Winther elements</a>, with Francis Aznaran and <a href="https://sites.baylor.edu/robert_kirby/">Rob Kirby</a>. Update: accepted in SMAI JCM.</p>
 <p>2021-10-13: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2110.06479">variational and numerical analysis of a Q-tensor model for smectic-A liquid crystals</a>, with Jingmin Xia. Update: accepted in M2AN.</p>
@@ -646,7 +646,7 @@ organised by <a href="https://ioannispapapadopoulos.github.io/">Ioannis Papadopo
 <p>2021-01-21: I gave a talk in the new <a href="https://staff.ul.ie/natalia/inaf">Irish Numerical Analysis Forum</a>.</p>
 <p>2021-01-14: I am attending the online <a href="https://ccfe.ukaea.uk/excalibur-computing-project-will-sharpen-understanding-of-plasma-behaviour/">UKAEA ExCALIBUR-NEPTUNE</a> kickoff meeting to design a new code to simulate the turbulent edge of a plasma in a tokamak reactor.</p>
 
-<h2 id="news">2020</h2>
+<h2 id="2020">2020</h2>
 <p>2020-11-24: I am organising a workshop on <a href="https://excalibur-genx.github.io/community-workshop/00_schedule.html">Planning for exascale continuum mechanics software</a>, with Jack Betteridge and <a href="https://www.imperial.ac.uk/people/david.ham">David Ham</a>. This is part of our <a href="https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V001493/1">ExCALIBUR working group</a>.</p>
 <p>2020-11-17: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2011.08802">multigrid methods for phase field modelling of multivariant martensitic formation</a>, with <a href="http://www.karlin.mff.cuni.cz/~tumak3am/">Karel Tůma</a>, <a href="https://scholar.google.co.uk/citations?user=9xxR6moAAAAJ&hl=en">Mohsen Rezaee-Hajidehi</a>, <a href="https://www2.karlin.mff.cuni.cz/~hron/">Jaroslav Hron</a>, and <a href="http://bluebox.ippt.pan.pl/~sstupkie/">Stanislaw Stupkiewicz</a>. Update: accepted in CMAME. Here's a video of the microstructure evolution in a pseudoelastic CuAlNi single crystal during nano-indentation.</p>
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/MqtsP-f4KSI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
@@ -661,7 +661,7 @@ organised by <a href="https://ioannispapapadopoulos.github.io/">Ioannis Papadopo
 <p>2020-07-15: I am hosting a research visit from <a href="https://www.rcgi.poli.usp.br/about-rcgi/team/emilio-carlos-nelli-silva/">Emilio Silva</a> of the University of São Paulo. Update: deferred due to the coronavirus pandemic.</p>
 <p>2020-07-01: I have been invited to give a seminar at the <a href="https://typo.iwr.uni-heidelberg.de/home/">IWR in Heidelberg</a> by <a href="https://ganymed.math.uni-heidelberg.de/~rscheichl/">Rob Scheichl</a>. Update: deferred due to the coronavirus pandemic.</p>
 <p>2020-07-01: A paper has been accepted about <a href="https://ora.ox.ac.uk/objects/uuid:2614dcb4-0cb2-413d-aed3-fe2ac377fb97">the bifurcation analysis of model problems relating to kidney stone removal</a> with <a href="https://scholar.google.com/citations?user=ZOJ4IToAAAAJ&hl=en">Jess Williams</a>, <a href="https://people.maths.ox.ac.uk/waters/Waters/Dr_Sarah_Waters.html">Sarah Waters</a>, <a href="https://www.math.colostate.edu/~tavener/">Simon Tavener</a>, <a href="http://people.maths.ox.ac.uk/moulton/">Derek Moulton</a>, <a href="https://www.nds.ox.ac.uk/team/ben-turney">Ben Turney</a>, and <a href="http://www2.eng.ox.ac.uk/fluidlab/">Alfonso Castrejón-Pita</a> in the Journal of Fluid Mechanics.</p>
-<p>2020-06-29: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2006.15700">automating implicit (fully coupled) Runge-Kutta timestepping methods</a>, with <a href="https://sites.baylor.edu/robert_kirby/">Rob Kirby</a> and Jorge Marchena Menendez. Update: accepted in ACM Transactions on Mathematical Software.</p>
+<p>2020-06-29: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2006.16282">automating implicit (fully coupled) Runge-Kutta timestepping methods</a>, with <a href="https://sites.baylor.edu/robert_kirby/">Rob Kirby</a> and Jorge Marchena Menendez. Update: accepted in ACM Transactions on Mathematical Software.</p>
 <p>2020-06-26: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2006.15700">monolithic multigrid methods for magnetohydrodynamics</a>, with <a href="https://jadler.math.tufts.edu/">James Adler</a>, <a href="http://www.tomrbenson.com">Tom Benson</a>, <a href="https://cfwebprod.sandia.gov/cfdocs/CompResearch/templates/insert/profile.cfm?eccyr">Eric Cyr</a>, <a href="https://www.math.mun.ca/~smaclachlan/">Scott MacLachlan</a> and <a href="https://cfwebprod.sandia.gov/cfdocs/CompResearch/templates/insert/profile.cfm?rstumin">Ray Tuminaro</a>. Update: accepted in SIAM Journal on Scientific Computing.</p>
 <p>2020-06-22: I am giving a talk at a minisymposium organised by <a href="https://www.math.mun.ca/~smaclachlan/">Scott MacLachlan</a> and <a href="http://www.maths.nuigalway.ie/~niall/">Niall Madden</a> at the <a href="http://ilas2020.ie/">International Linear Algebra Society meeting in Galway, Ireland</a>. Update: deferred due to the coronavirus pandemic.</p>
 <p>2020-06-18: I am hosting <a href="https://www.imperial.ac.uk/people/colin.cotter">Colin Cotter</a> of Imperial College London for a (update: now online) seminar in the <a href="https://www.maths.ox.ac.uk/events/list/635">Computational Mathematics and Applications series</a>.</p>
@@ -690,7 +690,7 @@ organised by <a href="https://ioannispapapadopoulos.github.io/">Ioannis Papadopo
 <p>2020-01-09: I am hosting a research visit from <a href="https://sites.tufts.edu/softmattertheory/">Tim Atherton</a> of Tufts University.</p>
 <p>2020-01-08: I am hosting a research visit from <a href="https://scholar.google.co.uk/citations?user=wN6wcHYAAAAJ&hl=en">Mariano Beguerisse</a> of Spotify.</p>
 
-<h2 id="news">2019</h2>
+<h2 id="2019">2019</h2>
 <p>2019-12-18: A new paper is up on arXiv about <a href="https://arxiv.org/abs/1912.08516">PCPATCH, a preconditioner in PETSc for the topological construction of relaxation methods</a>, with <a href="https://cse.buffalo.edu/~knepley/">Matt Knepley</a>, <a href="https://www.dur.ac.uk/directory/profile/?id=17243">Lawrence Mitchell</a> and <a href="https://florianwechsung.github.io">Florian Wechsung</a>. Update: accepted in ACM TOMS.</p>
 <p>2019-12-09: I have been invited to give a lecture at the <a href="https://icerm.brown.edu/topical_workshops/tw19-7-elcs/">ICERM workshop on Numerical Methods and New Perspectives for Extended Liquid Crystalline Systems</a> organised by <a href="https://www.strath.ac.uk/staff/majumdarapalaprofessor/">Apala Majumdar</a>, <a href="https://www.math.lsu.edu/~walker/">Shawn Walker</a> and <a href="http://www.lcsoftmatter.com/">Jan Lagerwall</a>.</p>
 <p>2019-11-29: A new paper is up on arXiv about <a href="https://arxiv.org/abs/1912.00023">the bifurcation analysis of two-component Bose-Einstein condensates</a>, with <a href="https://people.math.umass.edu/~kevrekid/">Panos Kevrekidis</a>, <a href="https://www.egcharalampidis.com/">Stathis Charalampidis</a> and Nicolas Boullé. Update: now <a href="https://doi.org/10.1016/j.cnsns.2020.105255">published in CNSNS</a>.</p>
@@ -726,7 +726,7 @@ organised by <a href="https://ioannispapapadopoulos.github.io/">Ioannis Papadopo
 <p>2019-03-07: I am hosting <a href="https://www.imperial.ac.uk/people/lawrence.mitchell">Lawrence Mitchell</a> of Durham University for a seminar in the <a href="https://www.maths.ox.ac.uk/events/list/635">Computational Mathematics and Applications series</a>.</p>
 <p>2019-01-11: I am attending the <a href="https://siamukie.wordpress.com/2018/07/05/siam-ukie-annual-meeting-2019-in-oxford/">SIAM UKIE meeting in Oxford</a>.</p>
 
-<h2 id="news">2018</h2>
+<h2 id="2018">2018</h2>
 <p>2018-12-05: I served as internal PhD examiner for <a href="https://www.scd.stfc.ac.uk/Pages/Niall-Bootland.aspx">Niall Bootland</a>. Congratulations!</p>
 <p>2018-11-13: I am hosting a research visit from <a href="https://www.dur.ac.uk/directory/profile/?id=17243">Lawrence Mitchell</a> of Durham University.</p>
 <p>2018-11-02: I am hosting <a href="https://en.wikipedia.org/wiki/Jonathan_Keating">Jon Keating</a> for a colloquium at the Mathematical Institute.</p>
@@ -747,7 +747,7 @@ organised by <a href="https://ioannispapapadopoulos.github.io/">Ioannis Papadopo
 <p>2018-03-21: I am hosting the <a href="https://fenicsproject.org/fenics18/">2018 FEniCS conference</a> in Oxford.</p>
 <p>2018-01-22: Congratulations to <a href="https://florianwechsung.github.io">Florian Wechsung</a> on winning first place in the <a href="https://www.gresearch.co.uk/article/g-research-phd-prize-in-maths-and-data-science/">G-Research DPhil prize</a>!</p>
 
-<h2 id="news">2017</h2>
+<h2 id="2017">2017</h2>
 <p>2017-11-26: A new paper has been accepted on <a href="http://dx.doi.org/10.1002/2017JF004373">glaciological inverse problems in Pine Island Glacier, Antarctica</a>, with Teresa Kyrke-Smith and <a href="https://www.bas.ac.uk/profile/ghg/">Hilmar Gudmundsson</a>.</p>
 <p>2017-10-01: Welcome to Hamza Alawiye and Alexei Gazca, who begin their DPhil studies today! My co-supervisors are <a href="https://www.maths.ox.ac.uk/people/alain.goriely">Alain Goriely</a> (Hamza) and <a href="http://people.maths.ox.ac.uk/suli/">Endre Süli</a> (Alexei).</p>
 <p>2017-07-18: I am giving an invited seminar at the <a href="http://caims2017.caims.ca/caims2017/welcome2017.html">annual meeting of the Canadian Applied and Industrial Mathematics society</a> in Halifax, Nova Scotia.</p>
@@ -763,7 +763,7 @@ organised by <a href="https://ioannispapapadopoulos.github.io/">Ioannis Papadopo
 <p>2017-01-16: I am teaching <a href="https://courses.maths.ox.ac.uk/node/4910">C6.4 Finite Element Methods for PDEs</a> this term. My <a href="https://courses.maths.ox.ac.uk/node/4910">introductory lecture notes on finite elements</a> may be of interest. Any comments gratefully received!</p>
 <p>2017-01-02: A new paper is up on arXiv about <a href="https://arxiv.org/abs/1612.09597">recovering inundation profiles from tidal data</a>, with <a href="http://www.simonfunke.com">Simon Funke</a> and <a href="https://www.google.co.uk/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwiy8_Go4bbYAhVkIMAKHZPRAb0QFggnMAA&amp;url=https%3A%2F%2Fwww.imperial.ac.uk%2Fpeople%2Fm.d.piggott&amp;usg=AOvVaw1mX772qbdYLXZNCk8Lf2r1">Matthew Piggott</a>.</p>
 
-<h2 id="news">2016</h2>
+<h2 id="2016">2016</h2>
 <p>2016-10-01: I am delighted to announce that I have been appointed as an Associate Professor in the Mathematical Institute and as a Tutorial Fellow at Oriel College.</p>
 <p>2016-10-01: Welcome to Florian Wechsung, and Matteo Croci, who begin their DPhil studies today under my supervision! My co-supervisors are <a href="http://www.lcs-fast.com/the_team/">Mark Taylor</a> of <a href="http://www.lcs-fast.com/">London Computational Solutions</a> (Florian), and <a href="https://www.simula.no/people/meg">Marie Rognes</a> of <a href="https://simula.no">Simula Research Laboratory</a> and <a href="http://people.maths.ox.ac.uk/~gilesm/">Mike Giles</a> (Matteo).</p>
 <p>2016-09-28: A new paper is up on arXiv about <a href="https://arxiv.org/abs/1609.08842">the analysis of Carrier&#8217;s problem</a> with <a href="https://people.maths.ox.ac.uk/chapman/">Jon Chapman</a>.</p>
@@ -776,7 +776,7 @@ organised by <a href="https://ioannispapapadopoulos.github.io/">Ioannis Papadopo
 <p>2016-03-15: There&#8217;s an open faculty position in numerical analysis in Oxford (an associate professorship). Apply by April 29!</p>
 <p>2016-01-28: A new paper is up on arXiv about <a href="https://arxiv.org/abs/1601.07383">using deflation to compute multiple equilibria of nematic liquid crystals</a> with <a href="http://jadler.math.tufts.edu/">James Adler</a>, <a href="https://webhosting.math.tufts.edu/dbemerson/">David Emerson</a> and <a href="http://www.math.mun.ca/~smaclachlan/">Scott MacLachlan</a>.</p>
 
-<h2 id="news">2015</h2>
+<h2 id="2015">2015</h2>
 <p>2015-11-30: Another paper is up on arXiv about <a href="https://arxiv.org/abs/1511.08463">linear and nonlinear solvers in variational fracture mechanics </a>with <a href="http://www.lmm.jussieu.fr/~corrado/">Corrado Maurini</a>. The <a href="https://bitbucket.org/pefarrell/varfrac-solvers">code that supports the manuscript</a> is available on bitbucket.</p>
 <p>2015-09-19: <a href="https://www.facebook.com/SIAMconnect/photos/a.10155994620440304.1073741848.81505865303/10155994624125304/?type=3&amp;theater">Images from the SIAM Awards Lunch</a> in Beijing are online.</p>
 <p>2015-09-18: I gave the invited scientific lecture to the annual general meeting of <a href="http://www.nag.co.uk">NAG</a>.</p>
