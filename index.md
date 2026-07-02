@@ -65,6 +65,12 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <h2 id="news">News</h2>
 
+<p>2026-06-30: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2606.31784">a kinetic derivation of thermal viscous models for nematic liquid crystal dynamics</a>, with
+<a href="https://www.karlin.mff.cuni.cz/~malek/new-OBJ/index.php?title=Josef_M%C3%A1lek">Josef Málek</a>,
+<a href="https://geo.mff.cuni.cz/~soucek/">Ondřej Souček</a>,
+and
+<a href="https://www.uzerbinati.eu/">Umberto Zerbinati</a>.</p>
+
 <p>2026-06-30: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2606.27300">automating Galerkin timestepping methods in Irksome</a>, with
 <a href="https://borisandrews.github.io/">Boris Andrews</a>,
 <a href="https://www.maths.ox.ac.uk/people/pablo.brubeckmartinez">Pablo Brubeck</a>,
@@ -72,7 +78,7 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 and
 <a href="https://www.math.mun.ca/~smaclachlan/">Scott MacLachlan</a>.</p>
 
-<p>2026-06-30: I gave a plenary talk at <a href="https://scicade.org/">SciCADE 2026</a> in Edinburgh, Scotland.</p>
+<p>2026-06-30: I gave the plenary talk associated with the Germund Dahlquist Prize at <a href="https://scicade.org/">SciCADE 2026</a> in Edinburgh, Scotland.</p>
 
 <p>2026-06-25: I hosted <a href="http://www.chunmei-su.cn/">Chunmei Su 苏春梅</a> for an out-of-term <a href="https://www.maths.ox.ac.uk/node/81638">Computational Mathematics & Applications Seminar</a>.</p>
 
@@ -204,7 +210,7 @@ and
 <a href="https://www.karlin.mff.cuni.cz/~malek/new-OBJ/index.php?title=Josef_M%C3%A1lek">Josef Málek</a>,
 <a href="https://geo.mff.cuni.cz/~soucek/">Ondřej Souček</a>,
 and
-<a href="https://www.uzerbinati.eu/">Umberto Zerbinati</a>. Update: accepted in the International Journal of Engineering Science, in the special issue in memory of <a href="https://en.wikipedia.org/wiki/K._R._Rajagopal">Kumbakonam Rajagopal</a>.
+<a href="https://www.uzerbinati.eu/">Umberto Zerbinati</a>. Update: accepted in the International Journal of Engineering Science, in the special issue in memory of <a href="https://en.wikipedia.org/wiki/K._R._Rajagopal">Kumbakonam Rajagopal</a>.</p>
 </p>
 
 <p>2026-02-16: Welcome to <a href="https://sites.google.com/view/jonghopark">Jongho Park</a>! Jongho is a Research Scientist at the King Abdullah University of Science and Technology (KAUST). He is here for two weeks for a research visit.</p>
