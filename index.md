@@ -65,6 +65,22 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <h2 id="news">News</h2>
 
+<p>2026-07-02: Congratulations to <a href="https://euromathsoc.org/news/developers-of-the-fenics-project-awarded-the-2026-emsecmi-lanczos-prize-217">Martin S. Alnæs,
+Igor A. Baratta,
+Joseph P. Dean,
+Jørgen S. Dokken,
+Michal Habera,
+Jack S. Hale,
+Anders Logg,
+Chris N. Richardson,
+Marie E. Rognes,
+Matthew W. Scroggs,
+Nathan Sime,
+and
+Garth N. Wells
+</a> on <a href="https://ecmiindmath.org/2026/07/02/lanczos-prize-2026-awarded-to-fenics/">winning the EMS/ECMI Lanczos Prize for Mathematical Software</a>
+for their work on <a href="https://fenicsproject.org/">FEniCS</a>!</p>
+
 <p>2026-06-30: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2606.31784">a kinetic derivation of thermal viscous models for nematic liquid crystal dynamics</a>, with
 <a href="https://www.karlin.mff.cuni.cz/~malek/new-OBJ/index.php?title=Josef_M%C3%A1lek">Josef Málek</a>,
 <a href="https://geo.mff.cuni.cz/~soucek/">Ondřej Souček</a>,
@@ -491,7 +507,9 @@ organised by <a href="https://ioannispapapadopoulos.github.io/">Ioannis Papadopo
 
 <p>2024-07-30: I gave a talk in the <a href="https://mfem.org/seminar/">FEM@LNLL seminar series</a>, hosted by <a href="https://people.llnl.gov/kolev1">Tzanio Kolev</a>.</p>
 <p>2024-07-17: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2407.11904">time discretisations that preserve conservation laws and dissipation inequalities</a>, with Boris Andrews. Update: accepted in SISC.</p>
+
 <p>2024-07-15: Congratulations to <a href="https://ecmiindmath.org/2024/07/15/lanczos-ecmi-ems-prize-awarded-to-mumps/">Patrick Amestoy, Jean-Yves L'Excellent, and Theo Mary</a> on <a href="https://euromathsoc.org/news/fourteen-prizes-awarded-to-european-mathematicians-at-the-9th-ecm-121">winning the inaugural EMS/ECMI Lanczos Prize for Mathematical Software</a> for their work on <a href="https://mumps-solver.org/index.php">MUMPS</a>!</p>
+
 <p>2024-07-01: I attended the <a href="https://pdesoft.org/">PDESoft 2024 conference</a> in Cambridge, UK. Umberto Zerbinati, Jack Betteridge, India Marsden, Pablo Brubeck, Boris Andrews, and Aaron Baier-Reinio gave talks.</p>
 <p>2024-06-21: I attended the <a href="https://efef2024.github.io/">European Finite Element Fair</a> organised by <a href="https://profiles.ucl.ac.uk/36640-erik-burman">Erik Burman</a> and others in London, UK. Umberto Zerbinati, Mingdong He, Boris Andrews, Aaron Baier-Reinio, Pablo Brubeck, and India Marsden gave talks.</p>
 <p>2024-06-13: I gave an invited talk at the <a href="https://indico.math.cnrs.fr/event/napde">New Trends in Numerical Analysis of PDEs</a> conference organised by Clément Cancès, Claire Chainais, Maxime Herda, Simon Lemaire, and Antoine Zurek in Lille, France.</p>
