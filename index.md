@@ -44,6 +44,8 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <p>2027-04-18: I will participate in the <a href="https://www.mfo.de/www/activity/2716">Structure Preserving Methods for Computational Geometric Mechanics</a> workshop at the Mathematisches Forschungsinstitut Oberwolfach, Germany.</p>
 
+<p>2027-04-07: I will give a plenary talk at the <a href="https://ukacm.org/ukacm-conferences/">UK Association of Computational Mechanics</a> 2027 conference in Glasgow, UK.</p>
+
 <p>2026-11-30: I am organising the second meeting of the <a href="https://ems-tag-mixtures.github.io/">European Mathematical Society topical activity group on mixtures</a> at the <a href="https://www.cirm-math.com/">Centre International de Rencontres Mathématiques</a>, alongside
 <a href="https://chercheurs.lille.inria.fr/ccances/">Clément Cancès</a>,
 <a href="https://team.inria.fr/matherials/team-members/virginie-ehrlacher-galland/">Virginie Ehrlacher</a>, and
