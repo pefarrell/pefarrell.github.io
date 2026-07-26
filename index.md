@@ -60,10 +60,12 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <p>2026-09-14: I will give an invited talk at the workshop on <a href="https://www.uzerbinati.eu/pages/borgodeigatti/">Advances in Ordered Fluids and Alignment Phenomena Modeling, Analysis, and Numerical Methods</a> in Golferenzo, Italy.</p>
 
-<p>2026-07-23: I will give <b>a section lecture at the <a class="iwantyoubold" href="https://www.icm2026.org/event/ac193975-5d24-4628-8c30-ddb23de19a8b/speakers">International Congress of Mathematicians</a></b>, in Section 15: Numerical Analysis and Scientific Computing, in Pennsylvania, USA.</p>
+<p>2026-07-27: I will give <b>an invited section lecture at the <a class="iwantyoubold" href="https://www.icm2026.org/event/ac193975-5d24-4628-8c30-ddb23de19a8b/speakers">International Congress of Mathematicians</a></b>, in Section 15: Numerical Analysis and Scientific Computing, in Philadelphia, USA.</p>
 
 
 <h2 id="news">News</h2>
+
+<p>2026-07-24: Congratulations to Aaron Baier-Reinio on passing his DPhil viva! Thanks to <a href="https://chercheurs.lille.inria.fr/ccances/">Clément Cancès</a> and <a href="https://people.maths.ox.ac.uk/suli/">Endre Süli</a> for serving as examiners.</p>
 
 <p>2026-07-13: My review article on <a href="https://doi.org/10.1137/25M1805710">computing multiple solutions of systems of nonlinear systems of equations with deflation</a> has been published in the Proceedings of the International Congress of Mathematicians 2026.</p>
 
