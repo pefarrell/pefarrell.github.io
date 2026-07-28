@@ -16,14 +16,6 @@ title: People
 
 
 <figure>
-  <img src="{{site.url}}/images/baier-reinio.png" alt="Aaron Baier-Reinio"/>
-  <figcaption>Aaron Baier-Reinio. <br/>Topic: discretisations for multicomponent flow.</figcaption>
-</figure>
-
-&nbsp;
-&nbsp;
-
-<figure>
   <img src="{{site.url}}/images/he.jpg" alt="Mingdong He"/>
   <figcaption>Mingdong He (何明东). <br/>Topic: topological property preservation in fluid mechanics. <br/> Co-supervised with <a href="https://kaibohu.github.io/">Kaibo Hu</a>.</figcaption>
 </figure>
@@ -179,6 +171,15 @@ title: People
   <img src="{{site.url}}/images/andrews.png" alt="Boris Andrews"/>
   <figcaption><a href="https://borisandrews.github.io/">Boris Andrews</a>. <br/>Topic: <a href="{{site.url}}/files/andrews.pdf">Geometric numerical integration via auxiliary variables</a>. DPhil viva: 2025-08-29. <br/>Co-supervised with <a href="https://scholar.google.co.uk/citations?user=XRAFAoEAAAAJ&hl=en">Wayne Arter</a> of the UK Atomic Energy Authority. Next step: a postdoctoral position with <a href="https://kaibohu.github.io/">Kaibo Hu</a> at Oxford.</figcaption>
 </figure>
+
+&nbsp;
+&nbsp;
+
+<figure>
+  <img src="{{site.url}}/images/baier-reinio.png" alt="Aaron Baier-Reinio"/>
+  <figcaption>Aaron Baier-Reinio. <br/>Topic: <a href="{{site.url}}/files/baierreinio.pdf">Finite element methods for multicomponent flow problems</a>. DPhil viva: 2026-07-24. Next step: a postdoctoral position with <a href="https://www.empaneda.com/">Emilio Martínez-Pañeda</a> in Engineering Science at Oxford.</figcaption>
+</figure>
+
 
 ## Postdoctoral alumni
 <figure>
