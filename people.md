@@ -176,7 +176,7 @@ title: People
 &nbsp;
 
 <figure>
-  <img src="{{site.url}}/images/baier-reinio.png" alt="Aaron Baier-Reinio"/>
+  <img src="{{site.url}}/images/baier-reinio.jpg" alt="Aaron Baier-Reinio"/>
   <figcaption>Aaron Baier-Reinio. <br/>Topic: <a href="{{site.url}}/files/baierreinio.pdf">Finite element methods for multicomponent flow problems</a>. DPhil viva: 2026-07-24. Next step: a postdoctoral position with <a href="https://www.empaneda.com/">Emilio Martínez-Pañeda</a> in Engineering Science at Oxford.</figcaption>
 </figure>
 
