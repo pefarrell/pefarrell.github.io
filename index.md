@@ -62,7 +62,12 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <h2 id="news">News</h2>
 
-<p>2026-07-27: I gave <b>an invited section lecture at the <a class="iwantyoubold" href="https://www.icm2026.org/event/ac193975-5d24-4628-8c30-ddb23de19a8b/speakers">International Congress of Mathematicians</a></b>, in Section 15: Numerical Analysis and Scientific Computing, in Philadelphia, USA.</p>
+<p>2026-07-27: I gave <b>an invited section lecture at the <a class="iwantyoubold" href="https://www.icm2026.org/event/ac193975-5d24-4628-8c30-ddb23de19a8b/speakers">International Congress of Mathematicians</a></b>, in Section 15: Numerical Analysis and Scientific Computing, in Philadelphia, USA.
+  <figure>
+  <img src="{{site.url}}/images/icm-20260727.jpg" alt="Talking at the 2026 ICM in Philadelphia."/>
+  <figcaption>Thanks to <a href="https://dcn.nat.fau.eu/enrique-zuazua/">Enrique Zuazua</a> for the photo.</figcaption>
+  </figure>
+</p>
 
 <p>2026-07-24: Congratulations to Aaron Baier-Reinio on passing his DPhil viva! Thanks to <a href="https://chercheurs.lille.inria.fr/ccances/">Clément Cancès</a> and <a href="https://people.maths.ox.ac.uk/suli/">Endre Süli</a> for serving as examiners.</p>
 
