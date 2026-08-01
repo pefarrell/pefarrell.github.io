@@ -417,6 +417,8 @@ organised by <a href="https://ioannispapapadopoulos.github.io/">Ioannis Papadopo
 
 <p>2025-06-10: Umberto Zerbinati spoke at the <a href="https://sites.google.com/view/mathematical-methods-for-waves/home">Mathematical Methods for Wave Problems</a> meeting in Leicester, UK.</p>
 
+<p>2025-06-03: My work on electrolyte transport with Alexander Van-Brunt and Charles Monroe has been <a href="https://www.comsol.it/blogs/introduction-to-the-concentrated-electrolyte-transport-interface">implemented in v. 6.3 of COMSOL Multiphysics</a>.</p>
+
 <p>2025-05-29: Welcome to <a href="https://kaibohu.github.io/">Kaibo Hu</a>, who will join the Numerical Analysis group as faculty later this year!</p>
 
 <p>2025-05-26: Pablo Brubeck spoke at the <a href="https://coupled2025.cimne.com">International Conference on Coupled Problems in Science and Engineering</a>.</p>
