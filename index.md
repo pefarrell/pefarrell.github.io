@@ -46,6 +46,8 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <p>2027-04-07: I will give a plenary talk at the <a href="https://ukacm.org/ukacm-conferences/">UK Association of Computational Mechanics</a> 2027 conference in Glasgow, UK.</p>
 
+<p>2027-04-01: <a href="https://scholar.google.com/citations?user=MgSwDcoAAAAJ&hl=en">Dennis Trautwein</a> will visit for three months, funded by the <a href="https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/walter-benjamin">DFG Walter Benjamin Programme</a>.</p>
+
 <p>2026-11-30: I am organising the second meeting of the <a href="https://ems-tag-mixtures.github.io/">European Mathematical Society topical activity group on mixtures</a> at the <a href="https://www.cirm-math.com/">Centre International de Rencontres Mathématiques</a>, alongside
 <a href="https://chercheurs.lille.inria.fr/ccances/">Clément Cancès</a>,
 <a href="https://team.inria.fr/matherials/team-members/virginie-ehrlacher-galland/">Virginie Ehrlacher</a>, and
