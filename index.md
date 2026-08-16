@@ -42,6 +42,8 @@ I am always looking for talented PhD students and postdocs. Members of my group 
   <a href="https://www.simula.no/people/meg">Marie Rognes</a>, and
   <a href="https://alextownsend.net/">Alex Townsend</a>.</p>
 
+<p>2027-04-26: I will host <a href="https://www.math.wustl.edu/~astern/">Ari Stern</a> for a sabbatical.</p>
+
 <p>2027-04-18: I will participate in the <a href="https://www.mfo.de/www/activity/2716">Structure Preserving Methods for Computational Geometric Mechanics</a> workshop at the Mathematisches Forschungsinstitut Oberwolfach, Germany.</p>
 
 <p>2027-04-07: I will give a plenary talk at the <a href="https://ukacm.org/ukacm-conferences/">UK Association of Computational Mechanics</a> 2027 conference in Glasgow, UK.</p>
