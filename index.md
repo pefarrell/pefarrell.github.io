@@ -64,6 +64,8 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <p>2026-09-14: I will give an invited talk at the workshop on <a href="https://www.uzerbinati.eu/pages/borgodeigatti/">Advances in Ordered Fluids and Alignment Phenomena Modeling, Analysis, and Numerical Methods</a> in Golferenzo, Italy.</p>
 
+<p>2026-09-10: I will give a seminar in the Current Problems in Numerical Analysis Seminar series at the Czech Academy of Sciences in Prague, Czechia.</p>
+
 <h2 id="news">News</h2>
 
 <p>2026-07-27: I gave <b>an invited section lecture at the <a class="iwantyoubold" href="https://www.icm2026.org/event/ac193975-5d24-4628-8c30-ddb23de19a8b/speakers">International Congress of Mathematicians</a></b>, in Section 15: Numerical Analysis and Scientific Computing, in Philadelphia, USA.
