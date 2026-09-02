@@ -45,7 +45,7 @@ title: People
 <div class="person">
   <img src="{{site.url}}/images/zerbinati.jpg" alt="Umberto Zerbinati"/>
   <div>
-    <strong><a href="https://www.uzerbinati.eu/">Umberto Zerbinati</a></strong><br/>
+    <strong><a class="iwantyoubold" href="https://www.uzerbinati.eu/">Umberto Zerbinati</a></strong><br/>
     Topic: kinetic modelling of ordered fluids.
   </div>
 </div>
@@ -53,7 +53,7 @@ title: People
 <div class="person">
   <img src="{{site.url}}/images/kosarkova.jpg" alt="Lenka Košárková"/>
   <div>
-    <strong><a href="https://www.karlin.mff.cuni.cz/~kosarkova/">Lenka Košárková</a> (Charles University Prague)</strong><br/>
+    <strong><a class="iwantyoubold" href="https://www.karlin.mff.cuni.cz/~kosarkova/">Lenka Košárková</a> (Charles University Prague)</strong><br/>
     Topic: modelling and discretisation of multicomponent fluid-structure interaction.<br/>
     Co-supervised with <a href="https://www.karlin.mff.cuni.cz/~hron/">Jaroslav Hron</a>.
   </div>
@@ -81,7 +81,7 @@ title: People
 <div class="person">
   <img src="{{site.url}}/images/wechsung.jpg" alt="Florian Wechsung"/>
   <div>
-    <strong><a href="https://florianwechsung.github.io/">Florian Wechsung</a></strong><br/>
+    <strong><a class="iwantyoubold" href="https://florianwechsung.github.io/">Florian Wechsung</a></strong><br/>
     Thesis: <a href="{{site.url}}/files/wechsung.pdf">shape optimisation and robust solvers for incompressible flow</a>. DPhil viva: 2019-09-23.<br/>
     Next step: a postdoc with <a href="https://math.nyu.edu/~stadler/">Georg Stadler</a> at NYU, now a quantitative researcher at Citadel GQS.
   </div>
@@ -90,7 +90,7 @@ title: People
 <div class="person">
   <img src="{{site.url}}/images/croci.jpg" alt="Matteo Croci"/>
   <div>
-    <strong><a href="https://croci.github.io/">Matteo Croci</a></strong><br/>
+    <strong><a class="iwantyoubold" href="https://croci.github.io/">Matteo Croci</a></strong><br/>
     Thesis: <a href="{{site.url}}/files/croci.pdf">multilevel Monte Carlo methods for uncertainty quantification in brain simulations</a>. DPhil viva: 2020-01-20.<br/>
     Co-supervised with <a href="https://people.maths.ox.ac.uk/gilesm/">Mike Giles</a> and <a href="https://marierognes.org">Marie Rognes</a>.<br/>
     Next step: a postdoc with Mike Giles in Oxford, then a postdoc with <a href="https://kiwi.oden.utexas.edu/">Karen Willcox</a> at UT Austin, and then a permanent faculty position at the Basque Centre for Applied Mathematics.
@@ -110,7 +110,7 @@ title: People
 <div class="person">
   <img src="{{site.url}}/images/gazca.jpg" alt="Pablo Alexei Gazca Orozco"/>
   <div>
-    <strong><a href="https://gazcaorozco.github.io/home/">Pablo Alexei Gazca Orozco</a></strong><br/>
+    <strong><a class="iwantyoubold" href="https://gazcaorozco.github.io/home/">Pablo Alexei Gazca Orozco</a></strong><br/>
     Thesis: <a href="{{site.url}}/files/gazca.pdf">Numerical analysis of implicitly constituted incompressible fluids: mixed formulations</a>. DPhil viva: 2020-10-19.<br/>
     Co-supervised with <a href="http://people.maths.ox.ac.uk/suli/">Endre Süli</a>.<br/>
     Next step: a postdoc with <a href="https://www.caa-avh.nat.fau.eu/enrique-zuazua/">Enrique Zuazua</a> in Erlangen-Nuremberg, now with a permanent faculty position at Charles University in Prague.
@@ -120,7 +120,7 @@ title: People
 <div class="person">
   <img src="{{site.url}}/images/xia.jpg" alt="Jingmin Xia"/>
   <div>
-    <strong><a href="https://jingminxia.github.io/">Jingmin Xia (夏静敏)</a></strong><br/>
+    <strong><a class="iwantyoubold" href="https://jingminxia.github.io/">Jingmin Xia (夏静敏)</a></strong><br/>
     Thesis: <a href="{{site.url}}/files/xia.pdf">Computational and analytical aspects of energy minimisation problems in cholesteric, ferronematic and smectic liquid crystals</a>. DPhil viva: 2021-06-01.<br/>
     Next step: a permanent faculty position at the National University of Defense Technology in Changsha, China.
   </div>
@@ -129,7 +129,7 @@ title: People
 <div class="person">
   <img src="{{site.url}}/images/papadopoulos.jpg" alt="Ioannis Papadopoulos"/>
   <div>
-    <strong><a href="https://ioannispapapadopoulos.github.io/">Ioannis Papadopoulos</a></strong><br/>
+    <strong><a class="iwantyoubold" href="https://ioannispapapadopoulos.github.io/">Ioannis Papadopoulos</a></strong><br/>
     Thesis: <a href="{{site.url}}/files/papadopoulos.pdf">Computing multiple solutions of topology optimization problems</a>. DPhil viva: 2021-09-24.<br/>
     Co-supervised with <a href="http://people.maths.ox.ac.uk/suli/">Endre Süli</a>.<br/>
     Next step: a postdoc with <a href="http://wwwf.imperial.ac.uk/~solver/">Sheehan Olver</a> at Imperial College London, then a Dirichlet fellowship at the Weierstrass Institute for Applied Analysis and Stochastics in Berlin, then a Hooke fellowship in the Mathematical Institute in Oxford.
@@ -139,7 +139,7 @@ title: People
 <div class="person">
   <img src="{{site.url}}/images/boulle.jpg" alt="Nicolas Boullé"/>
   <div>
-    <strong><a href="https://nboulle.github.io/">Nicolas Boullé</a></strong><br/>
+    <strong><a class="iwantyoubold" href="https://nboulle.github.io/">Nicolas Boullé</a></strong><br/>
     Thesis: <a href="{{site.url}}/files/boulle.pdf">Data-driven discovery of Green's functions</a>. DPhil viva: 2022-08-30.<br/>
     Co-supervised with <a href="https://marierognes.org">Marie Rognes</a> and <a href="https://pi.math.cornell.edu/~ajt/">Alex Townsend</a>.<br/>
     Next step: an INI-Simons Postdoctoral Fellowship at the University of Cambridge, then a permanent faculty position at Imperial College London.
@@ -158,7 +158,7 @@ title: People
 <div class="person">
   <img src="{{site.url}}/images/aznaran.jpg" alt="Francis Aznaran"/>
   <div>
-    <strong><a href="https://aznaran.com/">Francis Aznaran</a></strong><br/>
+    <strong><a class="iwantyoubold" href="https://aznaran.com/">Francis Aznaran</a></strong><br/>
     Thesis: <a href="{{site.url}}/files/aznaran.pdf">Discretisation of Hodge Laplacians in the elasticity complex</a>. DPhil viva: 2022-09-28.<br/>
     Co-supervised with <a href="https://people.maths.ox.ac.uk/suli/">Endre Süli</a>.<br/>
     Next step: an independent research fellowship at Notre Dame.
@@ -197,7 +197,7 @@ title: People
 <div class="person">
   <img src="{{site.url}}/images/andrews.png" alt="Boris Andrews"/>
   <div>
-    <strong><a href="https://borisandrews.github.io/">Boris Andrews</a></strong><br/>
+    <strong><a class="iwantyoubold" href="https://borisandrews.github.io/">Boris Andrews</a></strong><br/>
     Thesis: <a href="{{site.url}}/files/andrews.pdf">Geometric numerical integration via auxiliary variables</a>. DPhil viva: 2025-08-29.<br/>
     Co-supervised with <a href="https://scholar.google.co.uk/citations?user=XRAFAoEAAAAJ&hl=en">Wayne Arter</a> of the UK Atomic Energy Authority.<br/>
     Next step: a postdoctoral position with <a href="https://kaibohu.github.io/">Kaibo Hu</a> at Oxford.
@@ -226,7 +226,7 @@ title: People
 <div class="person">
   <img src="{{site.url}}/images/sap.jpg" alt="Duygu Sap"/>
   <div>
-    <strong><a href="https://duygusap.com/">Duygu Sap</a></strong><br/>
+    <strong><a class="iwantyoubold" href="https://duygusap.com/">Duygu Sap</a></strong><br/>
     Funded on EPSRC grant <a href="https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/R029423/1">PRISM: Platform for Research in Simulation Methods</a>.<br/>
     Next step: Innovation Research Fellow at the University of Warwick.
   </div>
@@ -235,7 +235,7 @@ title: People
 <div class="person">
   <img src="{{site.url}}/images/roy.jpg" alt="Thomas Roy"/>
   <div>
-    <strong><a href="https://people.llnl.gov/roy27">Thomas Roy</a></strong><br/>
+    <strong><a class="iwantyoubold" href="https://people.llnl.gov/roy27">Thomas Roy</a></strong><br/>
     Postdoctoral topic: nonlinear solvers in reservoir models.<br/>
     Next step: a postdoc with <a href="https://people.llnl.gov/beck33">Victor Beck</a>, then a permanent appointment as Staff Scientist at Lawrence Livermore National Laboratory.
   </div>
@@ -244,7 +244,7 @@ title: People
 <div class="person">
   <img src="{{site.url}}/images/paganini.jpg" alt="Alberto Paganini"/>
   <div>
-    <strong><a href="https://le.ac.uk/people/alberto-paganini">Alberto Paganini</a></strong><br/>
+    <strong><a class="iwantyoubold" href="https://le.ac.uk/people/alberto-paganini">Alberto Paganini</a></strong><br/>
     Postdoctoral topic: shape optimisation.<br/>
     Next step: a departmental lectureship in Oxford, then a permanent faculty position at the University of Leicester.
   </div>
@@ -265,7 +265,7 @@ title: People
 <div class="person">
   <img src="{{site.url}}/images/parvizi.jpg" alt="Maryam Parvizi"/>
   <div>
-    <strong><a href="https://www.birmingham.ac.uk/staff/profiles/maths/parvizi-maryam">Maryam Parvizi</a></strong><br/>
+    <strong><a class="iwantyoubold" href="https://www.birmingham.ac.uk/staff/profiles/maths/parvizi-maryam">Maryam Parvizi</a></strong><br/>
     Hosted Apr 2023 to Apr 2024, funded by a Humboldt Fellowship.<br/>
     Next step: a fellowship at the University of Birmingham, then a permanent position at the Jinan-Birmingham Joint Institute.
   </div>
@@ -274,7 +274,7 @@ title: People
 <div class="person">
   <img src="{{site.url}}/images/alonso.jpg" alt="Diego Hayashi Alonso"/>
   <div>
-    <strong><a href="https://scholar.google.com/citations?user=SCoRD7cAAAAJ&hl=en">Diego Hayashi Alonso</a></strong><br/>
+    <strong><a class="iwantyoubold" href="https://scholar.google.com/citations?user=SCoRD7cAAAAJ&hl=en">Diego Hayashi Alonso</a></strong><br/>
     Hosted Jan 2024 to Feb 2025 on a postdoctoral scholarship funded by FAPESP.
   </div>
 </div>
@@ -285,7 +285,7 @@ title: People
 <div class="person">
   <img src="{{site.url}}/images/kevrekidis.jpg" alt="Panos Kevrekidis"/>
   <div>
-    <strong><a href="https://people.math.umass.edu/~kevrekid/">Panos Kevrekidis</a></strong><br/>
+    <strong><a class="iwantyoubold" href="https://people.math.umass.edu/~kevrekid/">Panos Kevrekidis</a></strong><br/>
     Visited Aug 2019 to Mar 2020 funded by a 
     <a href="https://www.leverhulme.ac.uk/visiting-professorships-2019">Leverhulme Visiting Professorship</a>.
   </div>
@@ -294,7 +294,7 @@ title: People
 <div class="person">
   <img src="{{site.url}}/images/ferrer.png" alt="Àlex Ferrer"/>
   <div>
-    <strong><a href="https://sites.google.com/view/alexferrer">Àlex Ferrer</a></strong><br/>
+    <strong><a class="iwantyoubold" href="https://sites.google.com/view/alexferrer">Àlex Ferrer</a></strong><br/>
     Visited Jul 2022 to Jul 2023, funded by a grant from the Universitat Politècnica de Catalunya and the Catalan government.
   </div>
 </div>
@@ -369,7 +369,7 @@ gram</a>. Home institution: African Institute for Mathematical Sciences.
 <div class="person">
   <img src="{{site.url}}/images/wilson.jpg" alt="Andrew Wilson"/>
   <div>
-    <strong><a href="https://en.wikipedia.org/wiki/Andrew_Wilson_(swimmer)">Andrew Wilson</a></strong><br/>
+    <strong><a class="iwantyoubold" href="https://en.wikipedia.org/wiki/Andrew_Wilson_(swimmer)">Andrew Wilson</a></strong><br/>
     Topic: multigrid preconditioners for the Onsager-Stefan-Maxwell equations.<br/>
     2022 MMSC project.<br/>
     Next step: a research assistantship with <a href="https://www.earth.ox.ac.uk/people/samar-khatiwala/">Samar Khatiwala</a> and <a href="https://people.maths.ox.ac.uk/cartis/">Coralia Cartis</a>.
