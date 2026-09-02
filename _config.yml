@@ -34,3 +34,11 @@ logo: images/profile.jpg
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Tooling, not content.
+exclude:
+  - Makefile
+  - scripts
+  - Gemfile
+  - Gemfile.lock
+  - vendor
