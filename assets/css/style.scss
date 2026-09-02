@@ -79,3 +79,29 @@ a.pub-link {
   color: #999;
   font-size: 0.85em;
 }
+
+/* People: a small photo with the details beside it */
+.person {
+  display: flex;
+  align-items: flex-start;
+  margin-top: 1.2em;
+}
+
+.person img {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;      /* uniform square thumbnails, whatever the photo */
+  object-position: center 25%;
+  margin-right: 15px;
+  flex-shrink: 0;
+}
+
+.person > div {
+  font-size: 0.95em;
+  line-height: 1.45;
+}
+
+/* Give each section heading room to breathe after the last person above it */
+.person + h2 {
+  margin-top: 1.8em;
+}
