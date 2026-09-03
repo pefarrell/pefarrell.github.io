@@ -44,7 +44,7 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <p>2027-05-01: I will host <a href="https://mate.unipv.it/moiola/">Andrea Moiola</a> of the Università degli Studi di Pavia for a sabbatical.</p>
 
-<p>2027-04-26: I will host <a href="https://www.math.wustl.edu/~astern/">Ari Stern</a> for a sabbatical.</p>
+<p>2027-04-26: I will host <a href="https://www.math.wustl.edu/~astern/">Ari Stern</a> of Washington University in St. Louis for a sabbatical.</p>
 
 <p>2027-04-18: I will participate in the <a href="https://www.mfo.de/www/activity/2716">Structure Preserving Methods for Computational Geometric Mechanics</a> workshop at the Mathematisches Forschungsinstitut Oberwolfach, Germany.</p>
 
