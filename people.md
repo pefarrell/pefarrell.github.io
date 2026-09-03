@@ -5,6 +5,40 @@ title: People
 &nbsp;
 &nbsp;
 
+# Current and future group members
+
+## Visiting academics
+
+<div class="person">
+  <img src="{{site.url}}/images/gopalakrishnan.png" alt="Jay Gopalakrishnan"/>
+  <div>
+    <strong><a class="iwantyoubold" href="https://web.pdx.edu/~gjay/">Jay Gopalakrishnan</a></strong><br/>
+    Home institution: Portland State University.<br/>
+    Will visit Mar 2027 to Jun 2027.
+  </div>
+</div>
+
+<div class="person">
+  <img src="{{site.url}}/images/stern.jpg" alt="Ari Stern"/>
+  <div>
+    <strong><a class="iwantyoubold" href="https://www.math.wustl.edu/~astern/">Ari Stern</a></strong><br/>
+    Home institution: Washington University in St. Louis.<br/>
+    Will visit Apr 2027 to Jun 2027.
+  </div>
+</div>
+
+
+## Independent research fellows
+
+<div class="person">
+  <img src="{{site.url}}/images/trautwein.jpg" alt="Dennis Trautwein"/>
+  <div>
+    <strong>Dennis Trautwein</strong><br/>
+    Funded on <a href="https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/walter-benjamin">DFG Walter Benjamin Programme</a>.
+  </div>
+</div>
+
+
 ## Postdoctoral research associates
 
 <div class="person">
@@ -76,6 +110,39 @@ title: People
   </div>
 </div>
 
+## Visiting PhD students
+
+<div class="person">
+  <img src="{{site.url}}/images/niederkofler.jpg" alt="David Niederkofler"/>
+  <div>
+    <strong>David Niederkofler</strong><br/>
+    Home institution: TU Wien.<br/>
+    Will visit Oct 2026 to Mar 2027.
+  </div>
+</div>
+
+<div class="person">
+  <img src="{{site.url}}/images/vanbeeck.jpg" alt="Tim van Beeck"/>
+  <div>
+    <strong><a class="iwantyoubold" href="https://timvanbeeck.github.io/">Tim van Beeck</a></strong><br/>
+    Funded by a <a href="https://www2.daad.de/ausland/studieren/stipendium/de/70-stipendien-finden-und-bewerben/?detail=57556279">Forschungsstipendien für Doktorandinnen und Doktoranden</a>.<br/>
+    Home institution: University of Göttingen.<br/>
+    Will visit Oct 2026 to Dec 2026.
+  </div>
+</div>
+
+<div class="person">
+  <div class="person-nophoto"></div>
+  <div>
+    <strong>Qingyu Wu</strong><br/>
+    Home institution: Peking University.<br/>
+    Will visit Oct 2026 to Dec 2026.
+  </div>
+</div>
+
+
+# Former group members
+
 ## DPhil graduates
 
 <div class="person">
@@ -93,7 +160,7 @@ title: People
     <strong><a class="iwantyoubold" href="https://croci.github.io/">Matteo Croci</a></strong><br/>
     Thesis: <a href="{{site.url}}/files/croci.pdf">multilevel Monte Carlo methods for uncertainty quantification in brain simulations</a>. DPhil viva: 2020-01-20.<br/>
     Co-supervised with <a href="https://people.maths.ox.ac.uk/gilesm/">Mike Giles</a> and <a href="https://marierognes.org">Marie Rognes</a>.<br/>
-    Next step: a postdoc with Mike Giles in Oxford, then a postdoc with <a href="https://kiwi.oden.utexas.edu/">Karen Willcox</a> at UT Austin, and then a permanent faculty position at the Basque Centre for Applied Mathematics.
+    Next step: postdocs with Mike Giles in Oxford and <a href="https://kiwi.oden.utexas.edu/">Karen Willcox</a> at UT Austin, then a permanent faculty position at the Basque Centre for Applied Mathematics.
   </div>
 </div>
 
@@ -190,7 +257,7 @@ title: People
     <strong>Gonzalo Gonzalez de Diego</strong><br/>
     Thesis: <a href="{{site.url}}/files/dediego.pdf">Viscous contact problems in glaciology</a>. DPhil viva: 2023-09-05.<br/>
     Co-supervised with <a href="http://people.maths.ox.ac.uk/hewitt/">Ian Hewitt</a>.<br/>
-    Next step: a postdoctoral position with <a href="https://math.nyu.edu/~stadler/">Georg Stadler</a> at NYU.
+    Next step: a postdoctoral position with <a href="https://math.nyu.edu/~stadler/">Georg Stadler</a> at NYU, then a MSCA fellowship at the Universidad Politécnica de Madrid.
   </div>
 </div>
 
@@ -217,7 +284,7 @@ title: People
 <div class="person">
   <img src="{{site.url}}/images/betteridge.jpg" alt="Jack Betteridge"/>
   <div>
-    <strong>Jack Betteridge</strong><br/>
+    <strong><a class="iwantyoubold" href="https://www.linkedin.com/in/jack-betteridge/">Jack Betteridge</a></strong><br/>
     Funded on EPSRC grant <a href="https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W026163/1">SysGenX: Composable software generation for system-level simulation at Exascale</a>.<br/>
     Next step: Research Scientist at <a href="https://www.devitocodes.com/about/">Devito Codes</a>.
   </div>
@@ -236,7 +303,7 @@ title: People
   <img src="{{site.url}}/images/roy.jpg" alt="Thomas Roy"/>
   <div>
     <strong><a class="iwantyoubold" href="https://people.llnl.gov/roy27">Thomas Roy</a></strong><br/>
-    Postdoctoral topic: nonlinear solvers in reservoir models.<br/>
+    Funded on a Mathematical Institute Doctoral Prize award.<br/>
     Next step: a postdoc with <a href="https://people.llnl.gov/beck33">Victor Beck</a>, then a permanent appointment as Staff Scientist at Lawrence Livermore National Laboratory.
   </div>
 </div>
@@ -245,7 +312,7 @@ title: People
   <img src="{{site.url}}/images/paganini.jpg" alt="Alberto Paganini"/>
   <div>
     <strong><a class="iwantyoubold" href="https://le.ac.uk/people/alberto-paganini">Alberto Paganini</a></strong><br/>
-    Postdoctoral topic: shape optimisation.<br/>
+    Funded on EPSRC grant EP/M011151/1.<br/>
     Next step: a departmental lectureship in Oxford, then a permanent faculty position at the University of Leicester.
   </div>
 </div>
@@ -254,11 +321,11 @@ title: People
   <img src="{{site.url}}/images/kyrkesmith.jpg" alt="Teresa Kyrke-Smith"/>
   <div>
     <strong>Teresa Kyrke-Smith</strong><br/>
-    Postdoctoral topic: inverse problems in glaciology, co-advised with <a href="https://www.northumbria.ac.uk/about-us/our-staff/g/g-hilmar-gudmundsson/">Hilmar Gudmundsson</a> at the British Antarctic Survey.<br/>
+    Funded on NERC grant <a href="https://gotw.nerc.ac.uk/list_full.asp?pcode=NE%2FH02333X%2F1">NE/H02333X/1</a>.<br/>
+    Co-advised with <a href="https://www.northumbria.ac.uk/about-us/our-staff/g/g-hilmar-gudmundsson/">Hilmar Gudmundsson</a> at the British Antarctic Survey.<br/>
     Next step: HM Civil Service.
   </div>
 </div>
-
 
 ## Hosted fellowship alumni
 
@@ -275,10 +342,9 @@ title: People
   <img src="{{site.url}}/images/alonso.jpg" alt="Diego Hayashi Alonso"/>
   <div>
     <strong><a class="iwantyoubold" href="https://scholar.google.com/citations?user=SCoRD7cAAAAJ&hl=en">Diego Hayashi Alonso</a></strong><br/>
-    Hosted Jan 2024 to Feb 2025 on a postdoctoral scholarship funded by FAPESP.
+    Hosted Jan 2024 to Feb 2025 on a postdoctoral scholarship, funded by FAPESP.
   </div>
 </div>
-
 
 ## Visiting academics
 
@@ -286,7 +352,8 @@ title: People
   <img src="{{site.url}}/images/kevrekidis.jpg" alt="Panos Kevrekidis"/>
   <div>
     <strong><a class="iwantyoubold" href="https://people.math.umass.edu/~kevrekid/">Panos Kevrekidis</a></strong><br/>
-    Visited Aug 2019 to Mar 2020 funded by a 
+    Home institution: UMass Amherst.<br/>
+    Visited Aug 2019 to Mar 2020, funded by a
     <a href="https://www.leverhulme.ac.uk/visiting-professorships-2019">Leverhulme Visiting Professorship</a>.
   </div>
 </div>
@@ -295,18 +362,38 @@ title: People
   <img src="{{site.url}}/images/ferrer.png" alt="Àlex Ferrer"/>
   <div>
     <strong><a class="iwantyoubold" href="https://sites.google.com/view/alexferrer">Àlex Ferrer</a></strong><br/>
+    Home institution: Universitat Politècnica de Catalunya.<br/>
     Visited Jul 2022 to Jul 2023, funded by a grant from the Universitat Politècnica de Catalunya and the Catalan government.
+  </div>
+</div>
+
+<div class="person">
+  <img src="{{site.url}}/images/park.webp" alt="Jongho Park"/>
+  <div>
+    <strong><a class="iwantyoubold" href="https://sites.google.com/view/jonghopark">Jongho Park</a></strong><br/>
+    Home institution: King Abdullah University of Science and Technology.<br/>
+    Visited Feb 2026 to Mar 2026.
   </div>
 </div>
 
 ## Visiting students and interns
 
 <div class="person">
-  <img src="{{site.url}}/images/hadjslimane.jpg" alt="Arselane Hadj-Slimane"/>
+  <img src="{{site.url}}/images/gachemi.jpg" alt="Geoffrey Gachemi"/>
   <div>
-    <strong>Arselane Hadj-Slimane</strong><br/>
-    Visiting MSc student. Home institution: ENS Saclay.<br/>
-    Next step: a PhD with <a href="https://www.cmap.polytechnique.fr/~allaire/">Grégoire Allaire</a>.
+    <strong>Geoffrey Gachemi</strong><br/>
+    Remote 2021 summer project funded by a <a href="https://www.maths.ox.ac.uk/node/39469">Mfano Africa virtual mentorship</a>.<br/>
+    Home institution: Technical University of Kenya.<br/>
+  </div>
+</div>
+
+<div class="person">
+  <img src="{{site.url}}/images/newell.jpg" alt="Isaac Newell"/>
+  <div>
+    <strong>Isaac Newell</strong><br/>
+    2021 undergraduate summer project funded by an <a href="https://www.lms.ac.uk/grants/URBList">LMS Undergraduate Research Bursary</a>.<br/>
+    Home institution: University of Oxford.<br/>
+    Next step: a DPhil scholarship at the Mathematical Institute with <a href="https://www.maths.ox.ac.uk/people/luc.nguyen">Luc Nguyen</a> and <a href="http://people.maths.ox.ac.uk/chengq/">Gui-Qiang Chen</a>.
   </div>
 </div>
 
@@ -314,7 +401,20 @@ title: People
   <img src="{{site.url}}/images/vais.jpg" alt="Matěj Vais"/>
   <div>
     <strong>Matěj Vais</strong><br/>
-    Visiting MSc student. Home institution: Charles University.
+    Visiting MSc student.<br/>
+    Home institution: Charles University.<br/>
+    Visited Sep 2024 to Dec 2024.<br/>
+  </div>
+</div>
+
+<div class="person">
+  <img src="{{site.url}}/images/hadjslimane.jpg" alt="Arselane Hadj-Slimane"/>
+  <div>
+    <strong>Arselane Hadj-Slimane</strong><br/>
+    Visiting MSc student.<br/>
+    Home institution: ENS Saclay.<br/>
+    Visited Oct 2024 to Feb 2025.<br/>
+    Next step: a PhD with <a href="https://www.cmap.polytechnique.fr/~allaire/">Grégoire Allaire</a>.
   </div>
 </div>
 
@@ -322,9 +422,9 @@ title: People
   <img src="{{site.url}}/images/randriatsitoaina.jpg" alt="Sebastien Randriatsitoaina"/>
   <div>
     <strong>Sebastien Randriatsitoaina</strong><br/>
-    Remote visiting MSc student.
-    Co-supervised with <a href="https://www.earth.ox.ac.uk/people/richard-katz">Richard Katz</a> on the <a href="https://www.maths.ox.ac.uk/outreach/miorpa">MIORPA outreach pro
-gram</a>. Home institution: African Institute for Mathematical Sciences.
+    Remote visiting MSc student.<br/>
+    Co-supervised with <a href="https://www.earth.ox.ac.uk/people/richard-katz">Richard Katz</a> on the <a href="https://www.maths.ox.ac.uk/outreach/miorpa">MIORPA outreach program</a>.<br/>
+    Home institution: African Institute for Mathematical Sciences.
   </div>
 </div>
 
@@ -332,26 +432,40 @@ gram</a>. Home institution: African Institute for Mathematical Sciences.
   <img src="{{site.url}}/images/cach.jpg" alt="Jakub Cach"/>
   <div>
     <strong>Jakub Cach</strong><br/>
-    Visiting PhD student. Home institution: Charles University.
+    Visiting PhD student.<br/>
+    Home institution: Charles University.<br/>
+    Visited Sep 2025 to Dec 2025.
   </div>
 </div>
 
 <div class="person">
-  <img src="{{site.url}}/images/gachemi.jpg" alt="Geoffrey Gachemi"/>
+  <img src="{{site.url}}/images/molge.jpg" alt="Jens Molge"/>
   <div>
-    <strong>Geoffrey Gachemi</strong><br/>
-    2021 Summer project funded by a <a href="https://www.maths.ox.ac.uk/node/39469">Mfano Africa virtual mentorship</a>.<br/>
-    Next step: continuing as a lecturer at the <a href="https://staff.tukenya.ac.ke/?r=portal/profile/public&id=2058">Technical University of Kenya</a>.
+    <strong>Jens Molge</strong><br/>
+    Visiting MSc student.<br/>
+    Co-supervised with <a href="https://scoop.iwr.uni-heidelberg.de/team/rherzog/">Roland Herzog</a> and <a href="https://scoop.iwr.uni-heidelberg.de/team/gm%C3%BCller/">Georg Müller</a>.<br/>
+    Home institution: University of Heidelberg.<br/>
+    Visited Oct 2025 to Jan 2026.
   </div>
 </div>
 
+<div class="person">
+  <div class="person-nophoto"></div>
+  <div>
+    <strong>Jing-yuan Wang</strong><br/>
+    Visiting PhD student.<br/>
+    Home institution: University of Macau.<br/>
+    Visited Apr 2026 to Jul 2026.
+  </div>
+</div>
 
 <div class="person">
-  <img src="{{site.url}}/images/newell.jpg" alt="Isaac Newell"/>
+  <img src="{{site.url}}/images/mugnaioni.jpg" alt="Federica Mugnaioni"/>
   <div>
-    <strong>Isaac Newell</strong><br/>
-    2021 Summer project funded by an <a href="https://www.lms.ac.uk/grants/URBList">LMS Undergraduate Research Bursary</a>.<br/>
-    Next step: a DPhil scholarship at the Mathematical Institute with <a href="https://www.maths.ox.ac.uk/people/luc.nguyen">Luc Nguyen</a> and <a href="http://people.maths.ox.ac.uk/chengq/">Gui-Qiang Chen</a>.
+    <strong>Federica Mugnaioni</strong><br/>
+    Visiting PhD student.<br/> 
+    Home institution: Scuola Normale Superiore.<br/>
+    Visited Jun 2026.
   </div>
 </div>
 

@@ -105,3 +105,10 @@ a.pub-link {
 .person + h2 {
   margin-top: 1.8em;
 }
+
+/* Keeps names aligned when we have no photo of someone */
+.person-nophoto {
+  width: 120px;
+  margin-right: 15px;
+  flex-shrink: 0;
+}
