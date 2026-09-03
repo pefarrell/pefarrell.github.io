@@ -42,6 +42,8 @@ I am always looking for talented PhD students and postdocs. Members of my group 
   <a href="https://www.simula.no/people/meg">Marie Rognes</a>, and
   <a href="https://alextownsend.net/">Alex Townsend</a>.</p>
 
+<p>2027-05-01: I will host <a href="https://mate.unipv.it/moiola/">Andrea Moiola</a> of the Università degli Studi di Pavia for a sabbatical.</p>
+
 <p>2027-04-26: I will host <a href="https://www.math.wustl.edu/~astern/">Ari Stern</a> for a sabbatical.</p>
 
 <p>2027-04-18: I will participate in the <a href="https://www.mfo.de/www/activity/2716">Structure Preserving Methods for Computational Geometric Mechanics</a> workshop at the Mathematisches Forschungsinstitut Oberwolfach, Germany.</p>
@@ -49,6 +51,8 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <p>2027-04-07: I will give a plenary talk at the <a href="https://ukacm.org/ukacm-conferences/">UK Association of Computational Mechanics</a> 2027 conference in Glasgow, UK.</p>
 
 <p>2027-04-01: <a href="https://scholar.google.com/citations?user=MgSwDcoAAAAJ&hl=en">Dennis Trautwein</a> will visit for three months, funded by the <a href="https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/walter-benjamin">DFG Walter Benjamin Programme</a>.</p>
+
+<p>2027-03-15: I will host <a href="https://web.pdx.edu/~gjay/">Jay Gopalakrishnan</a> of Portland State University for a sabbatical.</p>
 
 <p>2026-11-30: I am organising the second meeting of the <a href="https://ems-tag-mixtures.github.io/">European Mathematical Society topical activity group on mixtures</a> at the <a href="https://www.cirm-math.com/">Centre International de Rencontres Mathématiques</a>, alongside
 <a href="https://chercheurs.lille.inria.fr/ccances/">Clément Cancès</a>,
@@ -58,7 +62,13 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <p>2026-11-27: I will give a departmental colloquium in <a href="https://www.maths.manchester.ac.uk/">the Department of Mathematics of the University of Manchester</a>.</p>
 
+<p>2026-10-19: I will host <a href="https://www.wias-berlin.de/~plato/?lang=0">Luisa Plato</a> of the Weierstrass Institute for Applied Analysis and Stochastics for a week, and for a <a href="https://www.maths.ox.ac.uk/node/82208">numerical analysis internal seminar</a>.</p>
+
 <p>2026-10-01: I will host <a href="https://timvanbeeck.github.io/">Tim van Beeck</a> for several months. Tim is a PhD student at the University of Göttingen, supervised by <a href="https://cpde.math.uni-goettingen.de/en/members/CLehrenfeld/index.html">Christoph Lehrenfeld</a>. His visit is supported by a <a href="https://www2.daad.de/ausland/studieren/stipendium/de/70-stipendien-finden-und-bewerben/?detail=57556279">Forschungsstipendien für Doktorandinnen und Doktoranden</a> from the Deutscher Akademischer Austauschdienst.</p>
+
+<p>2026-10-01: I will host <a href="https://www.tuwien.at/en/mg/asc/compdes/david-niederkofler">David Niederkofler</a> for six months. David is a PhD student at TU Wien, supervised by <a href="https://www.tuwien.at/en/mg/asc/feischl">Michael Feischl</a>.</p>
+
+<p>2026-10-01: I will host <a href="https://scholar.google.com/citations?user=gF4LThAAAAAJ&hl=en">Qingyu Wu</a> for several months. Qingyu is a PhD student at Peking University, supervised by <a href="http://www.befem.cn/">Jun Hu</a>.</p>
 
 <p>2026-09-23: I will give an invited talk at the <a href="https://hypertop.cimne.com/">HyperTop Workshop on Advances in Shape and Topology Optimization for Hyperelastic Materials</a> at the Universitat Politècnica de Catalunya in Barcelona, Spain.</p>
 

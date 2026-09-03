@@ -124,7 +124,7 @@ title: People
 <div class="person">
   <a href="{{site.url}}/images/niederkofler.jpg"><img src="{{site.url}}/images/niederkofler.jpg" alt="David Niederkofler"/></a>
   <div>
-    <strong>David Niederkofler</strong><br/>
+    <strong><a class="iwantyoubold" href="https://www.tuwien.at/en/mg/asc/compdes/david-niederkofler">David Niederkofler</a></strong><br/>
     Supervised by <a href="https://www.tuwien.at/en/mg/asc/feischl">Michael Feischl</a>.<br/>
     Home institution: TU Wien.<br/>
     Will visit Oct 2026 to Mar 2027.
@@ -145,7 +145,7 @@ title: People
 <div class="person">
   <a href="{{site.url}}/images/wu.jpg"><img src="{{site.url}}/images/wu.jpg" alt="Qingyu Wu"/></a>
   <div>
-    <strong>Qingyu Wu (雾晴雨)</strong><br/>
+    <strong><a class="iwantyoubold" href="https://scholar.google.com/citations?user=gF4LThAAAAAJ&amp;hl=en">Qingyu Wu (雾晴雨)</a></strong><br/>
     Supervised by <a href="http://www.befem.cn/">Jun Hu</a>.<br/>
     Home institution: Peking University.<br/>
     Will visit Oct 2026 to Dec 2026.
@@ -179,7 +179,7 @@ title: People
 <div class="person">
   <a href="{{site.url}}/images/alawiye.jpg"><img src="{{site.url}}/images/alawiye.jpg" alt="Hamza Alawiye"/></a>
   <div>
-    <strong>Hamza Alawiye</strong><br/>
+    <strong><a class="iwantyoubold" href="https://www.linkedin.com/in/hamza-alawiye/">Hamza Alawiye</a></strong><br/>
     Thesis: <a href="{{site.url}}/files/alawiye.pdf">Wrinkling instabilities: modelling, analysis and computation</a>. DPhil viva: 2020-09-25.<br/>
     Co-supervised with <a href="http://www.goriely.com/">Alain Goriely</a>.<br/>
     Next step: a Heilbronn fellowship at the University of Bristol, now a Senior Machine Learning Research Scientist at Deep Render.
@@ -228,7 +228,7 @@ title: People
 <div class="person">
   <a href="{{site.url}}/images/laakmann.jpg"><img src="{{site.url}}/images/laakmann.jpg" alt="Fabian Laakmann"/></a>
   <div>
-    <strong>Fabian Laakmann</strong><br/>
+    <strong><a class="iwantyoubold" href="https://www.linkedin.com/in/fabian-laakmann/">Fabian Laakmann</a></strong><br/>
     Thesis: <a href="{{site.url}}/files/laakmann.pdf">Discretisations and preconditioners for magnetohydrodynamics models</a>. DPhil viva: 2022-09-20.<br/>
     Next step: Machine Learning Mathematics Engineer with ASML.
   </div>
@@ -463,9 +463,9 @@ title: People
 </div>
 
 <div class="person">
-  <a href="{{site.url}}/images/wang.jpg"><img src="{{site.url}}/images/wang.jpg" alt="Jing-yuan Wang"/></a>
+  <a href="{{site.url}}/images/wang.jpg"><img src="{{site.url}}/images/wang.jpg" alt="Jing-Yuan Wang"/></a>
   <div>
-    <strong>Jing-yuan Wang</strong><br/>
+    <strong>Jing-Yuan Wang</strong><br/>
     Visiting PhD student.<br/>
     Supervised by <a href="https://personal.fic.um.edu.mo/xccai/">Xiao-Chuan Cai</a>.<br/>
     Home institution: University of Macau.<br/>
