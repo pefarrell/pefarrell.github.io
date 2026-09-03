@@ -78,6 +78,8 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <h2 id="news">News</h2>
 
+<p>2026-09-03: I served as internal PhD examiner for <a href="https://stefanofronzoni.github.io/">Stefano Fronzoni</a>. Congratulations!</p>
+
 <p>2026-07-27: I gave <b>an invited section lecture at the <a class="iwantyoubold" href="https://www.icm2026.org/event/ac193975-5d24-4628-8c30-ddb23de19a8b/speakers">International Congress of Mathematicians</a></b>, in Section 15: Numerical Analysis and Scientific Computing, in Philadelphia, USA.
   <figure>
   <img src="{{site.url}}/images/icm-20260727.jpg" alt="Talking at the 2026 ICM in Philadelphia."/>
