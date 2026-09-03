@@ -465,7 +465,7 @@ title: People
 <div class="person">
   <a href="{{site.url}}/images/wang.jpg"><img src="{{site.url}}/images/wang.jpg" alt="Jing-Yuan Wang"/></a>
   <div>
-    <strong>Jing-Yuan Wang</strong><br/>
+    <strong>Jing-Yuan Wang (王菁原)</strong><br/>
     Visiting PhD student.<br/>
     Supervised by <a href="https://personal.fic.um.edu.mo/xccai/">Xiao-Chuan Cai</a>.<br/>
     Home institution: University of Macau.<br/>
