@@ -295,6 +295,7 @@ Update: accepted in Applications in Engineering Science.
 
 <p>2026-01-06: Welcome to <a href="https://scholar.google.com/citations?user=4VOJOMAAAAAJ&hl=en">Ana Djurdevac</a>, who joins the Numerical Analysis group as faculty!</p>
 
+<h2 id="2025">2025</h2>
 
 <p>2025-12-11: I gave a seminar in the <a href="https://seminar-nm.karlin.mff.cuni.cz/">Numerical Mathematics</a> series at Charles University, Prague, Czechia.</p>
 
