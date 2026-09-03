@@ -10,7 +10,7 @@ title: People
 ## Visiting academics
 
 <div class="person">
-  <img src="{{site.url}}/images/gopalakrishnan.png" alt="Jay Gopalakrishnan"/>
+  <a href="{{site.url}}/images/gopalakrishnan.png"><img src="{{site.url}}/images/gopalakrishnan.png" alt="Jay Gopalakrishnan"/></a>
   <div>
     <strong><a class="iwantyoubold" href="https://web.pdx.edu/~gjay/">Jay Gopalakrishnan</a></strong><br/>
     Home institution: Portland State University.<br/>
@@ -19,7 +19,7 @@ title: People
 </div>
 
 <div class="person">
-  <img src="{{site.url}}/images/stern.jpg" alt="Ari Stern"/>
+  <a href="{{site.url}}/images/stern.jpg"><img src="{{site.url}}/images/stern.jpg" alt="Ari Stern"/></a>
   <div>
     <strong><a class="iwantyoubold" href="https://www.math.wustl.edu/~astern/">Ari Stern</a></strong><br/>
     Home institution: Washington University in St. Louis.<br/>
@@ -27,11 +27,20 @@ title: People
   </div>
 </div>
 
+<div class="person">
+  <a href="{{site.url}}/images/moiola.jpg"><img src="{{site.url}}/images/moiola.jpg" alt="Andrea Moiola"/></a>
+  <div>
+    <strong><a class="iwantyoubold" href="https://mate.unipv.it/moiola/">Andrea Moiola</a></strong><br/>
+    Home institution: Università degli Studi di Pavia.<br/>
+    Will visit May 2027 to Jun 2027.
+  </div>
+</div>
+
 
 ## Independent research fellows
 
 <div class="person">
-  <img src="{{site.url}}/images/trautwein.jpg" alt="Dennis Trautwein"/>
+  <a href="{{site.url}}/images/trautwein.jpg"><img src="{{site.url}}/images/trautwein.jpg" alt="Dennis Trautwein"/></a>
   <div>
     <strong>Dennis Trautwein</strong><br/>
     Funded on <a href="https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/walter-benjamin">DFG Walter Benjamin Programme</a>.
@@ -42,7 +51,7 @@ title: People
 ## Postdoctoral research associates
 
 <div class="person">
-  <img src="{{site.url}}/images/brubeck.jpg" alt="Pablo Brubeck"/>
+  <a href="{{site.url}}/images/brubeck.jpg"><img src="{{site.url}}/images/brubeck.jpg" alt="Pablo Brubeck"/></a>
   <div>
     <strong>Pablo Brubeck</strong><br/>
     Funded on EPSRC grant <a href="https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W026163/1">SysGenX: Composable software generation for system-level simulation at Exascale</a> and by UKRI grant UKRI/ST/B000495/1.
@@ -52,7 +61,7 @@ title: People
 ## DPhil students
 
 <div class="person">
-  <img src="{{site.url}}/images/he.jpg" alt="Mingdong He"/>
+  <a href="{{site.url}}/images/he.jpg"><img src="{{site.url}}/images/he.jpg" alt="Mingdong He"/></a>
   <div>
     <strong>Mingdong He (何明东)</strong><br/>
     Topic: topological property preservation in fluid mechanics.<br/>
@@ -61,7 +70,7 @@ title: People
 </div>
 
 <div class="person">
-  <img src="{{site.url}}/images/knook.jpg" alt="Kars Knook"/>
+  <a href="{{site.url}}/images/knook.jpg"><img src="{{site.url}}/images/knook.jpg" alt="Kars Knook"/></a>
   <div>
     <strong>Kars Knook</strong><br/>
     Topic: preconditioners for the Navier-Stokes-Onsager-Stefan-Maxwell system for multicomponent flows.
@@ -69,7 +78,7 @@ title: People
 </div>
 
 <div class="person">
-  <img src="{{site.url}}/images/marsden.jpg" alt="India Marsden"/>
+  <a href="{{site.url}}/images/marsden.jpg"><img src="{{site.url}}/images/marsden.jpg" alt="India Marsden"/></a>
   <div>
     <strong>India Marsden</strong><br/>
     Topic: a complete definition of a finite element.
@@ -77,7 +86,7 @@ title: People
 </div>
 
 <div class="person">
-  <img src="{{site.url}}/images/zerbinati.jpg" alt="Umberto Zerbinati"/>
+  <a href="{{site.url}}/images/zerbinati.jpg"><img src="{{site.url}}/images/zerbinati.jpg" alt="Umberto Zerbinati"/></a>
   <div>
     <strong><a class="iwantyoubold" href="https://www.uzerbinati.eu/">Umberto Zerbinati</a></strong><br/>
     Topic: kinetic modelling of ordered fluids.
@@ -85,7 +94,7 @@ title: People
 </div>
 
 <div class="person">
-  <img src="{{site.url}}/images/kosarkova.jpg" alt="Lenka Košárková"/>
+  <a href="{{site.url}}/images/kosarkova.jpg"><img src="{{site.url}}/images/kosarkova.jpg" alt="Lenka Košárková"/></a>
   <div>
     <strong><a class="iwantyoubold" href="https://www.karlin.mff.cuni.cz/~kosarkova/">Lenka Košárková</a> (Charles University Prague)</strong><br/>
     Topic: modelling and discretisation of multicomponent fluid-structure interaction.<br/>
@@ -94,7 +103,7 @@ title: People
 </div>
 
 <div class="person">
-  <img src="{{site.url}}/images/dong.jpg" alt="Chenghao Dong"/>
+  <a href="{{site.url}}/images/dong.jpg"><img src="{{site.url}}/images/dong.jpg" alt="Chenghao Dong"/></a>
   <div>
     <strong>Chenghao Dong (董承昊)</strong><br/>
     Topic: the latent variable proximal point method for variational inequalities.
@@ -102,7 +111,7 @@ title: People
 </div>
 
 <div class="person">
-  <img src="{{site.url}}/images/higham.jpg" alt="Thomas Higham"/>
+  <a href="{{site.url}}/images/higham.jpg"><img src="{{site.url}}/images/higham.jpg" alt="Thomas Higham"/></a>
   <div>
     <strong>Thomas Higham</strong><br/>
     Topic: non-axisymmetric magnetic equilibria in tokamaks.<br/>
@@ -113,28 +122,31 @@ title: People
 ## Visiting PhD students
 
 <div class="person">
-  <img src="{{site.url}}/images/niederkofler.jpg" alt="David Niederkofler"/>
+  <a href="{{site.url}}/images/niederkofler.jpg"><img src="{{site.url}}/images/niederkofler.jpg" alt="David Niederkofler"/></a>
   <div>
     <strong>David Niederkofler</strong><br/>
+    Supervised by <a href="https://www.tuwien.at/en/mg/asc/feischl">Michael Feischl</a>.<br/>
     Home institution: TU Wien.<br/>
     Will visit Oct 2026 to Mar 2027.
   </div>
 </div>
 
 <div class="person">
-  <img src="{{site.url}}/images/vanbeeck.jpg" alt="Tim van Beeck"/>
+  <a href="{{site.url}}/images/vanbeeck.jpg"><img src="{{site.url}}/images/vanbeeck.jpg" alt="Tim van Beeck"/></a>
   <div>
     <strong><a class="iwantyoubold" href="https://timvanbeeck.github.io/">Tim van Beeck</a></strong><br/>
     Funded by a <a href="https://www2.daad.de/ausland/studieren/stipendium/de/70-stipendien-finden-und-bewerben/?detail=57556279">Forschungsstipendien für Doktorandinnen und Doktoranden</a>.<br/>
-    Home institution: University of Göttingen.<br/>
+    Supervised by <a href="https://cpde.math.uni-goettingen.de/en/members/CLehrenfeld/index.html">Christoph Lehrenheld</a>.<br/>
+    Home institution: Georg-August-Universität Göttingen.<br/>
     Will visit Oct 2026 to Dec 2026.
   </div>
 </div>
 
 <div class="person">
-  <div class="person-nophoto"></div>
+  <a href="{{site.url}}/images/wu.jpg"><img src="{{site.url}}/images/wu.jpg" alt="Qingyu Wu"/></a>
   <div>
-    <strong>Qingyu Wu</strong><br/>
+    <strong>Qingyu Wu (雾晴雨)</strong><br/>
+    Supervised by <a href="http://www.befem.cn/">Jun Hu</a>.<br/>
     Home institution: Peking University.<br/>
     Will visit Oct 2026 to Dec 2026.
   </div>
@@ -146,7 +158,7 @@ title: People
 ## DPhil graduates
 
 <div class="person">
-  <img src="{{site.url}}/images/wechsung.jpg" alt="Florian Wechsung"/>
+  <a href="{{site.url}}/images/wechsung.jpg"><img src="{{site.url}}/images/wechsung.jpg" alt="Florian Wechsung"/></a>
   <div>
     <strong><a class="iwantyoubold" href="https://florianwechsung.github.io/">Florian Wechsung</a></strong><br/>
     Thesis: <a href="{{site.url}}/files/wechsung.pdf">shape optimisation and robust solvers for incompressible flow</a>. DPhil viva: 2019-09-23.<br/>
@@ -155,7 +167,7 @@ title: People
 </div>
 
 <div class="person">
-  <img src="{{site.url}}/images/croci.jpg" alt="Matteo Croci"/>
+  <a href="{{site.url}}/images/croci.jpg"><img src="{{site.url}}/images/croci.jpg" alt="Matteo Croci"/></a>
   <div>
     <strong><a class="iwantyoubold" href="https://croci.github.io/">Matteo Croci</a></strong><br/>
     Thesis: <a href="{{site.url}}/files/croci.pdf">multilevel Monte Carlo methods for uncertainty quantification in brain simulations</a>. DPhil viva: 2020-01-20.<br/>
@@ -165,7 +177,7 @@ title: People
 </div>
 
 <div class="person">
-  <img src="{{site.url}}/images/alawiye.jpg" alt="Hamza Alawiye"/>
+  <a href="{{site.url}}/images/alawiye.jpg"><img src="{{site.url}}/images/alawiye.jpg" alt="Hamza Alawiye"/></a>
   <div>
     <strong>Hamza Alawiye</strong><br/>
     Thesis: <a href="{{site.url}}/files/alawiye.pdf">Wrinkling instabilities: modelling, analysis and computation</a>. DPhil viva: 2020-09-25.<br/>
@@ -175,7 +187,7 @@ title: People
 </div>
 
 <div class="person">
-  <img src="{{site.url}}/images/gazca.jpg" alt="Pablo Alexei Gazca Orozco"/>
+  <a href="{{site.url}}/images/gazca.jpg"><img src="{{site.url}}/images/gazca.jpg" alt="Pablo Alexei Gazca Orozco"/></a>
   <div>
     <strong><a class="iwantyoubold" href="https://gazcaorozco.github.io/home/">Pablo Alexei Gazca Orozco</a></strong><br/>
     Thesis: <a href="{{site.url}}/files/gazca.pdf">Numerical analysis of implicitly constituted incompressible fluids: mixed formulations</a>. DPhil viva: 2020-10-19.<br/>
@@ -185,7 +197,7 @@ title: People
 </div>
 
 <div class="person">
-  <img src="{{site.url}}/images/xia.jpg" alt="Jingmin Xia"/>
+  <a href="{{site.url}}/images/xia.jpg"><img src="{{site.url}}/images/xia.jpg" alt="Jingmin Xia"/></a>
   <div>
     <strong><a class="iwantyoubold" href="https://jingminxia.github.io/">Jingmin Xia (夏静敏)</a></strong><br/>
     Thesis: <a href="{{site.url}}/files/xia.pdf">Computational and analytical aspects of energy minimisation problems in cholesteric, ferronematic and smectic liquid crystals</a>. DPhil viva: 2021-06-01.<br/>
@@ -194,7 +206,7 @@ title: People
 </div>
 
 <div class="person">
-  <img src="{{site.url}}/images/papadopoulos.jpg" alt="Ioannis Papadopoulos"/>
+  <a href="{{site.url}}/images/papadopoulos.jpg"><img src="{{site.url}}/images/papadopoulos.jpg" alt="Ioannis Papadopoulos"/></a>
   <div>
     <strong><a class="iwantyoubold" href="https://ioannispapapadopoulos.github.io/">Ioannis Papadopoulos</a></strong><br/>
     Thesis: <a href="{{site.url}}/files/papadopoulos.pdf">Computing multiple solutions of topology optimization problems</a>. DPhil viva: 2021-09-24.<br/>
@@ -204,7 +216,7 @@ title: People
 </div>
 
 <div class="person">
-  <img src="{{site.url}}/images/boulle.jpg" alt="Nicolas Boullé"/>
+  <a href="{{site.url}}/images/boulle.jpg"><img src="{{site.url}}/images/boulle.jpg" alt="Nicolas Boullé"/></a>
   <div>
     <strong><a class="iwantyoubold" href="https://nboulle.github.io/">Nicolas Boullé</a></strong><br/>
     Thesis: <a href="{{site.url}}/files/boulle.pdf">Data-driven discovery of Green's functions</a>. DPhil viva: 2022-08-30.<br/>
@@ -214,7 +226,7 @@ title: People
 </div>
 
 <div class="person">
-  <img src="{{site.url}}/images/laakmann.jpg" alt="Fabian Laakmann"/>
+  <a href="{{site.url}}/images/laakmann.jpg"><img src="{{site.url}}/images/laakmann.jpg" alt="Fabian Laakmann"/></a>
   <div>
     <strong>Fabian Laakmann</strong><br/>
     Thesis: <a href="{{site.url}}/files/laakmann.pdf">Discretisations and preconditioners for magnetohydrodynamics models</a>. DPhil viva: 2022-09-20.<br/>
@@ -223,7 +235,7 @@ title: People
 </div>
 
 <div class="person">
-  <img src="{{site.url}}/images/aznaran.jpg" alt="Francis Aznaran"/>
+  <a href="{{site.url}}/images/aznaran.jpg"><img src="{{site.url}}/images/aznaran.jpg" alt="Francis Aznaran"/></a>
   <div>
     <strong><a class="iwantyoubold" href="https://aznaran.com/">Francis Aznaran</a></strong><br/>
     Thesis: <a href="{{site.url}}/files/aznaran.pdf">Discretisation of Hodge Laplacians in the elasticity complex</a>. DPhil viva: 2022-09-28.<br/>
@@ -233,7 +245,7 @@ title: People
 </div>
 
 <div class="person">
-  <img src="{{site.url}}/images/vanbrunt.jpg" alt="Alexander Van-Brunt"/>
+  <a href="{{site.url}}/images/vanbrunt.jpg"><img src="{{site.url}}/images/vanbrunt.jpg" alt="Alexander Van-Brunt"/></a>
   <div>
     <strong>Alexander Van-Brunt</strong><br/>
     Thesis: <a href="{{site.url}}/files/vanbrunt.pdf">Finite element methods for the Onsager-Stefan-Maxwell equations</a>. DPhil viva: 2022-10-07.<br/>
@@ -243,7 +255,7 @@ title: People
 </div>
 
 <div class="person">
-  <img src="{{site.url}}/images/brubeck.jpg" alt="Pablo Brubeck"/>
+  <a href="{{site.url}}/images/brubeck.jpg"><img src="{{site.url}}/images/brubeck.jpg" alt="Pablo Brubeck"/></a>
   <div>
     <strong>Pablo Brubeck</strong><br/>
     Thesis: <a href="{{site.url}}/files/brubeck.pdf">Optimal complexity and robust multigrid methods for high-order FEM</a>. DPhil viva: 2023-02-15.<br/>
@@ -252,7 +264,7 @@ title: People
 </div>
 
 <div class="person">
-  <img src="{{site.url}}/images/gonzalez.png" alt="Gonzalo Gonzalez de Diego"/>
+  <a href="{{site.url}}/images/gonzalez.png"><img src="{{site.url}}/images/gonzalez.png" alt="Gonzalo Gonzalez de Diego"/></a>
   <div>
     <strong>Gonzalo Gonzalez de Diego</strong><br/>
     Thesis: <a href="{{site.url}}/files/dediego.pdf">Viscous contact problems in glaciology</a>. DPhil viva: 2023-09-05.<br/>
@@ -262,7 +274,7 @@ title: People
 </div>
 
 <div class="person">
-  <img src="{{site.url}}/images/andrews.png" alt="Boris Andrews"/>
+  <a href="{{site.url}}/images/andrews.png"><img src="{{site.url}}/images/andrews.png" alt="Boris Andrews"/></a>
   <div>
     <strong><a class="iwantyoubold" href="https://borisandrews.github.io/">Boris Andrews</a></strong><br/>
     Thesis: <a href="{{site.url}}/files/andrews.pdf">Geometric numerical integration via auxiliary variables</a>. DPhil viva: 2025-08-29.<br/>
@@ -272,7 +284,7 @@ title: People
 </div>
 
 <div class="person">
-  <img src="{{site.url}}/images/baier-reinio.jpg" alt="Aaron Baier-Reinio"/>
+  <a href="{{site.url}}/images/baier-reinio.jpg"><img src="{{site.url}}/images/baier-reinio.jpg" alt="Aaron Baier-Reinio"/></a>
   <div>
     <strong>Aaron Baier-Reinio</strong><br/>
     Thesis: <a href="{{site.url}}/files/baierreinio.pdf">Finite element methods for multicomponent flow problems</a>. DPhil viva: 2026-07-24.<br/>
@@ -282,7 +294,7 @@ title: People
 
 ## Postdoctoral alumni
 <div class="person">
-  <img src="{{site.url}}/images/betteridge.jpg" alt="Jack Betteridge"/>
+  <a href="{{site.url}}/images/betteridge.jpg"><img src="{{site.url}}/images/betteridge.jpg" alt="Jack Betteridge"/></a>
   <div>
     <strong><a class="iwantyoubold" href="https://www.linkedin.com/in/jack-betteridge/">Jack Betteridge</a></strong><br/>
     Funded on EPSRC grant <a href="https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W026163/1">SysGenX: Composable software generation for system-level simulation at Exascale</a>.<br/>
@@ -291,7 +303,7 @@ title: People
 </div>
 
 <div class="person">
-  <img src="{{site.url}}/images/sap.jpg" alt="Duygu Sap"/>
+  <a href="{{site.url}}/images/sap.jpg"><img src="{{site.url}}/images/sap.jpg" alt="Duygu Sap"/></a>
   <div>
     <strong><a class="iwantyoubold" href="https://duygusap.com/">Duygu Sap</a></strong><br/>
     Funded on EPSRC grant <a href="https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/R029423/1">PRISM: Platform for Research in Simulation Methods</a>.<br/>
@@ -300,7 +312,7 @@ title: People
 </div>
 
 <div class="person">
-  <img src="{{site.url}}/images/roy.jpg" alt="Thomas Roy"/>
+  <a href="{{site.url}}/images/roy.jpg"><img src="{{site.url}}/images/roy.jpg" alt="Thomas Roy"/></a>
   <div>
     <strong><a class="iwantyoubold" href="https://people.llnl.gov/roy27">Thomas Roy</a></strong><br/>
     Funded on a Mathematical Institute Doctoral Prize award.<br/>
@@ -309,7 +321,7 @@ title: People
 </div>
 
 <div class="person">
-  <img src="{{site.url}}/images/paganini.jpg" alt="Alberto Paganini"/>
+  <a href="{{site.url}}/images/paganini.jpg"><img src="{{site.url}}/images/paganini.jpg" alt="Alberto Paganini"/></a>
   <div>
     <strong><a class="iwantyoubold" href="https://le.ac.uk/people/alberto-paganini">Alberto Paganini</a></strong><br/>
     Funded on EPSRC grant EP/M011151/1.<br/>
@@ -318,7 +330,7 @@ title: People
 </div>
 
 <div class="person">
-  <img src="{{site.url}}/images/kyrkesmith.jpg" alt="Teresa Kyrke-Smith"/>
+  <a href="{{site.url}}/images/kyrkesmith.jpg"><img src="{{site.url}}/images/kyrkesmith.jpg" alt="Teresa Kyrke-Smith"/></a>
   <div>
     <strong>Teresa Kyrke-Smith</strong><br/>
     Funded on NERC grant <a href="https://gotw.nerc.ac.uk/list_full.asp?pcode=NE%2FH02333X%2F1">NE/H02333X/1</a>.<br/>
@@ -330,7 +342,7 @@ title: People
 ## Hosted fellowship alumni
 
 <div class="person">
-  <img src="{{site.url}}/images/parvizi.jpg" alt="Maryam Parvizi"/>
+  <a href="{{site.url}}/images/parvizi.jpg"><img src="{{site.url}}/images/parvizi.jpg" alt="Maryam Parvizi"/></a>
   <div>
     <strong><a class="iwantyoubold" href="https://www.birmingham.ac.uk/staff/profiles/maths/parvizi-maryam">Maryam Parvizi</a></strong><br/>
     Hosted Apr 2023 to Apr 2024, funded by a Humboldt Fellowship.<br/>
@@ -339,7 +351,7 @@ title: People
 </div>
 
 <div class="person">
-  <img src="{{site.url}}/images/alonso.jpg" alt="Diego Hayashi Alonso"/>
+  <a href="{{site.url}}/images/alonso.jpg"><img src="{{site.url}}/images/alonso.jpg" alt="Diego Hayashi Alonso"/></a>
   <div>
     <strong><a class="iwantyoubold" href="https://scholar.google.com/citations?user=SCoRD7cAAAAJ&hl=en">Diego Hayashi Alonso</a></strong><br/>
     Hosted Jan 2024 to Feb 2025 on a postdoctoral scholarship, funded by FAPESP.
@@ -349,7 +361,7 @@ title: People
 ## Visiting academics
 
 <div class="person">
-  <img src="{{site.url}}/images/kevrekidis.jpg" alt="Panos Kevrekidis"/>
+  <a href="{{site.url}}/images/kevrekidis.jpg"><img src="{{site.url}}/images/kevrekidis.jpg" alt="Panos Kevrekidis"/></a>
   <div>
     <strong><a class="iwantyoubold" href="https://people.math.umass.edu/~kevrekid/">Panos Kevrekidis</a></strong><br/>
     Home institution: UMass Amherst.<br/>
@@ -359,7 +371,7 @@ title: People
 </div>
 
 <div class="person">
-  <img src="{{site.url}}/images/ferrer.png" alt="Àlex Ferrer"/>
+  <a href="{{site.url}}/images/ferrer.png"><img src="{{site.url}}/images/ferrer.png" alt="Àlex Ferrer"/></a>
   <div>
     <strong><a class="iwantyoubold" href="https://sites.google.com/view/alexferrer">Àlex Ferrer</a></strong><br/>
     Home institution: Universitat Politècnica de Catalunya.<br/>
@@ -368,7 +380,7 @@ title: People
 </div>
 
 <div class="person">
-  <img src="{{site.url}}/images/park.webp" alt="Jongho Park"/>
+  <a href="{{site.url}}/images/park.webp"><img src="{{site.url}}/images/park.webp" alt="Jongho Park"/></a>
   <div>
     <strong><a class="iwantyoubold" href="https://sites.google.com/view/jonghopark">Jongho Park</a></strong><br/>
     Home institution: King Abdullah University of Science and Technology.<br/>
@@ -379,7 +391,7 @@ title: People
 ## Visiting students and interns
 
 <div class="person">
-  <img src="{{site.url}}/images/gachemi.jpg" alt="Geoffrey Gachemi"/>
+  <a href="{{site.url}}/images/gachemi.jpg"><img src="{{site.url}}/images/gachemi.jpg" alt="Geoffrey Gachemi"/></a>
   <div>
     <strong>Geoffrey Gachemi</strong><br/>
     Remote 2021 summer project funded by a <a href="https://www.maths.ox.ac.uk/node/39469">Mfano Africa virtual mentorship</a>.<br/>
@@ -388,7 +400,7 @@ title: People
 </div>
 
 <div class="person">
-  <img src="{{site.url}}/images/newell.jpg" alt="Isaac Newell"/>
+  <a href="{{site.url}}/images/newell.jpg"><img src="{{site.url}}/images/newell.jpg" alt="Isaac Newell"/></a>
   <div>
     <strong>Isaac Newell</strong><br/>
     2021 undergraduate summer project funded by an <a href="https://www.lms.ac.uk/grants/URBList">LMS Undergraduate Research Bursary</a>.<br/>
@@ -398,7 +410,7 @@ title: People
 </div>
 
 <div class="person">
-  <img src="{{site.url}}/images/vais.jpg" alt="Matěj Vais"/>
+  <a href="{{site.url}}/images/vais.jpg"><img src="{{site.url}}/images/vais.jpg" alt="Matěj Vais"/></a>
   <div>
     <strong>Matěj Vais</strong><br/>
     Visiting MSc student.<br/>
@@ -408,7 +420,7 @@ title: People
 </div>
 
 <div class="person">
-  <img src="{{site.url}}/images/hadjslimane.jpg" alt="Arselane Hadj-Slimane"/>
+  <a href="{{site.url}}/images/hadjslimane.jpg"><img src="{{site.url}}/images/hadjslimane.jpg" alt="Arselane Hadj-Slimane"/></a>
   <div>
     <strong>Arselane Hadj-Slimane</strong><br/>
     Visiting MSc student.<br/>
@@ -419,7 +431,7 @@ title: People
 </div>
 
 <div class="person">
-  <img src="{{site.url}}/images/randriatsitoaina.jpg" alt="Sebastien Randriatsitoaina"/>
+  <a href="{{site.url}}/images/randriatsitoaina.jpg"><img src="{{site.url}}/images/randriatsitoaina.jpg" alt="Sebastien Randriatsitoaina"/></a>
   <div>
     <strong>Sebastien Randriatsitoaina</strong><br/>
     Remote visiting MSc student.<br/>
@@ -429,17 +441,18 @@ title: People
 </div>
 
 <div class="person">
-  <img src="{{site.url}}/images/cach.jpg" alt="Jakub Cach"/>
+  <a href="{{site.url}}/images/cach.jpg"><img src="{{site.url}}/images/cach.jpg" alt="Jakub Cach"/></a>
   <div>
     <strong>Jakub Cach</strong><br/>
     Visiting PhD student.<br/>
+    Supervised by <a href="https://www.karlin.mff.cuni.cz/~tumak3am/">Karel Tůma</a>.<br/>
     Home institution: Charles University.<br/>
     Visited Sep 2025 to Dec 2025.
   </div>
 </div>
 
 <div class="person">
-  <img src="{{site.url}}/images/molge.jpg" alt="Jens Molge"/>
+  <a href="{{site.url}}/images/molge.jpg"><img src="{{site.url}}/images/molge.jpg" alt="Jens Molge"/></a>
   <div>
     <strong>Jens Molge</strong><br/>
     Visiting MSc student.<br/>
@@ -450,20 +463,22 @@ title: People
 </div>
 
 <div class="person">
-  <div class="person-nophoto"></div>
+  <a href="{{site.url}}/images/wang.jpg"><img src="{{site.url}}/images/wang.jpg" alt="Jing-yuan Wang"/></a>
   <div>
     <strong>Jing-yuan Wang</strong><br/>
     Visiting PhD student.<br/>
+    Supervised by <a href="https://personal.fic.um.edu.mo/xccai/">Xiao-Chuan Cai</a>.<br/>
     Home institution: University of Macau.<br/>
     Visited Apr 2026 to Jul 2026.
   </div>
 </div>
 
 <div class="person">
-  <img src="{{site.url}}/images/mugnaioni.jpg" alt="Federica Mugnaioni"/>
+  <a href="{{site.url}}/images/mugnaioni.jpg"><img src="{{site.url}}/images/mugnaioni.jpg" alt="Federica Mugnaioni"/></a>
   <div>
     <strong>Federica Mugnaioni</strong><br/>
     Visiting PhD student.<br/> 
+    Supervised by <a href="https://www.sns.it/en/persona/michele-benzi">Michele Benzi</a>.<br/>
     Home institution: Scuola Normale Superiore.<br/>
     Visited Jun 2026.
   </div>
@@ -472,7 +487,7 @@ title: People
 <!-- Commented out: only two of the many MSc students are recorded here.
 ## Master's students
 <div class="person">
-  <img src="{{site.url}}/images/castellaz.jpg" alt="Benjamin Castellaz"/>
+  <a href="{{site.url}}/images/castellaz.jpg"><img src="{{site.url}}/images/castellaz.jpg" alt="Benjamin Castellaz"/></a>
   <div>
     <strong>Benjamin Castellaz</strong><br/>
     Topic: high-order structure-preserving discretisations and solvers for the Oberbeck-Boussinesq equations.<br/>
@@ -481,7 +496,7 @@ title: People
   </div>
 </div>
 <div class="person">
-  <img src="{{site.url}}/images/wilson.jpg" alt="Andrew Wilson"/>
+  <a href="{{site.url}}/images/wilson.jpg"><img src="{{site.url}}/images/wilson.jpg" alt="Andrew Wilson"/></a>
   <div>
     <strong><a class="iwantyoubold" href="https://en.wikipedia.org/wiki/Andrew_Wilson_(swimmer)">Andrew Wilson</a></strong><br/>
     Topic: multigrid preconditioners for the Onsager-Stefan-Maxwell equations.<br/>

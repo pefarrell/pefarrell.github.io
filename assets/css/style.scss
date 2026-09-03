@@ -91,7 +91,7 @@ a.pub-link {
   width: 120px;
   height: 120px;
   object-fit: cover;      /* uniform square thumbnails, whatever the photo */
-  object-position: center 25%;
+  object-position: center top;   /* keep the top of the head, never crop hair */
   margin-right: 15px;
   flex-shrink: 0;
 }
@@ -104,6 +104,16 @@ a.pub-link {
 /* Give each section heading room to breathe after the last person above it */
 .person + h2 {
   margin-top: 1.8em;
+}
+
+.person + h1 {
+  margin-top: 2.6em;
+}
+
+/* The thumbnail links to the full-size photo */
+.person > a {
+  flex-shrink: 0;
+  line-height: 0;
 }
 
 /* Keeps names aligned when we have no photo of someone */
