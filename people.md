@@ -119,6 +119,24 @@ title: People
   </div>
 </div>
 
+<!--
+<div class="person">
+  <a href="{{site.url}}/images/mccarthy.jpg"><img src="{{site.url}}/images/mccarthy.jpg" alt="Maggie McCarthy"/></a>
+  <div>
+    <strong>Maggie McCarthy</strong><br/>
+    Topic: efficient algorithms for spectral computations.<br/>
+  </div>
+</div>
+
+<div class="person">
+  <a href="{{site.url}}/images/wu_yue.jpg"><img src="{{site.url}}/images/wu_yue.jpg" alt="Yue Wu"/></a>
+  <div>
+    <strong>Yue Wu (吴越)</strong><br/>
+    Topic: .<br/>
+  </div>
+</div>
+-->
+
 ## Visiting PhD students
 
 <div class="person">
@@ -143,7 +161,7 @@ title: People
 </div>
 
 <div class="person">
-  <a href="{{site.url}}/images/wu.jpg"><img src="{{site.url}}/images/wu.jpg" alt="Qingyu Wu"/></a>
+  <a href="{{site.url}}/images/wu_qingyu.jpg"><img src="{{site.url}}/images/wu_qingyu.jpg" alt="Qingyu Wu"/></a>
   <div>
     <strong><a class="iwantyoubold" href="https://scholar.google.com/citations?user=gF4LThAAAAAJ&amp;hl=en">Qingyu Wu (雾晴雨)</a></strong><br/>
     Supervised by <a href="http://www.befem.cn/">Jun Hu</a>.<br/>
