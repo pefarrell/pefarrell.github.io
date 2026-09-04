@@ -163,7 +163,7 @@ title: People
 <div class="person">
   <a href="{{site.url}}/images/wu_qingyu.jpg"><img src="{{site.url}}/images/wu_qingyu.jpg" alt="Qingyu Wu"/></a>
   <div>
-    <strong><a class="iwantyoubold" href="https://scholar.google.com/citations?user=gF4LThAAAAAJ&amp;hl=en">Qingyu Wu (雾晴雨)</a></strong><br/>
+    <strong><a class="iwantyoubold" href="https://scholar.google.com/citations?user=gF4LThAAAAAJ&amp;hl=en">Qingyu Wu (吴清玉)</a></strong><br/>
     Supervised by <a href="http://www.befem.cn/">Jun Hu</a>.<br/>
     Home institution: Peking University.<br/>
     Will visit Oct 2026 to Dec 2026.
