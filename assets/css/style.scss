@@ -91,7 +91,7 @@ a.pub-link {
   width: 120px;
   height: 120px;
   object-fit: cover;      /* uniform square thumbnails, whatever the photo */
-  object-position: center top;   /* keep the top of the head, never crop hair */
+  object-position: center;       /* the thumbnails are already square, face-centred crops */
   margin-right: 15px;
   flex-shrink: 0;
 }
