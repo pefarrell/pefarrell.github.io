@@ -135,6 +135,14 @@ title: People
     Topic: .<br/>
   </div>
 </div>
+
+<div class="person">
+  <a href="{{site.url}}/images/maver.jpg"><img src="{{site.url}}/images/thumbs/maver.jpg" alt="Rebecca Maver"/></a>
+  <div>
+    <strong>Rebecca Maver</strong><br/>
+    Topic: .<br/>
+  </div>
+</div>
 -->
 
 ## Visiting PhD students
