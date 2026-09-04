@@ -30,16 +30,22 @@ for path in CommandLine.arguments.dropFirst() {
         let fh = box.height * h
         let fy = (1 - box.origin.y - box.height) * h   // top edge, origin top left
 
-        // The eye line is a steadier anchor than the box centre.
+        // The eye line and the chin are steadier anchors than the box, which
+        // varies with pose and beard; eye-to-chin sets the scale of the head.
+        let size = CGSize(width: w, height: h)
         var eyeX = fx + fw / 2, eyeY = fy + fh * 0.42
         if let left = face.landmarks?.leftEye, let right = face.landmarks?.rightEye {
-            let size = CGSize(width: w, height: h)
             let pts = left.pointsInImage(imageSize: size) + right.pointsInImage(imageSize: size)
             eyeX = pts.map { $0.x }.reduce(0, +) / CGFloat(pts.count)
             eyeY = h - pts.map { $0.y }.reduce(0, +) / CGFloat(pts.count)
         }
+        var chinY = fy + fh          // bottom of the box, if there are no landmarks
+        if let contour = face.landmarks?.faceContour {
+            let ys = contour.pointsInImage(imageSize: size).map { h - $0.y }
+            chinY = ys.max() ?? chinY
+        }
         faces.append("{\"x\":\(fx),\"y\":\(fy),\"w\":\(fw),\"h\":\(fh),"
-                     + "\"eyeX\":\(eyeX),\"eyeY\":\(eyeY)}")
+                     + "\"eyeX\":\(eyeX),\"eyeY\":\(eyeY),\"chinY\":\(chinY)}")
     }
     print("{\"path\":\"\(esc)\",\"width\":\(Int(w)),\"height\":\(Int(h)),"
           + "\"faces\":[\(faces.joined(separator: ","))]}")
