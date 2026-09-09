@@ -83,6 +83,8 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <h2 id="news">News</h2>
 
+<p>2026-09-09: <a href="https://www.uzerbinati.eu/">Umberto Zerbinati</a> gave a talk at the <a href="https://trefftz2026.univie.ac.at/">Trefftz Workshop 2026</a> in Vienna, Austria.</p>
+
 <p>2026-09-03: I served as internal PhD examiner for <a href="https://stefanofronzoni.github.io/">Stefano Fronzoni</a>. Congratulations!</p>
 
 <p>2026-07-27: I gave <b>an invited section lecture at the <a class="iwantyoubold" href="https://www.icm2026.org/event/ac193975-5d24-4628-8c30-ddb23de19a8b/speakers">International Congress of Mathematicians</a></b>, in Section 15: Numerical Analysis and Scientific Computing, in Philadelphia, USA.
@@ -93,6 +95,8 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 </p>
 
 <p>2026-07-24: Congratulations to Aaron Baier-Reinio on passing his DPhil viva! Thanks to <a href="https://chercheurs.lille.inria.fr/ccances/">Clément Cancès</a> and <a href="https://people.maths.ox.ac.uk/suli/">Endre Süli</a> for serving as examiners.</p>
+
+<p>2026-07-13: <a href="https://www.uzerbinati.eu/">Umberto Zerbinati</a> gave a talk at <a href="https://pdesoft2026.conf.tuwien.ac.at/">PDESoft 2026</a> in Vienna, Austria.</p>
 
 <p>2026-07-13: My review article on <a href="https://doi.org/10.1137/25M1805710">computing multiple solutions of systems of nonlinear systems of equations with deflation</a> has been published in the Proceedings of the International Congress of Mathematicians 2026.</p>
 
