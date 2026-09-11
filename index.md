@@ -72,16 +72,17 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <p>2026-09-23: I will give an invited talk at the <a href="https://hypertop.cimne.com/">HyperTop Workshop on Advances in Shape and Topology Optimization for Hyperelastic Materials</a> at the Universitat Politècnica de Catalunya in Barcelona, Spain.</p>
 
-<p>2026-09-14: I will give an invited talk at the workshop on <a href="https://www.uzerbinati.eu/pages/borgodeigatti/">Advances in Ordered Fluids and Alignment Phenomena Modeling, Analysis, and Numerical Methods</a> in Golferenzo, Italy.</p>
+<p>2026-09-17: I will give an invited talk at the workshop on <a href="https://www.uzerbinati.eu/pages/borgodeigatti/">Advances in Ordered Fluids and Alignment Phenomena Modeling, Analysis, and Numerical Methods</a> in Golferenzo, Italy.</p>
 
-<p>2026-09-10: Chenghao Dong will talk in the Optimisation and Free Boundaries minisymposium of the <a href="https://fbp2026.de/">17th International Conference on Free Boundary Problems</a> in Berlin, Germany. The minisymposium is organised by
+<h2 id="news">News</h2>
+
+<p>2026-09-10: Chenghao Dong gave a talk in the Optimisation and Free Boundaries minisymposium of the <a href="https://fbp2026.de/">17th International Conference on Free Boundary Problems</a> in Berlin, Germany. The minisymposium is organised by
   <a href="https://www.wias-berlin.de/people/alphonse/">Amal Alphonse</a>,
   <a href="https://www.wias-berlin.de/people/hintermueller/">Michael Hintermüller</a>, and
   <a href="https://www.uni-koblenz.de/en/mathematics-natural-sciences/math/staff/list-of-staff/hinze/">Michael Hinze</a>.</p>
 
-<p>2026-09-10: I will give a <a href="https://www.math.cas.cz/index.php/events/event/4266">seminar in the Current Problems in Numerical Analysis Seminar series</a> at the Czech Academy of Sciences in Prague, Czechia, hosted by <a href="https://users.math.cas.cz/~sistek/">Jakub Šístek</a> and <a href="https://www.math.cas.cz/index.php/members/researcher/37">Eduard Feireisl</a>.</p>
+<p>2026-09-10: I gave a <a href="https://www.math.cas.cz/index.php/events/event/4266">seminar in the Current Problems in Numerical Analysis Seminar series</a> at the Czech Academy of Sciences in Prague, Czechia, hosted by <a href="https://users.math.cas.cz/~sistek/">Jakub Šístek</a> and <a href="https://www.math.cas.cz/index.php/members/researcher/37">Eduard Feireisl</a>.</p>
 
-<h2 id="news">News</h2>
 
 <p>2026-09-09: <a href="https://www.uzerbinati.eu/">Umberto Zerbinati</a> gave a talk at the <a href="https://trefftz2026.univie.ac.at/">Trefftz Workshop 2026</a> in Vienna, Austria.</p>
 
