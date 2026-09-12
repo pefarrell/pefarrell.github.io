@@ -414,7 +414,7 @@ organised by <a href="https://ioannispapapadopoulos.github.io/">Ioannis Papadopo
 
 <p>2025-08-20: Boris Andrews gave a talk at the <a href="https://mfet2025.de/">Modern Finite Element Technologies</a> conference in Aachen, Germany.</p>
 
-<p>2025-08-15: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2508.10744">a framework for developing kinetic models for ordered fluids</a>, with <a href="https://carrilloja.org/">José Antonio Carrillo</a>, <a href="https://www.andreamedaglia.eu/">Andrea Medaglia</a>, and <a href="https://www.uzerbinati.eu/">Umberto Zerbinati</a>.</p>
+<p>2025-08-15: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2508.10744">a framework for developing kinetic models for ordered fluids</a>, with <a href="https://carrilloja.org/">José Antonio Carrillo</a>, <a href="https://www.andreamedaglia.eu/">Andrea Medaglia</a>, and <a href="https://www.uzerbinati.eu/">Umberto Zerbinati</a>. Update: accepted in Multiscale Modelling & Simulation.</p>
 
 <p>2025-08-13: Oriel College is recruiting a <a href="https://www.oriel.ox.ac.uk/vacancies/graduate-teaching-and-research-scholarship-in-mathematics/">Graduate Teaching and Research Scholar</a>.</p>
 
