@@ -292,7 +292,7 @@ title: People
 <div class="person">
   <a href="{{site.url}}/images/gonzalez.png"><img src="{{site.url}}/images/thumbs/gonzalez.jpg" alt="Gonzalo Gonzalez de Diego"/></a>
   <div>
-    <strong>Gonzalo Gonzalez de Diego</strong><br/>
+    <strong><a class="iwantyoubold" href="https://gonzalogddiego.github.io/">Gonzalo Gonzalez de Diego</a></strong><br/>
     Thesis: <a href="{{site.url}}/files/dediego.pdf">Viscous contact problems in glaciology</a>. DPhil viva: 2023-09-05.<br/>
     Co-supervised with <a href="http://people.maths.ox.ac.uk/hewitt/">Ian Hewitt</a>.<br/>
     Next step: a postdoctoral position with <a href="https://math.nyu.edu/~stadler/">Georg Stadler</a> at NYU, then a MSCA fellowship at the Universidad Politécnica de Madrid.
