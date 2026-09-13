@@ -311,7 +311,7 @@ Update: accepted in Applications in Engineering Science.
 
 <p>2025-12-04: I hosted <a href="https://www.niallmadden.ie/">Niall Madden</a> for a <a href="https://www.maths.ox.ac.uk/node/72400">talk in the Computational Mathematics and Applications Seminar series</a>.</p>
 
-<p>2025-12-01: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2511.23266">Conservative and dissipative discretisations of multi-conservative ODEs and GENERIC systems</a>, with <a href="https://borisandrews.github.io/">Boris Andrews</a>.</p>
+<p>2025-12-01: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2511.23266">Conservative and dissipative discretisations of multi-conservative ODEs and GENERIC systems</a>, with <a href="https://borisandrews.github.io/">Boris Andrews</a>. Update: accepted in the special issue of Computers & Mathematics with Applications to celebrate the journal's 50th birthday.</p>
 
 <p>2025-11-27: It was nice to meet William Hague and Roger Penrose on the occasion of the Chancellor's visit to the Mathematical Institute.
   <figure>
