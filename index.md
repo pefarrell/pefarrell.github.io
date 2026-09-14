@@ -76,6 +76,12 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <h2 id="news">News</h2>
 
+<p>2026-09-14: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2609.12816">controlling the energy jump in multistable structures via shape optimisation</a>, with
+<a href="https://www.linkedin.com/in/arselane-hadj-slimane-47336a227/">Arselane Hadj Slimane</a>,
+<a href="https://le.ac.uk/people/alberto-paganini">Alberto Paganini</a>,
+and
+<a href="https://sites.google.com/view/alexferrer">Àlex Ferrer</a>.</p>
+
 <p>2026-09-10: Chenghao Dong gave a talk in the Optimisation and Free Boundaries minisymposium of the <a href="https://fbp2026.de/">17th International Conference on Free Boundary Problems</a> in Berlin, Germany. The minisymposium is organised by
   <a href="https://www.wias-berlin.de/people/alphonse/">Amal Alphonse</a>,
   <a href="https://www.wias-berlin.de/people/hintermueller/">Michael Hintermüller</a>, and

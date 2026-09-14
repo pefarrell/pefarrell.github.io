@@ -7,6 +7,12 @@ title: Publications
 
 <h2 id="in-review">In review</h2>
 <ol class="pub-list">
+<li class="pub" id="hadjslimane2026">
+  <span class="pub-num">[117]</span>
+  <span class="pub-title"><a href="https://arxiv.org/abs/2609.12816">Controlling the energy jump of multistable structures using shape optimization</a></span>
+  <span class="pub-authors">A. Hadj Slimane, P. E. Farrell, A. Paganini and À. Ferrer</span>
+  <span class="pub-venue">2026. <a class="pub-link" href="https://arxiv.org/abs/2609.12816">arXiv:2609.12816</a></span>
+</li>
 <li class="pub" id="farrell2026b">
   <span class="pub-num">[116]</span>
   <span class="pub-title"><a href="https://arxiv.org/abs/2606.31784">Kinetic derivation of thermal viscous models for nematic liquid crystal dynamics</a></span>
@@ -49,20 +55,8 @@ title: Publications
   <span class="pub-authors">P. E. Farrell, M. He, K. Hu and G. Zhang</span>
   <span class="pub-venue">2026. <a class="pub-link" href="https://arxiv.org/abs/2603.12134">arXiv:2603.12134</a></span>
 </li>
-<li class="pub" id="andrews2025b">
-  <span class="pub-num">[109]</span>
-  <span class="pub-title"><a href="https://arxiv.org/abs/2511.23266">Conservative and dissipative discretisations of multi-conservative ODEs and GENERIC systems</a></span>
-  <span class="pub-authors">B. D. Andrews and P. E. Farrell</span>
-  <span class="pub-venue">2025. <a class="pub-link" href="https://arxiv.org/abs/2511.23266">arXiv:2511.23266</a></span>
-</li>
-<li class="pub" id="carrillo2025">
-  <span class="pub-num">[108]</span>
-  <span class="pub-title"><a href="https://arxiv.org/abs/2508.10744">A kinetic theory approach to ordered fluids</a></span>
-  <span class="pub-authors">J. A. Carrillo, P. E. Farrell, A. Medaglia and U. Zerbinati</span>
-  <span class="pub-venue">2025. <a class="pub-link" href="https://arxiv.org/abs/2508.10744">arXiv:2508.10744</a></span>
-</li>
 <li class="pub" id="farrell2025a">
-  <span class="pub-num">[107]</span>
+  <span class="pub-num">[109]</span>
   <span class="pub-title"><a href="https://arxiv.org/abs/2503.10771">Analysis and numerical analysis of the Helmholtz–Korteweg equation</a></span>
   <span class="pub-authors">P. E. Farrell, T. van Beeck and U. Zerbinati</span>
   <span class="pub-venue">2025. <a class="pub-link" href="https://arxiv.org/abs/2503.10771">arXiv:2503.10771</a></span>
@@ -71,6 +65,18 @@ title: Publications
 
 <h2 id="to-appear">To appear</h2>
 <ol class="pub-list">
+<li class="pub" id="andrews2025b">
+  <span class="pub-num">[108]</span>
+  <span class="pub-title"><a href="https://arxiv.org/abs/2511.23266">Conservative and dissipative discretisations of multi-conservative ODEs and GENERIC systems</a></span>
+  <span class="pub-authors">B. D. Andrews and P. E. Farrell</span>
+  <span class="pub-venue"><em>Computers and Mathematics with Applications</em>, 2026. <a class="pub-link" href="https://arxiv.org/abs/2511.23266">arXiv:2511.23266</a></span>
+</li>
+<li class="pub" id="carrillo2025">
+  <span class="pub-num">[107]</span>
+  <span class="pub-title"><a href="https://arxiv.org/abs/2508.10744">A kinetic theory approach to ordered fluids</a></span>
+  <span class="pub-authors">J. A. Carrillo, P. E. Farrell, A. Medaglia and U. Zerbinati</span>
+  <span class="pub-venue">Multiscale Modelling and Simulation, 2026. <a class="pub-link" href="https://arxiv.org/abs/2508.10744">arXiv:2508.10744</a></span>
+</li>
 <li class="pub" id="brubeck2025b">
   <span class="pub-num">[106]</span>
   <span class="pub-title"><a href="https://arxiv.org/abs/2506.17406">Fast solvers for the high-order FEM simplicial de Rham complex</a></span>
@@ -718,4 +724,4 @@ title: Publications
 </script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
-<p class="pub-updated">Last updated 2026-09-02.</p>
+<p class="pub-updated">Last updated 2026-09-14.</p>
