@@ -14,7 +14,8 @@ title: People
   <div>
     <strong><a class="iwantyoubold" href="https://web.pdx.edu/~gjay/">Jay Gopalakrishnan</a></strong><br/>
     Home institution: Portland State University.<br/>
-    Will visit Mar 2027 to Jun 2027.
+    Will visit Mar 2027 to Jun 2027, funded by a
+    Leverhulme Visiting Professorship.
   </div>
 </div>
 

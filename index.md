@@ -52,7 +52,7 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <p>2027-04-01: <a href="https://scholar.google.com/citations?user=MgSwDcoAAAAJ&hl=en">Dennis Trautwein</a> will visit for three months, funded by the <a href="https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/walter-benjamin">DFG Walter Benjamin Programme</a>.</p>
 
-<p>2027-03-15: I will host <a href="https://web.pdx.edu/~gjay/">Jay Gopalakrishnan</a> of Portland State University for a sabbatical.</p>
+<p>2027-03-15: I will host <a href="https://web.pdx.edu/~gjay/">Jay Gopalakrishnan</a> of Portland State University for a sabbatical, funded by a Leverhulme Visiting Professorship.</p>
 
 <p>2026-11-30: I am organising the second meeting of the <a href="https://ems-tag-mixtures.github.io/">European Mathematical Society topical activity group on mixtures</a> at the <a href="https://www.cirm-math.com/">Centre International de Rencontres Mathématiques</a>, alongside
 <a href="https://chercheurs.lille.inria.fr/ccances/">Clément Cancès</a>,
