@@ -76,6 +76,11 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <h2 id="news">News</h2>
 
+<p>2026-09-15: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2609.15520">strongly enstrophy-stable integrators for the incompressible Navier-Stokes equations</a>, with
+<a href="https://borisandrews.github.io/">Boris Andrews</a>
+and
+Matin Shams.</p>
+
 <p>2026-09-14: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2609.12816">controlling the energy jump in multistable structures via shape optimisation</a>, with
 <a href="https://www.linkedin.com/in/arselane-hadj-slimane-47336a227/">Arselane Hadj Slimane</a>,
 <a href="https://le.ac.uk/people/alberto-paganini">Alberto Paganini</a>,
