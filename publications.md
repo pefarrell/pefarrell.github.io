@@ -7,6 +7,12 @@ title: Publications
 
 <h2 id="in-review">In review</h2>
 <ol class="pub-list">
+<li class="pub" id="andrews2026a">
+  <span class="pub-num">[118]</span>
+  <span class="pub-title"><a href="https://arxiv.org/abs/2609.15520">Strongly enstrophy-stable integrators for the incompressible Navier–Stokes equations</a></span>
+  <span class="pub-authors">B. D. Andrews, M. Shams and P. E. Farrell</span>
+  <span class="pub-venue">2026. <a class="pub-link" href="https://arxiv.org/abs/2609.15520">arXiv:2609.15520</a></span>
+</li>
 <li class="pub" id="hadjslimane2026">
   <span class="pub-num">[117]</span>
   <span class="pub-title"><a href="https://arxiv.org/abs/2609.12816">Controlling the energy jump of multistable structures using shape optimization</a></span>
@@ -724,4 +730,4 @@ title: Publications
 </script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
-<p class="pub-updated">Last updated 2026-09-14.</p>
+<p class="pub-updated">Last updated 2026-09-15.</p>
