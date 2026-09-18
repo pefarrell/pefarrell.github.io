@@ -72,9 +72,9 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <p>2026-09-23: I will give an invited talk at the <a href="https://hypertop.cimne.com/">HyperTop Workshop on Advances in Shape and Topology Optimization for Hyperelastic Materials</a> at the Universitat Politècnica de Catalunya in Barcelona, Spain.</p>
 
-<p>2026-09-17: I will give an invited talk at the workshop on <a href="https://www.uzerbinati.eu/pages/borgodeigatti/">Advances in Ordered Fluids and Alignment Phenomena Modeling, Analysis, and Numerical Methods</a> in Golferenzo, Italy.</p>
-
 <h2 id="news">News</h2>
+
+<p>2026-09-17: I gave an invited talk at the workshop on <a href="https://sites.google.com/view/ordered-fluids/home-page">Advances in Ordered Fluids and Alignment Phenomena Modeling, Analysis, and Numerical Methods</a> in Golferenzo, Italy.</p>
 
 <p>2026-09-15: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2609.15520">strongly enstrophy-stable integrators for the incompressible Navier-Stokes equations</a>, with
 <a href="https://borisandrews.github.io/">Boris Andrews</a>
