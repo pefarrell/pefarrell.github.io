@@ -73,9 +73,9 @@ title: Publications
 <ol class="pub-list">
 <li class="pub" id="andrews2025b">
   <span class="pub-num">[108]</span>
-  <span class="pub-title"><a href="https://arxiv.org/abs/2511.23266">Conservative and dissipative discretisations of multi-conservative ODEs and GENERIC systems</a></span>
+  <span class="pub-title"><a href="https://doi.org/10.1016/j.camwa.2026.09.012">Conservative and dissipative discretisations of multi-conservative ODEs and GENERIC systems</a></span>
   <span class="pub-authors">B. D. Andrews and P. E. Farrell</span>
-  <span class="pub-venue"><em>Computers and Mathematics with Applications</em>, 2026. <a class="pub-link" href="https://arxiv.org/abs/2511.23266">arXiv:2511.23266</a></span>
+  <span class="pub-venue"><em>Computers and Mathematics with Applications</em>, 2026. <a class="pub-link" href="https://doi.org/10.1016/j.camwa.2026.09.012">doi:10.1016/j.camwa.2026.09.012</a></span>
 </li>
 <li class="pub" id="carrillo2025">
   <span class="pub-num">[107]</span>
@@ -730,4 +730,4 @@ title: Publications
 </script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
-<p class="pub-updated">Last updated 2026-09-15.</p>
+<p class="pub-updated">Last updated 2026-09-22.</p>
