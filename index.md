@@ -54,6 +54,8 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <p>2027-03-15: I will host <a href="https://web.pdx.edu/~gjay/">Jay Gopalakrishnan</a> of Portland State University for a sabbatical, funded by a Leverhulme Visiting Professorship.</p>
 
+<p>2026-12-01: I will host <a href="https://scholar.google.com/citations?user=gF4LThAAAAAJ&hl=en">Qingyu Wu</a> for several months. Qingyu is a PhD student at Peking University, supervised by <a href="http://www.befem.cn/">Jun Hu</a>.</p>
+
 <p>2026-11-30: I am organising the second meeting of the <a href="https://ems-tag-mixtures.github.io/">European Mathematical Society topical activity group on mixtures</a> at the <a href="https://www.cirm-math.com/">Centre International de Rencontres Mathématiques</a>, alongside
 <a href="https://chercheurs.lille.inria.fr/ccances/">Clément Cancès</a>,
 <a href="https://team.inria.fr/matherials/team-members/virginie-ehrlacher-galland/">Virginie Ehrlacher</a>, and
@@ -68,11 +70,9 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <p>2026-10-01: I will host <a href="https://www.tuwien.at/en/mg/asc/compdes/david-niederkofler">David Niederkofler</a> for six months. David is a PhD student at TU Wien, supervised by <a href="https://www.tuwien.at/en/mg/asc/feischl">Michael Feischl</a>.</p>
 
-<p>2026-10-01: I will host <a href="https://scholar.google.com/citations?user=gF4LThAAAAAJ&hl=en">Qingyu Wu</a> for several months. Qingyu is a PhD student at Peking University, supervised by <a href="http://www.befem.cn/">Jun Hu</a>.</p>
-
-<p>2026-09-23: I will give an invited talk at the <a href="https://hypertop.cimne.com/">HyperTop Workshop on Advances in Shape and Topology Optimization for Hyperelastic Materials</a> at the Universitat Politècnica de Catalunya in Barcelona, Spain.</p>
-
 <h2 id="news">News</h2>
+
+<p>2026-09-23: I gave an invited talk at the <a href="https://hypertop.cimne.com/">HyperTop Workshop on Advances in Shape and Topology Optimization for Hyperelastic Materials</a> at the Universitat Politècnica de Catalunya in Barcelona, Spain.</p>
 
 <p>2026-09-17: Congratulations to my MSc students Maggie McCarthy on winning a Gillow dissertation prize, and Yue Wu on winning the prize for excellence!</p>
 
