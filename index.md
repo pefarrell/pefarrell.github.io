@@ -267,7 +267,7 @@ and Aaron Baier-Reinio.</p>
 <a href="https://sites.google.com/view/mingdonghe/home/">Mingdong He</a>,
 <a href="https://kaibohu.github.io/">Kaibo Hu</a>,
 and
-<a href="https://ganghui-zhang.github.io/">Ganghui Zhang</a>.
+<a href="https://ganghui-zhang.github.io/">Ganghui Zhang</a>. Update: accepted in SISC.
 </p>
 
 <p>2026-03-04: I gave a talk in the Exeter Geophysical and Astrophysical Fluid Dynamics seminar series, hosted by <a href="https://experts.exeter.ac.uk/33035-jemma-shipton">Jemma Shipton</a>.</p>

@@ -55,14 +55,8 @@ title: Publications
   <span class="pub-authors">A. Baier-Reinio, P. E. Farrell and C. W. Monroe</span>
   <span class="pub-venue">2026. <a class="pub-link" href="https://arxiv.org/abs/2510.14923">arXiv:2510.14923</a></span>
 </li>
-<li class="pub" id="he2026a">
-  <span class="pub-num">[110]</span>
-  <span class="pub-title"><a href="https://arxiv.org/abs/2603.12134">Global and local helicity-preservation in the finite element discretization of magnetic relaxation</a></span>
-  <span class="pub-authors">P. E. Farrell, M. He, K. Hu and G. Zhang</span>
-  <span class="pub-venue">2026. <a class="pub-link" href="https://arxiv.org/abs/2603.12134">arXiv:2603.12134</a></span>
-</li>
 <li class="pub" id="farrell2025a">
-  <span class="pub-num">[109]</span>
+  <span class="pub-num">[110]</span>
   <span class="pub-title"><a href="https://arxiv.org/abs/2503.10771">Analysis and numerical analysis of the Helmholtz–Korteweg equation</a></span>
   <span class="pub-authors">P. E. Farrell, T. van Beeck and U. Zerbinati</span>
   <span class="pub-venue">2025. <a class="pub-link" href="https://arxiv.org/abs/2503.10771">arXiv:2503.10771</a></span>
@@ -71,6 +65,12 @@ title: Publications
 
 <h2 id="to-appear">To appear</h2>
 <ol class="pub-list">
+<li class="pub" id="he2026a">
+  <span class="pub-num">[109]</span>
+  <span class="pub-title"><a href="https://arxiv.org/abs/2603.12134">Global and local helicity-preservation in the finite element discretization of magnetic relaxation</a></span>
+  <span class="pub-authors">P. E. Farrell, M. He, K. Hu and G. Zhang</span>
+  <span class="pub-venue"><em>SIAM Journal on Scientific Computing</em>, 2026. <a class="pub-link" href="https://arxiv.org/abs/2603.12134">arXiv:2603.12134</a></span>
+</li>
 <li class="pub" id="andrews2025b">
   <span class="pub-num">[108]</span>
   <span class="pub-title"><a href="https://doi.org/10.1016/j.camwa.2026.09.012">Conservative and dissipative discretisations of multi-conservative ODEs and GENERIC systems</a></span>
@@ -81,7 +81,7 @@ title: Publications
   <span class="pub-num">[107]</span>
   <span class="pub-title"><a href="https://arxiv.org/abs/2508.10744">A kinetic theory approach to ordered fluids</a></span>
   <span class="pub-authors">J. A. Carrillo, P. E. Farrell, A. Medaglia and U. Zerbinati</span>
-  <span class="pub-venue">Multiscale Modelling and Simulation, 2026. <a class="pub-link" href="https://arxiv.org/abs/2508.10744">arXiv:2508.10744</a></span>
+  <span class="pub-venue"><em>Multiscale Modelling and Simulation</em>, 2026. <a class="pub-link" href="https://arxiv.org/abs/2508.10744">arXiv:2508.10744</a></span>
 </li>
 <li class="pub" id="brubeck2025b">
   <span class="pub-num">[106]</span>
@@ -730,4 +730,4 @@ title: Publications
 </script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
-<p class="pub-updated">Last updated 2026-09-22.</p>
+<p class="pub-updated">Last updated 2026-09-25.</p>
