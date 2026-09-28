@@ -7,6 +7,12 @@ title: Publications
 
 <h2 id="in-review">In review</h2>
 <ol class="pub-list">
+<li class="pub" id="carrillo2026">
+  <span class="pub-num">[119]</span>
+  <span class="pub-title"><a href="https://arxiv.org/abs/2609.31072">A kinetic theory approach to ordered fluids: direct simulation Monte Carlo methods</a></span>
+  <span class="pub-authors">J. A. Carrillo, P. E. Farrell, A. Medaglia and U. Zerbinati</span>
+  <span class="pub-venue">2026. <a class="pub-link" href="https://arxiv.org/abs/2609.31072">arXiv:2609.31072</a></span>
+</li>
 <li class="pub" id="andrews2026a">
   <span class="pub-num">[118]</span>
   <span class="pub-title"><a href="https://arxiv.org/abs/2609.15520">Strongly enstrophy-stable integrators for the incompressible Navier–Stokes equations</a></span>
@@ -730,4 +736,4 @@ title: Publications
 </script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
-<p class="pub-updated">Last updated 2026-09-25.</p>
+<p class="pub-updated">Last updated 2026-09-28.</p>

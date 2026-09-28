@@ -72,6 +72,8 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <h2 id="news">News</h2>
 
+<p>2026-09-25: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2609.31072">direct simulation Monte Carlo methods for kinetic models of ordered fluids</a>, with <a href="https://carrilloja.org/">José Antonio Carrillo</a>, <a href="https://www.andreamedaglia.eu/">Andrea Medaglia</a>, and <a href="https://www.uzerbinati.eu/">Umberto Zerbinati</a>.</p>
+
 <p>2026-09-23: I gave an invited talk at the <a href="https://hypertop.cimne.com/">HyperTop Workshop on Advances in Shape and Topology Optimization for Hyperelastic Materials</a> at the Universitat Politècnica de Catalunya in Barcelona, Spain.</p>
 
 <p>2026-09-17: Congratulations to my MSc students Maggie McCarthy on winning a Gillow dissertation prize, and Yue Wu on winning the prize for excellence!</p>
