@@ -216,11 +216,13 @@ and
 <a href="https://www2.thphy.uni-duesseldorf.de/~hlowen/">Hartmut Löwen</a>. Thanks to the <a href="https://www.we-heraeus-stiftung.de/english/">Wilhelm und Else Heraeus-Stiftung</a> for their kind support.</p>
 
 
-<p>2026-05-13: I gave an invited talk online at the workshop on <a href="https://mif.cnu.edu.ua/2026/05/07/workshop-on-numerical-analysis-and-approximation-theory/">Numerical Analysis and Approximation Theory</a> at the Vasyl Stefanyk Carpathian National University in Ivano-Frankivsk, Ukraine. The organiser is <a href="https://kmfa.cnu.edu.ua/en/roman-dmytryshyn/">Roman Dmytryshyn</a>.</p>
-
 <p>2026-05-14: I hosted <a href="https://www.nummath.math.uni-mainz.de/prof-dr-maria-lukacova-medvidova/">Mária Lukácová-Medvidová</a> for a <a href="https://www.maths.ox.ac.uk/node/74279">talk in the Computational Mathematics and Applications Seminar series</a>.</p>
 
-<p>2026-05-14: I hosted <a href="https://www.nummath.math.uni-mainz.de/prof-dr-maria-lukacova-medvidova/">Mária Lukácová-Medvidová</a> for a research visit.</p>
+<p>2026-05-13: I gave an invited talk online at the workshop on <a href="https://mif.cnu.edu.ua/2026/05/07/workshop-on-numerical-analysis-and-approximation-theory/">Numerical Analysis and Approximation Theory</a> at the Vasyl Stefanyk Carpathian National University in Ivano-Frankivsk, Ukraine. The organiser is <a href="https://kmfa.cnu.edu.ua/en/roman-dmytryshyn/">Roman Dmytryshyn</a>.</p>
+
+<p>2026-05-11: I am serving on the Prize Selection Committee for the <a href="https://www.siam.org/programs-initiatives/prizes-awards/activity-group-prizes/siam-activity-group-on-computational-science-and-engineering-early-career-prize/">2027 SIAM Activity Group on Computational Science and Engineering Early Career Prize</a>.</p>
+
+<p>2026-05-11: I hosted <a href="https://www.nummath.math.uni-mainz.de/prof-dr-maria-lukacova-medvidova/">Mária Lukácová-Medvidová</a> for a research visit.</p>
 
 <p>2026-05-07: I gave a seminar in the <a href="https://www.math.cit.tum.de/math/forschung/gruppen/numerical-analysis/oberseminar-numerical-methods-in-cse/">Numerical Methods in CSE</a> seminar at TU München, hosted by <a href="https://www.professoren.tum.de/en/wohlmuth-barbara">Barbara Wohlmuth</a> and <a href="https://www.math.cit.tum.de/math/personen/wissenschaftliches-personal/muhr-markus/">Markus Muhr</a>.</p>
 
