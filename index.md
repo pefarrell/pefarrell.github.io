@@ -66,11 +66,13 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <p>2026-10-19: I will host <a href="https://www.wias-berlin.de/~plato/?lang=0">Luisa Plato</a> of the Weierstrass Institute for Applied Analysis and Stochastics for a week, and for a <a href="https://www.maths.ox.ac.uk/node/82208">numerical analysis internal seminar</a>.</p>
 
-<p>2026-10-01: I will host <a href="https://timvanbeeck.github.io/">Tim van Beeck</a> for several months. Tim is a PhD student at the University of Göttingen, supervised by <a href="https://cpde.math.uni-goettingen.de/en/members/CLehrenfeld/index.html">Christoph Lehrenfeld</a>. His visit is supported by a <a href="https://www2.daad.de/ausland/studieren/stipendium/de/70-stipendien-finden-und-bewerben/?detail=57556279">Forschungsstipendien für Doktorandinnen und Doktoranden</a> from the Deutscher Akademischer Austauschdienst.</p>
-
-<p>2026-10-01: I will host <a href="https://www.tuwien.at/en/mg/asc/compdes/david-niederkofler">David Niederkofler</a> for six months. David is a PhD student at TU Wien, supervised by <a href="https://www.tuwien.at/en/mg/asc/feischl">Michael Feischl</a>.</p>
-
 <h2 id="news">News</h2>
+
+<p>2026-10-05: I began as an associate editor of the <a href="https://academic.oup.com/imajna">IMA Journal of Numerical Analysis</a>.</p>
+
+<p>2026-10-01: I am hosting <a href="https://timvanbeeck.github.io/">Tim van Beeck</a> for three months. Tim is a PhD student at the University of Göttingen, supervised by <a href="https://cpde.math.uni-goettingen.de/en/members/CLehrenfeld/index.html">Christoph Lehrenfeld</a>. His visit is supported by a <a href="https://www2.daad.de/ausland/studieren/stipendium/de/70-stipendien-finden-und-bewerben/?detail=57556279">Forschungsstipendien für Doktorandinnen und Doktoranden</a> from the Deutscher Akademischer Austauschdienst.</p>
+
+<p>2026-10-01: I am hosting <a href="https://www.tuwien.at/en/mg/asc/compdes/david-niederkofler">David Niederkofler</a> for six months. David is a PhD student at TU Wien, supervised by <a href="https://www.tuwien.at/en/mg/asc/feischl">Michael Feischl</a>.</p>
 
 <p>2026-09-25: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2609.31072">direct simulation Monte Carlo methods for kinetic models of ordered fluids</a>, with <a href="https://carrilloja.org/">José Antonio Carrillo</a>, <a href="https://www.andreamedaglia.eu/">Andrea Medaglia</a>, and <a href="https://www.uzerbinati.eu/">Umberto Zerbinati</a>.</p>
 
