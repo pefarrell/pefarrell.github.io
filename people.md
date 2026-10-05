@@ -120,12 +120,20 @@ title: People
   </div>
 </div>
 
-<!--
+<div class="person">
+  <a href="{{site.url}}/images/maver.jpg"><img src="{{site.url}}/images/thumbs/maver.jpg" alt="Rebecca Maver"/></a>
+  <div>
+    <strong>Rebecca Maver</strong><br/>
+    Topic: modelling, simulation, and control of the beamline controller for the Diamond Light Source.<br/>
+    Co-supervised with <a href="https://www.numerical.rl.ac.uk/people/hussam-al-daas/">Hussam Al Daas</a> of the Science and Technology Facilities Council and <a href="https://scholar.google.co.uk/citations?user=1hFsQisAAAAJ&hl=en">Gareth Nisbet</a> of Diamond Light Source.
+  </div>
+</div>
+
 <div class="person">
   <a href="{{site.url}}/images/mccarthy.jpg"><img src="{{site.url}}/images/thumbs/mccarthy.jpg" alt="Maggie McCarthy"/></a>
   <div>
     <strong>Maggie McCarthy</strong><br/>
-    Topic: efficient algorithms for spectral computations.<br/>
+    Topic: efficient algorithms for spectral computations.
   </div>
 </div>
 
@@ -133,18 +141,10 @@ title: People
   <a href="{{site.url}}/images/wu_yue.jpg"><img src="{{site.url}}/images/thumbs/wu_yue.jpg" alt="Yue Wu"/></a>
   <div>
     <strong>Yue Wu (吴越)</strong><br/>
-    Topic: .<br/>
+    Topic: exterior calculus and mixed-dimensional problems.<br/>
+    Co-supervised with <a href="https://kaibohu.github.io/">Kaibo Hu</a>.
   </div>
 </div>
-
-<div class="person">
-  <a href="{{site.url}}/images/maver.jpg"><img src="{{site.url}}/images/thumbs/maver.jpg" alt="Rebecca Maver"/></a>
-  <div>
-    <strong>Rebecca Maver</strong><br/>
-    Topic: .<br/>
-  </div>
-</div>
--->
 
 ## Visiting PhD students
 

@@ -68,6 +68,8 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <h2 id="news">News</h2>
 
+<p>2026-10-05: Welcome to Rebecca Maver, Maggie McCarthy, and Yue Wu, who each start their DPhil studies today! Rebecca is co-supervised by <a href="https://www.numerical.rl.ac.uk/people/hussam-al-daas/">Hussam Al Daas</a> of the <a href="https://www.ukri.org/who-we-are/stfc/">Science and Technology Facilities Council</a> and <a href="https://scholar.google.co.uk/citations?user=1hFsQisAAAAJ&hl=en">Gareth Nisbet</a> of <a href="https://www.diamond.ac.uk/">Diamond Light Source</a>, and Yue by <a href="https://kaibohu.github.io/">Kaibo Hu</a>.</p>
+
 <p>2026-10-05: I began as an associate editor of the <a href="https://academic.oup.com/imajna">IMA Journal of Numerical Analysis</a>.</p>
 
 <p>2026-10-01: I am hosting <a href="https://timvanbeeck.github.io/">Tim van Beeck</a> for three months. Tim is a PhD student at the University of Göttingen, supervised by <a href="https://cpde.math.uni-goettingen.de/en/members/CLehrenfeld/index.html">Christoph Lehrenfeld</a>. His visit is supported by a <a href="https://www2.daad.de/ausland/studieren/stipendium/de/70-stipendien-finden-und-bewerben/?detail=57556279">Forschungsstipendien für Doktorandinnen und Doktoranden</a> from the Deutscher Akademischer Austauschdienst.</p>
@@ -390,6 +392,7 @@ and
   <a href="https://who.rocq.inria.fr/Martin.Vohralik/">Martin Vohralik</a>, and
   <a href="https://tchaumont.github.io/">Théophile Chaumont-Frelet</a>.</p>
 
+<p>2025-10-06: Welcome to Chenghao Dong and Thomas Higham, who both start their DPhil studies today! Thomas is co-supervised by Ed Threlfall and <a href="https://scholar.google.co.uk/citations?user=gSR84cAAAAAJ&hl=en&oi=sra">Christopher Ham</a> of the <a href="https://www.gov.uk/government/organisations/uk-atomic-energy-authority">UK Atomic Energy Authority</a>.</p>
 
 <p>2025-10-01: I served as external PhD examiner for Ben Green at Loughborough University. Congratulations!</p>
 
@@ -603,7 +606,7 @@ organised by <a href="https://ioannispapapadopoulos.github.io/">Ioannis Papadopo
 <p>2023-12-06: I gave a seminar in the Mathematical Modelling series at Charles University Prague.</p>
 <p>2023-11-20: I hosted a research visit from <a href="https://brendankeith.github.io/">Brendan Keith</a>.</p>
 <p>2023-10-12: Congratulations to <a href="https://aznaran.com/">Francis Aznaran</a> on winning a Society of Science Fellowship at the University of Notre Dame!</p>
-<p>2023-10-02: Welcome to Kars Knook and Mingdong He, who both start their DPhil studies today!</p>
+<p>2023-10-02: Welcome to Mingdong He and Kars Knook, who both start their DPhil studies today!</p>
 <p>2023-09-05: Congratulations to Gonzalo Gonzalez de Diego on passing his DPhil viva! Thanks to <a href="https://dngoldberg.github.io/">Dan Goldberg</a> and <a href="https://www.maths.ox.ac.uk/people/peter.howell">Peter Howell</a> for serving as examiners.</p>
 <p>2023-08-31: I gave a plenary talk at the <a href="https://www.ul.ie/scieng/schools-and-departments/department-mathematics-and-statistics/36th-annual-meeting-of-the">annual meeting</a> of the <a href="https://irishmathsoc.org/">Irish Mathematical Society</a>.</p>
 <p>2023-08-20: I spoke in the <a href="https://iciam2023.org/registered_data?id=01054">Scalable Solvers for Multiphysics Problems minisymposium</a> at ICIAM, organised by <a href="https://searhein.github.io/">Alexander Heinlein</a> and <a href="https://www.unibw.de/imcs-en/team/mayr">Matthias Mayr</a>.</p>
@@ -789,7 +792,7 @@ organised by <a href="https://ioannispapapadopoulos.github.io/">Ioannis Papadopo
 <p>2019-10-25: I am giving a talk in the <a href="https://bath-numerical-analysis.github.io/events/current_seminars.html">Bath Numerical Analysis Seminar</a>.</p>
 <p>2019-10-23: I am giving a talk in the <a href="https://www.imperial.ac.uk/ammp/seminars--events/ammp-research-group-seminars/imperialucl-numerics-seminar/">Imperial-UCL Numerics Seminar</a>.</p>
 <p>2019-10-18: I am hosting <a href="https://www.york.ac.uk/biology/research/biochemistry-biophysics/reidun-twarock/">Reidun Twarock</a> for a colloquium at the Mathematical Institute.</p>
-<p>2019-10-01: Welcome to Gonzalo Gonzalez de Diego, Nicolas Boullé, Alexander Van-Brunt, Fabian Laakmann, and Francis Aznaran, who all start their DPhils with me today! Gonzalo is co-supervised by <a href="https://people.maths.ox.ac.uk/hewitt/">Ian Hewitt</a>, Alexander by <a href="https://eng.ox.ac.uk/people/charles-monroe/">Charles Monroe</a>, and Francis by <a href="http://people.maths.ox.ac.uk/suli/">Endre Süli</a>.</p>
+<p>2019-10-01: Welcome to Francis Aznaran, Nicolas Boullé, Pablo Brubeck, Gonzalo Gonzalez de Diego, Fabian Laakmann, and Alexander Van-Brunt, who all start their DPhils today! Francis is co-supervised by <a href="http://people.maths.ox.ac.uk/suli/">Endre Süli</a>, Gonzalo by <a href="https://people.maths.ox.ac.uk/hewitt/">Ian Hewitt</a>, and Alexander by <a href="https://eng.ox.ac.uk/people/charles-monroe/">Charles Monroe</a>.</p>
 <p>2019-09-26: I am hosting a research visit from <a href="http://people.cs.uchicago.edu/~ridg/">Ridgway Scott</a> of the University of Chicago.</p>
 <p>2019-09-23: Congratulations to <a href="https://florianwechsung.github.io/">Florian Wechsung</a> for passing his DPhil viva! My first student to graduate. Thanks to <a href="https://scoop.iwr.uni-heidelberg.de/team/rherzog/">Roland Herzog</a> and <a href="https://www.maths.ox.ac.uk/people/andy.wathen">Andy Wathen</a> for serving as examiners.</p>
 <p>2019-09-04: I served as internal PhD examiner for <a href="https://www.linkedin.com/in/zhenru-wang-04096772/">Zhenru Wang</a>. Congratulations!</p>
@@ -817,7 +820,7 @@ organised by <a href="https://ioannispapapadopoulos.github.io/">Ioannis Papadopo
 <p>2018-11-01: I am hosting <a href="https://www.maths.ed.ac.uk/~jmaddis2/">James Maddison</a> of the University of Edinburgh for a seminar in the <a href="https://www.maths.ox.ac.uk/events/list/635">Computational Mathematics and Applications series</a>.</p>
 <p>2018-10-15: I am visiting <a href="https://sites.google.com/site/saullogpcastro">Saullo Castro</a> at TU Delft.</p>
 <p>2018-10-01: I am hosting a research visit from <a href="https://www.math.mun.ca/~smaclachlan/">Scott MacLachlan</a> of Memorial University of Newfoundland.</p>
-<p>2018-10-01: Welcome to Jingmin Xia and Ioannis Papadopoulos, who begin their DPhil studies today! Ioannis is co-supervised by <a href="http://people.maths.ox.ac.uk/suli/">Endre Süli</a>.</p>
+<p>2018-10-01: Welcome to Ioannis Papadopoulos and Jingmin Xia, who begin their DPhil studies today! Ioannis is co-supervised by <a href="http://people.maths.ox.ac.uk/suli/">Endre Süli</a>.</p>
 <p>2018-09-17: I am hosting a research visit from <a href="https://www.mathematik.uni-marburg.de/~surowiec/">Thomas Surowiec</a> of Philipps-Universität Marburg.</p>
 <p>2018-08-30: I am giving another lecture course to the group of <a href="https://www.rcgi.poli.usp.br/about-rcgi/team/emilio-carlos-nelli-silva/">Emilio Silva</a>, this time on adjoints.</p>
 <p>2018-08-09: A new paper is up on arXiv about <a href="https://arxiv.org/abs/1810.03315">Reynolds-robust preconditioners for the incompressible Navier-Stokes</a>, with <a href="https://www.dur.ac.uk/directory/profile/?id=17243">Lawrence Mitchell</a> and <a href="https://florianwechsung.github.io">Florian Wechsung</a>. Update: now <a href="https://doi.org/10.1137/18M1219370">published in SIAM Journal on Scientific Computing</a>.</p>
@@ -849,7 +852,7 @@ organised by <a href="https://ioannispapapadopoulos.github.io/">Ioannis Papadopo
 
 <h2 id="2016">2016</h2>
 <p>2016-10-01: I am delighted to announce that I have been appointed as an Associate Professor in the Mathematical Institute and as a Tutorial Fellow at Oriel College.</p>
-<p>2016-10-01: Welcome to Florian Wechsung, and Matteo Croci, who begin their DPhil studies today under my supervision! My co-supervisors are <a href="http://www.lcs-fast.com/the_team/">Mark Taylor</a> of <a href="http://www.lcs-fast.com/">London Computational Solutions</a> (Florian), and <a href="https://www.simula.no/people/meg">Marie Rognes</a> of <a href="https://simula.no">Simula Research Laboratory</a> and <a href="http://people.maths.ox.ac.uk/~gilesm/">Mike Giles</a> (Matteo).</p>
+<p>2016-10-01: Welcome to Matteo Croci and Florian Wechsung, who begin their DPhil studies today under my supervision! My co-supervisors are <a href="https://www.simula.no/people/meg">Marie Rognes</a> of <a href="https://simula.no">Simula Research Laboratory</a> and <a href="http://people.maths.ox.ac.uk/~gilesm/">Mike Giles</a> (Matteo), and <a href="http://www.lcs-fast.com/the_team/">Mark Taylor</a> of <a href="http://www.lcs-fast.com/">London Computational Solutions</a> (Florian).</p>
 <p>2016-09-28: A new paper is up on arXiv about <a href="https://arxiv.org/abs/1609.08842">the analysis of Carrier&#8217;s problem</a> with <a href="https://people.maths.ox.ac.uk/chapman/">Jon Chapman</a>.</p>
 <p>2016-08-01: Welcome to <a href="https://www2.le.ac.uk/departments/mathematics/extranet/staff-material/staff-profiles/alberto-paganini">Alberto Paganini</a>, who has begun a postdoctoral appointment with me! He comes from a PhD at ETH Zurich with <a href="http://www.sam.math.ethz.ch/~hiptmair/">Ralf Hiptmair</a>. He will work with me on shape optimisation problems.</p>
 <p>2016-06-21: A new paper is up on the arXiv about <a href="https://arxiv.org/abs/1606.06351">geometric Markov chain Monte Carlo methods for infinite-dimensional inverse problems</a> with <a href="http://www.homepages.ucl.ac.uk/~ucakabe/">Alex Beskos</a>, Shiwei Lan, <a href="https://prof-girolami.uk/">Mark Girolami</a> and <a href="https://en.wikipedia.org/wiki/Andrew_M._Stuart">Andrew Stuart</a>.</p>
