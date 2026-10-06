@@ -68,6 +68,8 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <h2 id="news">News</h2>
 
+<p>2026-10-05: Welcome to Harsh Singh of Sarvajanik College of Engineering and Technology, who begins a three-month remote research internship.</p>
+
 <p>2026-10-05: Welcome to Rebecca Maver, Maggie McCarthy, and Yue Wu, who each start their DPhil studies today! Rebecca is co-supervised by <a href="https://www.numerical.rl.ac.uk/people/hussam-al-daas/">Hussam Al Daas</a> of the <a href="https://www.ukri.org/who-we-are/stfc/">Science and Technology Facilities Council</a> and <a href="https://scholar.google.co.uk/citations?user=1hFsQisAAAAJ&hl=en">Gareth Nisbet</a> of <a href="https://www.diamond.ac.uk/">Diamond Light Source</a>, and Yue by <a href="https://kaibohu.github.io/">Kaibo Hu</a>.</p>
 
 <p>2026-10-05: I began as an associate editor of the <a href="https://academic.oup.com/imajna">IMA Journal of Numerical Analysis</a>.</p>

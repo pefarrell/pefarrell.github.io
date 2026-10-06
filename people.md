@@ -179,6 +179,18 @@ title: People
   </div>
 </div>
 
+## Interns
+
+<div class="person">
+  <a href="{{site.url}}/images/singh.jpg"><img src="{{site.url}}/images/thumbs/singh.jpg" alt="Harsh Singh"/></a>
+  <div>
+    <strong>Harsh Singh</strong><br/>
+    Remote research intern.<br/>
+    Home institution: Sarvajanik College of Engineering and Technology.<br/>
+    Oct 2026 to Jan 2027.
+  </div>
+</div>
+
 
 # Former group members
 
