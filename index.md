@@ -62,7 +62,7 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <a href="https://www.numerik.mathematik.uni-mainz.de/prof-dr-maria-lukacova-medvidova/">Mária Lukácová-Medvidová</a>.
 </p>
 
-<p>2026-11-27: I will give a departmental colloquium in <a href="https://www.maths.manchester.ac.uk/">the Department of Mathematics of the University of Manchester</a>.</p>
+<p>2026-11-27: I will give a Heilbronn (departmental) colloquium in <a href="https://www.maths.manchester.ac.uk/">the Department of Mathematics of the University of Manchester</a>.</p>
 
 <p>2026-10-19: I will host <a href="https://www.wias-berlin.de/~plato/?lang=0">Luisa Plato</a> of the Weierstrass Institute for Applied Analysis and Stochastics for a week, and for a <a href="https://www.maths.ox.ac.uk/node/82208">numerical analysis internal seminar</a>.</p>
 
