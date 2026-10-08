@@ -74,6 +74,12 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <h2 id="news">News</h2>
 
+<p>2026-10-08: I hosted <a href="https://lorenzopareschi.blogspot.com/">Lorenzo Pareschi</a> for an out-of-term <a href="https://www.maths.ox.ac.uk/node/81647">Computational Mathematics & Applications Seminar</a>.
+  <figure>
+  <img src="{{site.url}}/images/pareschi-seminar-20261008.jpg" alt="High Table lunch at Balliol College with Lorenzo Pareschi, 2026-10-08."/>
+  </figure>
+</p>
+
 <p>2026-10-05: Welcome to Harsh Singh of Sarvajanik College of Engineering and Technology, who begins a three-month remote research internship.</p>
 
 <p>2026-10-05: Welcome to Rebecca Maver, Maggie McCarthy, and Yue Wu, who each start their DPhil studies today! Rebecca is co-supervised by <a href="https://www.numerical.rl.ac.uk/people/hussam-al-daas/">Hussam Al Daas</a> of the <a href="https://www.ukri.org/who-we-are/stfc/">Science and Technology Facilities Council</a> and <a href="https://scholar.google.co.uk/citations?user=1hFsQisAAAAJ&hl=en">Gareth Nisbet</a> of <a href="https://www.diamond.ac.uk/">Diamond Light Source</a>, and Yue by <a href="https://kaibohu.github.io/">Kaibo Hu</a>.</p>
