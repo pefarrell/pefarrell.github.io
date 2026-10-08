@@ -42,6 +42,12 @@ I am always looking for talented PhD students and postdocs. Members of my group 
   <a href="https://www.simula.no/people/meg">Marie Rognes</a>, and
   <a href="https://alextownsend.net/">Alex Townsend</a>.</p>
 
+<p>2027-05-24: I will give an invited talk at a workshop on Structure-Preserving Methods for Constrained Variational Problems at Simula Research Laboratory in Oslo, Norway. The workshop is organised by
+  <a href="https://thomas-surowiec.github.io/">Thomas Surowiec</a>,
+  <a href="https://www.uzerbinati.eu/">Umberto Zerbinati</a>,
+  <a href="https://jsdokken.com/">Jørgen Dokken</a>, and
+  <a href="https://www.simula.no/people/david">David Molina</a>.</p>
+
 <p>2027-05-01: I will host <a href="https://mate.unipv.it/moiola/">Andrea Moiola</a> of the Università degli Studi di Pavia for a sabbatical.</p>
 
 <p>2027-04-26: I will host <a href="https://www.math.wustl.edu/~astern/">Ari Stern</a> of Washington University in St. Louis for a sabbatical.</p>
