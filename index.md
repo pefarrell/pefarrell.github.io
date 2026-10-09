@@ -74,6 +74,8 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <h2 id="news">News</h2>
 
+<p>2026-10-09: Congratulations to <a href="https://www.uzerbinati.eu/">Umberto Zerbinati</a> on passing his DPhil viva with minor corrections! Thanks to <a href="https://lorenzopareschi.blogspot.com/">Lorenzo Pareschi</a> and <a href="https://people.maths.ox.ac.uk/bruna/">Maria Bruna</a> for serving as examiners.</p>
+
 <p>2026-10-08: I hosted <a href="https://lorenzopareschi.blogspot.com/">Lorenzo Pareschi</a> for an out-of-term <a href="https://www.maths.ox.ac.uk/node/81647">Computational Mathematics & Applications Seminar</a>.
   <figure>
   <img src="{{site.url}}/images/pareschi-seminar-20261008.jpg" alt="High Table lunch at Balliol College with Lorenzo Pareschi, 2026-10-08."/>

@@ -87,14 +87,6 @@ title: People
 </div>
 
 <div class="person">
-  <a href="{{site.url}}/images/zerbinati.jpg"><img src="{{site.url}}/images/thumbs/zerbinati.jpg" alt="Umberto Zerbinati"/></a>
-  <div>
-    <strong><a class="iwantyoubold" href="https://www.uzerbinati.eu/">Umberto Zerbinati</a></strong><br/>
-    Topic: kinetic modelling of ordered fluids.
-  </div>
-</div>
-
-<div class="person">
   <a href="{{site.url}}/images/kosarkova.jpg"><img src="{{site.url}}/images/thumbs/kosarkova.jpg" alt="Lenka Košárková"/></a>
   <div>
     <strong><a class="iwantyoubold" href="https://www.karlin.mff.cuni.cz/~kosarkova/">Lenka Košárková</a> (Charles University Prague)</strong><br/>
@@ -328,6 +320,15 @@ title: People
     <strong>Aaron Baier-Reinio</strong><br/>
     Thesis: <a href="{{site.url}}/files/baierreinio.pdf">Finite element methods for multicomponent flow problems</a>. DPhil viva: 2026-07-24.<br/>
     Next step: a postdoctoral position with <a href="https://www.empaneda.com/">Emilio Martínez-Pañeda</a> in Engineering Science at Oxford.
+  </div>
+</div>
+
+<div class="person">
+  <a href="{{site.url}}/images/zerbinati.jpg"><img src="{{site.url}}/images/thumbs/zerbinati.jpg" alt="Umberto Zerbinati"/></a>
+  <div>
+    <strong><a class="iwantyoubold" href="https://www.uzerbinati.eu/">Umberto Zerbinati</a></strong><br/>
+    Thesis: Kinetic modelling of ordered fluids. DPhil viva: 2026-10-09.<br/>
+    Next step: a postdoctoral position with <a href="https://thomas-surowiec.github.io/">Thomas Surowiec</a> at Simula Research Laboratory in Oslo.
   </div>
 </div>
 
