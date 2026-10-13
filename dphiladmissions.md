@@ -47,9 +47,9 @@ The interviews are technical, intended to assess your preparedness for doctoral 
 
 # Funding
 
-As of writing (2026), the department has roughly 50 DPhil scholarships to award each year. Some of them are restricted to home students, but many are not. They are very competitive but not impossibly so. If you submit by the January deadline, you are automatically considered for all funding sources organised via the department for which you are eligible.
+At the time of writing (2026), the department has roughly 50 DPhil scholarships to award each year. Some of them are restricted to home students, but many are not. They are very competitive but not impossibly so. If you submit by the January deadline, you are automatically considered for all department-administered funding for which you are eligible.
 
-There are other potential funding sources, not organised via the department. These often depend on nationality, such as the [China Oxford Scholarship Fund](https://chinaoxford.org/), [Commonwealth Scholarships](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-least-developed-countries-and-vulnerable-states/), and [Rhodes Scholarships](https://www.rhodeshouse.ox.ac.uk/scholarships/the-rhodes-scholarship/).
+There are other potential funding sources, not administered by the department. These often depend on nationality, such as the [China Oxford Scholarship Fund](https://chinaoxford.org/), [Commonwealth Scholarships](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-least-developed-countries-and-vulnerable-states/), and [Rhodes Scholarships](https://www.rhodeshouse.ox.ac.uk/scholarships/the-rhodes-scholarship/). These usually require separate applications, often with deadlines well before the department's January deadline, so check them early.
 
 # Project selection
 
@@ -59,8 +59,8 @@ For other funding sources, the research project is usually decided on together b
 
 # Further questions
 
-Please feel free to reach out if you have questions! 
+Please feel free to reach out if you have questions!
 
-I do not generally reply to generic emails that could be sent to many people; some degree of personalisation is required.
+I do not generally reply to generic emails that could be sent to many people; please personalise your message.
 
-If you wish to ask if your background would be suitable, please include your full CV and any available degree transcripts (including incomplete ones).
+If you wish to ask whether your background would be suitable, please include your full CV and any available degree transcripts (including incomplete ones).
