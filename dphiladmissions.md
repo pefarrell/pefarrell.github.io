@@ -2,21 +2,21 @@
 title: DPhil admissions advice
 ---
 
-On this page I collect some friendly advice for potential applicants for the DPhil (PhD) program at Oxford.
+On this page I collect some friendly advice for potential applicants for the DPhil (PhD) programme in Mathematics at the Mathematical Institute, Oxford. Most of it applies to any applicant, but it is written from my perspective as a potential supervisor.
 
 # Timelines
 
-DPhil applications are typically due in early January each year. There are other application windows, but it's important to apply by the first, as later applications are not considered for funding.
+DPhil applications are typically due in early January each year; the exact date varies, so check the [official course page](https://www.ox.ac.uk/admissions/graduate/courses/dphil-mathematics). There are other application windows, but it's important to apply by the January deadline, as later applications are not considered for funding.
 
 Faculty receive the applications towards the end of January. We then decide whom to interview, and organise online technical interviews for mid-February. The interview results then go into a database for the graduate admissions committee to make offers and allocate funding. Offers are made over the course of the spring and summer for entry the following October.
 
-It is not unusual for applicants to first receive an unfunded offer that subsequently gets upgraded to a funded offer.
+It is not unusual for applicants to first receive an unfunded offer that subsequently gets upgraded to a funded offer. So don't be too quick to decline an unfunded offer, and if you hold another offer with a deadline for your decision, let the department know.
 
 # Qualifications
 
 Applicants typically require an outstanding first-class undergraduate degree to be competitive for DPhil entry.
 
-The university maintains [a list of international qualifications and how to convert them to a first-class undergraduate degree](https://www.ox.ac.uk/admissions/graduate/international-applicants/international-qualifiations). If your degrees are not all from the UK, please consult this to get a sense of how your results will translate.
+The university maintains [a list of international qualifications and how they compare with a UK first-class degree](https://www.ox.ac.uk/admissions/graduate/international-applicants/international-qualifications). If your degrees are not all from the UK, please consult this to get a sense of how your results will translate.
 
 I have had very good experiences with students whose undergraduate degree was not in mathematics, but rather in a related subject (physics, engineering, etc). However, those students had done MSc courses in mathematics first. If you are interested in applying and have not formally studied a course in a mathematics department, consider first applying to the [MSc in Mathematical Modelling and Scientific Computing](https://www.maths.ox.ac.uk/members/students/postgraduate-courses/msc-mmsc) or the [MSc in Mathematical Sciences](https://www.maths.ox.ac.uk/study-here/postgraduate-study/msc-courses/msc-mathematical-sciences-omms), both of which are excellent preparation for doctoral study.
 
@@ -24,15 +24,29 @@ I have had very good experiences with students whose undergraduate degree was no
 
 An application consists of:
 
-    - your CV;
-    - your degree transcripts;
-    - three reference letters;
-    - your personal statement.
+- your CV;
+- your degree transcripts;
+- three reference letters;
+- your personal statement.
 
-The best reference letters are written by someone who knows you well (e.g. has worked with you in a research capacity) and can comment directly on your aptitude for research. It is not common to have three such people who know you well, and it is entirely typical that some letters are more detailed than others.
+The best reference letters are written by someone who knows you well (e.g. has worked with you in a research capacity) and can comment directly on your aptitude for research. Few applicants have three such referees, and it is entirely typical that some letters are more detailed than others.
 
 In your personal statement, it is good to try to convey
 
-    - your motivations for pursuing a DPhil;
-    - evidence of the characteristics required of an outstanding DPhil student (determination, perseverance, passion, talent);
-    - some idea of the kind of research project you would like to undertake.
+- your motivations for pursuing a DPhil;
+- evidence of the characteristics required of an outstanding DPhil student (determination, curiosity, passion, talent);
+- some idea of the kind of research project you would like to undertake.
+
+The best statements point to concrete evidence, such as projects, theses, code, or results.
+
+When you apply, please list me as a potential supervisor. Otherwise, I may not see your file!
+
+# Interviews
+
+The interviews are technical interviews, intended to assess your preparedness for doctoral study in the subject (in my case the numerical solution of partial differential equations). The questions do not focus on past projects. More details will be sent if you are invited to interview.
+
+# Funding
+
+The department has roughly 50 DPhil scholarships to disburse each year. Some of them are restricted to home students, but many are not. They are very competitive but not impossibly so. If you submit by the January deadline, you are automatically considered for all funding sources for which you are eligible.
+
+Other funding sources often depend on nationality, such as the [China Oxford Scholarship fund](https://chinaoxford.org/) or [Commonwealth Scholarships](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-least-developed-countries-and-vulnerable-states/).
