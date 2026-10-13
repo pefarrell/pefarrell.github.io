@@ -47,18 +47,20 @@ The interviews are technical, intended to assess your preparedness for doctoral 
 
 # Funding
 
-As of writing, the department has roughly 50 DPhil scholarships to award each year. Some of them are restricted to home students, but many are not. They are very competitive but not impossibly so. If you submit by the January deadline, you are automatically considered for all funding sources for which you are eligible.
+As of writing (2026), the department has roughly 50 DPhil scholarships to award each year. Some of them are restricted to home students, but many are not. They are very competitive but not impossibly so. If you submit by the January deadline, you are automatically considered for all funding sources organised via the department for which you are eligible.
 
-Other funding sources often depend on nationality, such as the [China Oxford Scholarship Fund](https://chinaoxford.org/) or [Commonwealth Scholarships](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-least-developed-countries-and-vulnerable-states/).
+There are other potential funding sources, not organised via the department. These often depend on nationality, such as the [China Oxford Scholarship Fund](https://chinaoxford.org/), [Commonwealth Scholarships](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-least-developed-countries-and-vulnerable-states/), and [Rhodes Scholarships](https://www.rhodeshouse.ox.ac.uk/scholarships/the-rhodes-scholarship/).
 
 # Project selection
 
-Some funding sources are tied to specific projects (e.g. if funded by the European Research Council, UK Atomic Energy Authority, or Science and Technology Facilities Council).
+Some funding sources are tied to specific projects (e.g. studentships funded by the European Research Council, UK Atomic Energy Authority, or Science and Technology Facilities Council). These are usually advertised separately.
 
-For other funding sources, the research project is usually decided on together by the supervisor and student over the summer before. I will send a list of potential doctoral projects describing my current interests, with references. We can then discuss each one, decide which among them is most interesting to you, and iterate on it until we are both excited by the idea.
+For other funding sources, the research project is usually decided on together by the supervisor and student over the summer before the DPhil starts. I will send you a list of potential doctoral projects describing my current interests, with references. We can then discuss each one, decide which interests you most, and iterate on it until we are both excited by the idea.
 
 # Further questions
 
-Please feel free to reach out if you have questions!
+Please feel free to reach out if you have questions! 
 
-For emails asking if your background is suitable, please include your full CV and any available degree transcripts (including incomplete ones).
+I do not generally reply to generic emails that could be sent to many people; some degree of personalisation is required.
+
+If you wish to ask if your background would be suitable, please include your full CV and any available degree transcripts (including incomplete ones).
