@@ -75,6 +75,8 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <p>2026-11-27: I will give a Heilbronn (departmental) colloquium in <a href="https://www.maths.manchester.ac.uk/">the Department of Mathematics of the University of Manchester</a>.</p>
 
+<p>2026-11-18: I will give a talk online in the <a href="https://sites.google.com/view/narcseminar/seminars">Nigerian Numerical Analysis Research Community (NARC) Seminar Series</a>, hosted by <a href="https://sites.google.com/unilag.edu.ng/julius-osato-ehigie/">Julius Ehigie</a>.</p>
+
 <p>2026-10-19: I will host <a href="https://www.wias-berlin.de/~plato/?lang=0">Luisa Plato</a> of the Weierstrass Institute for Applied Analysis and Stochastics for a week, and for a <a href="https://www.maths.ox.ac.uk/node/82208">numerical analysis internal seminar</a>.</p>
 
 <h2 id="news">News</h2>
