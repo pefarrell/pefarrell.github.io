@@ -37,10 +37,15 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <h2 id="forthcoming">Forthcoming</h2>
 
-<p>2027-06-06: I will organise the <a href="https://ems-masc.cuni.cz/">EMS School on Mathematical Modelling, Numerical Analysis, and Scientific Computing</a> in Kácov, Czechia. The speakers this year will be
+<p>2027-06-06: I will co-organise the <a href="https://ems-masc.cuni.cz/">EMS School on Mathematical Modelling, Numerical Analysis, and Scientific Computing</a> in Kácov, Czechia. The speakers this year will be
   <a href="https://www.damtp.cam.ac.uk/user/mjc249/home.html">Matthew Colbrook</a>,
   <a href="https://www.simula.no/people/meg">Marie Rognes</a>, and
   <a href="https://alextownsend.net/">Alex Townsend</a>.</p>
+
+<p>2027-05-28: I will co-organise the <a href="https://www.maths.ox.ac.uk/events/conferences/european-finite-element-fair-may-2027">European Finite Element Fair</a> at the University of Oxford, alongside
+<a href="https://people.maths.ox.ac.uk/djurdjevac/">Ana Djurdjevac</a> and
+<a href="https://kaibohu.github.io/">Kaibo Hu</a>.
+</p>
 
 <p>2027-05-24: I will give an invited talk at a workshop on Structure-Preserving Methods for Constrained Variational Problems at Simula Research Laboratory in Oslo, Norway. The workshop is organised by
   <a href="https://thomas-surowiec.github.io/">Thomas Surowiec</a>,
@@ -62,7 +67,7 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <p>2026-12-01: I will host <a href="https://scholar.google.com/citations?user=gF4LThAAAAAJ&hl=en">Qingyu Wu</a> for several months. Qingyu is a PhD student at Peking University, supervised by <a href="http://www.befem.cn/">Jun Hu</a>.</p>
 
-<p>2026-11-30: I am organising the second meeting of the <a href="https://ems-tag-mixtures.github.io/">European Mathematical Society topical activity group on mixtures</a> at the <a href="https://www.cirm-math.com/">Centre International de Rencontres Mathématiques</a>, alongside
+<p>2026-11-30: I will co-organise the second meeting of the <a href="https://ems-tag-mixtures.github.io/">European Mathematical Society topical activity group on mixtures</a> at the <a href="https://www.cirm-math.com/">Centre International de Rencontres Mathématiques</a>, alongside
 <a href="https://chercheurs.lille.inria.fr/ccances/">Clément Cancès</a>,
 <a href="https://team.inria.fr/matherials/team-members/virginie-ehrlacher-galland/">Virginie Ehrlacher</a>, and
 <a href="https://www.numerik.mathematik.uni-mainz.de/prof-dr-maria-lukacova-medvidova/">Mária Lukácová-Medvidová</a>.
