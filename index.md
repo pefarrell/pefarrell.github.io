@@ -37,6 +37,8 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <h2 id="forthcoming">Forthcoming</h2>
 
+<p>2027-08-30: I am on the program committee for <a href="https://www.enumath2027.eu/">the European Conference on Numerical Mathematics and Advanced Applications (ENUMATH)</a> in Padova, Italy.</p>
+
 <p>2027-06-06: I will co-organise the <a href="https://ems-masc.cuni.cz/">EMS School on Mathematical Modelling, Numerical Analysis, and Scientific Computing</a> in Kácov, Czechia. The speakers this year will be
   <a href="https://www.damtp.cam.ac.uk/user/mjc249/home.html">Matthew Colbrook</a>,
   <a href="https://www.simula.no/people/meg">Marie Rognes</a>, and
