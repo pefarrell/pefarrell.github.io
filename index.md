@@ -61,7 +61,7 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <p>2027-04-18: I will participate in the <a href="https://www.mfo.de/www/activity/2716">Structure Preserving Methods for Computational Geometric Mechanics</a> workshop at the Mathematisches Forschungsinstitut Oberwolfach, Germany.</p>
 
-<p>2027-04-07: I will give a plenary talk at the <a href="https://ukacm.org/ukacm-conferences/">UK Association of Computational Mechanics</a> 2027 conference in Glasgow, UK.</p>
+<p>2027-04-07: I will give a plenary talk at the <a href="https://sites.google.com/view/ukacm2027conference">UK Association of Computational Mechanics</a> 2027 conference in Glasgow, UK.</p>
 
 <p>2027-04-01: <a href="https://scholar.google.com/citations?user=MgSwDcoAAAAJ&hl=en">Dennis Trautwein</a> will visit for three months, funded by the <a href="https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/walter-benjamin">DFG Walter Benjamin Programme</a>.</p>
 
