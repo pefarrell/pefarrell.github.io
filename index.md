@@ -214,7 +214,7 @@ gave talks at the <a href="https://www.firedrakeproject.org/firedrake_26.html">j
 <a href="https://sites.google.com/pitt.edu/neilan/home">Michael Neilan</a>,
 <a href="https://sites.google.com/view/charlieparker2/about">Charles Parker</a>,
 and
-<a href="https://people.cs.uchicago.edu/~ridg/">Ridgway Scott</a>.</p>
+<a href="https://people.cs.uchicago.edu/~ridg/">Ridgway Scott</a>. Update: accepted in IMA Journal of Numerical Analysis.</p>
 
 
 <p>2026-05-25:
