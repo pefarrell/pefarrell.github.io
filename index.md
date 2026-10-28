@@ -72,7 +72,7 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <p>2026-11-30: I will co-organise the second meeting of the <a href="https://ems-tag-mixtures.github.io/">European Mathematical Society topical activity group on mixtures</a> at the <a href="https://www.cirm-math.com/">Centre International de Rencontres Mathématiques</a>, alongside
 <a href="https://chercheurs.lille.inria.fr/ccances/">Clément Cancès</a>,
 <a href="https://team.inria.fr/matherials/team-members/virginie-ehrlacher-galland/">Virginie Ehrlacher</a>, and
-<a href="https://www.numerik.mathematik.uni-mainz.de/prof-dr-maria-lukacova-medvidova/">Mária Lukácová-Medvidová</a>.
+<a href="https://www.numerik.mathematik.uni-mainz.de/prof-dr-maria-lukacova-medvidova/">Mária Lukáčová-Medviďová</a>.
 </p>
 
 <p>2026-11-27: I will give a Heilbronn (departmental) colloquium in <a href="https://www.maths.manchester.ac.uk/">the Department of Mathematics of the University of Manchester</a>.</p>
@@ -82,6 +82,13 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <p>2026-10-19: I will host <a href="https://www.wias-berlin.de/~plato/?lang=0">Luisa Plato</a> of the Weierstrass Institute for Applied Analysis and Stochastics for a week, and for a <a href="https://www.maths.ox.ac.uk/node/82208">numerical analysis internal seminar</a>.</p>
 
 <h2 id="news">News</h2>
+
+<p>2026-10-27: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2610.35157">structure-preserving discretisations for the quasi-incompressible, thermal Maxwell-Stefan equations</a>, with
+<a href="https://borisandrews.github.io/">Boris Andrews</a>,
+<a href="https://orcid.org/0000-0002-0542-4342">Aaron Baier-Reinio</a>,
+<a href="https://aaronbrunk1.github.io/">Aaron Brunk</a>,
+and
+<a href="https://www.numerik.mathematik.uni-mainz.de/prof-dr-maria-lukacova-medvidova/">Mária Lukáčová-Medviďová</a>.</p>
 
 <p>2026-10-09: Congratulations to <a href="https://www.uzerbinati.eu/">Umberto Zerbinati</a> on passing his DPhil viva with minor corrections! Thanks to <a href="https://lorenzopareschi.blogspot.com/">Lorenzo Pareschi</a> and <a href="https://people.maths.ox.ac.uk/bruna/">Maria Bruna</a> for serving as examiners.</p>
 
@@ -245,13 +252,13 @@ and
 <a href="https://www2.thphy.uni-duesseldorf.de/~hlowen/">Hartmut Löwen</a>. Thanks to the <a href="https://www.we-heraeus-stiftung.de/english/">Wilhelm und Else Heraeus-Stiftung</a> for their kind support.</p>
 
 
-<p>2026-05-14: I hosted <a href="https://www.nummath.math.uni-mainz.de/prof-dr-maria-lukacova-medvidova/">Mária Lukácová-Medvidová</a> for a <a href="https://www.maths.ox.ac.uk/node/74279">talk in the Computational Mathematics and Applications Seminar series</a>.</p>
+<p>2026-05-14: I hosted <a href="https://www.nummath.math.uni-mainz.de/prof-dr-maria-lukacova-medvidova/">Mária Lukáčová-Medviďová</a> for a <a href="https://www.maths.ox.ac.uk/node/74279">talk in the Computational Mathematics and Applications Seminar series</a>.</p>
 
 <p>2026-05-13: I gave an invited talk online at the workshop on <a href="https://mif.cnu.edu.ua/2026/05/07/workshop-on-numerical-analysis-and-approximation-theory/">Numerical Analysis and Approximation Theory</a> at the Vasyl Stefanyk Carpathian National University in Ivano-Frankivsk, Ukraine. The organiser is <a href="https://kmfa.cnu.edu.ua/en/roman-dmytryshyn/">Roman Dmytryshyn</a>.</p>
 
 <p>2026-05-11: I am serving on the Prize Selection Committee for the <a href="https://www.siam.org/programs-initiatives/prizes-awards/activity-group-prizes/siam-activity-group-on-computational-science-and-engineering-early-career-prize/">2027 SIAM Activity Group on Computational Science and Engineering Early Career Prize</a>.</p>
 
-<p>2026-05-11: I hosted <a href="https://www.nummath.math.uni-mainz.de/prof-dr-maria-lukacova-medvidova/">Mária Lukácová-Medvidová</a> for a research visit.</p>
+<p>2026-05-11: I hosted <a href="https://www.nummath.math.uni-mainz.de/prof-dr-maria-lukacova-medvidova/">Mária Lukáčová-Medviďová</a> for a research visit.</p>
 
 <p>2026-05-07: I gave a seminar in the <a href="https://www.math.cit.tum.de/math/forschung/gruppen/numerical-analysis/oberseminar-numerical-methods-in-cse/">Numerical Methods in CSE</a> seminar at TU München, hosted by <a href="https://www.professoren.tum.de/en/wohlmuth-barbara">Barbara Wohlmuth</a> and <a href="https://www.math.cit.tum.de/math/personen/wissenschaftliches-personal/muhr-markus/">Markus Muhr</a>.</p>
 
