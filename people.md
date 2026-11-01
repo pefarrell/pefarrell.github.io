@@ -422,7 +422,7 @@ title: People
 <div class="person">
   <a href="{{site.url}}/images/park.webp"><img src="{{site.url}}/images/thumbs/park.jpg" alt="Jongho Park"/></a>
   <div>
-    <strong><a class="iwantyoubold" href="https://sites.google.com/view/jonghopark">Jongho Park</a></strong><br/>
+    <strong><a class="iwantyoubold" href="https://sites.google.com/view/jonghopark">Jongho Park (박종호)</a></strong><br/>
     Home institution: King Abdullah University of Science and Technology.<br/>
     Visited Feb 2026 to Mar 2026.
   </div>
