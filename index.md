@@ -79,9 +79,9 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <p>2026-11-18: I will give a talk online in the <a href="https://sites.google.com/view/narcseminar/seminars">Nigerian Numerical Analysis Research Community (NARC) Seminar Series</a>, hosted by <a href="https://sites.google.com/unilag.edu.ng/julius-osato-ehigie/">Julius Ehigie</a>.</p>
 
-<p>2026-10-19: I will host <a href="https://www.wias-berlin.de/~plato/?lang=0">Luisa Plato</a> of the Weierstrass Institute for Applied Analysis and Stochastics for a week, and for a <a href="https://www.maths.ox.ac.uk/node/82208">numerical analysis internal seminar</a>.</p>
-
 <h2 id="news">News</h2>
+
+<p>2026-11-04: I hosted <a href="https://people.cs.uchicago.edu/~ridg/">Ridgway Scott</a> for a talk in the <a href="https://www.mff.cuni.cz/en/mathmac/seminar">mathematical modeling, applied analysis and computational mathematics</a> series at Charles University, in Prague, Czechia.</p>
 
 <p>2026-10-27: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2610.35157">structure-preserving discretisations for the quasi-incompressible, thermal Maxwell-Stefan equations</a>, with
 <a href="https://borisandrews.github.io/">Boris Andrews</a>,
@@ -89,6 +89,8 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 <a href="https://aaronbrunk1.github.io/">Aaron Brunk</a>,
 and
 <a href="https://www.numerik.mathematik.uni-mainz.de/prof-dr-maria-lukacova-medvidova/">Mária Lukáčová-Medviďová</a>.</p>
+
+<p>2026-10-19: I hosted <a href="https://www.wias-berlin.de/~plato/?lang=0">Luisa Plato</a> of the Weierstrass Institute for Applied Analysis and Stochastics for a week, and for a <a href="https://www.maths.ox.ac.uk/node/82208">numerical analysis internal seminar</a>.</p>
 
 <p>2026-10-09: Congratulations to <a href="https://www.uzerbinati.eu/">Umberto Zerbinati</a> on passing his DPhil viva with minor corrections! Thanks to <a href="https://lorenzopareschi.blogspot.com/">Lorenzo Pareschi</a> and <a href="https://people.maths.ox.ac.uk/bruna/">Maria Bruna</a> for serving as examiners.</p>
 
