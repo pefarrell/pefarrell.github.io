@@ -77,9 +77,9 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <p>2026-11-27: I will give a Heilbronn (departmental) colloquium in <a href="https://www.maths.manchester.ac.uk/">the Department of Mathematics of the University of Manchester</a>.</p>
 
-<p>2026-11-18: I will give a talk online in the <a href="https://sites.google.com/view/narcseminar/seminars">Nigerian Numerical Analysis Research Community (NARC) Seminar Series</a>, hosted by <a href="https://sites.google.com/unilag.edu.ng/julius-osato-ehigie/">Julius Ehigie</a>.</p>
-
 <h2 id="news">News</h2>
+
+<p>2026-11-18: I gave a talk online in the <a href="https://sites.google.com/view/narcseminar/seminars">Nigerian Numerical Analysis Research Community (NARC) Seminar Series</a>, hosted by <a href="https://sites.google.com/unilag.edu.ng/julius-osato-ehigie/">Julius Ehigie</a>.</p>
 
 <p>2026-11-04: I hosted <a href="https://people.cs.uchicago.edu/~ridg/">Ridgway Scott</a> for a talk in the <a href="https://www.mff.cuni.cz/en/mathmac/seminar">mathematical modeling, applied analysis and computational mathematics</a> series at Charles University, in Prague, Czechia.</p>
 
