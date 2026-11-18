@@ -192,7 +192,7 @@ title: People
   <a href="{{site.url}}/images/wechsung.jpg"><img src="{{site.url}}/images/thumbs/wechsung.jpg" alt="Florian Wechsung"/></a>
   <div>
     <strong><a class="iwantyoubold" href="https://florianwechsung.github.io/">Florian Wechsung</a></strong><br/>
-    Thesis: <a href="{{site.url}}/files/wechsung.pdf">shape optimisation and robust solvers for incompressible flow</a>. DPhil viva: 2019-09-23.<br/>
+    Thesis: <a href="{{site.url}}/files/theses/wechsung.pdf">shape optimisation and robust solvers for incompressible flow</a>. DPhil viva: 2019-09-23.<br/>
     Next step: a postdoc with <a href="https://math.nyu.edu/~stadler/">Georg Stadler</a> at NYU, now a quantitative researcher at Citadel GQS.
   </div>
 </div>
@@ -201,7 +201,7 @@ title: People
   <a href="{{site.url}}/images/croci.jpg"><img src="{{site.url}}/images/thumbs/croci.jpg" alt="Matteo Croci"/></a>
   <div>
     <strong><a class="iwantyoubold" href="https://croci.github.io/">Matteo Croci</a></strong><br/>
-    Thesis: <a href="{{site.url}}/files/croci.pdf">multilevel Monte Carlo methods for uncertainty quantification in brain simulations</a>. DPhil viva: 2020-01-20.<br/>
+    Thesis: <a href="{{site.url}}/files/theses/croci.pdf">multilevel Monte Carlo methods for uncertainty quantification in brain simulations</a>. DPhil viva: 2020-01-20.<br/>
     Co-supervised with <a href="https://people.maths.ox.ac.uk/gilesm/">Mike Giles</a> and <a href="https://marierognes.org">Marie Rognes</a>.<br/>
     Next step: postdocs with Mike Giles in Oxford and <a href="https://kiwi.oden.utexas.edu/">Karen Willcox</a> at UT Austin, then a permanent faculty position at the Basque Centre for Applied Mathematics.
   </div>
@@ -211,7 +211,7 @@ title: People
   <a href="{{site.url}}/images/alawiye.jpg"><img src="{{site.url}}/images/thumbs/alawiye.jpg" alt="Hamza Alawiye"/></a>
   <div>
     <strong><a class="iwantyoubold" href="https://www.linkedin.com/in/hamza-alawiye/">Hamza Alawiye</a></strong><br/>
-    Thesis: <a href="{{site.url}}/files/alawiye.pdf">Wrinkling instabilities: modelling, analysis and computation</a>. DPhil viva: 2020-09-25.<br/>
+    Thesis: <a href="{{site.url}}/files/theses/alawiye.pdf">Wrinkling instabilities: modelling, analysis and computation</a>. DPhil viva: 2020-09-25.<br/>
     Co-supervised with <a href="http://www.goriely.com/">Alain Goriely</a>.<br/>
     Next step: a Heilbronn fellowship at the University of Bristol, now a Senior Machine Learning Research Scientist at Deep Render.
   </div>
@@ -221,7 +221,7 @@ title: People
   <a href="{{site.url}}/images/gazca.jpg"><img src="{{site.url}}/images/thumbs/gazca.jpg" alt="Pablo Alexei Gazca Orozco"/></a>
   <div>
     <strong><a class="iwantyoubold" href="https://gazcaorozco.github.io/home/">Pablo Alexei Gazca Orozco</a></strong><br/>
-    Thesis: <a href="{{site.url}}/files/gazca.pdf">Numerical analysis of implicitly constituted incompressible fluids: mixed formulations</a>. DPhil viva: 2020-10-19.<br/>
+    Thesis: <a href="{{site.url}}/files/theses/gazca.pdf">Numerical analysis of implicitly constituted incompressible fluids: mixed formulations</a>. DPhil viva: 2020-10-19.<br/>
     Co-supervised with <a href="http://people.maths.ox.ac.uk/suli/">Endre Süli</a>.<br/>
     Next step: a postdoc with <a href="https://www.caa-avh.nat.fau.eu/enrique-zuazua/">Enrique Zuazua</a> in Erlangen-Nuremberg, now with a permanent faculty position at Charles University in Prague.
   </div>
@@ -231,7 +231,7 @@ title: People
   <a href="{{site.url}}/images/xia.jpg"><img src="{{site.url}}/images/thumbs/xia.jpg" alt="Jingmin Xia"/></a>
   <div>
     <strong><a class="iwantyoubold" href="https://jingminxia.github.io/">Jingmin Xia (夏静敏)</a></strong><br/>
-    Thesis: <a href="{{site.url}}/files/xia.pdf">Computational and analytical aspects of energy minimisation problems in cholesteric, ferronematic and smectic liquid crystals</a>. DPhil viva: 2021-06-01.<br/>
+    Thesis: <a href="{{site.url}}/files/theses/xia.pdf">Computational and analytical aspects of energy minimisation problems in cholesteric, ferronematic and smectic liquid crystals</a>. DPhil viva: 2021-06-01.<br/>
     Next step: a permanent faculty position at the National University of Defense Technology in Changsha, China.
   </div>
 </div>
@@ -240,7 +240,7 @@ title: People
   <a href="{{site.url}}/images/papadopoulos.jpg"><img src="{{site.url}}/images/thumbs/papadopoulos.jpg" alt="Ioannis Papadopoulos"/></a>
   <div>
     <strong><a class="iwantyoubold" href="https://ioannispapapadopoulos.github.io/">Ioannis Papadopoulos</a></strong><br/>
-    Thesis: <a href="{{site.url}}/files/papadopoulos.pdf">Computing multiple solutions of topology optimization problems</a>. DPhil viva: 2021-09-24.<br/>
+    Thesis: <a href="{{site.url}}/files/theses/papadopoulos.pdf">Computing multiple solutions of topology optimization problems</a>. DPhil viva: 2021-09-24.<br/>
     Co-supervised with <a href="http://people.maths.ox.ac.uk/suli/">Endre Süli</a>.<br/>
     Next step: a postdoc with <a href="http://wwwf.imperial.ac.uk/~solver/">Sheehan Olver</a> at Imperial College London, then a Dirichlet fellowship at the Weierstrass Institute for Applied Analysis and Stochastics in Berlin, then a Hooke fellowship in the Mathematical Institute in Oxford.
   </div>
@@ -250,7 +250,7 @@ title: People
   <a href="{{site.url}}/images/boulle.jpg"><img src="{{site.url}}/images/thumbs/boulle.jpg" alt="Nicolas Boullé"/></a>
   <div>
     <strong><a class="iwantyoubold" href="https://nboulle.github.io/">Nicolas Boullé</a></strong><br/>
-    Thesis: <a href="{{site.url}}/files/boulle.pdf">Data-driven discovery of Green's functions</a>. DPhil viva: 2022-08-30.<br/>
+    Thesis: <a href="{{site.url}}/files/theses/boulle.pdf">Data-driven discovery of Green's functions</a>. DPhil viva: 2022-08-30.<br/>
     Co-supervised with <a href="https://marierognes.org">Marie Rognes</a> and <a href="https://pi.math.cornell.edu/~ajt/">Alex Townsend</a>.<br/>
     Next step: an INI-Simons Postdoctoral Fellowship at the University of Cambridge, then a permanent faculty position at Imperial College London.
   </div>
@@ -260,7 +260,7 @@ title: People
   <a href="{{site.url}}/images/laakmann.jpg"><img src="{{site.url}}/images/thumbs/laakmann.jpg" alt="Fabian Laakmann"/></a>
   <div>
     <strong><a class="iwantyoubold" href="https://www.linkedin.com/in/fabian-laakmann/">Fabian Laakmann</a></strong><br/>
-    Thesis: <a href="{{site.url}}/files/laakmann.pdf">Discretisations and preconditioners for magnetohydrodynamics models</a>. DPhil viva: 2022-09-20.<br/>
+    Thesis: <a href="{{site.url}}/files/theses/laakmann.pdf">Discretisations and preconditioners for magnetohydrodynamics models</a>. DPhil viva: 2022-09-20.<br/>
     Next step: Machine Learning Mathematics Engineer with ASML.
   </div>
 </div>
@@ -269,7 +269,7 @@ title: People
   <a href="{{site.url}}/images/aznaran.jpg"><img src="{{site.url}}/images/thumbs/aznaran.jpg" alt="Francis Aznaran"/></a>
   <div>
     <strong><a class="iwantyoubold" href="https://aznaran.com/">Francis Aznaran</a></strong><br/>
-    Thesis: <a href="{{site.url}}/files/aznaran.pdf">Discretisation of Hodge Laplacians in the elasticity complex</a>. DPhil viva: 2022-09-28.<br/>
+    Thesis: <a href="{{site.url}}/files/theses/aznaran.pdf">Discretisation of Hodge Laplacians in the elasticity complex</a>. DPhil viva: 2022-09-28.<br/>
     Co-supervised with <a href="https://people.maths.ox.ac.uk/suli/">Endre Süli</a>.<br/>
     Next step: an independent research fellowship at Notre Dame.
   </div>
@@ -279,7 +279,7 @@ title: People
   <a href="{{site.url}}/images/vanbrunt.jpg"><img src="{{site.url}}/images/thumbs/vanbrunt.jpg" alt="Alexander Van-Brunt"/></a>
   <div>
     <strong>Alexander Van-Brunt</strong><br/>
-    Thesis: <a href="{{site.url}}/files/vanbrunt.pdf">Finite element methods for the Onsager-Stefan-Maxwell equations</a>. DPhil viva: 2022-10-07.<br/>
+    Thesis: <a href="{{site.url}}/files/theses/vanbrunt.pdf">Finite element methods for the Onsager-Stefan-Maxwell equations</a>. DPhil viva: 2022-10-07.<br/>
     Co-supervised with <a href="http://monroegroup.spc.ox.ac.uk/">Charles Monroe</a>.<br/>
     Next step: Research engineer at Bosch, Sunnyvale, California, then a postdoc with Charles Monroe in Engineering Science at Oxford.
   </div>
@@ -289,7 +289,7 @@ title: People
   <a href="{{site.url}}/images/brubeck.jpg"><img src="{{site.url}}/images/thumbs/brubeck.jpg" alt="Pablo Brubeck"/></a>
   <div>
     <strong>Pablo Brubeck</strong><br/>
-    Thesis: <a href="{{site.url}}/files/brubeck.pdf">Optimal complexity and robust multigrid methods for high-order FEM</a>. DPhil viva: 2023-02-15.<br/>
+    Thesis: <a href="{{site.url}}/files/theses/brubeck.pdf">Optimal complexity and robust multigrid methods for high-order FEM</a>. DPhil viva: 2023-02-15.<br/>
     Next step: a postdoctoral research associate position with me.
   </div>
 </div>
@@ -298,7 +298,7 @@ title: People
   <a href="{{site.url}}/images/gonzalez.png"><img src="{{site.url}}/images/thumbs/gonzalez.jpg" alt="Gonzalo Gonzalez de Diego"/></a>
   <div>
     <strong><a class="iwantyoubold" href="https://gonzalogddiego.github.io/">Gonzalo Gonzalez de Diego</a></strong><br/>
-    Thesis: <a href="{{site.url}}/files/dediego.pdf">Viscous contact problems in glaciology</a>. DPhil viva: 2023-09-05.<br/>
+    Thesis: <a href="{{site.url}}/files/theses/dediego.pdf">Viscous contact problems in glaciology</a>. DPhil viva: 2023-09-05.<br/>
     Co-supervised with <a href="http://people.maths.ox.ac.uk/hewitt/">Ian Hewitt</a>.<br/>
     Next step: a postdoctoral position with <a href="https://math.nyu.edu/~stadler/">Georg Stadler</a> at NYU, then a MSCA fellowship at the Universidad Politécnica de Madrid.
   </div>
@@ -308,7 +308,7 @@ title: People
   <a href="{{site.url}}/images/andrews.png"><img src="{{site.url}}/images/thumbs/andrews.jpg" alt="Boris Andrews"/></a>
   <div>
     <strong><a class="iwantyoubold" href="https://borisandrews.github.io/">Boris Andrews</a></strong><br/>
-    Thesis: <a href="{{site.url}}/files/andrews.pdf">Geometric numerical integration via auxiliary variables</a>. DPhil viva: 2025-08-29.<br/>
+    Thesis: <a href="{{site.url}}/files/theses/andrews.pdf">Geometric numerical integration via auxiliary variables</a>. DPhil viva: 2025-08-29.<br/>
     Co-supervised with <a href="https://scholar.google.co.uk/citations?user=XRAFAoEAAAAJ&hl=en">Wayne Arter</a> of the UK Atomic Energy Authority.<br/>
     Next step: a postdoctoral position with <a href="https://kaibohu.github.io/">Kaibo Hu</a> at Oxford.
   </div>
@@ -318,7 +318,7 @@ title: People
   <a href="{{site.url}}/images/baier-reinio.jpg"><img src="{{site.url}}/images/thumbs/baier-reinio.jpg" alt="Aaron Baier-Reinio"/></a>
   <div>
     <strong>Aaron Baier-Reinio</strong><br/>
-    Thesis: <a href="{{site.url}}/files/baierreinio.pdf">Finite element methods for multicomponent flow problems</a>. DPhil viva: 2026-07-24.<br/>
+    Thesis: <a href="{{site.url}}/files/theses/baierreinio.pdf">Finite element methods for multicomponent flow problems</a>. DPhil viva: 2026-07-24.<br/>
     Next step: a postdoctoral position with <a href="https://www.empaneda.com/">Emilio Martínez-Pañeda</a> in Engineering Science at Oxford.
   </div>
 </div>
@@ -327,7 +327,7 @@ title: People
   <a href="{{site.url}}/images/zerbinati.jpg"><img src="{{site.url}}/images/thumbs/zerbinati.jpg" alt="Umberto Zerbinati"/></a>
   <div>
     <strong><a class="iwantyoubold" href="https://www.uzerbinati.eu/">Umberto Zerbinati</a></strong><br/>
-    Thesis: Kinetic modelling of ordered fluids. DPhil viva: 2026-10-09.<br/>
+    Thesis: <a href="{{site.url}}/files/theses/zerbinati.pdf">Kinetic modelling of ordered fluids</a>. DPhil viva: 2026-10-09.<br/>
     Next step: a postdoctoral position with <a href="https://thomas-surowiec.github.io/">Thomas Surowiec</a> at Simula Research Laboratory in Oslo.
   </div>
 </div>
