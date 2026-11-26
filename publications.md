@@ -7,6 +7,18 @@ title: Publications
 
 <h2 id="in-review">In review</h2>
 <ol class="pub-list">
+<li class="pub" id="farrell2026c">
+  <span class="pub-num">[121]</span>
+  <span class="pub-title"><a href="https://arxiv.org/abs/2611.34410">Structure-preserving finite element method for the 2D MHD-$\alpha$ turbulence system</a></span>
+  <span class="pub-authors">P. E. Farrell, M. He and K. Hu</span>
+  <span class="pub-venue">2026. <a class="pub-link" href="https://arxiv.org/abs/2611.34410">arXiv:2611.34410</a></span>
+</li>
+<li class="pub" id="andrews2026b">
+  <span class="pub-num">[120]</span>
+  <span class="pub-title"><a href="https://arxiv.org/abs/2610.35157">Structure-preserving discretisations for the quasi-incompressible, thermal Maxwell-Stefan equations</a></span>
+  <span class="pub-authors">B. D. Andrews, A. Baier-Reinio, A. Brunk, P. E. Farrell and M. Lukáčová-Medviďová</span>
+  <span class="pub-venue">2026. <a class="pub-link" href="https://arxiv.org/abs/2610.35157">arXiv:2610.35157</a></span>
+</li>
 <li class="pub" id="carrillo2026">
   <span class="pub-num">[119]</span>
   <span class="pub-title"><a href="https://arxiv.org/abs/2609.31072">A kinetic theory approach to ordered fluids: direct simulation Monte Carlo methods</a></span>
@@ -37,32 +49,26 @@ title: Publications
   <span class="pub-authors">B. D. Andrews, P. Brubeck, P. E. Farrell, R. C. Kirby and S. P. MacLachlan</span>
   <span class="pub-venue">2026. <a class="pub-link" href="https://arxiv.org/abs/2606.27300">arXiv:2606.27300</a></span>
 </li>
-<li class="pub" id="parker2026a">
-  <span class="pub-num">[114]</span>
-  <span class="pub-title"><a href="https://arxiv.org/abs/2605.27069">On the convergence of iterated penalty methods for structure-preserving discretizations of saddle point problems</a></span>
-  <span class="pub-authors">P. E. Farrell, M. Neilan, C. Parker and L. R. Scott</span>
-  <span class="pub-venue">2026. <a class="pub-link" href="https://arxiv.org/abs/2605.27069">arXiv:2605.27069</a></span>
-</li>
 <li class="pub" id="zhang2026a">
-  <span class="pub-num">[113]</span>
+  <span class="pub-num">[114]</span>
   <span class="pub-title"><a href="https://arxiv.org/abs/2605.20371">Arbitrary-order structure-preserving discretizations for geometric curvature flows</a></span>
   <span class="pub-authors">G. Zhang, B. D. Andrews and P. E. Farrell</span>
   <span class="pub-venue">2026. <a class="pub-link" href="https://arxiv.org/abs/2605.20371">arXiv:2605.20371</a></span>
 </li>
 <li class="pub" id="knook2026a">
-  <span class="pub-num">[112]</span>
+  <span class="pub-num">[113]</span>
   <span class="pub-title"><a href="https://arxiv.org/abs/2604.19230">Preconditioners for the Onsager–Stefan–Maxwell equations for multicomponent diffusion</a></span>
   <span class="pub-authors">K. Knook, A. Baier-Reinio and P. E. Farrell</span>
   <span class="pub-venue">2026. <a class="pub-link" href="https://arxiv.org/abs/2604.19230">arXiv:2604.19230</a></span>
 </li>
 <li class="pub" id="baierreinio2025b">
-  <span class="pub-num">[111]</span>
+  <span class="pub-num">[112]</span>
   <span class="pub-title"><a href="https://arxiv.org/abs/2510.14923">Finite element methods for electroneutral multicomponent electrolyte flows</a></span>
   <span class="pub-authors">A. Baier-Reinio, P. E. Farrell and C. W. Monroe</span>
   <span class="pub-venue">2026. <a class="pub-link" href="https://arxiv.org/abs/2510.14923">arXiv:2510.14923</a></span>
 </li>
 <li class="pub" id="farrell2025a">
-  <span class="pub-num">[110]</span>
+  <span class="pub-num">[111]</span>
   <span class="pub-title"><a href="https://arxiv.org/abs/2503.10771">Analysis and numerical analysis of the Helmholtz–Korteweg equation</a></span>
   <span class="pub-authors">P. E. Farrell, T. van Beeck and U. Zerbinati</span>
   <span class="pub-venue">2025. <a class="pub-link" href="https://arxiv.org/abs/2503.10771">arXiv:2503.10771</a></span>
@@ -71,6 +77,12 @@ title: Publications
 
 <h2 id="to-appear">To appear</h2>
 <ol class="pub-list">
+<li class="pub" id="parker2026a">
+  <span class="pub-num">[110]</span>
+  <span class="pub-title"><a href="https://doi.org/10.1093/imanum/drag146">On the convergence of iterated penalty methods for structure-preserving discretizations of saddle point problems</a></span>
+  <span class="pub-authors">P. E. Farrell, M. Neilan, C. Parker and L. R. Scott</span>
+  <span class="pub-venue">IMA Journal of Numerical Analysis, 2026. <a class="pub-link" href="https://doi.org/10.1093/imanum/drag146">doi:10.1093/imanum/drag146</a></span>
+</li>
 <li class="pub" id="he2026a">
   <span class="pub-num">[109]</span>
   <span class="pub-title"><a href="https://arxiv.org/abs/2603.12134">Global and local helicity-preservation in the finite element discretization of magnetic relaxation</a></span>
@@ -91,9 +103,9 @@ title: Publications
 </li>
 <li class="pub" id="brubeck2025b">
   <span class="pub-num">[106]</span>
-  <span class="pub-title"><a href="https://arxiv.org/abs/2506.17406">Fast solvers for the high-order FEM simplicial de Rham complex</a></span>
+  <span class="pub-title"><a href="https://doi.org/10.1090/mcom/4252">Fast solvers for the high-order FEM simplicial de Rham complex</a></span>
   <span class="pub-authors">P. D. Brubeck, P. E. Farrell, R. C. Kirby and C. Parker</span>
-  <span class="pub-venue"><em>Mathematics of Computation</em>, 2026. <a class="pub-link" href="https://arxiv.org/abs/2506.17406">arXiv:2506.17406</a></span>
+  <span class="pub-venue"><em>Mathematics of Computation</em>, 2026. <a class="pub-link" href="https://doi.org/10.1090/mcom/4252">doi:10.1090/mcom/4252</a></span>
 </li>
 </ol>
 
@@ -143,7 +155,7 @@ title: Publications
 </li>
 <li class="pub" id="he2025a">
   <span class="pub-num">[98]</span>
-  <span class="pub-title"><a href="https://doi.org/10.1137/25M1727540">Helicity-preserving discretization for the magneto-frictional equations arising in the Parker conjecture</a></span>
+  <span class="pub-title"><a href="https://doi.org/10.1137/25M1727540">Helicity-preserving finite element discretization for magnetic relaxation</a></span>
   <span class="pub-authors">M. He, P. E. Farrell, K. Hu and B. D. Andrews</span>
   <span class="pub-venue"><em>SIAM Journal on Scientific Computing</em> <strong>48</strong>(2):B165–B183, 2025. <a class="pub-link" href="https://doi.org/10.1137/25M1727540">doi:10.1137/25M1727540</a></span>
 </li>
@@ -736,4 +748,4 @@ title: Publications
 </script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
-<p class="pub-updated">Last updated 2026-09-28.</p>
+<p class="pub-updated">Last updated 2026-11-26.</p>
