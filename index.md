@@ -79,6 +79,11 @@ I am always looking for talented PhD students and postdocs. Members of my group 
 
 <h2 id="news">News</h2>
 
+<p>2026-11-25: A new paper is up on arXiv about <a href="https://arxiv.org/abs/2611.34410">a structure-preserving finite element method for the 2D MHD-α turbulence system</a>, with
+<a href="https://sites.google.com/view/mingdonghe/home/">Mingdong He</a>
+and
+<a href="https://kaibohu.github.io/">Kaibo Hu</a>.</p>
+
 <p>2026-11-18: I gave a talk online in the <a href="https://sites.google.com/view/narcseminar/seminars">Nigerian Numerical Analysis Research Community (NARC) Seminar Series</a>, hosted by <a href="https://sites.google.com/unilag.edu.ng/julius-osato-ehigie/">Julius Ehigie</a>.</p>
 
 <p>2026-11-04: I hosted <a href="https://people.cs.uchicago.edu/~ridg/">Ridgway Scott</a> for a talk in the <a href="https://www.mff.cuni.cz/en/mathmac/seminar">mathematical modeling, applied analysis and computational mathematics</a> series at Charles University, in Prague, Czechia.</p>
